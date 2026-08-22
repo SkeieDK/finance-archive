@@ -1,0 +1,282 @@
+{
+  "contentHash": "40dc45ce5548abe8",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": null,
+        "cash": 4367000000,
+        "cashAndShortTerm": 4531000000,
+        "currentAssets": 16836000000,
+        "debtWithLeases": 3374000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 225000000,
+        "inventory": 5721000000,
+        "longTermDebt": null,
+        "longTermProvisions": 1292000000,
+        "otherNonCurrentLiab": 196000000,
+        "payablesNonCurrent": 699000000,
+        "pensionObligations": null,
+        "sharesOutstanding": 990417317,
+        "shortTermDebt": null,
+        "totalAssets": 25732000000,
+        "totalCurrentLiabilities": 16847000000,
+        "totalDebt": 3374000000,
+        "totalEquity": 3881000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 3785000000,
+        "cashAndShortTerm": 3945000000,
+        "currentAssets": 16089000000,
+        "debtWithLeases": 3271000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 179000000,
+        "inventory": 6008000000,
+        "longTermDebt": null,
+        "longTermProvisions": 1263000000,
+        "otherNonCurrentLiab": 279000000,
+        "payablesNonCurrent": 830000000,
+        "pensionObligations": null,
+        "sharesOutstanding": 1005762617,
+        "shortTermDebt": null,
+        "totalAssets": 24644000000,
+        "totalCurrentLiabilities": 15480000000,
+        "totalDebt": 3271000000,
+        "totalEquity": 3542000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 3288000000,
+        "cashAndShortTerm": 3291000000,
+        "currentAssets": 14921000000,
+        "debtWithLeases": 3387000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 164000000,
+        "inventory": 6530000000,
+        "longTermDebt": null,
+        "longTermProvisions": 1225000000,
+        "otherNonCurrentLiab": 204000000,
+        "payablesNonCurrent": 635000000,
+        "pensionObligations": null,
+        "sharesOutstanding": 1006473655,
+        "shortTermDebt": null,
+        "totalAssets": 22514000000,
+        "totalCurrentLiabilities": 14020000000,
+        "totalDebt": 3387000000,
+        "totalEquity": 3042000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 2352000000,
+        "cashAndShortTerm": 2352000000,
+        "currentAssets": 13628000000,
+        "debtWithLeases": 2427000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 158000000,
+        "inventory": 6373000000,
+        "longTermDebt": null,
+        "longTermProvisions": 944000000,
+        "otherNonCurrentLiab": 59000000,
+        "payablesNonCurrent": 177000000,
+        "pensionObligations": null,
+        "sharesOutstanding": 1006177558,
+        "shortTermDebt": null,
+        "totalAssets": 20090000000,
+        "totalCurrentLiabilities": 13513000000,
+        "totalDebt": 2427000000,
+        "totalEquity": 3060000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -282000000,
+        "capitalExpenditures": -1278000000,
+        "depreciation": 1059000000,
+        "dividendsPaid": -74000000,
+        "freeCashFlow": 1008000000,
+        "operatingCashFlow": 2286000000,
+        "stockBasedCompensation": 41000000,
+        "year": 2025
+      },
+      {
+        "buyback": -40000000,
+        "capitalExpenditures": -1155000000,
+        "depreciation": 862000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1177000000,
+        "operatingCashFlow": 2332000000,
+        "stockBasedCompensation": 28000000,
+        "year": 2024
+      },
+      {
+        "buyback": -11000000,
+        "capitalExpenditures": -892000000,
+        "depreciation": 789000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 135000000,
+        "operatingCashFlow": 1027000000,
+        "stockBasedCompensation": 34000000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -819000000,
+        "depreciation": 1088000000,
+        "dividendsPaid": -50000000,
+        "freeCashFlow": -1014000000,
+        "operatingCashFlow": -195000000,
+        "stockBasedCompensation": 7000000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": {
+      "cvr": "28118201",
+      "latestInterim": null,
+      "reports": [
+        {
+          "periodEnd": "2025-12-31",
+          "publishedAt": "2026-06-11T09:35:46.789Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzlkLzU2LzFjL2Q2Lzk0YjQtNGIwNS04MTIzLTNlNGZlYTU3NTA5OA.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzc0L2IxLzcyLzI2L2JmZDAtNGUxNC04ZWFiLTI3OTMwMjgxOGJiZg.xml",
+          "year": 2025
+        },
+        {
+          "periodEnd": "2024-12-31",
+          "publishedAt": "2025-06-23T09:06:10.797Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzZiLzQ4LzY0L2E1L2MxZDEtNGE1ZC1iZjgxLTA2OTE1YjgzZDU4Mw.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzL2RkLzBjLzc1L2U5L2I5MTAtNDkyOS05Nzk4LTBiOGEyNjhkMmQzMQ.xml",
+          "year": 2024
+        },
+        {
+          "periodEnd": "2023-12-31",
+          "publishedAt": "2024-05-24T14:01:16.659Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzL2ZlLzgwLzgxLzE3LzEwMTgtNGRmZi1hZjRkLTg4YjExMWYzNjhkMg.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzL2FlLzdmLzU4Lzg1L2NjMTEtNGM1Zi04YjlkLTM3MmVjMjQ5MzJkOA.xml",
+          "year": 2023
+        },
+        {
+          "periodEnd": "2022-12-31",
+          "publishedAt": "2023-06-22T10:01:21.774Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzg2LzgxLzg0L2ZhLzljN2ItNDQ5OC04NGIxLWFmN2E5ZGNmNjRiZg.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzY3L2Y3L2Y4LzU2L2FhNjktNGRiYy05NGY0LTBjM2QxODRhZWEwZg.xml",
+          "year": 2022
+        },
+        {
+          "periodEnd": "2021-12-31",
+          "publishedAt": "2022-07-14T09:50:44.212Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzL2U2LzkyLzY4Lzk0LzkxNDEtNGE1My05MTBmLTMyYzE5ZWRhNGE4MA.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzZjLzNiL2JhLzIwLzM5ZTMtNGZkMi1hNzJmLWZkMDI5NWVkNDJkMQ.xml",
+          "year": 2021
+        },
+        {
+          "periodEnd": "2020-12-31",
+          "publishedAt": "2021-06-29T21:50:58.531Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzJkLzUwL2E3LzJkLzdlMzUtNDk4ZC1hN2FiLWRhNjRkMDgyZDQ5NQ.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzL2U1L2MxLzg2L2QyL2E5NjYtNGM0Mi04ZjdkLTY3ZDIzZDM0MTUwOA.xml",
+          "year": 2020
+        },
+        {
+          "periodEnd": "2019-12-31",
+          "publishedAt": "2020-06-17T09:16:08.720Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzL2I3L2YzL2Y5LzJkLzI4MDYtNDA3NS04ZjNhLTQzYWQ1NDZkNDA4NA.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/amNsb3VkczovLzAzLzlkL2Y4LzJlLzQzLzFiMGItNDNlNC1iY2ViLTZiNTIxZGZmZTkxYQ.xml",
+          "year": 2019
+        },
+        {
+          "periodEnd": "2018-12-31",
+          "publishedAt": "2019-06-18T15:27:13.112Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/ZG9rdW1lbnRsYWdlcjovLzAzLzIyL2E4LzM0L2NiLzIzZGItNDkxYi1iYTc4LTA2NTIyYWIwMjg5Mw.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/ZG9rdW1lbnRsYWdlcjovLzAzLzhhLzIxL2I1L2IxL2EyZDctNDU2NC1hYzlmLWY1NWVhNDEwM2UxYw.xml",
+          "year": 2018
+        },
+        {
+          "periodEnd": "2017-12-31",
+          "publishedAt": "2018-06-08T20:16:45.354Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/10281182/ZG9rdW1lbnRsYWdlcjovLzAzLzhmLzk1LzdiLzg5L2NiZTEtNDNkMS05NWRjLWRjOWU5MDczMGI1Yg.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/10281182/ZG9rdW1lbnRsYWdlcjovLzAzL2Y5L2RlL2E3LzdlLzkzZjctNGFhMS04MjEzLWM2ZGU3NDZlMmRlZg.xml",
+          "year": 2017
+        }
+      ],
+      "source": "Erhvervsstyrelsen / Virk (officiel)"
+    },
+    "financialCurrency": "EUR",
+    "incomeHistory": [
+      {
+        "ebit": 1184000000,
+        "grossProfit": 2497000000,
+        "incomeBeforeTax": 1039000000,
+        "incomeTaxExpense": 259000000,
+        "interestExpense": 145000000,
+        "interestPaid": null,
+        "netIncome": 778000000,
+        "operatingIncome": 1067000000,
+        "revenue": 18822000000,
+        "year": 2025
+      },
+      {
+        "ebit": 899000000,
+        "grossProfit": 2057000000,
+        "incomeBeforeTax": 705000000,
+        "incomeTaxExpense": 211000000,
+        "interestExpense": 194000000,
+        "interestPaid": null,
+        "netIncome": 499000000,
+        "operatingIncome": 739000000,
+        "revenue": 17295000000,
+        "year": 2024
+      },
+      {
+        "ebit": 337000000,
+        "grossProfit": 1283000000,
+        "incomeBeforeTax": 102000000,
+        "incomeTaxExpense": 24000000,
+        "interestExpense": 235000000,
+        "interestPaid": null,
+        "netIncome": 77000000,
+        "operatingIncome": 36000000,
+        "revenue": 15382000000,
+        "year": 2023
+      },
+      {
+        "ebit": -1633000000,
+        "grossProfit": 118000000,
+        "incomeBeforeTax": -1696000000,
+        "incomeTaxExpense": -124000000,
+        "interestExpense": 63000000,
+        "interestPaid": null,
+        "netIncome": -1572000000,
+        "operatingIncome": -1152000000,
+        "revenue": 14486000000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [],
+    "insiderTransactions": [],
+    "profile": {
+      "country": "Denmark",
+      "description": "Vestas Wind Systems A/S engages in the design, manufacture, installation, and services of wind turbines the United States, Denmark, and internationally. It operates through two segments, Power Solutions and Service. The Power Solutions segment offers onshore and offshore wind power plants, wind turbines, development sites, etc. The Service segment engages in the sale of service contracts, spare parts, and related activities. Vestas Wind Systems A/S was founded in 1898 and is headquartered in Aarhus, Denmark.",
+      "fullTimeEmployees": 39520,
+      "industry": "Specialty Industrial Machinery",
+      "sector": "Industrials"
+    },
+    "tradingCurrency": "DKK"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-08-22T07:36:18.357Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "3.14.0",
+  "ticker": "VWS.CO"
+}

@@ -1,0 +1,289 @@
+{
+  "contentHash": "48b7dd71297883d1",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 809000000,
+        "cash": 2864000000,
+        "cashAndShortTerm": 2864000000,
+        "currentAssets": null,
+        "debtWithLeases": 5638000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 2836000000,
+        "inventory": null,
+        "longTermDebt": 4829000000,
+        "longTermProvisions": 83000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": 62000000,
+        "sharesOutstanding": 602019322,
+        "shortTermDebt": null,
+        "totalAssets": 103665000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 5638000000,
+        "totalEquity": 39619000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 856000000,
+        "cash": 2123000000,
+        "cashAndShortTerm": 2123000000,
+        "currentAssets": null,
+        "debtWithLeases": 6617000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 2780000000,
+        "inventory": null,
+        "longTermDebt": 5761000000,
+        "longTermProvisions": 84000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": 57000000,
+        "sharesOutstanding": 613164666,
+        "shortTermDebt": null,
+        "totalAssets": 104376000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 6617000000,
+        "totalEquity": 38864000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 1003000000,
+        "cash": 3132000000,
+        "cashAndShortTerm": 3132000000,
+        "currentAssets": null,
+        "debtWithLeases": 9619000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 3367000000,
+        "inventory": null,
+        "longTermDebt": 8414000000,
+        "longTermProvisions": 223000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": 77000000,
+        "sharesOutstanding": 617455170,
+        "shortTermDebt": null,
+        "totalAssets": 112940000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 9417000000,
+        "totalEquity": 40350000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 939000000,
+        "cash": 2662000000,
+        "cashAndShortTerm": 2662000000,
+        "currentAssets": null,
+        "debtWithLeases": 11279000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 3542000000,
+        "inventory": null,
+        "longTermDebt": 10340000000,
+        "longTermProvisions": 94000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": 85000000,
+        "sharesOutstanding": 633709980,
+        "shortTermDebt": null,
+        "totalAssets": 113387000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 11279000000,
+        "totalEquity": 42501000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -487000000,
+        "depreciation": 898000000,
+        "dividendsPaid": -4972000000,
+        "freeCashFlow": 6382000000,
+        "operatingCashFlow": null,
+        "stockBasedCompensation": null,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -828000000,
+        "depreciation": 934000000,
+        "dividendsPaid": -4816000000,
+        "freeCashFlow": 4821000000,
+        "operatingCashFlow": null,
+        "stockBasedCompensation": null,
+        "year": 2024
+      },
+      {
+        "buyback": -2531000000,
+        "capitalExpenditures": -571000000,
+        "depreciation": 968000000,
+        "dividendsPaid": -4607000000,
+        "freeCashFlow": 5998000000,
+        "operatingCashFlow": null,
+        "stockBasedCompensation": null,
+        "year": 2023
+      },
+      {
+        "buyback": -3253000000,
+        "capitalExpenditures": -50000000,
+        "depreciation": 786000000,
+        "dividendsPaid": -3771000000,
+        "freeCashFlow": 193000000,
+        "operatingCashFlow": null,
+        "stockBasedCompensation": null,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": {
+      "cvr": "26460212",
+      "latestInterim": {
+        "periodEnd": "2026-06-30",
+        "publishedAt": "2026-07-10T08:16:13.991Z",
+        "reportIsPdf": false,
+        "reportUrl": "http://regnskaber.virk.dk/21206462/amNsb3VkczovLzAzLzBlLzNhLzM0L2U3LzdlZWMtNGQyNy05ZDVhLWExNzVkZGEzOGRmNA.xhtml",
+        "xbrlUrl": null,
+        "year": 2026
+      },
+      "reports": [
+        {
+          "periodEnd": "2024-12-31",
+          "publishedAt": "2025-05-23T19:42:50.955Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/amNsb3VkczovLzAzLzNmLzNjL2QwLzAxL2VkNTktNDlkYy05ZGY5LTBiZTRhMjI4NTM5OQ.pdf",
+          "xbrlUrl": null,
+          "year": 2024
+        },
+        {
+          "periodEnd": "2023-12-31",
+          "publishedAt": "2024-02-02T16:02:15.991Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/amNsb3VkczovLzAzL2ZjL2QwLzQwLzc5LzhiNTYtNGUxYi05ZDlkLWU0ODUxYzJjYmE1YQ.pdf",
+          "xbrlUrl": null,
+          "year": 2023
+        },
+        {
+          "periodEnd": "2022-12-31",
+          "publishedAt": "2023-04-05T06:56:10.490Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/amNsb3VkczovLzAzLzU0L2MxL2IzL2YyLzllMTctNGFjNi04YzcyLThhMTYwYWVlMDY0Mw.pdf",
+          "xbrlUrl": null,
+          "year": 2022
+        },
+        {
+          "periodEnd": "2021-12-31",
+          "publishedAt": "2022-04-01T12:35:07.690Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/amNsb3VkczovLzAzL2YzLzE2Lzc4LzNhLzY5YWEtNGU1Ny04YjBjLTFkZGI4ZTRhMTJkYg.pdf",
+          "xbrlUrl": null,
+          "year": 2021
+        },
+        {
+          "periodEnd": "2020-12-31",
+          "publishedAt": "2021-04-09T07:37:54.222Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/amNsb3VkczovLzAzLzJiL2U3LzE2LzQ4LzQyYTYtNDc3Yy1iNDFkLWZhNjRjOTJmYTM2ZQ.pdf",
+          "xbrlUrl": null,
+          "year": 2020
+        },
+        {
+          "periodEnd": "2019-12-31",
+          "publishedAt": "2020-04-20T15:45:56.108Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/amNsb3VkczovLzAzL2M1L2YwL2M1LzAxLzFiMTMtNDA0Yi1iYjc4LWNlZjVhNmJjNWFkYg.pdf",
+          "xbrlUrl": null,
+          "year": 2019
+        },
+        {
+          "periodEnd": "2018-12-31",
+          "publishedAt": "2019-07-03T12:16:43.858Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/ZG9rdW1lbnRsYWdlcjovLzAzLzg3LzZjLzg2L2U5LzNiYzUtNGY2NC1iNTA0LTg5NThhODEzM2E2Nw.pdf",
+          "xbrlUrl": null,
+          "year": 2018
+        },
+        {
+          "periodEnd": "2017-12-31",
+          "publishedAt": "2018-05-09T08:20:08.358Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/ZG9rdW1lbnRsYWdlcjovLzAzLzViLzk2L2NlLzhkLzI1N2EtNGMyNC04MDcxLWQ5NGJkMzk0MTcyOQ.pdf",
+          "xbrlUrl": null,
+          "year": 2017
+        },
+        {
+          "periodEnd": "2016-12-31",
+          "publishedAt": "2017-03-20T14:29:11.825Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/21206462/ZG9rdW1lbnRsYWdlcjovLzAzLzliLzBkLzYxL2NiL2E1MjMtNDkwYy05OWVmLTVhODc5Y2UxMzJmOA.pdf",
+          "xbrlUrl": null,
+          "year": 2016
+        }
+      ],
+      "source": "Erhvervsstyrelsen / Virk (officiel)"
+    },
+    "financialCurrency": "DKK",
+    "incomeHistory": [
+      {
+        "ebit": 8228000000,
+        "grossProfit": null,
+        "incomeBeforeTax": 7212000000,
+        "incomeTaxExpense": 1807000000,
+        "interestExpense": 1016000000,
+        "interestPaid": null,
+        "netIncome": 5405000000,
+        "operatingIncome": 8228000000,
+        "revenue": 41369000000,
+        "year": 2025
+      },
+      {
+        "ebit": 7428000000,
+        "grossProfit": null,
+        "incomeBeforeTax": 6303000000,
+        "incomeTaxExpense": 1488000000,
+        "interestExpense": 1125000000,
+        "interestPaid": null,
+        "netIncome": 4816000000,
+        "operatingIncome": 7428000000,
+        "revenue": 40255000000,
+        "year": 2024
+      },
+      {
+        "ebit": 6314000000,
+        "grossProfit": null,
+        "incomeBeforeTax": 5029000000,
+        "incomeTaxExpense": 1178000000,
+        "interestExpense": 1285000000,
+        "interestPaid": null,
+        "netIncome": 3794000000,
+        "operatingIncome": 6314000000,
+        "revenue": 40213000000,
+        "year": 2023
+      },
+      {
+        "ebit": 3827000000,
+        "grossProfit": null,
+        "incomeBeforeTax": 3051000000,
+        "incomeTaxExpense": 804000000,
+        "interestExpense": 776000000,
+        "interestPaid": null,
+        "netIncome": 2247000000,
+        "operatingIncome": 3827000000,
+        "revenue": 33909000000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [],
+    "insiderTransactions": [],
+    "profile": {
+      "country": "Denmark",
+      "description": "Tryg A/S, together with its subsidiaries, engages in the provision of insurance products and services to private, small and medium sized commercial, and corporate customers in Denmark, the United States, rest of Nordic, Luxembourg, the United Kingdom, and internationally. It operates through Private and Commercial segments. The company offers insurance products, such as motor, content, house, accident, travel, motorcycle, and pet and health, as well as property, liability, workers' compensation, and health under the Trygg-Hansa, Atlantica, Bilsport & MC, and Moderna Djurförsäkringar brands. It",
+      "fullTimeEmployees": 6829,
+      "industry": "Insurance - Diversified",
+      "sector": "Financial Services"
+    },
+    "tradingCurrency": "DKK"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-08-22T07:37:25.528Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "3.14.0",
+  "ticker": "TRYG.CO"
+}

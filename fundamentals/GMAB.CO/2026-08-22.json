@@ -1,0 +1,375 @@
+{
+  "contentHash": "fac2e6d901ffd668",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 152000000,
+        "cash": 1715000000,
+        "cashAndShortTerm": 1715000000,
+        "currentAssets": 2885000000,
+        "debtWithLeases": 5426000000,
+        "deferredRevenueNonCurrent": 95000000,
+        "deferredTaxNonCurrent": 364000000,
+        "inventory": 18000000,
+        "longTermDebt": 5001000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 5000000,
+        "pensionObligations": null,
+        "sharesOutstanding": 61599307,
+        "shortTermDebt": 273000000,
+        "totalAssets": 12873000000,
+        "totalCurrentLiabilities": 1427000000,
+        "totalDebt": 5426000000,
+        "totalEquity": 5847000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 144000000,
+        "cash": 1380000000,
+        "cashAndShortTerm": 2954000000,
+        "currentAssets": 3900000000,
+        "debtWithLeases": 144000000,
+        "deferredRevenueNonCurrent": 67000000,
+        "deferredTaxNonCurrent": 330000000,
+        "inventory": 9000000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 5000000,
+        "pensionObligations": null,
+        "sharesOutstanding": 63540179,
+        "shortTermDebt": null,
+        "totalAssets": 6414000000,
+        "totalCurrentLiabilities": 744000000,
+        "totalDebt": 144000000,
+        "totalEquity": 5137000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 114000000,
+        "cash": 2204000000,
+        "cashAndShortTerm": 4171000000,
+        "currentAssets": 4912000000,
+        "debtWithLeases": 114000000,
+        "deferredRevenueNonCurrent": 71000000,
+        "deferredTaxNonCurrent": null,
+        "inventory": 8000000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 5000000,
+        "pensionObligations": null,
+        "sharesOutstanding": 65330365,
+        "shortTermDebt": null,
+        "totalAssets": 5232000000,
+        "totalCurrentLiabilities": 368000000,
+        "totalDebt": 114000000,
+        "totalEquity": 4687000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 85925243.598785,
+        "cash": 1423883475.58255,
+        "cashAndShortTerm": 3213057182.745866,
+        "currentAssets": 4061371061.759668,
+        "debtWithLeases": 85925243.598786,
+        "deferredRevenueNonCurrent": 69085622.993998,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 1583212.193612,
+        "pensionObligations": null,
+        "sharesOutstanding": 65371625,
+        "shortTermDebt": null,
+        "totalAssets": 4334978914.492149,
+        "totalCurrentLiabilities": 262381438.995956,
+        "totalDebt": 85925243.598785,
+        "totalEquity": 3926654096.921372,
+        "year": 2022
+      },
+      {
+        "cash": 8957000000,
+        "cashAndShortTerm": 8957000000,
+        "currentAssets": 22736000000,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 24627000000,
+        "totalCurrentLiabilities": 1568000000,
+        "totalDebt": null,
+        "totalEquity": 22196000000,
+        "year": 2021
+      },
+      {
+        "cash": 7260000000,
+        "cashAndShortTerm": 7260000000,
+        "currentAssets": 18791000000,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 21143000000,
+        "totalCurrentLiabilities": 1253000000,
+        "totalDebt": null,
+        "totalEquity": 19121000000,
+        "year": 2020
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -430000000,
+        "capitalExpenditures": -55000000,
+        "depreciation": 71000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1131000000,
+        "operatingCashFlow": 1186000000,
+        "stockBasedCompensation": 128000000,
+        "year": 2025
+      },
+      {
+        "buyback": -560000000,
+        "capitalExpenditures": -44000000,
+        "depreciation": 60000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1082000000,
+        "operatingCashFlow": 1126000000,
+        "stockBasedCompensation": 105000000,
+        "year": 2024
+      },
+      {
+        "buyback": -81000000,
+        "capitalExpenditures": -54000000,
+        "depreciation": 43000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1017000000,
+        "operatingCashFlow": 1071000000,
+        "stockBasedCompensation": 85000000,
+        "year": 2023
+      },
+      {
+        "buyback": -130686970.163647,
+        "capitalExpenditures": -45625296.852286,
+        "depreciation": 52102074.007974,
+        "dividendsPaid": null,
+        "freeCashFlow": 517422530.548799,
+        "operatingCashFlow": 563047827.401085,
+        "stockBasedCompensation": 63184559.363261,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": {
+      "cvr": "21023884",
+      "latestInterim": {
+        "periodEnd": "2026-06-30",
+        "publishedAt": "2026-08-10T15:45:48.050Z",
+        "reportIsPdf": false,
+        "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzMxLzJlL2IzLzMxLzEzMGItNDAzNy1hNTE1LTcwYWZjODA3OGM1MQ.xhtml",
+        "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzIyLzI2LzdhL2M0Lzk1M2UtNDEwNS1iYmVmLTQwZmQ4NWJjYmZiOA.xml",
+        "year": 2026
+      },
+      "reports": [
+        {
+          "periodEnd": "2025-12-31",
+          "publishedAt": "2026-03-31T12:27:33.027Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzL2IyL2JkLzUwLzM5LzhjMmEtNGZkZS1hM2UwLWZlMWJiZDZjYWVjNA.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzI0LzA0LzBjLzE4L2UzMDUtNDc2YS04OThhLTEwZTk0YjE1OGIwZQ.xml",
+          "year": 2025
+        },
+        {
+          "periodEnd": "2024-12-31",
+          "publishedAt": "2025-03-13T07:56:08.900Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzL2FmLzA4LzcyLzhhLzAxMTYtNDY3MS1iOTZiLTFkMDQ2NDc1N2NjNg.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzUzLzM5LzFlLzI1L2I4OTgtNGI0Yi04ZWRmLWIzNDQyNDk5ZjMwNQ.xml",
+          "year": 2024
+        },
+        {
+          "periodEnd": "2023-12-31",
+          "publishedAt": "2024-03-13T16:55:49.613Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzdjLzhkL2E2LzI3LzU1MmUtNDA4ZC1iM2QxLTgwNjVkN2MwYjMwNw.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzL2JlL2JjL2U5L2VhLzYzNzEtNDFkMS04OTg5LTMxZDFlZjJiNmM1NQ.xml",
+          "year": 2023
+        },
+        {
+          "periodEnd": "2022-12-31",
+          "publishedAt": "2023-03-30T13:48:52.505Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzL2ZjL2IxLzAwLzBlLzYyMmItNDAzYS1iNTlmLWUxMTIyNDBkZWIzMw.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzc3LzlmL2Y0LzhjLzY0MjQtNDQwMS04OTA5LWYwNGYzZDcxYjc4Zg.xml",
+          "year": 2022
+        },
+        {
+          "periodEnd": "2021-12-31",
+          "publishedAt": "2022-03-30T06:56:53.484Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzL2ViL2VmLzllLzU1L2Q4YjQtNGEzMC1hMzEwLWZlNGNiMzNkMDNjNQ.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzL2E2L2E1LzIwLzVhL2E0MmEtNDk5ZC04ZjJiLTcwZTAzMTI0ODIzZQ.xml",
+          "year": 2021
+        },
+        {
+          "periodEnd": "2020-12-31",
+          "publishedAt": "2021-04-19T13:22:46.638Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzQ3L2UzL2MzL2EzLzVkZjYtNDIwOC1hMTM1LTdkYmFmYWYxN2I2Nw.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzQxLzM4L2U2LzU3LzE3MmYtNGEyOC05ODM3LTk5YTI3OTkyNzQ2OQ.xml",
+          "year": 2020
+        },
+        {
+          "periodEnd": "2019-12-31",
+          "publishedAt": "2020-03-26T18:05:51.004Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzE4LzcxLzZmLzRhL2U2OTItNDFhYi05ZGI1LTU5NmY0NWI5M2FlNw.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/amNsb3VkczovLzAzLzcxLzkyLzQxLzllLzM0MzAtNGY3OC1iM2Y1LTgwY2E4ZDc5YjNlMQ.xml",
+          "year": 2019
+        },
+        {
+          "periodEnd": "2018-12-31",
+          "publishedAt": "2019-03-29T18:07:33.950Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/ZG9rdW1lbnRsYWdlcjovLzAzL2QxLzMxL2FmL2M2LzZiZDAtNDg1YS05Mjc5LTExMjhlNzAxYzc5NA.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/ZG9rdW1lbnRsYWdlcjovLzAzLzY0L2JkLzRlL2Y3L2JiZjctNGE0Zi04MTQ4LTI4MjNlYzUzMTM1Zg.xml",
+          "year": 2018
+        },
+        {
+          "periodEnd": "2017-12-31",
+          "publishedAt": "2018-04-10T19:24:00.020Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/48832012/ZG9rdW1lbnRsYWdlcjovLzAzLzY5L2NkL2ZhL2Q1L2NmZjMtNGQzZC1hNGNhLWQ5YzYzNDY4ZTVlZQ.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/48832012/ZG9rdW1lbnRsYWdlcjovLzAzL2IzLzRiL2JhL2NlLzc3MmUtNDYwMy04OTcyLWYwNzE1OWViNWEzOA.xml",
+          "year": 2017
+        }
+      ],
+      "source": "Erhvervsstyrelsen / Virk (officiel)"
+    },
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 1065000000,
+        "grossProfit": 3482000000,
+        "incomeBeforeTax": 1204000000,
+        "incomeTaxExpense": 241000000,
+        "interestExpense": 61000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 963000000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "officialFinanceCosts": 269000000,
+        "officialFinanceIncome": 408000000,
+        "operatingIncome": 1065000000,
+        "revenue": 3720000000,
+        "year": 2025
+      },
+      {
+        "ebit": 972000000,
+        "grossProfit": 2978000000,
+        "incomeBeforeTax": 1326000000,
+        "incomeTaxExpense": 193000000,
+        "interestExpense": 18000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1133000000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "officialFinanceCosts": 291000000,
+        "officialFinanceIncome": 645000000,
+        "operatingIncome": 972000000,
+        "revenue": 3121000000,
+        "year": 2024
+      },
+      {
+        "ebit": 827000000,
+        "grossProfit": 2357000000,
+        "incomeBeforeTax": 817000000,
+        "incomeTaxExpense": 186000000,
+        "interestExpense": 10000000,
+        "interestPaid": null,
+        "netIncome": 631000000,
+        "operatingIncome": 772000000,
+        "revenue": 2390000000,
+        "year": 2023
+      },
+      {
+        "ebit": 1005195814.562674,
+        "grossProfit": 2087681169.849883,
+        "incomeBeforeTax": 999582607.694411,
+        "incomeTaxExpense": 214885073.187582,
+        "interestExpense": 5613206.868262,
+        "interestPaid": null,
+        "netIncome": 784697534.506829,
+        "operatingIncome": 901999165.215389,
+        "revenue": 2087681169.849883,
+        "year": 2022
+      },
+      {
+        "ebit": 3018000000,
+        "grossProfit": null,
+        "incomeBeforeTax": 3983000000,
+        "incomeTaxExpense": 975000000,
+        "interestExpense": 702000000,
+        "netIncome": 3008000000,
+        "operatingIncome": 3018000000,
+        "revenue": 8482000000,
+        "year": 2021
+      },
+      {
+        "ebit": 6313000000,
+        "grossProfit": null,
+        "incomeBeforeTax": 5904000000,
+        "incomeTaxExpense": 1146000000,
+        "interestExpense": 1558000000,
+        "netIncome": 4758000000,
+        "operatingIncome": 6313000000,
+        "revenue": 10111000000,
+        "year": 2020
+      }
+    ],
+    "insiderHolders": [],
+    "insiderTransactions": [],
+    "profile": {
+      "country": "Denmark",
+      "description": "Genmab A/S, a biotechnology company, develops antibody-based products and product candidates for the treatment of cancer and other diseases in Denmark. The company markets EPKINLY and TEPKINLY for adult patients with relapsed or refractory (R/R) diffuse large b-cell lymphoma (DLBCL), large B-cell lymphoma, and follicular lymphoma (FL); and Tivdak for adult patients with recurrent/metastatic cervical cancer with disease progression on or after chemotherapy. It is also developing Epcoritamab for R/R DLBCL and FL, first line DLBCL and FL, B-cell non-Hodgkin lymphoma, R/R chronic lymphocytic leuke",
+      "fullTimeEmployees": 3119,
+      "industry": "Biotechnology",
+      "sector": "Healthcare"
+    },
+    "tradingCurrency": "DKK"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-08-22T07:38:07.113Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "3.14.0",
+  "ticker": "GMAB.CO"
+}
