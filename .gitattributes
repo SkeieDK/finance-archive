@@ -1,0 +1,5 @@
+# Written by tools/archive.js on first run — see strategy/archive.js.
+# The recorder writes LF. Without this, a machine with core.autocrlf=true checks the archive out as
+# CRLF, and appended price rows mix both inside one file. A ten-year append-only archive cannot
+# afford its line endings to depend on which machine last touched it.
+* text=auto eol=lf
