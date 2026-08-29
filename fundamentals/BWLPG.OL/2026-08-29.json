@@ -1,0 +1,250 @@
+{
+  "contentHash": "5569cd49ce5a53b3",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 137139000,
+        "cash": 242009000,
+        "cashAndShortTerm": 255316000,
+        "currentAssets": 643584000,
+        "debtWithLeases": 990242000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 123885000,
+        "longTermDebt": 730394000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 151342653,
+        "shortTermDebt": 122709000,
+        "totalAssets": 3149893000,
+        "totalCurrentLiabilities": 420699000,
+        "totalDebt": 990242000,
+        "totalEquity": 1925553000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 231288000,
+        "cash": 279681000,
+        "cashAndShortTerm": 282450000,
+        "currentAssets": 677929000,
+        "debtWithLeases": 1173296000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 76706000,
+        "longTermDebt": 711664000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 151538443,
+        "shortTermDebt": 230344000,
+        "totalAssets": 3320420000,
+        "totalCurrentLiabilities": 610105000,
+        "totalDebt": 1173296000,
+        "totalEquity": 1937494000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 157839000,
+        "cash": 287545000,
+        "cashAndShortTerm": 290816000,
+        "currentAssets": 878709000,
+        "debtWithLeases": 570188000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 188592000,
+        "longTermDebt": 199917000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 131073895,
+        "shortTermDebt": 212432000,
+        "totalAssets": 2520462000,
+        "totalCurrentLiabilities": 655343000,
+        "totalDebt": 570188000,
+        "totalEquity": 1586160000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 227483000,
+        "cash": 284516000,
+        "cashAndShortTerm": 287787000,
+        "currentAssets": 739497000,
+        "debtWithLeases": 705856000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 135932000,
+        "longTermDebt": 362220000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 133381375,
+        "shortTermDebt": 116153000,
+        "totalAssets": 2559902000,
+        "totalCurrentLiabilities": 493882000,
+        "totalDebt": 705856000,
+        "totalEquity": 1596590000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -2739000,
+        "capitalExpenditures": -182383000,
+        "depreciation": 255929000,
+        "dividendsPaid": -199855000,
+        "freeCashFlow": 385020000,
+        "operatingCashFlow": 567403000,
+        "stockBasedCompensation": 1753000,
+        "year": 2025
+      },
+      {
+        "buyback": -100000,
+        "capitalExpenditures": -602249000,
+        "depreciation": 202181000,
+        "dividendsPaid": -388461000,
+        "freeCashFlow": 146895000,
+        "operatingCashFlow": 749144000,
+        "stockBasedCompensation": 2016000,
+        "year": 2024
+      },
+      {
+        "buyback": -23698000,
+        "capitalExpenditures": -116679000,
+        "depreciation": 217883000,
+        "dividendsPaid": -405493000,
+        "freeCashFlow": 396684000,
+        "operatingCashFlow": 513363000,
+        "stockBasedCompensation": 1696000,
+        "year": 2023
+      },
+      {
+        "buyback": -26323000,
+        "capitalExpenditures": -46295000,
+        "depreciation": 159425000,
+        "dividendsPaid": -126705000,
+        "freeCashFlow": 459005000,
+        "operatingCashFlow": 505300000,
+        "stockBasedCompensation": 1372000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 356956000,
+        "grossProfit": 334767000,
+        "incomeBeforeTax": 303910000,
+        "incomeTaxExpense": 14199000,
+        "interestExpense": 53046000,
+        "interestPaid": null,
+        "netIncome": 242313000,
+        "operatingIncome": 291906000,
+        "periodEnd": "2025-12-31",
+        "revenue": 3582139000,
+        "year": 2025
+      },
+      {
+        "ebit": 444812000,
+        "grossProfit": 440127000,
+        "incomeBeforeTax": 424963000,
+        "incomeTaxExpense": 30095000,
+        "interestExpense": 19849000,
+        "interestPaid": null,
+        "netIncome": 354296000,
+        "operatingIncome": 411337000,
+        "periodEnd": "2024-12-31",
+        "revenue": 3563747000,
+        "year": 2024
+      },
+      {
+        "ebit": 531268000,
+        "grossProfit": 514894000,
+        "incomeBeforeTax": 503964000,
+        "incomeTaxExpense": 10965000,
+        "interestExpense": 27304000,
+        "interestPaid": null,
+        "netIncome": 469957000,
+        "operatingIncome": 482036000,
+        "periodEnd": "2023-12-31",
+        "revenue": 2947340000,
+        "year": 2023
+      },
+      {
+        "ebit": 269421000,
+        "grossProfit": 262911000,
+        "incomeBeforeTax": 239648000,
+        "incomeTaxExpense": 1071000,
+        "interestExpense": 29773000,
+        "interestPaid": null,
+        "netIncome": 227396000,
+        "operatingIncome": 247667000,
+        "periodEnd": "2022-12-31",
+        "revenue": 1558124000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Acquisition",
+        "name": "S�rensen (Kristian)",
+        "relation": "Chief Executive Officer",
+        "shares": 7000
+      },
+      {
+        "latestBuySell": "Acquisition",
+        "name": "Xu (Samantha)",
+        "relation": "Chief Financial Officer",
+        "shares": 2000
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2024-12-20",
+        "description": "Acquisition at price 84.57 per share.",
+        "filer": "S�rensen (Kristian)",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2024-12-20",
+        "description": "Acquisition at price 7.38 per share.",
+        "filer": "Xu (Samantha)",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2024-12-19",
+        "description": "Acquisition at price 84.52 per share.",
+        "filer": "S�rensen (Kristian)",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "Singapore",
+      "description": "BW LPG Limited, an investment holding company, engages in ship owning and chartering activities worldwide. It operates through Shipping and Product Services segments. The company engages in the transportation of liquefied petroleum gas (LPG); provision of integrated LPG delivery services, as well as management services; wholesale and trade of LPG; and investment in commercial enterprises. As of December 31, 2025, it owned and operated a fleet of 54 vessels, including 28 very large gas carriers, 7 large gas carriers time chartered in by product services, and 8 VLGCs owned by BW LPG India Pte. L",
+      "fullTimeEmployees": 1444,
+      "industry": "Oil & Gas Midstream",
+      "sector": "Energy"
+    },
+    "tradingCurrency": "NOK"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-08-29T10:48:19.725Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "3.14.0",
+  "ticker": "BWLPG.OL"
+}

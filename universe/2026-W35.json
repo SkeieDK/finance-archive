@@ -1,0 +1,309 @@
+{
+  "contentHash": "51f8cf21f69b667e",
+  "payload": {
+    "count": 59,
+    "members": [
+      {
+        "name": "Novo Nordisk",
+        "region": "Danmark",
+        "ticker": "NOVO-B.CO"
+      },
+      {
+        "name": "DSV",
+        "region": "Danmark",
+        "ticker": "DSV.CO"
+      },
+      {
+        "name": "Pandora",
+        "region": "Danmark",
+        "ticker": "PNDORA.CO"
+      },
+      {
+        "name": "Rockwool B",
+        "region": "Danmark",
+        "ticker": "ROCK-B.CO"
+      },
+      {
+        "name": "Coloplast B",
+        "region": "Danmark",
+        "ticker": "COLO-B.CO"
+      },
+      {
+        "name": "GN Store Nord",
+        "region": "Danmark",
+        "ticker": "GN.CO"
+      },
+      {
+        "name": "Demant",
+        "region": "Danmark",
+        "ticker": "DEMANT.CO"
+      },
+      {
+        "name": "Carlsberg B",
+        "region": "Danmark",
+        "ticker": "CARL-B.CO"
+      },
+      {
+        "name": "Ørsted",
+        "region": "Danmark",
+        "ticker": "ORSTED.CO"
+      },
+      {
+        "name": "Vestas",
+        "region": "Danmark",
+        "ticker": "VWS.CO"
+      },
+      {
+        "name": "AP Møller-Mærsk B",
+        "region": "Danmark",
+        "ticker": "MAERSK-B.CO"
+      },
+      {
+        "name": "NKT",
+        "region": "Danmark",
+        "ticker": "NKT.CO"
+      },
+      {
+        "name": "Royal Unibrew",
+        "region": "Danmark",
+        "ticker": "RBREW.CO"
+      },
+      {
+        "name": "Zealand Pharma",
+        "region": "Danmark",
+        "ticker": "ZEAL.CO"
+      },
+      {
+        "name": "ChemoMetec",
+        "region": "Danmark",
+        "ticker": "CHEMM.CO"
+      },
+      {
+        "name": "Netcompany",
+        "region": "Danmark",
+        "ticker": "NETC.CO"
+      },
+      {
+        "name": "Gubra",
+        "region": "Danmark",
+        "ticker": "GUBRA.CO"
+      },
+      {
+        "name": "Bavarian Nordic",
+        "region": "Danmark",
+        "ticker": "BAVA.CO"
+      },
+      {
+        "name": "D/S Norden",
+        "region": "Danmark",
+        "ticker": "DNORD.CO"
+      },
+      {
+        "name": "Aalborg BK",
+        "region": "Danmark",
+        "ticker": "AAB.CO"
+      },
+      {
+        "name": "Tryg",
+        "region": "Danmark",
+        "ticker": "TRYG.CO"
+      },
+      {
+        "name": "PARKEN",
+        "region": "Danmark",
+        "ticker": "PARKEN.CO"
+      },
+      {
+        "name": "Ambu",
+        "region": "Danmark",
+        "ticker": "AMBU-B.CO"
+      },
+      {
+        "name": "Føroya Banki",
+        "region": "Danmark",
+        "ticker": "FOBA.CO"
+      },
+      {
+        "name": "cBrain",
+        "region": "Danmark",
+        "ticker": "CBRAIN.CO"
+      },
+      {
+        "name": "Genmab",
+        "region": "Danmark",
+        "ticker": "GMAB.CO"
+      },
+      {
+        "name": "Harboes Bryggeri B",
+        "region": "Danmark",
+        "ticker": "HARB-B.CO"
+      },
+      {
+        "name": "InstallatørGruppen",
+        "region": "Danmark",
+        "ticker": "IG.CO"
+      },
+      {
+        "name": "Equinor",
+        "region": "Norge",
+        "ticker": "EQNR.OL"
+      },
+      {
+        "name": "Kongsberg Gruppen",
+        "region": "Norge",
+        "ticker": "KOG.OL"
+      },
+      {
+        "name": "SalMar",
+        "region": "Norge",
+        "ticker": "SALM.OL"
+      },
+      {
+        "name": "Mowi",
+        "region": "Norge",
+        "ticker": "MOWI.OL"
+      },
+      {
+        "name": "DNB",
+        "region": "Norge",
+        "ticker": "DNB.OL"
+      },
+      {
+        "name": "Telenor",
+        "region": "Norge",
+        "ticker": "TEL.OL"
+      },
+      {
+        "name": "Norsk Hydro",
+        "region": "Norge",
+        "ticker": "NHY.OL"
+      },
+      {
+        "name": "Nordic Semiconductor",
+        "region": "Norge",
+        "ticker": "NOD.OL"
+      },
+      {
+        "name": "TOMRA Systems",
+        "region": "Norge",
+        "ticker": "TOM.OL"
+      },
+      {
+        "name": "NEL",
+        "region": "Norge",
+        "ticker": "NEL.OL"
+      },
+      {
+        "name": "REC Silicon",
+        "region": "Norge",
+        "ticker": "RECSI.OL"
+      },
+      {
+        "name": "Zaptec",
+        "region": "Norge",
+        "ticker": "ZAP.OL"
+      },
+      {
+        "name": "Salmon Evolution",
+        "region": "Norge",
+        "ticker": "SALME.OL"
+      },
+      {
+        "name": "Thor Medical",
+        "region": "Norge",
+        "ticker": "THOR.OL"
+      },
+      {
+        "name": "Okeanis Eco Tankers",
+        "region": "Norge",
+        "ticker": "OET.OL"
+      },
+      {
+        "name": "Lerøy Seafood Group",
+        "region": "Norge",
+        "ticker": "LSG.OL"
+      },
+      {
+        "name": "Bakkafrost",
+        "region": "Norge",
+        "ticker": "BAKKA.OL"
+      },
+      {
+        "name": "BW LPG",
+        "region": "Norge",
+        "ticker": "BWLPG.OL"
+      },
+      {
+        "name": "BlueNord",
+        "region": "Norge",
+        "ticker": "BNOR.OL"
+      },
+      {
+        "name": "Indutrade",
+        "region": "Europa",
+        "ticker": "INDT.ST"
+      },
+      {
+        "name": "Atlas Copco A",
+        "region": "Europa",
+        "ticker": "ATCO-A.ST"
+      },
+      {
+        "name": "Nordea Bank",
+        "region": "Europa",
+        "ticker": "NDA-DK.CO"
+      },
+      {
+        "name": "Sandvik",
+        "region": "Europa",
+        "ticker": "SAND.ST"
+      },
+      {
+        "name": "Hexagon B",
+        "region": "Europa",
+        "ticker": "HEXA-B.ST"
+      },
+      {
+        "name": "Trelleborg B",
+        "region": "Europa",
+        "ticker": "TREL-B.ST"
+      },
+      {
+        "name": "Elekta B",
+        "region": "Europa",
+        "ticker": "EKTA-B.ST"
+      },
+      {
+        "name": "INVISIO",
+        "region": "Europa",
+        "ticker": "IVSO.ST"
+      },
+      {
+        "name": "Nelly Group",
+        "region": "Europa",
+        "ticker": "NELLY.ST"
+      },
+      {
+        "name": "Atlas Copco B",
+        "region": "Europa",
+        "ticker": "ATCO-B.ST"
+      },
+      {
+        "name": "KONE",
+        "region": "Europa",
+        "ticker": "KNEBV.HE"
+      },
+      {
+        "name": "Metsä Board B",
+        "region": "Europa",
+        "ticker": "METSB.HE"
+      }
+    ],
+    "week": "2026-W35"
+  },
+  "periodEnd": "2026-W35",
+  "recordedAt": "2026-08-29T10:49:00.207Z",
+  "source": "universe",
+  "sourceVersion": null,
+  "ticker": null
+}
