@@ -1,0 +1,340 @@
+{
+  "binding": "curated",
+  "contentHash": "e0b0dfb94283c0f6",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 107441000,
+        "cash": 32185000,
+        "cashAndShortTerm": 1082965000,
+        "currentAssets": 1160147000,
+        "currentLeasePrincipal": 18606000,
+        "debtWithLeases": 107441000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 16333032,
+        "shortTermDebt": null,
+        "totalAssets": 1319870000,
+        "totalCurrentLiabilities": 85102000,
+        "totalDebt": 107441000,
+        "totalEquity": 1145933000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 96449000,
+        "cash": 134403000,
+        "cashAndShortTerm": 422245000,
+        "currentAssets": 481115000,
+        "currentLeasePrincipal": 14802000,
+        "debtWithLeases": 96449000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 848000,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 16306862,
+        "shortTermDebt": null,
+        "totalAssets": 612484000,
+        "totalCurrentLiabilities": 79416000,
+        "totalDebt": 96449000,
+        "totalEquity": 450573000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 71435000,
+        "cash": 53397000,
+        "cashAndShortTerm": 457386000,
+        "currentAssets": 542034000,
+        "currentLeasePrincipal": 10750000,
+        "debtWithLeases": 71435000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": -1000,
+        "payablesNonCurrent": 848000,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 16290432,
+        "shortTermDebt": null,
+        "totalAssets": 625280000,
+        "totalCurrentLiabilities": 84088000,
+        "totalDebt": 71435000,
+        "totalEquity": 479659000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 69403000,
+        "cash": 71925000,
+        "cashAndShortTerm": 71925000,
+        "currentAssets": 192014000,
+        "currentLeasePrincipal": 8441000,
+        "debtWithLeases": 69403000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 16349703,
+        "shortTermDebt": null,
+        "totalAssets": 262902000,
+        "totalCurrentLiabilities": 93733000,
+        "totalDebt": 69403000,
+        "totalEquity": 108207000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -4323000,
+        "capitalExpenditures": -19159000,
+        "depreciation": 17122000,
+        "dividendsPaid": -1000262000,
+        "freeCashFlow": 1693202000,
+        "operatingCashFlow": 1712361000,
+        "stockBasedCompensation": 9380000,
+        "year": 2025
+      },
+      {
+        "buyback": -606000,
+        "capitalExpenditures": -32118000,
+        "depreciation": 15755000,
+        "dividendsPaid": null,
+        "freeCashFlow": -27099000,
+        "operatingCashFlow": 5019000,
+        "stockBasedCompensation": 4118000,
+        "year": 2024
+      },
+      {
+        "buyback": -2802000,
+        "capitalExpenditures": -11196000,
+        "depreciation": 9950000,
+        "dividendsPaid": -68324000,
+        "freeCashFlow": -60615000,
+        "operatingCashFlow": -49419000,
+        "stockBasedCompensation": 9394000,
+        "year": 2023
+      },
+      {
+        "buyback": -5512000,
+        "capitalExpenditures": -14155000,
+        "depreciation": 6885000,
+        "dividendsPaid": -66013000,
+        "freeCashFlow": 10185000,
+        "operatingCashFlow": 24340000,
+        "stockBasedCompensation": 34223000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": {
+      "cvr": "30514041",
+      "latestInterim": {
+        "periodEnd": "2026-06-30",
+        "publishedAt": "2026-08-26T08:10:43.390Z",
+        "reportIsPdf": false,
+        "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzEzLzI5L2JhLzM3LzY5YzctNDQ4MS04ZDg4LWZhNWMxNTJiMTFhYQ.xhtml",
+        "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzI1L2EzL2NkL2JhLzNmMjAtNDQ1Mi04ZGZjLWU2NjgyNDdjZmIxYg.xml",
+        "year": 2026
+      },
+      "reports": [
+        {
+          "periodEnd": "2025-12-31",
+          "publishedAt": "2026-04-14T11:10:51.835Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzVhLzExLzk2Lzc2Lzk0YWMtNGQxOS04OWM5LWJkY2E1ZGQ5YzVkMg.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzL2UxL2M5L2IwL2JjLzJiMzYtNDljYi1hNGUwLWFjYmMyZGI5ZDBkNw.xml",
+          "year": 2025
+        },
+        {
+          "periodEnd": "2024-12-31",
+          "publishedAt": "2025-04-04T06:46:15.612Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzFjLzBmLzJlLzI0LzdkZDYtNDYyMi1iYmFkLWFhY2Q5NTI2ODZlZA.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzL2E0L2E0L2YzLzcwL2U2ZWItNGRhNi04MDUxLTlkNjIzODdmYzJjYg.xml",
+          "year": 2024
+        },
+        {
+          "periodEnd": "2023-12-31",
+          "publishedAt": "2024-05-08T08:30:58.417Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzL2VjL2IyLzc2LzVlL2ZmZjItNDdmNi04YTAwLTc1YzViNmU4ODQ3MA.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzL2QxL2RkLzRiL2MxLzRmNzctNGI0ZS1hOWU3LWVkZWNiMzg5NDM0NA.xml",
+          "year": 2023
+        },
+        {
+          "periodEnd": "2022-12-31",
+          "publishedAt": "2023-03-08T09:51:10.481Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzL2RkLzcyL2NiLzA1LzBhNjItNGZiOC04OTI0LWM4NjVjNTYxM2NlMw.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzE5LzExL2UwLzIxLzhjN2EtNGJhMS05YzE2LTE0MDI4N2ZmNGU0Yw.xml",
+          "year": 2022
+        },
+        {
+          "periodEnd": "2021-12-31",
+          "publishedAt": "2022-05-24T14:38:44.357Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzFhLzY0L2M0L2NmL2FhMjAtNDc1NS1iMWYwLTIwOWI2NmVlYTAxYg.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzczLzNlL2IwLzE5LzYxODItNGYyYS04MTJiLWE3NWEzZWVlNDZmOQ.xml",
+          "year": 2021
+        },
+        {
+          "periodEnd": "2020-12-31",
+          "publishedAt": "2021-05-14T15:00:59.111Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzVmL2I5Lzc3LzE5LzQyYmQtNGNjNC04MzNlLTE1NTliMTI5OWYxNw.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzFkL2NhLzliLzM2L2VkNmItNGFjYS1iOWEzLWRhZmZhZTA3ZmIyNA.xml",
+          "year": 2020
+        },
+        {
+          "periodEnd": "2019-12-31",
+          "publishedAt": "2020-05-15T11:36:52.732Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzL2QwLzFhL2ZhLzNjLzhjMTAtNDFlNy1hMGU0LWJmMWQ1N2Y3ZDM1NQ.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/amNsb3VkczovLzAzLzVmLzRiLzk1Lzk5LzljMjUtNDlhOS1iZTY1LTYxOGI0MDk4ODI5Mg.xml",
+          "year": 2019
+        },
+        {
+          "periodEnd": "2018-12-31",
+          "publishedAt": "2019-05-16T13:14:39.757Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/ZG9rdW1lbnRsYWdlcjovLzAzLzIyLzcxLzZlL2FlLzU1YzctNDUyZi1hMTY4LTZhY2U1YTE4MzlmMA.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/ZG9rdW1lbnRsYWdlcjovLzAzLzE0L2ViLzg5Lzk4LzU2ODAtNGNlNC1hYTE4LTA5NjU5ZDRiZTQ1NA.xml",
+          "year": 2018
+        },
+        {
+          "periodEnd": "2017-12-31",
+          "publishedAt": "2018-05-09T12:43:45.186Z",
+          "reportIsPdf": true,
+          "reportUrl": "http://regnskaber.virk.dk/14041503/ZG9rdW1lbnRsYWdlcjovLzAzL2ZmLzc3LzgxLzUzLzVjMWEtNGRlNi05YTRmLTg5MjVlY2NhZTgzNg.pdf",
+          "xbrlUrl": "http://regnskaber.virk.dk/14041503/ZG9rdW1lbnRsYWdlcjovLzAzL2EzLzk1LzM5LzA2L2IwNDctNGM4Ni05Mjg3LTYxMTQzYWZhM2YyYw.xml",
+          "year": 2017
+        }
+      ],
+      "source": "Erhvervsstyrelsen / Virk (officiel)"
+    },
+    "financialCurrency": "DKK",
+    "incomeHistory": [
+      {
+        "ebit": 2150104000,
+        "grossProfit": 2556729000,
+        "incomeBeforeTax": 2154565000,
+        "incomeTaxExpense": 463999000,
+        "interestExpense": 6789000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1690566000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "officialFinanceCosts": 142027000,
+        "officialFinanceIncome": 146488000,
+        "operatingIncome": 2150104000,
+        "periodEnd": "2025-12-31",
+        "revenue": 2636811000,
+        "year": 2025
+      },
+      {
+        "ebit": -50011000,
+        "grossProfit": 164500000,
+        "incomeBeforeTax": -42408000,
+        "incomeTaxExpense": -5910000,
+        "interestExpense": 6591000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -36498000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "officialFinanceCosts": 6954000,
+        "officialFinanceIncome": 14557000,
+        "operatingIncome": -50011000,
+        "periodEnd": "2024-12-31",
+        "revenue": 265741000,
+        "year": 2024
+      },
+      {
+        "ebit": -38014000,
+        "grossProfit": 114936000,
+        "incomeBeforeTax": -42904000,
+        "incomeTaxExpense": 1620000,
+        "interestExpense": 4890000,
+        "interestPaid": null,
+        "netIncome": -44524000,
+        "operatingIncome": -47667000,
+        "periodEnd": "2023-12-31",
+        "revenue": 205005000,
+        "year": 2023
+      },
+      {
+        "ebit": 7779000,
+        "grossProfit": 97745000,
+        "incomeBeforeTax": 6259000,
+        "incomeTaxExpense": 1949000,
+        "interestExpense": 1520000,
+        "interestPaid": null,
+        "netIncome": 4310000,
+        "operatingIncome": -1288000,
+        "periodEnd": "2022-12-31",
+        "revenue": 199381000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [],
+    "insiderTransactions": [],
+    "profile": {
+      "country": "Denmark",
+      "description": "Gubra A/S, a disease-agnostic techbio company, focuses on the peptide-based drug discovery and preclinical contract research services in Europe, North America, and internationally. It operates through three segments: Preclinical Contract Research (CRO), Biotech, and Gubra Green. The company offers preclinical contract research and development services within metabolic and fibrotic diseases for the pharmaceutical and biotechnology industry; and various services in vivo pharmacology, biomarker assays, bioinformatics, next gen sequencing, bioinformatics, and 2D and 3D histology with artificial in",
+      "fullTimeEmployees": 330,
+      "industry": "Biotechnology",
+      "sector": "Healthcare"
+    },
+    "tradingCurrency": "DKK"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-05T13:36:25.762Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "GUBRA.CO"
+}

@@ -1,0 +1,32 @@
+{
+  "contentHash": "243f50832cc4184e",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Ambu meddelte, at selskabet i perioden 24.-28. august 2026 har foretaget yderligere tilbagekøb af egne aktier under sit igangværende aktietilbagekøbsprogram, og opgjorde den samlede beholdning af egne aktier efter programmet.",
+        "key": "da18ff58b2abf0b2",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "Ambu A/S, selskabsmeddelelse offentliggjort via Ritzau",
+        "url": "https://via.ritzau.dk/announcement/15125887",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Ambu reported transactions carried out under its ongoing share buyback programme, stating the programme runs from 6 May 2026 until no later than 30 September 2026 and is executed to reduce the share capital under MAR Article 5(2)(a).",
+        "key": "a10b49c32e88a975",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T13:27:24Z",
+        "source": "Ambu A/S company announcement, reproduced by MarketScreener",
+        "url": "https://www.marketscreener.com/news/ambu-a-s-company-announcement-transactions-under-ambus-share-buyback-program-31-august-ce7858dcde8aff2d",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-05T13:27:24Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "AMBU-B.CO"
+}

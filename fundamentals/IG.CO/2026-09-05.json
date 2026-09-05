@@ -1,0 +1,227 @@
+{
+  "binding": "curated",
+  "contentHash": "756c921d1b447bb0",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 174997000,
+        "cash": 134418000,
+        "cashAndShortTerm": 134418000,
+        "currentAssets": 1339450000,
+        "currentLeasePrincipal": 59379000,
+        "debtWithLeases": 849395000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 186074000,
+        "inventory": 66744000,
+        "longTermDebt": 425182000,
+        "longTermProvisions": 14143000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 125234000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 300503757,
+        "shortTermDebt": 249216000,
+        "totalAssets": 3282191000,
+        "totalCurrentLiabilities": 1139774000,
+        "totalDebt": 849395000,
+        "totalEquity": 1276166000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 81144000,
+        "cash": 62157000,
+        "cashAndShortTerm": 62157000,
+        "currentAssets": 945386000,
+        "currentLeasePrincipal": 28531000,
+        "debtWithLeases": 498055000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 125128000,
+        "inventory": 54418000,
+        "longTermDebt": 337140000,
+        "longTermProvisions": 15722000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 107485000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 300503757,
+        "shortTermDebt": 79771000,
+        "totalAssets": 2485254000,
+        "totalCurrentLiabilities": 756053000,
+        "totalDebt": 498055000,
+        "totalEquity": 1091113000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 80540000,
+        "cash": 68412000,
+        "cashAndShortTerm": 68412000,
+        "currentAssets": 721269000,
+        "currentLeasePrincipal": 23161000,
+        "debtWithLeases": 165532000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 101731000,
+        "inventory": 26289000,
+        "longTermDebt": 62659000,
+        "longTermProvisions": 14525000,
+        "otherNonCurrentLiab": 82672000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 300503757,
+        "shortTermDebt": 22333000,
+        "totalAssets": 1898765000,
+        "totalCurrentLiabilities": 617994000,
+        "totalDebt": 165532000,
+        "totalEquity": 961805000,
+        "year": 2023
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -309000,
+        "capitalExpenditures": -23240000,
+        "depreciation": 243665000,
+        "dividendsPaid": null,
+        "freeCashFlow": 388548000,
+        "operatingCashFlow": 411788000,
+        "stockBasedCompensation": null,
+        "year": 2025
+      },
+      {
+        "buyback": -1850000,
+        "capitalExpenditures": -12496000,
+        "depreciation": 128322000,
+        "dividendsPaid": null,
+        "freeCashFlow": 105084000,
+        "operatingCashFlow": 117580000,
+        "stockBasedCompensation": null,
+        "year": 2024
+      }
+    ],
+    "cvrFilings": {
+      "cvr": "43891871",
+      "latestInterim": {
+        "periodEnd": "2026-06-30",
+        "publishedAt": "2026-09-01T12:51:17.797Z",
+        "reportIsPdf": false,
+        "reportUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzLzU2LzkwL2UyL2EwLzljN2ItNDM0YS1iZGNmLTlmNDk5YzFhNWY3OA.xhtml",
+        "xbrlUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzL2RiLzRjLzBkLzAyLzVhYjEtNGQzOS1iZWZmLWQ4MDE5M2EwNzJmZA.xml",
+        "year": 2026
+      },
+      "reports": [
+        {
+          "periodEnd": "2025-12-31",
+          "publishedAt": "2026-04-29T08:20:48.901Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzL2ZlLzA4Lzg3L2RlLzQ1NmItNGY0Ni04OWNjLTkzNTE2M2E1NmFkMw.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzL2Q5LzU4LzVmLzA5L2E4MTctNDIwMi05N2ZmLTlmOTUxOGY0ZWJjMg.xml",
+          "year": 2025
+        },
+        {
+          "periodEnd": "2024-12-31",
+          "publishedAt": "2025-05-28T14:01:07.539Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzLzE4LzAxL2U3L2Y0LzZlNzEtNGM4ZS1iZDcwLTc3YTlkZTRmYzMwNg.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzLzI3LzMzL2UzL2Y3L2EzYmEtNGZmZC05NmIwLTM5MThlMDM3MzI3ZA.xml",
+          "year": 2024
+        },
+        {
+          "periodEnd": "2023-12-31",
+          "publishedAt": "2024-05-06T11:57:15.965Z",
+          "reportIsPdf": false,
+          "reportUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzLzA5L2Q0LzlhL2ZlL2YxNTQtNGI2MS1hYTA3LTBkNTM3OTQ4YzNlYg.xhtml",
+          "xbrlUrl": "http://regnskaber.virk.dk/17819834/amNsb3VkczovLzAzLzg4L2FkLzY1LzMxLzVmNjctNGMwMi04Njg3LTg0YjZiMTZkODI3NA.xml",
+          "year": 2023
+        }
+      ],
+      "source": "Erhvervsstyrelsen / Virk (officiel)"
+    },
+    "financialCurrency": "DKK",
+    "incomeHistory": [
+      {
+        "ebit": 244007000,
+        "grossProfit": 2051253000,
+        "incomeBeforeTax": 114888000,
+        "incomeTaxExpense": 39871000,
+        "interestExpense": 116056000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 75017000,
+        "officialFields": [
+          "revenue",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "officialFinanceCosts": 115500000,
+        "officialFinanceIncome": 45216000,
+        "operatingIncome": 198316000,
+        "periodEnd": "2025-12-31",
+        "revenue": 3705467000,
+        "year": 2025
+      },
+      {
+        "ebit": 99555000,
+        "grossProfit": 1266550000,
+        "incomeBeforeTax": 70401000,
+        "incomeTaxExpense": 26612000,
+        "interestExpense": 29154000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 43789000,
+        "officialFields": [
+          "revenue",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "officialFinanceCosts": 67130000,
+        "officialFinanceIncome": 9721000,
+        "operatingIncome": 127809000,
+        "periodEnd": "2024-12-31",
+        "revenue": 2457819000,
+        "year": 2024
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": -1040000,
+        "incomeTaxExpense": 13586000,
+        "interestExpense": 24984000,
+        "netIncome": -14626000,
+        "operatingIncome": null,
+        "revenue": 1399165000,
+        "year": 2023
+      }
+    ],
+    "insiderHolders": [],
+    "insiderTransactions": [],
+    "profile": {
+      "country": "Denmark",
+      "description": "InstallatørGruppen A/S operates as a technical installation group in Denmark and Switzerland. The company offers services, such as in the fields of plumbing, heating, ventilation and air conditioning, refrigeration and electrical systems, cooling and adjacent disciplines as well as in selected specialist areas, including sprinkler systems, energy optimization, building automation, fibre-optic infrastructure and solar panel installations. The company serves residential, commercial, industrial, and public-sector building markets. The company was incorporated in 2022 and is based in Roskilde, Den",
+      "fullTimeEmployees": 2341,
+      "industry": "Engineering & Construction",
+      "sector": "Industrials"
+    },
+    "tradingCurrency": "DKK"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-05T13:37:23.050Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "IG.CO"
+}

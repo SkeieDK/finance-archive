@@ -1,0 +1,77 @@
+{
+  "contentHash": "105711bb4ddc83d7",
+  "payload": {
+    "count": 7,
+    "items": [
+      {
+        "claim": "Bakkafrosts adm. direktør Regin Jacobsen udtalte i forbindelse med kvartalsrapporten: 'Overall, we are satisfied with the clear improvement in operating performance in the second quarter'.",
+        "key": "e237e5fe09bea2ad",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "P/F Bakkafrost, kvartalsmeddelelse; citat af CEO Regin Jacobsen",
+        "url": "https://www.bakkafrost.com/en/about-us/news/strong-faroese-performance-lifts-operational-ebit-improved-market-outlook",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bakkafrost fastholdt sin guidance for 2026 om et samlet slagtevolumen på 117.000 tons fordelt på Færøerne og Skotland, og gentog investeringsplanens mål om 162.000 tons årligt slagtevolumen i 2030.",
+        "key": "207560385d3ae81c",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "P/F Bakkafrost, kvartalsmeddelelse",
+        "url": "https://www.bakkafrost.com/en/about-us/news/strong-faroese-performance-lifts-operational-ebit-improved-market-outlook",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bakkafrost oplyste, at selskabet forventer, at den globale udbudsvækst aftager markant i andet halvår 2026, hvilket efter selskabets vurdering forbedrer markedsbalancen.",
+        "key": "cc85e42cba8a992e",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "P/F Bakkafrost, kvartalsmeddelelse",
+        "url": "https://www.bakkafrost.com/en/about-us/news/strong-faroese-performance-lifts-operational-ebit-improved-market-outlook",
+        "verifiedAs": null
+      },
+      {
+        "claim": "CEO Regin Jacobsen said the group was \"satisfied with the clear improvement in operating performance in the second quarter\", presenting the quarter under the heading that strong Faroese performance lifted operational EBIT alongside an improved market outlook.",
+        "key": "1996c80db56e9007",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T13:27:24Z",
+        "source": "Regin Jacobsen, CEO, Bakkafrost P/f, in the Q2 2026 report announcement on Oslo Bors newsweb",
+        "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681223",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jacobsen said the company was \"not satisfied with the result in Scotland\", attributing it to substantially lower harvest volumes and biological challenges affecting one batch of fish originating from externally sourced smolt.",
+        "key": "aadf0698d5c33906",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T13:27:24Z",
+        "source": "Regin Jacobsen, CEO, Bakkafrost P/f",
+        "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681223",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jacobsen said the company's priorities remain unchanged: \"strengthen biological control, improve cost efficiency and restore stable production volumes in Scotland, while maintaining disciplined execution of our investment programme\".",
+        "key": "4c461eee77524400",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T13:27:24Z",
+        "source": "Regin Jacobsen, CEO, Bakkafrost P/f",
+        "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681223",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bakkafrost said it had identified a classification error in the appendix to the Q2 2026 report and presentation, where operating expenses for Scotland and the Faroe Islands were incorrectly classified as depreciation and amortisation, and stated the error has no effect on EBIT, EBITDA, reported regional or group results, cash flow, balance sheet, guidance or any other key performance indicators.",
+        "key": "1dd7cf0c63c086ea",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-05T13:27:24Z",
+        "source": "Bakkafrost P/f company announcement on Oslo Bors newsweb",
+        "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681263",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-05T13:27:24Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "BAKKA.OL"
+}

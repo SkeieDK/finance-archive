@@ -1,0 +1,26 @@
+{
+  "contentHash": "8b793924201ec90e",
+  "payload": {
+    "claim": "Change the view to constructive if two consecutive quarters show TTM gross margin stabilising at or above 80.5% while adjusted operating profit grows at CER, FY2027 guidance is set at positive sales AND operating profit growth at CER, and prescription-share data shows Novo holding or regaining GLP-1 volume share against Lilly. Change it to negative if the IRA maximum fair price effective Jan-2027 plus cash-pay oral pricing drives TTM gross margin below 78%, if FY2026 guidance is cut back toward the original -4/-12% range, if free cash flow fails to cover the dividend and the DKK 15bn buyback (current ratio deteriorating below 0.8), or if the integrity gate escalates from Flag toward a finding that touches the accounts rather than promotional conduct.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-06-30",
+      "basis": "ttm",
+      "confidence": 0.76,
+      "metric": "gross_margin_pct",
+      "op": "<",
+      "periodEnd": "2027-06-30",
+      "reasoning": "TTM gross margin has already dropped from 81.85% to 80.65% in a single quarter as cash-pay oral Wegovy, TrumpRx-style US net price cuts and generic semaglutide in international markets bite, and the IRA maximum fair price for semaglutide lands inside this window (Jan-2027); the market's implied 4.3% growth path and the screen's 'margin-defensibility' both assume this stabilises, whereas I expect price-per-unit erosion to keep running ahead of mix and cost savings.",
+      "statedQuartersAhead": 4,
+      "value": 79
+    },
+    "resolveBy": "2027-09-30",
+    "ticker": "NOVO-B.CO",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-09-30",
+  "recordedAt": "2026-08-29T13:06:22.532Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "NOVO-B.CO"
+}

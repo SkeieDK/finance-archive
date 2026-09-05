@@ -1,0 +1,26 @@
+{
+  "contentHash": "906b0b2941bf535b",
+  "payload": {
+    "claim": "Change the reading if any of these occur: (1) the DOJ search or ad-tech remedy is finalised — a distribution-default-payments ban or forced ad-tech divestiture resolves the structural question in one direction, a conduct-only remedy resolves it in the other; (2) FY2027 CapEx guidance is set below the FY2026 $195-205bn range with Cloud backlog still converting, which would mark the end of the investment supercycle and restore FCF conversion toward 80%+; (3) Google Services revenue growth decelerates below ~10% YoY for two consecutive quarters, the first hard evidence that AI is re-routing the search-ads funnel; (4) reported net income converges toward core operating earnings, i.e. the mark-to-market distortion unwinds and the true multiple becomes observable; or (5) the integrity gate escalates from Flag to Disqualifying — anything touching Alphabet's own reported numbers rather than its conduct.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-06-30",
+      "basis": "ttm",
+      "confidence": 0.72,
+      "metric": "net_margin_pct",
+      "op": "<",
+      "periodEnd": "2027-06-30",
+      "reasoning": "The TTM net margin of 54.77% to 2026-06-30 is an artefact of $98bn in unrealized mark-to-market equity gains in a single quarter (TTM to 2026-03-31 was 37.92%); when that quarter rolls out of the window, and with $195-205bn of CapEx pushing depreciation into the P&L, the underlying rate should sit in the low-to-mid 30s. This is precisely where I depart from the market: the 16.9x P/E and PEG 0.59 that make the screen pass are computed on a net income the business does not actually generate from operations.",
+      "statedQuartersAhead": 4,
+      "value": 40
+    },
+    "resolveBy": "2027-09-30",
+    "ticker": "GOOGL",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-09-30",
+  "recordedAt": "2026-09-02T19:50:37.364Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "GOOGL"
+}

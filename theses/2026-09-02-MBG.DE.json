@@ -1,0 +1,26 @@
+{
+  "contentHash": "4bec090f072212b4",
+  "payload": {
+    "claim": "Change the view constructively if: (a) Mercedes-Benz Cars adjusted Return on Sales guidance is raised above the current 3–5% band for FY2027 and China retail volumes stop declining YoY for two consecutive quarters; (b) the company discloses an industrial-only leverage figure showing industrial net debt/EBITDA materially below the 5.2x group number; (c) the dividend is reset to a payout that the trough earnings actually cover, removing the distress signal. Change the view negatively if: industrial FCF guidance falls below €3bn, further China impairments recur in a second consecutive quarter, the 40-model offensive slips beyond 2027, or the conduct gate escalates from Flag toward evidence that fines are a price of the business model rather than legacy items.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-06-30",
+      "basis": "ttm",
+      "confidence": 0.72,
+      "metric": "ebit_margin_pct",
+      "op": "<",
+      "periodEnd": "2027-06-30",
+      "reasoning": "Company guidance itself caps Cars adjusted RoS at 3–5% with revenue slightly below prior year and industrial FCF below €5.4bn, and the TTM EBIT margin has been flat-to-down (4.69% → 4.78%) even with a Q2 beat; reaching 6.0% on rolling twelve months by mid-2027 would require ~24% EBIT growth on falling revenue. This differs from the sell-side recovery path embedded in the ~9x forward P/E and the €57.2 target, while still rejecting the price's implied halving of steady-state earnings.",
+      "statedQuartersAhead": 4,
+      "value": 6
+    },
+    "resolveBy": "2027-09-30",
+    "ticker": "MBG.DE",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-09-30",
+  "recordedAt": "2026-09-02T20:02:03.429Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "MBG.DE"
+}

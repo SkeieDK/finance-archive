@@ -1,0 +1,50 @@
+{
+  "contentHash": "9295b0e52924ab62",
+  "payload": {
+    "count": 4,
+    "items": [
+      {
+        "claim": "BW LPG meddelte, at selskabet lancerer et udbud af seniore usikrede konvertible obligationer med forfald i 2031, og oplyste at provenuet delvist skal finansiere nybygningsprogrammet hos Hyundai Heavy Industries for otte Panamax VLGC'er samt generelle selskabsformål.",
+        "key": "b8dda1239a005fe7",
+        "publishedAt": "2026-09-01",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "BW LPG Limited, selskabsmeddelelse",
+        "url": "https://www.bwlpg.com/bw-lpg-launches-approximately-usd-300-million-senior-unsecured-convertible-bond-offering/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "BW LPG meddelte, at obligationsudbuddet er gennemført, og adm. direktør Kristian Sørensen udtalte: 'We are pleased with the strong support from institutional investors for this offering, which reflects confidence in BW LPG's market-leading position and future growth opportunities'.",
+        "key": "09ff8d20be7a709b",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "BW LPG Limited, selskabsmeddelelse; citat af CEO Kristian Sørensen",
+        "url": "https://www.bwlpg.com/bw-lpg-successfully-places-a-usd-300-million-offering-of-senior-unsecured-convertible-bonds/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "BW LPG said it had launched an offering of approximately USD 300 million of senior unsecured convertible bonds, stating that \"the Company intends to use the net proceeds to partly finance the newbuild program with Hyundai Heavy Industries for eight Panamax VLGCs, and for general corporate purposes\".",
+        "key": "90849e3bb80849d7",
+        "publishedAt": "2026-09-01",
+        "recordedAt": "2026-09-05T13:27:24Z",
+        "source": "BW LPG Limited company announcement on Oslo Bors newsweb",
+        "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681417",
+        "verifiedAs": null
+      },
+      {
+        "claim": "BW LPG said it had successfully placed the USD 300 million offering of senior unsecured convertible bonds due 2031, convertible into new shares, repeating that net proceeds are intended partly to finance the eight-Panamax-VLGC newbuild program with Hyundai Heavy Industries and for general corporate purposes.",
+        "key": "5f821a2b299d52d0",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-05T13:27:24Z",
+        "source": "BW LPG Limited company announcement on Oslo Bors newsweb",
+        "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681431",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-05T13:27:24Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "BWLPG.OL"
+}

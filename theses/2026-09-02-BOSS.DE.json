@@ -1,0 +1,26 @@
+{
+  "contentHash": "894ea48254dd5746",
+  "payload": {
+    "claim": "Change the verdict if any of these break: (1) FY2026 EBIT guidance is cut below the €300m floor or the mid-to-high-single-digit sales decline is widened — that converts a cyclical trough into structural brand erosion and kills the reverse-DCF mispricing argument; (2) the gross-margin gain reverses (a quarter of flat-to-negative YoY gross margin alongside rising inventory), which would mean the 15% inventory cut was bought with markdowns rather than better sell-through; (3) Frasers crosses 50%, triggers or evades a mandatory offer, or wins its challenge to the Supervisory Board chair and installs its own strategy — a governance escalation that reprices the minority's claim on cash flow, not the cash flow itself; (4) EMEA currency-adjusted decline fails to moderate from -13% over two consecutive quarters, or peer share data shows Boss losing ground while the premium segment stabilises; (5) an integrity gate escalation from Flag toward the company's own accounts (the Danish RPM/Xinjiang files as they stand do not reach that bar and impose nothing on the verdict). Upgrade only if guidance stabilises AND the control question resolves in a way that leaves minorities whole.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-06-30",
+      "basis": "ttm",
+      "confidence": 0.7,
+      "metric": "gross_margin_pct",
+      "op": ">",
+      "periodEnd": "2026-12-31",
+      "reasoning": "TTM gross margin has already turned up (61.75% → 62.17%) on a Q2 print of +200bps YoY achieved while cutting inventory 15%, which is the opposite of a markdown-driven clearance; the price, implying -11.6% annual decline for a decade, is paying for a brand losing pricing power, so continued gross-margin expansion is precisely where my reading departs from the market's.",
+      "statedQuartersAhead": 2,
+      "value": 62.5
+    },
+    "resolveBy": "2027-03-31",
+    "ticker": "BOSS.DE",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-03-31",
+  "recordedAt": "2026-09-02T20:07:46.383Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "BOSS.DE"
+}

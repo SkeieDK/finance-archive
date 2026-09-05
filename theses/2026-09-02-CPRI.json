@@ -1,0 +1,26 @@
+{
+  "contentHash": "a0eb1005e0329980",
+  "payload": {
+    "claim": "Change the view if (a) Michael Kors posts two consecutive quarters of positive constant-currency revenue growth with flat-to-lower markdown intensity, (b) TTM EBIT margin from continuing operations sustains above roughly 6% rather than the current 2.35%, or (c) free cash flow conversion recovers above ~60% of net income for a full year, confirming the adjusted EPS is real cash. Conversely, escalate to a harder negative if FY2027 revenue guidance is cut below ~$3.3bn, if gross margin gains reverse under tariff pass-through, or if the integrity gate escalates from Flag toward Disqualifying on any matter touching the company's own reported numbers.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-06-30",
+      "basis": "ttm",
+      "confidence": 0.7,
+      "metric": "revenue_growth_pct",
+      "op": "<",
+      "periodEnd": "2027-06-30",
+      "reasoning": "Q1 FY2027 revenue fell 3.5% and management's own ~$3.40bn FY2027 guide implies roughly a 3% decline against a ~$3.5bn continuing-operations base, with traffic still negative at Michael Kors; the market's reverse DCF is paying for only -0.7% a year, so I am explicitly betting that near-term contraction runs steeper than the price assumes even as gross margin improves.",
+      "statedQuartersAhead": 4,
+      "value": -2
+    },
+    "resolveBy": "2027-09-30",
+    "ticker": "CPRI",
+    "verdict": "AVOID"
+  },
+  "periodEnd": "2027-09-30",
+  "recordedAt": "2026-09-02T19:55:13.539Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "CPRI"
+}

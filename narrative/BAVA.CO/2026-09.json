@@ -1,0 +1,41 @@
+{
+  "contentHash": "07e9ffc48c9c0bc5",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Bavarian Nordic meddelte, at selskabet har igangsat første tranche af et nyt aktietilbagekøbsprogram med det formål at tilpasse kapitalstrukturen gennem efterfølgende annullering af de tilbagekøbte aktier, og at Nordea er udpeget som lead manager til at gennemføre købene uafhængigt af selskabet.",
+        "key": "8cb506f992b9cde3",
+        "publishedAt": "2026-09-01",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse (IR-kontakt: Anders Hjort, Head of Investor Relations)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/01/3353788/0/en/bavarian-nordic-launches-first-tranche-of-new-share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic meddelte en kapitalforhøjelse som følge af medarbejderes udnyttelse af tegningsoptioner, og oplyste at 'The new shares, which will rank pari passu in all respects with existing Bavarian Nordic shares, will be admitted to trading and official listing on Nasdaq Copenhagen as soon as possible'.",
+        "key": "2dd5dae68878ad5f",
+        "publishedAt": "2026-09-04",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/09/04/3356380/0/en/capital-increase-in-bavarian-nordic-a-s-as-a-result-of-employee-warrant-exercise.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic indberettede ledelsestransaktioner, hvor Russell Thirsk, Executive Vice President og Chief Operating Officer, udnyttede tegningsoptioner og samme dag afhændede de tegnede aktier, og bestyrelsesmedlem Anja Gjøl afhændede aktier den 3. september 2026.",
+        "key": "02e6e97a236176be",
+        "publishedAt": "2026-09-04",
+        "recordedAt": "2026-09-05T07:31:44Z",
+        "source": "Bavarian Nordic A/S, indberetning af ledende medarbejderes transaktioner",
+        "url": "https://www.globenewswire.com/news-release/2026/09/04/3356694/0/en/report-of-transactions-of-shares-and-related-securities-of-bavarian-nordic-by-persons-holding-managerial-responsibilities-and-or-persons-companies-closely-associated-with-such.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-05T07:31:44Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "BAVA.CO"
+}
