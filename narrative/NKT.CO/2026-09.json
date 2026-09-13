@@ -1,0 +1,32 @@
+{
+  "contentHash": "331aa992e0b7892d",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "At the inauguration of NKT's expanded medium-voltage cable factory in Asnaes, factory director Rene Olsen said the plant's cables 'may not be something most people think about in their everyday lives. But they are an important part of the infrastructure that keeps homes, businesses and communities connected across Europe', and that the expansion 'marks a new chapter of growth for Asnaes' in which NKT has 'not only invested in buildings and machinery; we have also welcomed many new colleagues, increased our capacity, and created new opportunities'.",
+        "key": "eac57264b0a593be",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-10T06:25:00Z",
+        "source": "Offshore Energy report on the Asnaes inauguration; quotes attributed to Rene Olsen, factory director, NKT Asnaes",
+        "url": "https://www.offshore-energy.biz/nkt-inaugurates-expanded-power-cable-factory-in-denmark/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Odsherred mayor Hanne Pigonska said the Asnaes expansion is 'an impressive expansion and a very visible demonstration that NKT believes in the future', adding that 'the green transition requires more than wind turbines and solar panels. It also requires power cables that can safely transport electricity to where it is needed.'",
+        "key": "f0f848ce9625c445",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-10T06:25:00Z",
+        "source": "Offshore Energy report on the Asnaes inauguration; quotes attributed to Hanne Pigonska, Mayor of Odsherred Municipality",
+        "url": "https://www.offshore-energy.biz/nkt-inaugurates-expanded-power-cable-factory-in-denmark/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-10T06:25:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NKT.CO"
+}

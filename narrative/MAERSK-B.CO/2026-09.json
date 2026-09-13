@@ -1,0 +1,41 @@
+{
+  "contentHash": "e72d823cfc002523",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Maersk said Roberta Duarte will rejoin the company as Chief People Officer from 1 November, succeeding Susana Elvira, with Duarte quoted saying she is 'truly honoured to return to Maersk' and that the company 'feels like home'.",
+        "key": "3964b03fc54089a6",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "A.P. Moller - Maersk company announcement; quote attributed to Roberta Duarte",
+        "url": "https://www.maersk.com/news/articles/2026/09/02/roberta-duarte-to-join-maersk-as-chief-people-officer",
+        "verifiedAs": null
+      },
+      {
+        "claim": "In a customer advisory Maersk said several severe typhoons (Bavi, Dolphin, Narra, Peilou and Chan-Hom) have caused flooding and congestion, that all 14 of the region's busiest ports are seeing reduced on-time vessel arrivals, and that its Gemini network 'remains the more reliable network'.",
+        "key": "4511781d066b2b2f",
+        "publishedAt": "2026-09-04",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "A.P. Moller - Maersk advisory, East Asia typhoon season impacting logistics",
+        "url": "https://www.maersk.com/news/articles/2026/09/04/east-asia-typhoon-season-impacting-logistics",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk told customers it is applying a 'No Movement Reference Number - No Load' policy under EU ICS2 for cargo transiting the European Union, and separately restricted exports of shipper-owned containers from Hungary worldwide.",
+        "key": "9ea780b15a0aa531",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "A.P. Moller - Maersk advisories page",
+        "url": "https://www.maersk.com/news/category/advisories",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-09T06:13:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "MAERSK-B.CO"
+}

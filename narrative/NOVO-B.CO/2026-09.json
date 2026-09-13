@@ -1,7 +1,7 @@
 {
-  "contentHash": "1e655a0e798de638",
+  "contentHash": "29aa541dbb11e09f",
   "payload": {
-    "count": 28,
+    "count": 31,
     "items": [
       {
         "claim": "Novo Nordisk oplyste torsdag, at Kinas laegemiddelmyndighed har accepteret selskabets ansoegning om markedsfoering af den orale version af vaegttabsmidlet Wegovy.",
@@ -254,12 +254,39 @@
         "source": "FiercePharma (Oral GLP-1 Tracker)",
         "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
         "verifiedAs": null
+      },
+      {
+        "claim": "Martin Holst Lange, Novo Nordisks forskningsdirektør, sagde at selskabet er opmuntret over semaglutids potentiale til at hjælpe børn med svær overvægt, som har behov for medicinsk behandling ved siden af livsstilsændringer, da selskabet fremlagde fase 3-resultater fra STEP Young.",
+        "key": "83a0d51ee1f62657",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-13T06:11:34Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse (citat: Martin Holst Lange, EVP og Chief Scientific Officer)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/07/3357042/0/en/novo-nordisk-step-young-phase-3-data-40-4-of-children-living-with-obesity-achieved-a-bmi-below-the-obesity-threshold-with-semaglutide-and-lifestyle-modification.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Professor Ania M. Jastreboff, Yale Obesity Research Center, sagde i Novo Nordisks meddelelse at fedme hos børn er særligt bekymrende på grund af både de umiddelbare og de vedvarende konsekvenser for helbredet.",
+        "key": "a22c955ee6b12cdd",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-13T06:11:34Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse (citat: Ania M. Jastreboff, MD, PhD)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/07/3357042/0/en/novo-nordisk-step-young-phase-3-data-40-4-of-children-living-with-obesity-achieved-a-bmi-below-the-obesity-threshold-with-semaglutide-and-lifestyle-modification.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk meddelte at selskabet har gennemført yderligere tilbagekøb af B-aktier i perioden 31. august til 4. september under det program, der blev igangsat 6. maj 2026 i henhold til artikel 5 i forordning 596/2014, og som ligger inden for en samlet bemyndigelse på op til 15 mia. kr. over 12 måneder.",
+        "key": "bfcd3f9b10ee99ab",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-13T06:11:34Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse om aktietilbagekøbsprogram",
+        "url": "https://www.globenewswire.com/news-release/2026/09/07/3357083/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-05T05:08:42Z",
+  "recordedAt": "2026-09-13T06:11:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

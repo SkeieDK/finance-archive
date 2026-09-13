@@ -1,7 +1,7 @@
 {
-  "contentHash": "a901974f68055eda",
+  "contentHash": "834648b42f3331f0",
   "payload": {
-    "count": 1,
+    "count": 2,
     "items": [
       {
         "claim": "The Goldman Sachs Group filed a major-shareholdings disclosure in BlueNord ASA, reporting a change in its shareholding requiring public disclosure; this was one of several such filings published in the window, and BlueNord itself issued no company announcement in the period.",
@@ -11,12 +11,21 @@
         "source": "The Goldman Sachs Group, Inc., major shareholdings notification published on Oslo Bors newsweb",
         "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681648",
         "verifiedAs": null
+      },
+      {
+        "claim": "BlueNord oplyste i sin månedsmeddelelse om foreløbig produktion for august at der blev sat ny rekord for daglig produktionsrate den 17. august, og at produktionen fra basisaktiverne var lavere end i tidligere måneder på grund af den planlagte vedligeholdelsesnedlukning på Halfdan A og udskiftning af et lækkende produktionsmanifold på Dan, men at produktionen var tilbage på normalt niveau ved månedens udgang.",
+        "key": "5a6eb05f2c9f6f61",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-13T06:11:34Z",
+        "source": "BlueNord ASA, børsmeddelelse (kontakt oplyst: Cathrine Torgersen, Chief Corporate Affairs Officer)",
+        "url": "https://www.bluenord.com/stock-exchange-news/bluenord-preliminary-production-figures-for-august-2026/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-05T13:27:24Z",
+  "recordedAt": "2026-09-13T06:11:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "BNOR.OL"

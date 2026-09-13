@@ -1,7 +1,7 @@
 {
-  "contentHash": "243f50832cc4184e",
+  "contentHash": "6e40228f90f358fe",
   "payload": {
-    "count": 2,
+    "count": 3,
     "items": [
       {
         "claim": "Ambu meddelte, at selskabet i perioden 24.-28. august 2026 har foretaget yderligere tilbagekøb af egne aktier under sit igangværende aktietilbagekøbsprogram, og opgjorde den samlede beholdning af egne aktier efter programmet.",
@@ -20,12 +20,21 @@
         "source": "Ambu A/S company announcement, reproduced by MarketScreener",
         "url": "https://www.marketscreener.com/news/ambu-a-s-company-announcement-transactions-under-ambus-share-buyback-program-31-august-ce7858dcde8aff2d",
         "verifiedAs": null
+      },
+      {
+        "claim": "JPMorgan fastholdt ifølge dækningen sin neutrale anbefaling på Ambu og satte aktien på bankens \"Negative Catalyst Watch\" frem mod fjerdekvartalsregnskabet den 5. november 2026, med henvisning til bekymring om marginforventningerne for regnskabsåret 2027.",
+        "key": "68e4bb81418b68b3",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-09-13T06:11:34Z",
+        "source": "ad-hoc-news.de, refererer JPMorgans analytikere",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ambu-stock-gains-as-jpmorgan-puts-margins-in-the-spotlight/70080831",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-05T13:27:24Z",
+  "recordedAt": "2026-09-13T06:11:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "AMBU-B.CO"

@@ -1,0 +1,23 @@
+{
+  "contentHash": "49c138d82446e6a0",
+  "payload": {
+    "count": 1,
+    "items": [
+      {
+        "claim": "Norsk Hydro filed a stock exchange notice titled 'Shareholder Disclosure Notification' under the category MAJOR SHAREHOLDINGS NOTIFICATION, whose entire message body reads 'Please see attachment on www.newsweb.no' and which names no disclosing shareholder in the message itself.",
+        "key": "513dc54d0f491bdb",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-10T06:25:00Z",
+        "source": "Norsk Hydro ASA stock exchange announcement, published via Oslo Boers NewsWeb (message id 681723)",
+        "url": "https://api3.oslo.oslobors.no/v1/newsreader/message?messageId=681723",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-10T06:25:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NHY.OL"
+}

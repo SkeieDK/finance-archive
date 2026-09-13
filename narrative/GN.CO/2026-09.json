@@ -1,0 +1,41 @@
+{
+  "contentHash": "786b32bd728c3023",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "GN lancerede Jabra Reach, en BYOD-løsning der samler video, lyd, USB og valgfri strøm i ét USB-C-kabel og forlænger forbindelsen op til 100 meter; produktet er annonceret til tilgængelighed 5. oktober 2026.",
+        "key": "5f56516d2330bb46",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-06T06:13:02Z",
+        "source": "GN Store Nord / Jabra, nyhed på selskabets newsroom",
+        "url": "https://www.gn.com/Newsroom/News/2026/September/Jabra-Reach-brings-single-cable-simplicity-to-video-meeting-collaboration",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Holger Reisinger, Senior Vice President for Jabras video-forretningsenhed, sagde at det at gå ind i et mødelokale og tilslutte sin egen bærbare burde være det enkleste i verden, men alt for ofte ikke er det, og at Jabra Reach adresserer problemet på infrastrukturniveau med ét kabel der virker med enhver video bar eller room system.",
+        "key": "4d81653f853c4016",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-06T06:13:02Z",
+        "source": "Holger Reisinger, SVP Jabra Video Business Unit, GN",
+        "url": "https://www.gn.com/Newsroom/News/2026/September/Jabra-Reach-brings-single-cable-simplicity-to-video-meeting-collaboration",
+        "verifiedAs": null
+      },
+      {
+        "claim": "GN meddelte samtidig firmware-opdateringer til Jabra PanaCast-porteføljen med bl.a. personoptælling, brugerdefineret baggrund, browserbaseret konfiguration og CLI-funktionalitet.",
+        "key": "bffbbbe705d6cde8",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-06T06:13:02Z",
+        "source": "GN Store Nord / Jabra, nyhed på selskabets newsroom",
+        "url": "https://www.gn.com/Newsroom/News/2026/September/Jabra-Reach-brings-single-cable-simplicity-to-video-meeting-collaboration",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-06T06:13:02Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "GN.CO"
+}

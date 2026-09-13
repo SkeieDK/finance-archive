@@ -1,0 +1,26 @@
+{
+  "contentHash": "08c7df62a67b480e",
+  "payload": {
+    "claim": "Change the view to constructive if (a) two consecutive quarters show organic revenue growth of 20%+ in local currency EXCLUDING the DKK 15.1m IFRS reallocation, i.e. genuine XcytoMatic XM30 placement volume rather than reclassification, (b) the Roche Diagnostics collaboration is disclosed as converting into a specified number of instrument placements or a committed consumables stream, and (c) FY2026/27 guidance is set at 20%+ revenue growth off the 505–525m base with EBITDA margin held above 54%. Change it negatively if guidance is cut again, if organic growth reverts to flat/negative for two quarters, if gross margin slips below 90% (evidence the automated platform is being priced against competition rather than sold on differentiation), or if the disclosure file escalates from administrative reprimands to a restatement or a formal accounting directive touching reported revenue.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.72,
+      "fiscalYear": 2027,
+      "metric": "revenue_growth_pct",
+      "op": "<",
+      "reasoning": "Raised guidance of DKK 505–525m implies roughly 12–16% growth for the current year, of which about 3pp is the non-recurring DKK 15.1m IFRS reallocation, leaving underlying growth near 10%; with CGT customer funding cycles and slow pharma validation cited in the bear case, the following year should land below 15% — well short of the 25.5% compounding the price is paying for.",
+      "statedYearsAhead": 2,
+      "value": 15
+    },
+    "resolveBy": "2028-06-30",
+    "ticker": "CHEMM.CO",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2028-06-30",
+  "recordedAt": "2026-09-10T15:53:44.440Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "CHEMM.CO"
+}

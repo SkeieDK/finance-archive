@@ -1,0 +1,32 @@
+{
+  "contentHash": "7b4b7b5174f35028",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "In its September Economic Outlook, Nordea Group Chief Economist Helge Pedersen said 'the global economy is demonstrating remarkable resilience in the face of geopolitical conflict, elevated energy prices and trade tensions', and the bank said the Nordic economies continue to outperform other regions while downside risks remain.",
+        "key": "82fa115c6cccaf00",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Nordea press release 'Nordea Economic Outlook: Resilience in motion'; quote attributed to Helge Pedersen",
+        "url": "https://www.nordea.com/en/press/2026-09-02/nordea-economic-outlook-resilience-in-motion",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Nordea Bank Abp announced its 2027 financial reporting calendar, saying the Annual Report for 2026 'will be published in week 8, 2027, at the latest' and that the Annual General Meeting will be held on 24 March 2027.",
+        "key": "ee0ee27e70e89873",
+        "publishedAt": "2026-09-01",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Nordea Bank Abp company announcement",
+        "url": "https://www.prnewswire.com/news-releases/nordea-bank-abps-financial-reporting-in-2027-302865868.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-09T06:13:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NDA-DK.CO"
+}

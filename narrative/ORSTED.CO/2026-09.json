@@ -1,0 +1,41 @@
+{
+  "contentHash": "57a1aba8fae3183b",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Oersted issued a major shareholder announcement stating that Andel, 'which has so far owned 5 % of Oersted's share capital and voting rights, on 9 September 2026 sold 22,800,000 shares', after which Andel 'will hold a total of 43,392,007 shares ... corresponding to 3.28 % of the share capital and voting rights'.",
+        "key": "fd33d3d947b73a9b",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-10T06:25:00Z",
+        "source": "Oersted A/S company announcement (statutory major shareholder disclosure, notification from Andel A.m.b.a.); no individual quoted",
+        "url": "https://www.investegate.co.uk/announcement/eqs/orsted-a-s--0rhe/major-shareholder-announcement/9763045",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bloomberg reported that Andel would sell the stake 'through an overnight, accelerated share sale, bringing its holding in Orsted to about 3.4% from 5% previously', and that Andel, as Oersted's third-largest shareholder, 'will maintain that position even after the sale completes', a year after taking part in Oersted's capital raise.",
+        "key": "3f87618c8c061f3d",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-10T06:25:00Z",
+        "source": "Bloomberg News reporting, relayed by Investing.com; no Andel or Oersted spokesperson named",
+        "url": "https://au.investing.com/news/stock-market-news/andel-to-sell-467-million-orsted-stake-a-year-after-capital-raise--bloomberg-93CH-4632849",
+        "verifiedAs": null
+      },
+      {
+        "claim": "After visiting South Korea, Oersted group president and CEO Rasmus Errboe said 'I've been impressed to see first-hand the industrial capabilities Korea has built through Oersted's collaboration with the local supply chain over more than a decade', framing Korea as able to play a larger role in the offshore wind supply chain.",
+        "key": "b88a288575a0f40f",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-10T06:25:00Z",
+        "source": "Rasmus Errboe, Group President and CEO of Oersted, in a LinkedIn post reported by Ocean Energy Resources",
+        "url": "https://ocean-energyresources.com/2026/09/08/orsted-believes-in-koreas-commitment-to-expanding-renewable-energy/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-10T06:25:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "ORSTED.CO"
+}

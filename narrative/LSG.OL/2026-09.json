@@ -1,0 +1,32 @@
+{
+  "contentHash": "df194be6fc090962",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Lerøy Seafood Group said it has mandated Danske Bank and DNB Carnegie to examine \"the potential issuance of new senior unsecured green bonds\" in NOK, with an expected tenor of six years and an expected size of NOK 750 million, subject to market conditions.",
+        "key": "160949b41ec26aba",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-08T06:25:00Z",
+        "source": "Lerøy Seafood Group ASA company announcement",
+        "url": "https://www.globenewswire.com/news-release/2026/09/08/3357318/0/en/ler%C3%B8y-seafood-group-asa-green-bond-mandate-announcement.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "The company said net proceeds of the contemplated bond issue will be applied to finance or refinance green projects in accordance with its Green Finance Framework, and stated it holds a BBB/Stable rating from Nordic Credit Rating.",
+        "key": "938c4e96d47faf87",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-08T06:25:00Z",
+        "source": "Lerøy Seafood Group ASA company announcement",
+        "url": "https://www.globenewswire.com/news-release/2026/09/08/3357318/0/en/ler%C3%B8y-seafood-group-asa-green-bond-mandate-announcement.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-08T06:25:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "LSG.OL"
+}

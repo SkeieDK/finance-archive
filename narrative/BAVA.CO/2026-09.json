@@ -1,7 +1,7 @@
 {
-  "contentHash": "07e9ffc48c9c0bc5",
+  "contentHash": "30e980a4db68f7f1",
   "payload": {
-    "count": 3,
+    "count": 4,
     "items": [
       {
         "claim": "Bavarian Nordic meddelte, at selskabet har igangsat første tranche af et nyt aktietilbagekøbsprogram med det formål at tilpasse kapitalstrukturen gennem efterfølgende annullering af de tilbagekøbte aktier, og at Nordea er udpeget som lead manager til at gennemføre købene uafhængigt af selskabet.",
@@ -29,12 +29,21 @@
         "source": "Bavarian Nordic A/S, indberetning af ledende medarbejderes transaktioner",
         "url": "https://www.globenewswire.com/news-release/2026/09/04/3356694/0/en/report-of-transactions-of-shares-and-related-securities-of-bavarian-nordic-by-persons-holding-managerial-responsibilities-and-or-persons-companies-closely-associated-with-such.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic meddelte at selskabet har gennemført transaktioner under den første tranche af det nye aktietilbagekøbsprogram, der blev lanceret 1. september 2026, og oplyste at programmet gennemføres i henhold til forordning (EU) nr. 596/2014 og løber frem til 30. oktober 2026 inden for en ramme på 250 mio. kr.",
+        "key": "ad095766d759b9bc",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-13T06:11:34Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/09/07/3356971/0/en/bavarian-nordic-transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-05T07:31:44Z",
+  "recordedAt": "2026-09-13T06:11:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "BAVA.CO"

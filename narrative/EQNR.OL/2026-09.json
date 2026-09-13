@@ -1,0 +1,50 @@
+{
+  "contentHash": "dbdba05721874e58",
+  "payload": {
+    "count": 4,
+    "items": [
+      {
+        "claim": "Equinor meldte at det heleide selskapet East Point Energy har ferdigstilt byggingen av og startet driften ved Citrus Flatts, et energilagringsanlegg på 100 MW/200 MWh i Harlingen, Texas — omtalt som Equinors største energilagringsprosjekt i USA.",
+        "key": "b2e2fb98e8be280b",
+        "publishedAt": "2026-09-03",
+        "recordedAt": "2026-09-06T06:13:02Z",
+        "source": "Equinor ASA, nyhetsmelding på selskapets egen nyhetsside",
+        "url": "https://www.equinor.com/news",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Andrew Foukal, CEO i East Point Energy, sa at prosjektet vil styrke strømnettet og bidra til å holde energikostnadene overkommelige for familier og bedrifter i og rundt Harlingen etter hvert som energietterspørselen i Texas øker.",
+        "key": "dabeea871898086e",
+        "publishedAt": "2026-09-04",
+        "recordedAt": "2026-09-06T06:13:02Z",
+        "source": "Andrew Foukal, CEO, East Point Energy — sitert i BIC Magazine",
+        "url": "https://www.bicmagazine.com/industry/powergen/east-point-energy-completes-citrus-flatts-energy-storage-project-texas/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Orlando Campos, CEO i Harlingen Economic Development Corporation, kalte prosjektet en viktig kilde til stabile skatteinntekter for lokalsamfunnet.",
+        "key": "280d85e572c512e9",
+        "publishedAt": "2026-09-04",
+        "recordedAt": "2026-09-06T06:13:02Z",
+        "source": "Orlando Campos, CEO, Harlingen Economic Development Corporation — sitert i BIC Magazine",
+        "url": "https://www.bicmagazine.com/industry/powergen/east-point-energy-completes-citrus-flatts-energy-storage-project-texas/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Energy-Storage.News omtalte Citrus Flatts som East Point Energys andre driftsatte prosjekt under Equinors eierskap og beskrev det som en overgang fra utvikler til uavhengig kraftprodusent (IPP), i tråd med Equinors strategi om å ta verdi i hele verdikjeden.",
+        "key": "84cf8608ad29e64e",
+        "publishedAt": "2026-09-04",
+        "recordedAt": "2026-09-06T06:13:02Z",
+        "source": "Energy-Storage.News (fagpresse, ingen navngitt talsperson)",
+        "url": "https://www.energy-storage.news/equinors-east-point-energy-begins-operations-at-200mwh-texas-bess/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-06T06:13:02Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "EQNR.OL"
+}

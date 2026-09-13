@@ -1,0 +1,32 @@
+{
+  "contentHash": "355e76a7fe3933db",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Metsa Board said it will modernise the board machine winder at its Kemi mill during the October-November maintenance shutdown, with Tomi Seppa, VP of Kemi Board Mill, quoted saying the modernisation 'strengthens our finishing operations and supports our ability to deliver consistent, high-quality products to our customers'.",
+        "key": "94adcec5656e3025",
+        "publishedAt": "2026-09-03",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Metsa Board release, reported by ThePackagingPortal; quote attributed to Tomi Seppa",
+        "url": "https://www.thepackagingportal.com/industry-news/metsa-board-invests-in-winder-modernisation-at-kemi-mill/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Metsa Board announced leadership team changes appointing Maarten Florizoone as SVP of sales alongside Erja Hyrsky in commercial operations, with CEO Esa Kaikkonen quoted saying 'these changes strengthen our commercial organisation, sharpen accountability and support faster execution of our strategy'.",
+        "key": "ee7e2e65f44709c4",
+        "publishedAt": "2026-09-04",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Metsa Board release, reported by Packaging Gateway; quote attributed to CEO Esa Kaikkonen",
+        "url": "https://www.packaging-gateway.com/news/metsa-board-reshuffles-leadership-team/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-09T06:13:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "METSB.HE"
+}

@@ -1,0 +1,41 @@
+{
+  "contentHash": "2ad046405607945e",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "DNB meddelte, at forretningsområdet Products, Data & Innovation opløses som selvstændig koncernenhed pr. 1. september 2026: \"The change will be implemented on 1 September 2026 and entails that PDI will be dissolved as a separate Group unit.\"",
+        "key": "e5f76ce917be36d8",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-07T06:14:11Z",
+        "source": "DNB Bank ASA, pressemeddelelse",
+        "url": "https://www.ir.dnb.no/press-and-reports/press-releases/dnb-changing-organisation-products-data-innovation-2477951",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Koncernchef Kjerstin Braathen takkede Per Kristian for hans indsats: \"Per Kristian has been an important driver of innovation at DNB for many years. I'd like to express my sincere gratitude to him for his efforts and the results he has contributed to, and I'm very pleased that he will be staying with the Group.\"",
+        "key": "540a0fe83fc75497",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-07T06:14:11Z",
+        "source": "Kjerstin Braathen, koncernchef i DNB",
+        "url": "https://www.ir.dnb.no/press-and-reports/press-releases/dnb-changing-organisation-products-data-innovation-2477951",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DNB begrundede omorganiseringen med, at ansvaret fordeles til Personal Banking, Corporate Banking Norway og Technology & Services for at \"reduce complexity, increase implementation capacity and bring product development even closer to customers\".",
+        "key": "19437967a01f0bd6",
+        "publishedAt": "2026-08-31",
+        "recordedAt": "2026-09-07T06:14:11Z",
+        "source": "DNB Bank ASA, pressemeddelelse distribueret via Cision",
+        "url": "https://news.cision.com/dnb-bank-asa",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-07T06:14:11Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "DNB.OL"
+}

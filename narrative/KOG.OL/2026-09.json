@@ -1,0 +1,41 @@
+{
+  "contentHash": "a844c0299bd55bc9",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Kongsberg Maritime said it would unveil a new propulsion development at SMM in Hamburg, stating that efficiency, onboard comfort and readiness for evolving vessel architectures are shaping owner requirements for modern large passenger vessels.",
+        "key": "04928881c9c0ca42",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-08T06:25:00Z",
+        "source": "Kongsberg Maritime press release, reported by MarineLink",
+        "url": "https://www.marinelink.com/news/kongsberg-maritime-unveil-new-propulsion-542654",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Per Nahnfeldt, General Manager of Products, Electric Propulsion at Kongsberg Maritime, said large ro-pax vessels are \"another excellent fit\" for the extended Elegance Pod range, particularly as operators look to balance energy efficiency, operational flexibility and demanding port schedules.",
+        "key": "fe10aeeb5bbb91f2",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-08T06:25:00Z",
+        "source": "Per Nahnfeldt, General Manager of Products, Electric Propulsion, Kongsberg Maritime, quoted by Seatrade Maritime",
+        "url": "https://www.seatrade-maritime.com/maritime-transportation/kongsberg-extends-elegance-pod-range",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Oskar Levander, VP Business Development at Kongsberg Maritime, said European regulation such as the EU Emissions Trading System and FuelEU Maritime is driving adoption of electrification as the requirements become progressively stricter.",
+        "key": "581d8995cd517beb",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-08T06:25:00Z",
+        "source": "Oskar Levander, VP Business Development, Kongsberg Maritime, quoted by Seatrade Maritime",
+        "url": "https://www.seatrade-maritime.com/maritime-transportation/kongsberg-extends-elegance-pod-range",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-08T06:25:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "KOG.OL"
+}

@@ -1,0 +1,59 @@
+{
+  "contentHash": "36ad23089a52f84b",
+  "payload": {
+    "count": 5,
+    "items": [
+      {
+        "claim": "Netcompany said Danske Bank A/S had notified it that, as of 31 August 2026, Danske Bank controlled 2,196,808 voting rights corresponding to 4.78% of total voting rights in the company, down from a previously disclosed 5.00%.",
+        "key": "cc25201aa9735960",
+        "publishedAt": "2026-09-02",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Netcompany Group A/S major shareholder announcement",
+        "url": "https://www.globenewswire.com/news-release/2026/09/02/3355354/0/en/major-shareholder-announcement.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "NHS England said it had appointed Netcompany to deliver new NHS-owned technology for the seven adult screening programmes under a five-year contract, with the company to enable digital invitations and at-home HPV testing and to commit at least 33% of contract revenue to UK small and medium-sized businesses.",
+        "key": "84b5030b8e34d256",
+        "publishedAt": "2026-09-03",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "NHS England / Netcompany announcement, reported by UKAuthority",
+        "url": "https://www.ukauthority.com/articles/netcompany-selected-for-major-nhs-screening-modernisation",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danish coverage of the NHS award described it as a five-year agreement with NHS England covering operation and development of digital solutions for the national breast, cervical and bowel cancer screening programmes.",
+        "key": "5f43d69317d475e7",
+        "publishedAt": "2026-09-03",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Ritzau, via The Copenhagen Post",
+        "url": "https://cphpost.dk/2026-09-03/business-education/business-business-education/netcompany-to-help-brits-detect-cancer-earlier/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany reported transactions under its share buyback programme, restating that the programme runs up to DKK 750m and a maximum of 3,250,000 shares and is intended to adjust the capital structure and meet share-based incentive obligations; the company said it now holds treasury shares equal to 3.6% of share capital.",
+        "key": "83a7ea5a059e66c0",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Netcompany Group A/S company announcement; contacts Thomas Johansen (CFO) and Frederikke Linde (Head of IR)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/07/3357099/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany said it won the tender to build a new client solution for the Danish Prison and Probation Service, replacing a system more than 25 years old, with partner Thomas Koefoed quoted saying 'Netcompany kender straffesagskaeden fra vores samarbejde med blandt andre Rigspolitiet, Civilstyrelsen og Domstolsstyrelsen, og den erfaring bringer vi direkte i spil'.",
+        "key": "08f429883386bfce",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Netcompany press release via Ritzau; quote attributed to Thomas Koefoed, partner",
+        "url": "https://via.ritzau.dk/pressemeddelelse/15104935/netcompany-skal-udvikle-kritisk-it-system-til-danmarks-faengsler?lang=da",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-09T06:13:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NETC.CO"
+}

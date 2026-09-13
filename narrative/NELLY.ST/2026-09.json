@@ -1,0 +1,23 @@
+{
+  "contentHash": "fa89a6a2e709df0a",
+  "payload": {
+    "count": 1,
+    "items": [
+      {
+        "claim": "Nelly Group reported repurchases of 148,000 ordinary shares during week 36 under the programme announced on 15 July 2026, saying the buyback is intended to 'optimise the company's capital structure' and 'deliver long-term shareholder value and total return to the shareholders', with the shares intended to be cancelled through a reduction of share capital.",
+        "key": "415daa4ab9ce18ba",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Nelly Group AB company announcement distributed via MFN",
+        "url": "https://www.investegate.co.uk/announcement/mfn/nelly-group-ab--0o6z/repurchases-of-ordinary-shares-in-nelly-group-/9759652",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-09T06:13:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NELLY.ST"
+}

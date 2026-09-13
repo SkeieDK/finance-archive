@@ -1,0 +1,32 @@
+{
+  "contentHash": "0796dfed542198a8",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Mowi published an 'Interest Adjustment' notice via the Oslo Bors distribution feed.",
+        "key": "d48ba0c296fddd3b",
+        "publishedAt": "2026-09-01",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Mowi ASA stock exchange notice, listed on MFN",
+        "url": "https://www.mfn.se/ob/a/mowi",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mowi published a second 'Interest Adjustment' notice via the Oslo Bors distribution feed.",
+        "key": "0f8562c1af920f74",
+        "publishedAt": "2026-09-03",
+        "recordedAt": "2026-09-09T06:13:00Z",
+        "source": "Mowi ASA stock exchange notice, listed on MFN",
+        "url": "https://www.mfn.se/ob/a/mowi",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-09T06:13:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "MOWI.OL"
+}
