@@ -1,0 +1,356 @@
+{
+  "contentHash": "ce6e7f16bcb17028",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 234000000,
+        "cash": 3433000000,
+        "cashAndShortTerm": 6804000000,
+        "currentAssets": 8080000000,
+        "currentLeasePrincipal": 49000000,
+        "debtWithLeases": 2053000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 35000000,
+        "inventory": 87000000,
+        "longTermDebt": 188000000,
+        "longTermProvisions": 22000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 4089290878,
+        "shortTermDebt": 1631000000,
+        "totalAssets": 11983000000,
+        "totalCurrentLiabilities": 4627000000,
+        "totalDebt": 2053000000,
+        "totalEquity": 6757000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 158000000,
+        "cash": 2964000000,
+        "cashAndShortTerm": 5629000000,
+        "currentAssets": 6566000000,
+        "currentLeasePrincipal": 33000000,
+        "debtWithLeases": 364000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 25000000,
+        "inventory": 59000000,
+        "longTermDebt": 116000000,
+        "longTermProvisions": 20000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 4070297652,
+        "shortTermDebt": 90000000,
+        "totalAssets": 9295000000,
+        "totalCurrentLiabilities": 2592000000,
+        "totalDebt": 364000000,
+        "totalEquity": 6351000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 162000000,
+        "cash": 3138000000,
+        "cashAndShortTerm": 5043000000,
+        "currentAssets": 5768000000,
+        "currentLeasePrincipal": 38000000,
+        "debtWithLeases": 793000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 20000000,
+        "inventory": 49000000,
+        "longTermDebt": 544000000,
+        "longTermProvisions": 18000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 5000000,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 3933743051,
+        "shortTermDebt": 87000000,
+        "totalAssets": 8792000000,
+        "totalCurrentLiabilities": 1478000000,
+        "totalDebt": 793000000,
+        "totalEquity": 6468000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 186000000,
+        "cash": 1952000000,
+        "cashAndShortTerm": 5086000000,
+        "currentAssets": 5688000000,
+        "currentLeasePrincipal": 34000000,
+        "debtWithLeases": 1365000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 18000000,
+        "inventory": 48000000,
+        "longTermDebt": 1096000000,
+        "longTermProvisions": 18000000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 12000000,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 3840188991,
+        "shortTermDebt": 83000000,
+        "totalAssets": 9170000000,
+        "totalCurrentLiabilities": 1097000000,
+        "totalDebt": 1365000000,
+        "totalEquity": 6657000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -274000000,
+        "capitalExpenditures": -123000000,
+        "depreciation": 177000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -44000000,
+        "operatingCashFlow": 79000000,
+        "stockBasedCompensation": 241000000,
+        "year": 2025
+      },
+      {
+        "buyback": -226000000,
+        "capitalExpenditures": -113000000,
+        "depreciation": 147000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 739000000,
+        "operatingCashFlow": 852000000,
+        "stockBasedCompensation": 279000000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -92000000,
+        "depreciation": 145000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -6000000,
+        "operatingCashFlow": 86000000,
+        "stockBasedCompensation": 304000000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -74000000,
+        "depreciation": 150000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -872000000,
+        "operatingCashFlow": -798000000,
+        "stockBasedCompensation": 412000000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 340000000,
+        "grossProfit": 1456000000,
+        "incomeBeforeTax": 269000000,
+        "incomeTaxExpense": 69000000,
+        "interestExpense": 71000000,
+        "interestPaid": null,
+        "netIncome": 268000000,
+        "operatingIncome": 222000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 3370000000,
+        "year": 2025
+      },
+      {
+        "ebit": -54000000,
+        "grossProfit": 1174000000,
+        "incomeBeforeTax": -95000000,
+        "incomeTaxExpense": 63000000,
+        "interestExpense": 41000000,
+        "interestPaid": null,
+        "netIncome": -105000000,
+        "operatingIncome": -55000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 2797000000,
+        "year": 2024
+      },
+      {
+        "ebit": -367000000,
+        "grossProfit": 860000000,
+        "incomeBeforeTax": -466000000,
+        "incomeTaxExpense": 19000000,
+        "interestExpense": 99000000,
+        "interestPaid": null,
+        "netIncome": -434000000,
+        "operatingIncome": -387000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 2359000000,
+        "year": 2023
+      },
+      {
+        "ebit": -1569000000,
+        "grossProfit": 77000000,
+        "incomeBeforeTax": -1734000000,
+        "incomeTaxExpense": 6000000,
+        "interestExpense": 165000000,
+        "interestPaid": null,
+        "netIncome": -1683000000,
+        "operatingIncome": -1295000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 1433000000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Sale",
+        "name": "HUNGATE ALEXANDER CHARLES",
+        "relation": "President",
+        "shares": 6111980
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "KANDAL PHILIPP WOLFGANG JOSEF",
+        "relation": "Officer",
+        "shares": 3988740
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "OEY PETER HENRY",
+        "relation": "Chief Financial Officer",
+        "shares": 6853470
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "ONG CHIN YIN",
+        "relation": "Officer",
+        "shares": 3632610
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "PARADATHETH SUTHEN THOMAS",
+        "relation": "Chief Technology Officer",
+        "shares": 4383680
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "PIERANTONI JOHN",
+        "relation": "Officer",
+        "shares": 569376
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "TAN ANTHONY PING YEOW",
+        "relation": "Chief Executive Officer",
+        "shares": 428498
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-03",
+        "description": "Sale at price 3.43 per share.",
+        "filer": "ONG CHIN YIN",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-02",
+        "description": "Sale at price 3.48 per share.",
+        "filer": "HUNGATE ALEXANDER CHARLES",
+        "ownership": "D",
+        "relation": "President",
+        "value": ""
+      },
+      {
+        "date": "2026-08-17",
+        "description": "Sale at price 3.60 per share.",
+        "filer": "OEY PETER HENRY",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 3.64 per share.",
+        "filer": "KANDAL PHILIPP WOLFGANG JOSEF",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-10",
+        "description": "Sale at price 3.62 per share.",
+        "filer": "TAN ANTHONY PING YEOW",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "Sale at price 3.61 per share.",
+        "filer": "ONG CHIN YIN",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "",
+        "filer": "TAN ANTHONY PING YEOW",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-15",
+        "description": "Sale at price 3.83 - 4.00 per share.",
+        "filer": "KANDAL PHILIPP WOLFGANG JOSEF",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-15",
+        "description": "Sale at price 3.83 per share.",
+        "filer": "OEY PETER HENRY",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-10",
+        "description": "Sale at price 3.91 per share.",
+        "filer": "TAN ANTHONY PING YEOW",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-02",
+        "description": "Sale at price 3.88 per share.",
+        "filer": "ONG CHIN YIN",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-30",
+        "description": "Stock Award(Grant) at price 3.20 per share.",
+        "filer": "KANDAL PHILIPP WOLFGANG JOSEF",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "Singapore",
+      "description": "Grab Holdings Limited operates the Grab superapp in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The company offers delivery services on its platform, such as GrabFood, a food ordering and delivery booking service; Dine-Out for table reservations; GrabMart, a goods ordering and delivery booking service; GrabAds, an online advertising solution; GrabExpress, a package delivery booking service; Grab for Business platform, a unified management portal for corporate clients. It also provides GrabKios, a network of agents; GrabCar, which enables a private",
+      "fullTimeEmployees": 12012,
+      "industry": "Software - Application",
+      "sector": "Technology"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-13T18:30:01.347Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "GRAB"
+}

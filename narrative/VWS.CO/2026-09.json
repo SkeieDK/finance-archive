@@ -1,0 +1,41 @@
+{
+  "contentHash": "30376c7c13f76dca",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Vestas fører på sin egen investoroversigt over vindmølleordrer en meddelelse dateret 08-09-26 med overskriften \"Vestas announces two new orders in Italy for a total of 105 MW\", og oversigten viser ingen ordremeddelelser derefter.",
+        "key": "55e695c8de54a1e4",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "Vestas Wind Systems A/S, investoroversigten \"Wind Turbine Orders\"",
+        "url": "https://www.vestas.com/en/investor/announcements/wind-turbines-orders",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Vestas oplyste ifølge Windtech International at de to italienske ordrer omfatter 10 stk. V163-4,5 MW til SIMIC Groups Castellani-projekt med en 20-årig serviceaftale og 10 stk. V150-6,0 MW til en unavngiven kunde med en 10-årig serviceaftale, med levering i 2. halvår 2027.",
+        "key": "70d9612da260bdab",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "Windtech International, gengivelse af Vestas' selskabsmeddelelse (ingen navngiven Vestas-talsperson citeret)",
+        "url": "https://www.windtech-international.com/projects-and-contracts/vestas-announces-two-italian-orders-totalling-105-mw",
+        "verifiedAs": null
+      },
+      {
+        "claim": "reNEWS gengav samme dag at Vestas har vundet to separate ordrer i Italien på tilsammen 105 MW, og bemærkede at meddelelsen ikke indeholdt citater fra navngivne Vestas-repræsentanter.",
+        "key": "5fffe78cf385b809",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "reNEWS (renews.biz)",
+        "url": "https://www.renews.biz/onshore-wind/vestas-secures-105mw-italy-double/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-14T06:12:32Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "VWS.CO"
+}

@@ -1,0 +1,443 @@
+{
+  "contentHash": "cb08a98861ad3172",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 300911000,
+        "cash": 831100000,
+        "cashAndShortTerm": 831100000,
+        "currentAssets": 2329061000,
+        "currentLeasePrincipal": 40389000,
+        "debtWithLeases": 4063035000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 301747000,
+        "inventory": 57126000,
+        "longTermDebt": 3724063000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 112247000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 77767155,
+        "shortTermDebt": 38061000,
+        "totalAssets": 15495821000,
+        "totalCurrentLiabilities": 1847163000,
+        "totalDebt": 4063035000,
+        "totalEquity": 9215667000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 321035000,
+        "cash": 619787000,
+        "cashAndShortTerm": 619787000,
+        "currentAssets": 1528494000,
+        "currentLeasePrincipal": 32610000,
+        "debtWithLeases": 3083317000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 360546000,
+        "inventory": 50314000,
+        "longTermDebt": 2735305000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 170849000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 81203161,
+        "shortTermDebt": 26977000,
+        "totalAssets": 15111782000,
+        "totalCurrentLiabilities": 1413793000,
+        "totalDebt": 3083317000,
+        "totalEquity": 10121000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 290580000,
+        "cash": 235839000,
+        "cashAndShortTerm": 235839000,
+        "currentAssets": 492430000,
+        "currentLeasePrincipal": 12381000,
+        "debtWithLeases": 3026895000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 372860000,
+        "inventory": null,
+        "longTermDebt": 2713948000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 3046000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 82292902,
+        "shortTermDebt": 22367000,
+        "totalAssets": 12690739000,
+        "totalCurrentLiabilities": 472140000,
+        "totalDebt": 3026895000,
+        "totalEquity": 10439689000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 24387000,
+        "cash": 180574000,
+        "cashAndShortTerm": 180574000,
+        "currentAssets": 268300000,
+        "currentLeasePrincipal": 1793000,
+        "debtWithLeases": 2783385000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 2736315000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 12818000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 83162446,
+        "shortTermDebt": 22683000,
+        "totalAssets": 3580730000,
+        "totalCurrentLiabilities": 230179000,
+        "totalDebt": 2783385000,
+        "totalEquity": 1950019000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -866846000,
+        "capitalExpenditures": -126953000,
+        "depreciation": 511247000,
+        "dividendsPaid": -640735000,
+        "freeCashFlow": 1158772000,
+        "operatingCashFlow": 1285725000,
+        "stockBasedCompensation": 117588000,
+        "year": 2025
+      },
+      {
+        "buyback": -165000000,
+        "capitalExpenditures": -118818000,
+        "depreciation": 485447000,
+        "dividendsPaid": null,
+        "freeCashFlow": 467266000,
+        "operatingCashFlow": 586084000,
+        "stockBasedCompensation": 103466000,
+        "year": 2024
+      },
+      {
+        "buyback": -100000000,
+        "capitalExpenditures": -93753000,
+        "depreciation": 249023000,
+        "dividendsPaid": null,
+        "freeCashFlow": 172406000,
+        "operatingCashFlow": 266159000,
+        "stockBasedCompensation": 64512000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -12404000,
+        "depreciation": 60032000,
+        "dividendsPaid": -1095904000,
+        "freeCashFlow": 489319000,
+        "operatingCashFlow": 501723000,
+        "stockBasedCompensation": 23744000,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 63250000,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": 441235000,
+        "stockBasedCompensation": 63855000,
+        "year": 2021
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 835015000,
+        "grossProfit": 2831998000,
+        "incomeBeforeTax": 606624000,
+        "incomeTaxExpense": 73771000,
+        "interestExpense": 202724000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 215039000,
+        "netIncome": 195403000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 835015000,
+        "periodEnd": "2025-12-31",
+        "revenue": 4735151000,
+        "year": 2025
+      },
+      {
+        "ebit": 30946000,
+        "grossProfit": 2260384000,
+        "incomeBeforeTax": -210205000,
+        "incomeTaxExpense": 37255000,
+        "interestExpense": 235792000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 267508000,
+        "netIncome": 9408000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 30946000,
+        "periodEnd": "2024-12-31",
+        "revenue": 4884241000,
+        "year": 2024
+      },
+      {
+        "ebit": 375780000,
+        "grossProfit": 1648037000,
+        "incomeBeforeTax": 166983000,
+        "incomeTaxExpense": 33196000,
+        "interestExpense": 229605000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 227137000,
+        "netIncome": -35227000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 375780000,
+        "periodEnd": "2023-12-31",
+        "revenue": 3224796000,
+        "year": 2023
+      },
+      {
+        "ebit": 544387000,
+        "grossProfit": 814561000,
+        "incomeBeforeTax": 403549000,
+        "incomeTaxExpense": 14318000,
+        "interestExpense": 139567000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 118315000,
+        "netIncome": 387275000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeTaxExpense"
+        ],
+        "operatingIncome": 544387000,
+        "periodEnd": "2022-12-31",
+        "revenue": 1140147000,
+        "year": 2022
+      },
+      {
+        "ebit": 391137000,
+        "grossProfit": null,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 15769000,
+        "interestExpense": null,
+        "netIncome": null,
+        "operatingIncome": 391137000,
+        "revenue": 1031944000,
+        "year": 2021
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "EMANUEL ARIEL Z",
+        "relation": "Chief Executive Officer",
+        "shares": 221894
+      },
+      {
+        "latestBuySell": "Purchase",
+        "name": "ENDEAVOR GROUP HOLDINGS, INC.",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "JOHNSON DWAYNE D.",
+        "relation": "Director",
+        "shares": 386231
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "KHAN NICHOLAS",
+        "relation": "Director",
+        "shares": 29751
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "KRAFT JONATHAN",
+        "relation": "Director",
+        "shares": 44669
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "SCHLEIMER ANDREW M",
+        "relation": "Chief Financial Officer",
+        "shares": 38051
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "SHAPIRO MARK S",
+        "relation": "President",
+        "shares": 147071
+      },
+      {
+        "latestBuySell": "Purchase",
+        "name": "SILVER LAKE WEST HOLDCO, L.P.",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": null
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-14",
+        "description": "Sale at price 193.13 - 197.64 per share.",
+        "filer": "KHAN NICHOLAS",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-09-11",
+        "description": "",
+        "filer": "EMANUEL ARIEL Z",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-19",
+        "description": "Sale at price 192.84 - 201.91 per share.",
+        "filer": "KHAN NICHOLAS",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-18",
+        "description": "Sale at price 194.39 per share.",
+        "filer": "EMANUEL ARIEL Z",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-18",
+        "description": "Sale at price 194.39 per share.",
+        "filer": "SHAPIRO MARK S",
+        "ownership": "D",
+        "relation": "President",
+        "value": ""
+      },
+      {
+        "date": "2026-08-18",
+        "description": "Sale at price 194.39 per share.",
+        "filer": "SCHLEIMER ANDREW M",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-17",
+        "description": "",
+        "filer": "EMANUEL ARIEL Z",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-17",
+        "description": "",
+        "filer": "SHAPIRO MARK S",
+        "ownership": "D",
+        "relation": "President",
+        "value": ""
+      },
+      {
+        "date": "2026-08-17",
+        "description": "",
+        "filer": "KHAN NICHOLAS",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-17",
+        "description": "",
+        "filer": "SCHLEIMER ANDREW M",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-13",
+        "description": "Sale at price 195.04 - 199.14 per share.",
+        "filer": "KHAN NICHOLAS",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-07-21",
+        "description": "Sale at price 181.09 - 185.29 per share.",
+        "filer": "KHAN NICHOLAS",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "TKO Group Holdings, Inc. operates as a sports and entertainment company. The company operates through three segments: UFC, WWE and IMG. The UFC segment distributes programming content; ticket sales and site fees associated with the business's global live events; partnerships and marketing; and consumer products licensing agreements of UFC-branded products. The WWE segment consists of media rights fees associated with the distribution of its programming content; ticket sales and site fees associated with the business's global live events; partnerships and marketing; and consumer products licens",
+      "fullTimeEmployees": 4000,
+      "industry": "Entertainment",
+      "sector": "Communication Services"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-19T16:06:57.488Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "TKO"
+}

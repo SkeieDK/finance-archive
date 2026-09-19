@@ -1,0 +1,362 @@
+{
+  "contentHash": "d7e96b9b83ccbefe",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 1532199000,
+        "cash": 4158920000,
+        "cashAndShortTerm": 10572181000,
+        "currentAssets": 23249495000,
+        "currentLeasePrincipal": 379750000,
+        "debtWithLeases": 3375847000,
+        "deferredRevenueNonCurrent": 129513000,
+        "deferredTaxNonCurrent": 39510000,
+        "inventory": 222578000,
+        "longTermDebt": 510396000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 135700000,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 611034168,
+        "shortTermDebt": 1333252000,
+        "totalAssets": 29370979000,
+        "totalCurrentLiabilities": 14680550000,
+        "totalDebt": 3375847000,
+        "totalEquity": 12648328000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 1117276000,
+        "cash": 2405153000,
+        "cashAndShortTerm": 8620576000,
+        "currentAssets": 16857668000,
+        "currentLeasePrincipal": 304762000,
+        "debtWithLeases": 4124133000,
+        "deferredRevenueNonCurrent": 109895000,
+        "deferredTaxNonCurrent": 408000,
+        "inventory": 143246000,
+        "longTermDebt": 1728258000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": 138000000,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 589112006,
+        "shortTermDebt": 1278599000,
+        "totalAssets": 22625469000,
+        "totalCurrentLiabilities": 11296152000,
+        "totalDebt": 4124133000,
+        "totalEquity": 8477576000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 1094845000,
+        "cash": 2811056000,
+        "cashAndShortTerm": 5358700000,
+        "currentAssets": 11773934000,
+        "currentLeasePrincipal": 294503000,
+        "debtWithLeases": 4462378000,
+        "deferredRevenueNonCurrent": 72587000,
+        "deferredTaxNonCurrent": 133000,
+        "inventory": 125395000,
+        "longTermDebt": 3069108000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 6107000,
+        "payablesNonCurrent": 6107000,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 572340007,
+        "shortTermDebt": 298425000,
+        "totalAssets": 18883232000,
+        "totalCurrentLiabilities": 8168941000,
+        "totalDebt": 4462378000,
+        "totalEquity": 6697585000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 1041768000,
+        "cash": 6029859000,
+        "cashAndShortTerm": 6894117000,
+        "currentAssets": 12688012000,
+        "currentLeasePrincipal": 273106000,
+        "debtWithLeases": 4500165000,
+        "deferredRevenueNonCurrent": 63566000,
+        "deferredTaxNonCurrent": 9967000,
+        "inventory": 109668000,
+        "longTermDebt": 3338750000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 107000,
+        "payablesNonCurrent": 107000,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 564758842,
+        "shortTermDebt": 119647000,
+        "totalAssets": 17002796000,
+        "totalCurrentLiabilities": 6935692000,
+        "totalDebt": 4500165000,
+        "totalEquity": 5810824000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -14027000,
+        "capitalExpenditures": -524499000,
+        "depreciation": 372171000,
+        "dividendsPaid": null,
+        "freeCashFlow": 4500024000,
+        "operatingCashFlow": 5024523000,
+        "stockBasedCompensation": 624995000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -321593000,
+        "depreciation": 389673000,
+        "dividendsPaid": null,
+        "freeCashFlow": 2955827000,
+        "operatingCashFlow": 3277420000,
+        "stockBasedCompensation": 715839000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -258261000,
+        "depreciation": 440845000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1821427000,
+        "operatingCashFlow": 2079688000,
+        "stockBasedCompensation": 685030000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -976283000,
+        "depreciation": 428344000,
+        "dividendsPaid": null,
+        "freeCashFlow": -2031975000,
+        "operatingCashFlow": -1055692000,
+        "stockBasedCompensation": 705896000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 2314469000,
+        "grossProfit": 10243737000,
+        "incomeBeforeTax": 2280859000,
+        "incomeTaxExpense": 651081000,
+        "interestExpense": 33610000,
+        "interestPaid": 340302000,
+        "netIncome": 1578149000,
+        "operatingIncome": 1985306000,
+        "periodEnd": "2025-12-31",
+        "revenue": 22938469000,
+        "year": 2025
+      },
+      {
+        "ebit": 817124000,
+        "grossProfit": 7205088000,
+        "incomeBeforeTax": 778783000,
+        "incomeTaxExpense": 321168000,
+        "interestExpense": 38341000,
+        "interestPaid": 289400000,
+        "netIncome": 444321000,
+        "operatingIncome": 662152000,
+        "periodEnd": "2024-12-31",
+        "revenue": 16819866000,
+        "year": 2024
+      },
+      {
+        "ebit": 473469000,
+        "grossProfit": 5833647000,
+        "incomeBeforeTax": 432394000,
+        "incomeTaxExpense": 262680000,
+        "interestExpense": 41075000,
+        "interestPaid": 238942000,
+        "netIncome": 150726000,
+        "operatingIncome": 342653000,
+        "periodEnd": "2023-12-31",
+        "revenue": 13063560000,
+        "year": 2023
+      },
+      {
+        "ebit": -1455137000,
+        "grossProfit": 5185277000,
+        "incomeBeforeTax": -1500533000,
+        "incomeTaxExpense": 168395000,
+        "interestExpense": 45396000,
+        "interestPaid": 103335000,
+        "netIncome": -1651421000,
+        "operatingIncome": -1132565000,
+        "periodEnd": "2022-12-31",
+        "revenue": 12449705000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "CHEN JINGYE DAVID",
+        "relation": "Officer",
+        "shares": 9246570
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "FENG CHRIS ZHIMIN",
+        "relation": "President",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "FENG ZHIMING",
+        "relation": "President",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "HOU TIANYU",
+        "relation": "Chief Financial Officer",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "JINGYE CHEN",
+        "relation": "Officer",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "KUOK KHOON HUA",
+        "relation": "Director",
+        "shares": 787595
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "LI FORREST XIAODONG",
+        "relation": "Chief Executive Officer",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "LI XIAODONG",
+        "relation": "Chief Executive Officer",
+        "shares": null
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-16",
+        "description": "Conversion of Exercise of derivative security at price 15.00 per share.",
+        "filer": "CHEN JINGYE DAVID",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-16",
+        "description": "Sale at price 103.12 - 106.03 per share.",
+        "filer": "YE GANG",
+        "ownership": "I",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-16",
+        "description": "Sale at price 103.26 - 106.04 per share.",
+        "filer": "CHEN JINGYE DAVID",
+        "ownership": "I",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-14",
+        "description": "Sale at price 105.32 - 109.98 per share.",
+        "filer": "YE GANG",
+        "ownership": "I",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-14",
+        "description": "Sale at price 105.27 - 109.97 per share.",
+        "filer": "CHEN JINGYE DAVID",
+        "ownership": "I",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-10",
+        "description": "Sale at price 107.92 - 111.39 per share.",
+        "filer": "YE GANG",
+        "ownership": "I",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-10",
+        "description": "Sale at price 107.90 - 111.42 per share.",
+        "filer": "CHEN JINGYE DAVID",
+        "ownership": "I",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-08",
+        "description": "Sale at price 110.72 - 114.34 per share.",
+        "filer": "YE GANG",
+        "ownership": "I",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-03",
+        "description": "Sale at price 112.14 - 113.93 per share.",
+        "filer": "YE GANG",
+        "ownership": "I",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-01",
+        "description": "Sale at price 111.72 - 117.63 per share.",
+        "filer": "YE GANG",
+        "ownership": "I",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-28",
+        "description": "Sale at price 120.07 per share.",
+        "filer": "ZHAO FENG",
+        "ownership": "I",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-28",
+        "description": "Sale at price 120.45 per share.",
+        "filer": "FENG CHRIS ZHIMIN",
+        "ownership": "I",
+        "relation": "President",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "Singapore",
+      "description": "Sea Limited, through its subsidiaries, operates as a technology company in Southeast Asia, Latin America, the rest of Asia, and internationally. The company operates through E-commerce, Digital Financial Services, and Digital Entertainment segments. It offers Garena, a digital entertainment platform for users to access mobile and PC online games, as well as promotes eSports operations and develops games. The company also operates the Shopee e-commerce platform, a mobile-centric marketplace that provides integrated payments, logistics and fulfillment infrastructure, and other value-added servic",
+      "fullTimeEmployees": 102700,
+      "industry": "Internet Retail",
+      "sector": "Consumer Cyclical"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-19T16:05:22.264Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "SE"
+}

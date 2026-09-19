@@ -1,0 +1,41 @@
+{
+  "contentHash": "68248cce7bc8d82e",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Zealand Pharma oplyste i selskabsmeddelelse nr. 46/2026 at selskabet i uge 36 købte 183.000 egne aktier, og at det derefter besidder i alt 3.916.842 egne aktier svarende til ca. 5,47 pct. af aktiekapitalen.",
+        "key": "acb95704ae2a17cd",
+        "publishedAt": "2026-09-07",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "Zealand Pharma A/S, selskabsmeddelelse nr. 46/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/07/3357170/0/en/zealand-pharma-transactions-related-to-share-buy-back-program-week-36-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma meddelte at adm. direktør Adam Steensberg deltager i en fireside chat på Morgan Stanleys 24. årlige Global Healthcare Conference i New York den 16. september 2026, og selskabet beskriver sig selv som \"a biotechnology company focused on advancing medicines for obesity and metabolic health\".",
+        "key": "384688a09c18466d",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "Zealand Pharma A/S, pressemeddelelse; IR-kontakt angivet som Eric Rojas, Vice President og Head of Investor Relations",
+        "url": "https://www.globenewswire.com/news-release/2026/09/09/3358878/0/en/zealand-pharma-to-participate-in-the-morgan-stanley-24th-annual-global-healthcare-conference.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma oplyste i selskabsmeddelelse nr. 47/2026 at aktiekapitalen er forhøjet med nominelt DKK 31.247 som følge af udnyttelse af warrants under et af selskabets medarbejderwarrantprogrammer, og at aktiekapitalen efter registrering udgør 71.610.005 aktier à nominelt DKK 1.",
+        "key": "fb60b61fe72d845c",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "Zealand Pharma A/S, selskabsmeddelelse nr. 47/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359764/0/en/zealand-pharma-increases-its-share-capital-as-a-result-of-the-exercise-of-employee-warrants.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-14T06:12:32Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "ZEAL.CO"
+}

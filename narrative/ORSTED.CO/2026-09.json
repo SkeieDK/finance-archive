@@ -1,7 +1,7 @@
 {
-  "contentHash": "57a1aba8fae3183b",
+  "contentHash": "39d07de6ef85c776",
   "payload": {
-    "count": 3,
+    "count": 4,
     "items": [
       {
         "claim": "Oersted issued a major shareholder announcement stating that Andel, 'which has so far owned 5 % of Oersted's share capital and voting rights, on 9 September 2026 sold 22,800,000 shares', after which Andel 'will hold a total of 43,392,007 shares ... corresponding to 3.28 % of the share capital and voting rights'.",
@@ -29,12 +29,21 @@
         "source": "Rasmus Errboe, Group President and CEO of Oersted, in a LinkedIn post reported by Ocean Energy Resources",
         "url": "https://ocean-energyresources.com/2026/09/08/orsted-believes-in-koreas-commitment-to-expanding-renewable-energy/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Andel A.m.b.a. oplyste i en storaktionaermeddelelse, at selskabet den 9. september 2026 solgte 22.800.000 aktier i Oersted og dermed reducerede sin ejerandel fra 5 pct. til 3,28 pct. af kapital og stemmer, med afvikling 11. september 2026.",
+        "key": "d46143adcf67eec1",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Andel A.m.b.a., storaktionaermeddelelse offentliggjort af Oersted A/S",
+        "url": "https://via.ritzau.dk/announcement/15149012?publisherId=13560592",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-10T06:25:00Z",
+  "recordedAt": "2026-09-17T06:12:42Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ORSTED.CO"

@@ -1,0 +1,362 @@
+{
+  "contentHash": "a4b457da355dfc8b",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 29197000,
+        "cash": 20929905000,
+        "cashAndShortTerm": 20929905000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 1897823000,
+        "deferredRevenueNonCurrent": 339529000,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 269806000,
+        "longTermProvisions": 75599000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 4855673632,
+        "shortTermDebt": 1598820000,
+        "totalAssets": 74893877000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 1897823000,
+        "totalEquity": 11321562000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 26197000,
+        "cash": 13637271000,
+        "cashAndShortTerm": 13637271000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 577951000,
+        "deferredRevenueNonCurrent": 276062000,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 328873000,
+        "longTermProvisions": 52041000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 4818658640,
+        "shortTermDebt": 222881000,
+        "totalAssets": 49931214000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 577951000,
+        "totalEquity": 7647076000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 36942000,
+        "cash": 13370862000,
+        "cashAndShortTerm": 13370862000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 957218000,
+        "deferredRevenueNonCurrent": 287786000,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 806681000,
+        "longTermProvisions": 30148000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 4765937154,
+        "shortTermDebt": 113595000,
+        "totalAssets": 43345195000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 957218000,
+        "totalEquity": 6406385000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 20353000,
+        "cash": 6890816000,
+        "cashAndShortTerm": 6890816000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 605921000,
+        "deferredRevenueNonCurrent": 122486000,
+        "deferredTaxNonCurrent": 41118000,
+        "inventory": null,
+        "longTermDebt": 547239000,
+        "longTermProvisions": 35513000,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 4694787854,
+        "shortTermDebt": 38329000,
+        "totalAssets": 29934872000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 605921000,
+        "totalEquity": 4890783000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -340769000,
+        "depreciation": 97968000,
+        "dividendsPaid": null,
+        "freeCashFlow": 3159695000,
+        "operatingCashFlow": 3500464000,
+        "stockBasedCompensation": 271845000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -174990000,
+        "depreciation": 77128000,
+        "dividendsPaid": null,
+        "freeCashFlow": 2224054000,
+        "operatingCashFlow": 2399044000,
+        "stockBasedCompensation": 272382000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -177003000,
+        "depreciation": 62895000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1089186000,
+        "operatingCashFlow": 1266189000,
+        "stockBasedCompensation": 212551000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -114306000,
+        "depreciation": 35581000,
+        "dividendsPaid": null,
+        "freeCashFlow": 641267000,
+        "operatingCashFlow": 755573000,
+        "stockBasedCompensation": 253203000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": 3868419000,
+        "incomeTaxExpense": 996747000,
+        "interestExpense": 4578680000,
+        "interestPaid": null,
+        "netIncome": 2868892000,
+        "operatingIncome": null,
+        "periodEnd": "2025-12-31",
+        "revenue": 10626855000,
+        "year": 2025
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": 2795198000,
+        "incomeTaxExpense": 823086000,
+        "interestExpense": 2834859000,
+        "interestPaid": null,
+        "netIncome": 1972112000,
+        "operatingIncome": null,
+        "periodEnd": "2024-12-31",
+        "revenue": 8269605000,
+        "year": 2024
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": 1539078000,
+        "incomeTaxExpense": 508548000,
+        "interestExpense": 2036925000,
+        "interestPaid": null,
+        "netIncome": 1030530000,
+        "operatingIncome": null,
+        "periodEnd": "2023-12-31",
+        "revenue": 5632184000,
+        "year": 2023
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": -308901000,
+        "incomeTaxExpense": 55733000,
+        "interestExpense": 1547903000,
+        "interestPaid": null,
+        "netIncome": -364578000,
+        "operatingIncome": null,
+        "periodEnd": "2022-12-31",
+        "revenue": 2971196000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Sale",
+        "name": "FRAGELLI HENRIQUE CAMOSSA SALDANHA",
+        "relation": "Officer",
+        "shares": 4429450
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "JUNQUEIRA CRISTINA ELENA ZINGARETTI",
+        "relation": "Officer",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "JUNQUERIA CRISTINA HELENA ZINGARETTI",
+        "relation": "Officer",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "LEONE DOUGLAS M",
+        "relation": "Director",
+        "shares": 29694500
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "LIVINGSTON ROBERT PHILIP",
+        "relation": "Chief Financial Officer",
+        "shares": 2194590
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "MARCUS DAVID",
+        "relation": "Director",
+        "shares": 655039
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "MORENO MEJIA LUIS ALBERTO",
+        "relation": "Director",
+        "shares": 252541
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "PHAM THUAN",
+        "relation": "Director",
+        "shares": 133654
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-08-25",
+        "description": "Sale at price 14.71 - 15.00 per share.",
+        "filer": "JUNQUERIA CRISTINA HELENA ZINGARETTI",
+        "ownership": "D/I",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "LEONE DOUGLAS M",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "PIACENTINI DIEGO",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "SANDS ANITA M",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "MORENO MEJIA LUIS ALBERTO",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 15.81 per share.",
+        "filer": "FRAGELLI HENRIQUE CAMOSSA SALDANHA",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 15.80 per share.",
+        "filer": "JUNQUERIA CRISTINA HELENA ZINGARETTI",
+        "ownership": "I",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 15.80 per share.",
+        "filer": "JUNQUEIRA CRISTINA ELENA ZINGARETTI",
+        "ownership": "I",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-07",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "LEONE DOUGLAS M",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-07",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "PIACENTINI DIEGO",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-07",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "MARCUS DAVID",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-07",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "SANDS ANITA M",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "Brazil",
+      "description": "Nu Holdings Ltd. provides digital banking platform in Brazil, Mexico, Colombia, the Cayman Islands, and the United States. The company provides spending solutions comprising Nu credit and prepaid card, a digitally enabled card that acts as a credit and a prepaid card; Nubank+ Tier, an evolution of the Nu experience; Ultraviolet credit and prepaid card, a premium metal credit card; mobile payment solutions for NuAccount customers to make and receive transfers, pay bills, and make everyday purchases through their mobile phones; and Nu Shopping, an integrated marketplace that enables customers to",
+      "fullTimeEmployees": null,
+      "industry": "Banks - Regional",
+      "sector": "Financial Services"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-13T18:39:14.173Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "NU"
+}

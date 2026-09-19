@@ -1,7 +1,7 @@
 {
-  "contentHash": "6955df691a0ea7de",
+  "contentHash": "adcf68a3b95512c7",
   "payload": {
-    "count": 19,
+    "count": 23,
     "items": [
       {
         "claim": "H1 2025/2026: It shows revenue of DKK 249.0 million (-1.0% YoY in DKK, +3% organic/local currency) with an expanded gross margin of 95% due to product mix shift toward higher-spec XcytoMatic instruments.",
@@ -173,12 +173,48 @@
         "source": "finanstilsynet.dk",
         "url": "https://www.finanstilsynet.dk/Tilsyn/Inspektion-og-afgoerelser/2016/apr/Paatale_Chemometec_260416",
         "verifiedAs": null
+      },
+      {
+        "claim": "Adm. direktoer Martin Helbo Behrens sagde i forbindelse med aarsrapporten for 2025/26, at \"we are in the midst of a period of significant change in our markets\", og fremhaevede at den nye XcytoMatic-platform saetter selskabet i stand til at tilbyde integrerede automatiseringsloesninger.",
+        "key": "9ab9b1804de52804",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Martin Helbo Behrens, adm. direktoer, ChemoMetec A/S",
+        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359926/0/en/positioning-chemometec-for-future-growth.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet oplyste, at bestyrelsen indstiller, at der ikke udbetales udbytte for 2025/26, med henvisning til det loebende aktietilbagekoebsprogram.",
+        "key": "c68ed1ced00eb3f1",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse om aarsrapport 2025/26",
+        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359926/0/en/positioning-chemometec-for-future-growth.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet udmeldte forventninger til regnskabsaaret 2026/27 om en omsaetning paa 545-575 mio. kr. og en EBITDA paa 300-315 mio. kr.; meddelelsen indeholder ingen direkte citater fra ledelsen, men angiver Martin Helbo Behrens (CEO) og Phillip Massie Price (CFO) som kontakter.",
+        "key": "eab511dee1a3e776",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse om forventninger til 2026/27",
+        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359914/0/en/guidance-for-the-2026-27-financial-year.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "BlackRock, Inc. oplyste ChemoMetec om, at selskabet den 14. september 2026 har oeget sin samlede beholdning til 15,00 pct. og dermed naaet 15 pct.-graensen.",
+        "key": "97ed8d2f214e1b63",
+        "publishedAt": "2026-09-16",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "BlackRock, Inc., via storaktionaermeddelelse nr. 315 fra ChemoMetec A/S",
+        "url": "https://www.globenewswire.com/news-release/2026/09/16/3363184/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-10T15:50:12.365Z",
+  "recordedAt": "2026-09-17T06:12:42Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CHEMM.CO"

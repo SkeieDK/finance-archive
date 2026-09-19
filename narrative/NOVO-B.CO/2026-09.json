@@ -1,7 +1,7 @@
 {
-  "contentHash": "29aa541dbb11e09f",
+  "contentHash": "4dad135fb9bae508",
   "payload": {
-    "count": 31,
+    "count": 36,
     "items": [
       {
         "claim": "Novo Nordisk oplyste torsdag, at Kinas laegemiddelmyndighed har accepteret selskabets ansoegning om markedsfoering af den orale version af vaegttabsmidlet Wegovy.",
@@ -281,12 +281,57 @@
         "source": "Novo Nordisk A/S, selskabsmeddelelse om aktietilbagekøbsprogram",
         "url": "https://www.globenewswire.com/news-release/2026/09/07/3357083/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet meddelte et rebrand, hvor navnet forkortes til \"Novo\" under linjen \"Lasting Health Starts Now\", ledsaget af et nyt kulturgrundlag kaldet \"The Novo Way\"; adm. direktoer Mike Doustdar sagde, at \"healthcare must become more responsive, relevant and easier to fit into everyday life\".",
+        "key": "b300b77ac7ac68a2",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse; citat af Mike Doustdar, President and CEO",
+        "url": "https://www.globenewswire.com/news-release/2026/09/14/3360720/0/en/novo-nordisk-enters-next-chapter-to-bring-better-health-to-more-people-supported-by-novo-rebrand-and-updated-corporate-culture.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tania Sabroe, executive vice president, sagde om rebrandet, at \"brand and culture work together: culture shapes how we reach our strategy and how we work\".",
+        "key": "d68cac9c2a382404",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Tania Sabroe, executive vice president, Novo Nordisk A/S",
+        "url": "https://www.globenewswire.com/news-release/2026/09/14/3360720/0/en/novo-nordisk-enters-next-chapter-to-bring-better-health-to-more-people-supported-by-novo-rebrand-and-updated-corporate-culture.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet oplyste, at det vil fremlaegge 44 abstracts paa EASD 2026 i Milano med real world- og kliniske data for bl.a. Wegovy i tabletform, Ozempic 2,0 mg og amylin-kandidaterne CagriSema og zenagamtide.",
+        "key": "13014d534b4704dc",
+        "publishedAt": "2026-09-16",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Novo Nordisk A/S, pressemeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/09/16/3362854/0/en/novo-to-share-real-world-and-clinical-data-including-wegovy-pill-and-cardiometabolic-pipeline-progress-with-next-generation-amylin-treatments-at-easd-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Martin Holst Lange sagde, at \"at EASD 2026 we are sharing the breadth and progression of our cardiometabolic portfolio and pipeline, including key insights that show how our science could make a difference in the everyday lives of people living with obesity, diabetes and related diseases\".",
+        "key": "7a0d153216b4a880",
+        "publishedAt": "2026-09-16",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Martin Holst Lange, executive vice president, Research & Development og chief scientific officer, Novo Nordisk A/S",
+        "url": "https://www.globenewswire.com/news-release/2026/09/16/3362854/0/en/novo-to-share-real-world-and-clinical-data-including-wegovy-pill-and-cardiometabolic-pipeline-progress-with-next-generation-amylin-treatments-at-easd-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet oplyste i sin ugentlige meddelelse om aktietilbagekoeb, at programmet paa op til 15 mia. kr. loeber over en 12-maaneders periode fra 4. februar 2026, og at den tranche, der blev indledt 6. maj 2026, omfatter B-aktier for op til 11,2 mia. kr. frem til 1. februar 2027.",
+        "key": "db5d7b8b053a5649",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse om aktietilbagekoebsprogram",
+        "url": "https://www.globenewswire.com/news-release/2026/09/14/3361191/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-13T06:11:34Z",
+  "recordedAt": "2026-09-17T06:12:42Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "6e40228f90f358fe",
+  "contentHash": "75a8014b490a4b49",
   "payload": {
-    "count": 3,
+    "count": 6,
     "items": [
       {
         "claim": "Ambu meddelte, at selskabet i perioden 24.-28. august 2026 har foretaget yderligere tilbagekøb af egne aktier under sit igangværende aktietilbagekøbsprogram, og opgjorde den samlede beholdning af egne aktier efter programmet.",
@@ -29,12 +29,39 @@
         "source": "ad-hoc-news.de, refererer JPMorgans analytikere",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ambu-stock-gains-as-jpmorgan-puts-margins-in-the-spotlight/70080831",
         "verifiedAs": null
+      },
+      {
+        "claim": "Det blev meddelt, at Ambu koeber det amerikanske selskab TIMS Medical for 45 mio. dollar kontant ved closing plus earn-outs paa op til 20 mio. dollar; TIMS Medical leverer billed- og dokumentationsloesninger til endoskopi, og handlen beskrives som adgang til omkring 7.000 hospitalsinstallationer i USA.",
+        "key": "88c921d191da3be0",
+        "publishedAt": "2026-09-15",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Life Science Nordic, refererende Ambus meddelelse",
+        "url": "https://www.lifesciencenordic.com/article/view/1246015/ambu_acquires_us_endoscopy_company",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet oplyser ifoelge referatet, at handlen vil udvide kundekontakten og fremskynde selskabets \"EndoIntelligence\"-dagsorden.",
+        "key": "9080e66e370b4b61",
+        "publishedAt": "2026-09-15",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "Life Science Nordic, parafraserende Ambu (\"the company says\")",
+        "url": "https://www.lifesciencenordic.com/article/view/1246015/ambu_acquires_us_endoscopy_company",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Ambu bekraeftede, at forventningerne til regnskabsaaret 2025/26 er uaendrede efter opkoebet af TIMS Medical, der blev aftalt 14. september 2026.",
+        "key": "0d1aa276d25dfaaf",
+        "publishedAt": "2026-09-15",
+        "recordedAt": "2026-09-17T06:12:42Z",
+        "source": "ad-hoc-news.de, med MarketScreener som angivet kilde",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ambu-stock-gains-acquisition-catalyst-with-tims-medical-deal/70104411",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-13T06:11:34Z",
+  "recordedAt": "2026-09-17T06:12:42Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "AMBU-B.CO"

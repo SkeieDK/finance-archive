@@ -1,7 +1,7 @@
 {
-  "contentHash": "7b4b7b5174f35028",
+  "contentHash": "1e2a78d2a3909f82",
   "payload": {
-    "count": 2,
+    "count": 5,
     "items": [
       {
         "claim": "In its September Economic Outlook, Nordea Group Chief Economist Helge Pedersen said 'the global economy is demonstrating remarkable resilience in the face of geopolitical conflict, elevated energy prices and trade tensions', and the bank said the Nordic economies continue to outperform other regions while downside risks remain.",
@@ -20,12 +20,39 @@
         "source": "Nordea Bank Abp company announcement",
         "url": "https://www.prnewswire.com/news-releases/nordea-bank-abps-financial-reporting-in-2027-302865868.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Kirsi Wiitala, chef for Transaction Banking i Nordea, sagde om bankens tilslutning til Swifts betalingsordning som Gateway Intermediary, at kunderne i stigende grad efterspoerger en soemloes graenseoverskridende betalingsoplevelse, og at Nordea som 'the gateway to the Nordics' styrker sit kommercielle tilbud og bruger sin nordiske skala.",
+        "key": "320f16083268f410",
+        "publishedAt": "2026-09-15",
+        "recordedAt": "2026-09-16T06:12:54Z",
+        "source": "Kirsi Wiitala, Head of Transaction Banking, Nordea",
+        "url": "https://www.nordea.com/en/news/nordea-to-join-swift-payments-scheme-as-gateway-intermediary",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Petteri Aenkilae, chef for Large Corporate and Institutions i Nordea, sagde at Norden konsekvent frembringer globalt konkurrencedygtige virksomheder, og at udfordringen er at sikre at flere af dem forbliver nordiske naar de skalerer, og at Europa har brug for stoerre puljer af vaekstkapital, dybere kapitalmarkeder og mere graenseoverskridende investering.",
+        "key": "eaf76077c3205618",
+        "publishedAt": "2026-09-11",
+        "recordedAt": "2026-09-16T06:12:54Z",
+        "source": "Petteri Aenkilae, Head of Large Corporate and Institutions, Nordea",
+        "url": "https://www.nordea.com/en/news/why-the-nordics-need-a-stronger-capital-market",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyrki Katainen, formand for Nordic Compass' bestyrelse og chef for Group Public and Regulatory Affairs i Nordea, sagde at de nordiske lande tilsammen udgoer en af verdens mest innovative og velstaaende oekonomiske regioner, men at de nordiske kapitalmarkeder fortsat i hoej grad er nationale.",
+        "key": "6c61bcbfa41c1892",
+        "publishedAt": "2026-09-11",
+        "recordedAt": "2026-09-16T06:12:54Z",
+        "source": "Jyrki Katainen, Chair of the Nordic Compass Board og Head of Group Public and Regulatory Affairs, Nordea",
+        "url": "https://www.nordea.com/en/news/why-the-nordics-need-a-stronger-capital-market",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-09T06:13:00Z",
+  "recordedAt": "2026-09-16T06:12:54Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NDA-DK.CO"

@@ -1,0 +1,425 @@
+{
+  "contentHash": "85c5902f242a8b14",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 941000,
+        "cash": 3628000,
+        "cashAndShortTerm": 15740000,
+        "currentAssets": 17335000,
+        "currentLeasePrincipal": 138000,
+        "debtWithLeases": 941000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-06-30",
+        "sharesOutstanding": 15864360,
+        "shortTermDebt": null,
+        "totalAssets": 19406000,
+        "totalCurrentLiabilities": 705000,
+        "totalDebt": 941000,
+        "totalEquity": 17898000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 1070000,
+        "cash": 1291000,
+        "cashAndShortTerm": 1291000,
+        "currentAssets": 1393000,
+        "currentLeasePrincipal": 129000,
+        "debtWithLeases": 1070000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-06-30",
+        "sharesOutstanding": 12178424,
+        "shortTermDebt": null,
+        "totalAssets": 3844000,
+        "totalCurrentLiabilities": 627000,
+        "totalDebt": 1070000,
+        "totalEquity": 2276000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 458662,
+        "cash": 5071690,
+        "cashAndShortTerm": 5071690,
+        "currentAssets": 5333906,
+        "currentLeasePrincipal": 162210,
+        "debtWithLeases": 458662,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-06-30",
+        "sharesOutstanding": 12817500,
+        "shortTermDebt": null,
+        "totalAssets": 7163841,
+        "totalCurrentLiabilities": 757099,
+        "totalDebt": 458662,
+        "totalEquity": 6110290,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 615693,
+        "cash": 3740722,
+        "cashAndShortTerm": 3740722,
+        "currentAssets": 4430848,
+        "currentLeasePrincipal": 156988,
+        "debtWithLeases": 615693,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-06-30",
+        "sharesOutstanding": 10650002,
+        "shortTermDebt": null,
+        "totalAssets": 5931087,
+        "totalCurrentLiabilities": 372439,
+        "totalDebt": 615693,
+        "totalEquity": 5099943,
+        "year": 2022
+      },
+      {
+        "cash": 38302,
+        "cashAndShortTerm": 38302,
+        "currentAssets": 38302,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 154190,
+        "totalCurrentLiabilities": 147909,
+        "totalDebt": null,
+        "totalEquity": 6281,
+        "year": 2020
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -161000,
+        "depreciation": 415000,
+        "dividendsPaid": null,
+        "freeCashFlow": -1309000,
+        "operatingCashFlow": -1148000,
+        "stockBasedCompensation": 1893000,
+        "year": 2025
+      },
+      {
+        "buyback": -4000,
+        "capitalExpenditures": -322000,
+        "depreciation": 311000,
+        "dividendsPaid": null,
+        "freeCashFlow": -3777000,
+        "operatingCashFlow": -3455000,
+        "stockBasedCompensation": 732000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -672545,
+        "depreciation": 206458,
+        "dividendsPaid": null,
+        "freeCashFlow": -4310517,
+        "operatingCashFlow": -3637972,
+        "stockBasedCompensation": 448444,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -955667,
+        "depreciation": 98987,
+        "dividendsPaid": null,
+        "freeCashFlow": -3208458,
+        "operatingCashFlow": -2252791,
+        "stockBasedCompensation": 204011,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": -1377,
+        "stockBasedCompensation": null,
+        "year": 2020
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": -2142000,
+        "grossProfit": 2781000,
+        "incomeBeforeTax": -3022000,
+        "incomeTaxExpense": null,
+        "interestExpense": 715000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -3022000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "netIncome"
+        ],
+        "operatingIncome": -2142000,
+        "periodEnd": "2025-06-30",
+        "revenue": 4665000,
+        "year": 2025
+      },
+      {
+        "ebit": -4563000,
+        "grossProfit": 300000,
+        "incomeBeforeTax": -4562000,
+        "incomeTaxExpense": null,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -4562000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "netIncome"
+        ],
+        "operatingIncome": -4563000,
+        "periodEnd": "2024-06-30",
+        "revenue": 919000,
+        "year": 2024
+      },
+      {
+        "ebit": -5509685,
+        "grossProfit": 83944,
+        "incomeBeforeTax": -5379582,
+        "incomeTaxExpense": null,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -5379582,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "netIncome"
+        ],
+        "operatingIncome": -5509685,
+        "periodEnd": "2023-06-30",
+        "revenue": 193339,
+        "year": 2023
+      },
+      {
+        "ebit": -3733522,
+        "grossProfit": null,
+        "incomeBeforeTax": -3451699,
+        "incomeTaxExpense": null,
+        "interestExpense": null,
+        "netIncome": -3451699,
+        "operatingIncome": -3733522,
+        "revenue": null,
+        "year": 2022
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": -12670,
+        "incomeTaxExpense": 800,
+        "interestExpense": null,
+        "netIncome": -13470,
+        "operatingIncome": null,
+        "revenue": null,
+        "year": 2020
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "BYRON MICHAEL J",
+        "relation": "Director",
+        "shares": 13343
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "DENBAARS STEVEN P",
+        "relation": "Director",
+        "shares": 345209
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "ENSLEY CRAIG H",
+        "relation": "Director",
+        "shares": 27300
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "KLAMKIN JONATHAN",
+        "relation": "Chief Executive Officer",
+        "shares": 1329400
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "PAGLIA JOHN KENNETH",
+        "relation": "Director",
+        "shares": 23361
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "TOMPKINS MARK N",
+        "relation": "Former",
+        "shares": 1790490
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-08-27",
+        "description": "Sale at price 13.82 - 13.84 per share.",
+        "filer": "DENBAARS STEVEN P",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "Sale at price 16.29 - 16.85 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "Stock Gift at price 0.00 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-01",
+        "description": "Sale at price 21.08 - 21.56 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-01",
+        "description": "Stock Gift at price 0.00 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-01",
+        "description": "Sale at price 22.19 - 26.25 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-01",
+        "description": "Stock Gift at price 0.00 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-20",
+        "description": "Sale at price 19.56 - 21.30 per share.",
+        "filer": "DENBAARS STEVEN P",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-05-01",
+        "description": "Sale at price 24.20 - 25.71 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-01",
+        "description": "Stock Gift at price 0.00 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "D/I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-04-01",
+        "description": "Sale at price 13.10 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-03-04",
+        "description": "Sale at price 17.77 - 18.41 per share.",
+        "filer": "KLAMKIN JONATHAN",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Aeluma, Inc. develops optoelectronic and electronic devices for sensing, communication, and computing applications in the United States. The company produces semiconductor materials and chips using compound semiconductors on diameter substrates that are used to manufacture mass market microelectronics. Its products are used in mobile, automotive, AI, defense and aerospace, communication, AR/VR, high-performance commuting, and quantum computing applications, as well as other electronic and optoelectronic devices, including lasers, transistors, and solar cells. Aeluma, Inc. was founded in 2019 a",
+      "fullTimeEmployees": 12,
+      "industry": "Semiconductors",
+      "sector": "Technology"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-13T18:16:49.903Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "ALMU"
+}

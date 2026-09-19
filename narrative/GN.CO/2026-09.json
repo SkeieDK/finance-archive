@@ -1,7 +1,7 @@
 {
-  "contentHash": "786b32bd728c3023",
+  "contentHash": "004504e7ff106ed4",
   "payload": {
-    "count": 3,
+    "count": 4,
     "items": [
       {
         "claim": "GN lancerede Jabra Reach, en BYOD-løsning der samler video, lyd, USB og valgfri strøm i ét USB-C-kabel og forlænger forbindelsen op til 100 meter; produktet er annonceret til tilgængelighed 5. oktober 2026.",
@@ -29,12 +29,21 @@
         "source": "GN Store Nord / Jabra, nyhed på selskabets newsroom",
         "url": "https://www.gn.com/Newsroom/News/2026/September/Jabra-Reach-brings-single-cable-simplicity-to-video-meeting-collaboration",
         "verifiedAs": null
+      },
+      {
+        "claim": "GN praesenterer via SteelSeries en ny controller, Aeon Pro, som selskabet beskriver som verdens foerste QuickSwitch Dock-system til PC og Xbox, med to hot-swappable batterier, Hall Effect-thumbsticks og indbygget OLED-skaerm.",
+        "key": "156765b727863167",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-15T06:13:15Z",
+        "source": "GN Store Nord / SteelSeries, nyhedsmeddelelse paa gn.com (ingen navngiven talsperson citeret)",
+        "url": "https://www.gn.com/Newsroom/News/2026/September/SteelSeries-introduces-the-Aeon-Pro",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-06T06:13:02Z",
+  "recordedAt": "2026-09-15T06:13:15Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GN.CO"

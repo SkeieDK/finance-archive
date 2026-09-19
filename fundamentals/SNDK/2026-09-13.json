@@ -1,0 +1,402 @@
+{
+  "contentHash": "0b5588b580edc676",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 177000000,
+        "cash": 4762000000,
+        "cashAndShortTerm": 4762000000,
+        "currentAssets": 12780000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 177000000,
+        "deferredRevenueNonCurrent": 393000000,
+        "deferredTaxNonCurrent": 161000000,
+        "inventory": 2698000000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 73000000,
+        "payablesNonCurrent": 386000000,
+        "pensionObligations": null,
+        "periodEnd": "2026-06-30",
+        "sharesOutstanding": 146000000,
+        "shortTermDebt": null,
+        "totalAssets": 22507000000,
+        "totalCurrentLiabilities": 5581000000,
+        "totalDebt": 177000000,
+        "totalEquity": 15736000000,
+        "year": 2026
+      },
+      {
+        "capitalLeaseObligations": 193000000,
+        "cash": 1481000000,
+        "cashAndShortTerm": 1481000000,
+        "currentAssets": 5086000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 2042000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 17000000,
+        "inventory": 2079000000,
+        "longTermDebt": 1829000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 62000000,
+        "payablesNonCurrent": 241000000,
+        "pensionObligations": null,
+        "periodEnd": "2025-06-30",
+        "sharesOutstanding": 146000000,
+        "shortTermDebt": 20000000,
+        "totalAssets": 12985000000,
+        "totalCurrentLiabilities": 1427000000,
+        "totalDebt": 2042000000,
+        "totalEquity": 9216000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 171000000,
+        "cash": 328000000,
+        "cashAndShortTerm": 328000000,
+        "currentAssets": 3548000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 985000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 15000000,
+        "inventory": 1955000000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 59000000,
+        "payablesNonCurrent": 56000000,
+        "pensionObligations": null,
+        "periodEnd": "2024-06-30",
+        "sharesOutstanding": null,
+        "shortTermDebt": 814000000,
+        "totalAssets": 13506000000,
+        "totalCurrentLiabilities": 2123000000,
+        "totalDebt": 985000000,
+        "totalEquity": 11082000000,
+        "year": 2024
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -4524000000,
+        "capitalExpenditures": -177000000,
+        "depreciation": 149000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 11494000000,
+        "operatingCashFlow": 11671000000,
+        "stockBasedCompensation": 232000000,
+        "year": 2026
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -204000000,
+        "depreciation": 163000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -120000000,
+        "operatingCashFlow": 84000000,
+        "stockBasedCompensation": 182000000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -166000000,
+        "depreciation": 224000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -475000000,
+        "operatingCashFlow": -309000000,
+        "stockBasedCompensation": 149000000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -219000000,
+        "depreciation": 448000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -932000000,
+        "operatingCashFlow": -713000000,
+        "stockBasedCompensation": 165000000,
+        "year": 2023
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 12389000000,
+        "grossProfit": 14472000000,
+        "incomeBeforeTax": 13017000000,
+        "incomeTaxExpense": 1584000000,
+        "interestExpense": 73000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 116000000,
+        "netIncome": 11433000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 12389000000,
+        "periodEnd": "2026-06-30",
+        "revenue": 20248000000,
+        "year": 2026
+      },
+      {
+        "ebit": -1377000000,
+        "grossProfit": 2212000000,
+        "incomeBeforeTax": -1479000000,
+        "incomeTaxExpense": 162000000,
+        "interestExpense": 63000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 139000000,
+        "netIncome": -1641000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -1377000000,
+        "periodEnd": "2025-06-30",
+        "revenue": 7355000000,
+        "year": 2025
+      },
+      {
+        "ebit": -468000000,
+        "grossProfit": 1072000000,
+        "incomeBeforeTax": -503000000,
+        "incomeTaxExpense": 169000000,
+        "interestExpense": 40000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 12000000,
+        "netIncome": -672000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -468000000,
+        "periodEnd": "2024-06-30",
+        "revenue": 6663000000,
+        "year": 2024
+      },
+      {
+        "ebit": -2035000000,
+        "grossProfit": 430000000,
+        "incomeBeforeTax": -2002000000,
+        "incomeTaxExpense": 141000000,
+        "interestExpense": 31000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 7000000,
+        "netIncome": -2143000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -2035000000,
+        "periodEnd": "2023-06-30",
+        "revenue": 6086000000,
+        "year": 2023
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "ALEXY KIMBERLY E.",
+        "relation": "Director",
+        "shares": 13975
+      },
+      {
+        "latestBuySell": "Stock Gift",
+        "name": "CAULFIELD THOMAS",
+        "relation": "Director",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "GOECKELER DAVID V",
+        "relation": "Chief Executive Officer",
+        "shares": 521604
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "ILKBAHAR ALPER",
+        "relation": "Chief Technology Officer",
+        "shares": 44134
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "MASSENGILL MATTHEW E",
+        "relation": "Director",
+        "shares": 17314
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "POKORNY MICHAEL",
+        "relation": "Officer",
+        "shares": 22375
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "SHEK BERNARD",
+        "relation": "Officer",
+        "shares": 25305
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "SUZUKI MIYUKI",
+        "relation": "Director",
+        "shares": 9907
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-08",
+        "description": "Sale at price 1767.33 per share.",
+        "filer": "SHEK BERNARD",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-03",
+        "description": "Sale at price 1513.23 - 1558.90 per share.",
+        "filer": "ILKBAHAR ALPER",
+        "ownership": "D",
+        "relation": "Chief Technology Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-03",
+        "description": "Sale at price 1561.69 - 1571.04 per share.",
+        "filer": "ILKBAHAR ALPER",
+        "ownership": "D",
+        "relation": "Chief Technology Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-01",
+        "description": "Sale at price 1525.60 per share.",
+        "filer": "SHEK BERNARD",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-20",
+        "description": "",
+        "filer": "ILKBAHAR ALPER",
+        "ownership": "D",
+        "relation": "Chief Technology Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "Sale at price 1162.16 per share.",
+        "filer": "SHEK BERNARD",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-01",
+        "description": "Sale at price 2088.00 per share.",
+        "filer": "SHEK BERNARD",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-03",
+        "description": "Sale at price 1736.00 per share.",
+        "filer": "SHEK BERNARD",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-02",
+        "description": "Stock Gift at price 0.00 per share.",
+        "filer": "ILKBAHAR ALPER",
+        "ownership": "D",
+        "relation": "Chief Technology Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-01",
+        "description": "Sale at price 1755.31 - 1758.40 per share.",
+        "filer": "ILKBAHAR ALPER",
+        "ownership": "D",
+        "relation": "Chief Technology Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-12",
+        "description": "Stock Gift at price 0.00 per share.",
+        "filer": "CAULFIELD THOMAS",
+        "ownership": "I",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-05-12",
+        "description": "Sale at price 1426.18 per share.",
+        "filer": "POKORNY MICHAEL",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Sandisk Corporation develops, manufactures, and sells data storage devices and solutions using NAND flash technology in the Americas, Europe, the Middle East, Africa, Asia, and internationally. The company provides solid state drives for desktop and notebook PCs, gaming consoles, and set top boxes; and flash-based embedded storage products for mobile phones, tablets, notebook PCs and other portable and wearable devices, automotive applications, Internet of Things, industrial, and connected home applications, as well as removable cards, universal serial bus drives, and wafers and components. It",
+      "fullTimeEmployees": 11100,
+      "industry": "Computer Hardware",
+      "sector": "Technology"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-13T18:44:30.681Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "SNDK"
+}

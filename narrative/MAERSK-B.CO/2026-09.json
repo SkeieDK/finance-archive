@@ -1,7 +1,7 @@
 {
-  "contentHash": "e72d823cfc002523",
+  "contentHash": "b761c51916525f7b",
   "payload": {
-    "count": 3,
+    "count": 6,
     "items": [
       {
         "claim": "Maersk said Roberta Duarte will rejoin the company as Chief People Officer from 1 November, succeeding Susana Elvira, with Duarte quoted saying she is 'truly honoured to return to Maersk' and that the company 'feels like home'.",
@@ -29,12 +29,39 @@
         "source": "A.P. Moller - Maersk advisories page",
         "url": "https://www.maersk.com/news/category/advisories",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Moeller-Maersk oplyste om ugens transaktioner under aktietilbagekoebsprogrammet og gentog, at programmet blev annonceret 5. februar 2026 og loeber over 12 maaneder, med anden fase fra 13. august 2026 til 29. januar 2027.",
+        "key": "2e772720ecdc9bbb",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-09-16T06:12:54Z",
+        "source": "A.P. Moeller-Maersk A/S, selskabsmeddelelse via GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/09/14/3361065/0/en/transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk beskrev i sin europaeiske markedsopdatering, at traengsel fortsat paavirker vigtige nordeuropaeiske og middelhavshavne, mens staerk efterspoergsel og operationelle begraensninger presser kapaciteten paa flere ruter, og pegede paa arbejdsnedlaeggelser ved tyske terminaler, lav vandstand i Rhinen og tyfoner i Oestasien som aarsager.",
+        "key": "f103cbf3e8f169d3",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-16T06:12:54Z",
+        "source": "Maersk, Europe Market Update September 2026 (organisatorisk udmelding, ingen navngivet talsperson)",
+        "url": "https://www.maersk.com/news/articles/2026/09/09/europe-market-update-september",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk opfordrede i samme markedsopdatering kunder til at booke saa tidligt som muligt, levere praecise fragtprognoser og dokumentation og afhente importcontainere hurtigt, og beskrev luftfragtefterspoergslen som accelererende med staerkere europaeiske importvolumener.",
+        "key": "8e0b4369b6b53c7d",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-16T06:12:54Z",
+        "source": "Maersk, Europe Market Update September 2026",
+        "url": "https://www.maersk.com/news/articles/2026/09/09/europe-market-update-september",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-09T06:13:00Z",
+  "recordedAt": "2026-09-16T06:12:54Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-B.CO"

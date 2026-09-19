@@ -1,0 +1,346 @@
+{
+  "contentHash": "35a8164c6747c526",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 33107000000,
+        "cash": 137488000000,
+        "cashAndShortTerm": 213232000000,
+        "currentAssets": 374421000000,
+        "currentLeasePrincipal": 9399000000,
+        "debtWithLeases": 107105000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 8019000000,
+        "inventory": 95428000000,
+        "longTermDebt": 62473000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 1146000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 2741847251,
+        "shortTermDebt": 11525000000,
+        "totalAssets": 695201000000,
+        "totalCurrentLiabilities": 306072000000,
+        "totalDebt": 107105000000,
+        "totalEquity": 293783000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 25712000000,
+        "cash": 108350000000,
+        "cashAndShortTerm": 233995000000,
+        "currentAssets": 386698000000,
+        "currentLeasePrincipal": 7606000000,
+        "debtWithLeases": 89768000000,
+        "deferredRevenueNonCurrent": 502000000,
+        "deferredTaxNonCurrent": 9498000000,
+        "inventory": 89326000000,
+        "longTermDebt": 56475000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 1337000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 2903433255,
+        "shortTermDebt": 7581000000,
+        "totalAssets": 698234000000,
+        "totalCurrentLiabilities": 299521000000,
+        "totalDebt": 89768000000,
+        "totalEquity": 313297000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 21431000000,
+        "cash": 71892000000,
+        "cashAndShortTerm": 190146000000,
+        "currentAssets": 307810000000,
+        "currentLeasePrincipal": 7755000000,
+        "debtWithLeases": 68431000000,
+        "deferredRevenueNonCurrent": 964000000,
+        "deferredTaxNonCurrent": 9267000000,
+        "inventory": 68058000000,
+        "longTermDebt": 41966000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 1055000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 3137663915,
+        "shortTermDebt": 5034000000,
+        "totalAssets": 628958000000,
+        "totalCurrentLiabilities": 265650000000,
+        "totalDebt": 68431000000,
+        "totalEquity": 296380000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 22666000000,
+        "cash": 78861000000,
+        "cashAndShortTerm": 219956000000,
+        "currentAssets": 351074000000,
+        "currentLeasePrincipal": 7688000000,
+        "debtWithLeases": 65045000000,
+        "deferredRevenueNonCurrent": 1107000000,
+        "deferredTaxNonCurrent": 6511000000,
+        "inventory": 77949000000,
+        "longTermDebt": 30233000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 1737000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 3135679247,
+        "shortTermDebt": 12146000000,
+        "totalAssets": 595250000000,
+        "totalCurrentLiabilities": 266561000000,
+        "totalDebt": 65045000000,
+        "totalEquity": 274123000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -21430000000,
+        "capitalExpenditures": -14184000000,
+        "depreciation": 9747000000,
+        "dividendsPaid": -10379000000,
+        "freeCashFlow": 4807000000,
+        "operatingCashFlow": 18991000000,
+        "stockBasedCompensation": 4726000000,
+        "year": 2025
+      },
+      {
+        "buyback": -25912000000,
+        "capitalExpenditures": -13819000000,
+        "depreciation": 8904000000,
+        "dividendsPaid": -8263000000,
+        "freeCashFlow": 44276000000,
+        "operatingCashFlow": 58095000000,
+        "stockBasedCompensation": 2999000000,
+        "year": 2024
+      },
+      {
+        "buyback": -2497000000,
+        "capitalExpenditures": -20015000000,
+        "depreciation": 8292000000,
+        "dividendsPaid": -6741000000,
+        "freeCashFlow": 39506000000,
+        "operatingCashFlow": 59521000000,
+        "stockBasedCompensation": 4804000000,
+        "year": 2023
+      },
+      {
+        "buyback": -1823000000,
+        "capitalExpenditures": -22913000000,
+        "depreciation": 7236000000,
+        "dividendsPaid": -13087000000,
+        "freeCashFlow": 34906000000,
+        "operatingCashFlow": 57819000000,
+        "stockBasedCompensation": 7548000000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "CNY",
+    "incomeHistory": [
+      {
+        "ebit": 28126000000,
+        "grossProfit": 210028000000,
+        "incomeBeforeTax": 25323000000,
+        "incomeTaxExpense": 2181000000,
+        "interestExpense": 2803000000,
+        "interestPaid": null,
+        "netIncome": 19631000000,
+        "operatingIncome": 3690000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 1309085000000,
+        "year": 2025
+      },
+      {
+        "ebit": 54434000000,
+        "grossProfit": 183868000000,
+        "incomeBeforeTax": 51538000000,
+        "incomeTaxExpense": 6878000000,
+        "interestExpense": 2896000000,
+        "interestPaid": 2774000000,
+        "netIncome": 41359000000,
+        "operatingIncome": 39570000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 1158819000000,
+        "year": 2024
+      },
+      {
+        "ebit": 34531000000,
+        "grossProfit": 159704000000,
+        "incomeBeforeTax": 31650000000,
+        "incomeTaxExpense": 8393000000,
+        "interestExpense": 2881000000,
+        "interestPaid": 2808000000,
+        "netIncome": 24167000000,
+        "operatingIncome": 28910000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 1084662000000,
+        "year": 2023
+      },
+      {
+        "ebit": 15973000000,
+        "grossProfit": 147073000000,
+        "incomeBeforeTax": 13867000000,
+        "incomeTaxExpense": 4176000000,
+        "interestExpense": 2106000000,
+        "interestPaid": 2393000000,
+        "netIncome": 10380000000,
+        "operatingIncome": 18344000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 1046236000000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "DING KUN",
+        "relation": "Director",
+        "shares": 11108
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "HSIEH LOUIS TUNG-JUNG",
+        "relation": "Director",
+        "shares": 56564
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "LIU QIANGDONG RICHARD",
+        "relation": "Director",
+        "shares": 1000000
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "SCHEUFELE CAROLINE",
+        "relation": "Director",
+        "shares": 28850
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "SHAN SU",
+        "relation": "Chief Financial Officer",
+        "shares": 40916
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "XU DINGBO",
+        "relation": "Director",
+        "shares": 37945
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "XU RAN",
+        "relation": "Chief Executive Officer",
+        "shares": 227544
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "YU JENNIFER NGAR-WING",
+        "relation": "Director",
+        "shares": 11108
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-08-14",
+        "description": "",
+        "filer": "DING KUN",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "",
+        "filer": "YU JENNIFER NGAR-WING",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-07-01",
+        "description": "",
+        "filer": "SHAN SU",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-08",
+        "description": "",
+        "filer": "SCHEUFELE CAROLINE",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-05-22",
+        "description": "",
+        "filer": "HSIEH LOUIS TUNG-JUNG",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-05-22",
+        "description": "",
+        "filer": "XU DINGBO",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-05-15",
+        "description": "",
+        "filer": "LIU QIANGDONG RICHARD",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-01",
+        "description": "",
+        "filer": "XU RAN",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-04-01",
+        "description": "",
+        "filer": "ZHANG PANG",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-04-01",
+        "description": "",
+        "filer": "SHAN SU",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "China",
+      "description": "JD.com, Inc. operates as a supply chain-based technology and service provider in the People's Republic of China and Europe. It operates through three segments: JD Retail, JD Logistics, and New Businesses. The company provides home appliances; mobile handsets and other digital products; computers, including desktop, laptop, and other various products, as well as printers and other office equipment; furniture and household goods; apparel; cosmetics and other personal care items; and pet products. It offers women's shoes, bags, watches, jewelry, and luxury goods; men's shoes, sports gear, and fit",
+      "fullTimeEmployees": 900000,
+      "industry": "Internet Retail",
+      "sector": "Consumer Cyclical"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-13T18:33:19.384Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "JD"
+}

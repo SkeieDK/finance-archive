@@ -1,0 +1,32 @@
+{
+  "contentHash": "33a771ad4b5e32fa",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "ROCKWOOL meddelte i Release no. 23 – 2026 at 451.329 A-aktier er omregistreret til B-aktier, og at omregistreringen sker i henhold til vedtægternes artikel 6 og efter anmodning fra de pågældende A-aktionærer.",
+        "key": "ee81b10c70537957",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "ROCKWOOL A/S, Release no. 23 – 2026, underskrevet af Kim Junge Andersen, Executive Vice President og CFO",
+        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359226/0/en/completion-of-conversion-of-a-shares-to-b-shares-in-accordance-with-the-articles-of-association-and-information-on-adjusted-number-of-voting-rights-and-share-capital.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ROCKWOOL oplyste i samme meddelelse at aktiekapitalen er uændret DKK 207.259.230, og at fordelingen efter omregistreringen er 97.194.578 A-aktier med 971.945.780 stemmer og 110.064.652 B-aktier med 110.064.652 stemmer.",
+        "key": "ffa65c33c61948cc",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-09-14T06:12:32Z",
+        "source": "ROCKWOOL A/S, Release no. 23 – 2026, anmeldt til Nasdaq Copenhagen",
+        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359226/0/en/completion-of-conversion-of-a-shares-to-b-shares-in-accordance-with-the-articles-of-association-and-information-on-adjusted-number-of-voting-rights-and-share-capital.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-14T06:12:32Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "ROCK-B.CO"
+}

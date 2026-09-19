@@ -1,0 +1,240 @@
+{
+  "contentHash": "8fcfc8e402c63a5e",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 12388000000,
+        "cash": 6728000000,
+        "cashAndShortTerm": 12329000000,
+        "currentAssets": 27292000000,
+        "currentLeasePrincipal": 2801000000,
+        "debtWithLeases": 52636000000,
+        "deferredRevenueNonCurrent": 817000000,
+        "deferredTaxNonCurrent": 1043000000,
+        "inventory": 596000000,
+        "longTermDebt": 35919000000,
+        "longTermProvisions": 1261000000,
+        "otherNonCurrentLiab": 208000000,
+        "payablesNonCurrent": 440000000,
+        "pensionObligations": 206000000,
+        "periodEnd": "2026-03-31",
+        "sharesOutstanding": 23087114293,
+        "shortTermDebt": 4329000000,
+        "totalAssets": 129918000000,
+        "totalCurrentLiabilities": 23995000000,
+        "totalDebt": 52636000000,
+        "totalEquity": 54365000000,
+        "year": 2026
+      },
+      {
+        "capitalLeaseObligations": 10826000000,
+        "cash": 9079000000,
+        "cashAndShortTerm": 15493000000,
+        "currentAssets": 28620000000,
+        "currentLeasePrincipal": 2346000000,
+        "debtWithLeases": 53143000000,
+        "deferredRevenueNonCurrent": 812000000,
+        "deferredTaxNonCurrent": 798000000,
+        "inventory": 617000000,
+        "longTermDebt": 37616000000,
+        "longTermProvisions": 1430000000,
+        "otherNonCurrentLiab": 226000000,
+        "payablesNonCurrent": 341000000,
+        "pensionObligations": 187000000,
+        "periodEnd": "2025-03-31",
+        "sharesOutstanding": 24965472590,
+        "shortTermDebt": 4701000000,
+        "totalAssets": 128521000000,
+        "totalCurrentLiabilities": 22754000000,
+        "totalDebt": 53143000000,
+        "totalEquity": 53916000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 9672000000,
+        "cash": 4554000000,
+        "cashAndShortTerm": 8905000000,
+        "currentAssets": 39560000000,
+        "currentLeasePrincipal": 2256000000,
+        "debtWithLeases": 56987000000,
+        "deferredRevenueNonCurrent": 343000000,
+        "deferredTaxNonCurrent": 699000000,
+        "inventory": 568000000,
+        "longTermDebt": 41843000000,
+        "longTermProvisions": 1615000000,
+        "otherNonCurrentLiab": 254000000,
+        "payablesNonCurrent": 222000000,
+        "pensionObligations": 181000000,
+        "periodEnd": "2024-03-31",
+        "sharesOutstanding": 27080121854,
+        "shortTermDebt": 5472000000,
+        "totalAssets": 144350000000,
+        "totalCurrentLiabilities": 29270000000,
+        "totalDebt": 56987000000,
+        "totalEquity": 60998000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 13364000000,
+        "cash": 11705000000,
+        "cashAndShortTerm": 18722000000,
+        "currentAssets": 30662000000,
+        "currentLeasePrincipal": 3046000000,
+        "debtWithLeases": 66390000000,
+        "deferredRevenueNonCurrent": 500000000,
+        "deferredTaxNonCurrent": 771000000,
+        "inventory": 956000000,
+        "longTermDebt": 41351000000,
+        "longTermProvisions": 1572000000,
+        "otherNonCurrentLiab": 257000000,
+        "payablesNonCurrent": 2184000000,
+        "pensionObligations": 258000000,
+        "periodEnd": "2023-03-31",
+        "sharesOutstanding": 26992564629,
+        "shortTermDebt": 11675000000,
+        "totalAssets": 155521000000,
+        "totalCurrentLiabilities": 32571000000,
+        "totalDebt": 66390000000,
+        "totalEquity": 64483000000,
+        "year": 2023
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -2041000000,
+        "capitalExpenditures": -7318000000,
+        "depreciation": 12454000000,
+        "dividendsPaid": -1093000000,
+        "freeCashFlow": 6973000000,
+        "operatingCashFlow": 14291000000,
+        "stockBasedCompensation": 11000000,
+        "year": 2026
+      },
+      {
+        "buyback": -1868000000,
+        "capitalExpenditures": -6699000000,
+        "depreciation": 10804000000,
+        "dividendsPaid": -1787000000,
+        "freeCashFlow": 8674000000,
+        "operatingCashFlow": 15373000000,
+        "stockBasedCompensation": 68000000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -6860000000,
+        "depreciation": 10414000000,
+        "dividendsPaid": -2430000000,
+        "freeCashFlow": 9697000000,
+        "operatingCashFlow": 16557000000,
+        "stockBasedCompensation": 98000000,
+        "year": 2024
+      },
+      {
+        "buyback": -1867000000,
+        "capitalExpenditures": -7756000000,
+        "depreciation": 10255000000,
+        "dividendsPaid": -2484000000,
+        "freeCashFlow": 10298000000,
+        "operatingCashFlow": 18054000000,
+        "stockBasedCompensation": 58000000,
+        "year": 2023
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "EUR",
+    "incomeHistory": [
+      {
+        "ebit": 4313000000,
+        "grossProfit": 12733000000,
+        "incomeBeforeTax": 1864000000,
+        "incomeTaxExpense": 1805000000,
+        "interestExpense": 2449000000,
+        "interestPaid": null,
+        "netIncome": -397000000,
+        "operatingIncome": 3743000000,
+        "periodEnd": "2026-03-31",
+        "revenue": 40461000000,
+        "year": 2026
+      },
+      {
+        "ebit": 810000000,
+        "grossProfit": 12519000000,
+        "incomeBeforeTax": -1478000000,
+        "incomeTaxExpense": 2246000000,
+        "interestExpense": 2288000000,
+        "interestPaid": null,
+        "netIncome": -4169000000,
+        "operatingIncome": 4138000000,
+        "periodEnd": "2025-03-31",
+        "revenue": 37448000000,
+        "year": 2025
+      },
+      {
+        "ebit": 4368000000,
+        "grossProfit": 12258000000,
+        "incomeBeforeTax": 1620000000,
+        "incomeTaxExpense": 50000000,
+        "interestExpense": 2748000000,
+        "interestPaid": null,
+        "netIncome": 1140000000,
+        "operatingIncome": 3816000000,
+        "periodEnd": "2024-03-31",
+        "revenue": 36717000000,
+        "year": 2024
+      },
+      {
+        "ebit": 15532000000,
+        "grossProfit": 13313000000,
+        "incomeBeforeTax": 13074000000,
+        "incomeTaxExpense": 492000000,
+        "interestExpense": 2458000000,
+        "interestPaid": null,
+        "netIncome": 11838000000,
+        "operatingIncome": 5238000000,
+        "periodEnd": "2023-03-31",
+        "revenue": 37672000000,
+        "year": 2023
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Annual Return",
+        "name": "Kerr (Deborah Linda)",
+        "relation": "",
+        "shares": 12000
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-05-19",
+        "description": "",
+        "filer": "Kerr (Deborah Linda)",
+        "ownership": "D",
+        "relation": "",
+        "value": ""
+      },
+      {
+        "date": "2026-03-31",
+        "description": "",
+        "filer": "Kerr (Deborah Linda)",
+        "ownership": "D",
+        "relation": "",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United Kingdom",
+      "description": "Vodafone Group Public Limited Company provides telecommunication services in Germany, the United Kingdom, rest of Europe, Turkey, and South Africa. It offers mobile and fixed services; connectivity business solutions, such as digital services, the Internet of Things (IoT) and financial services; and IoT platforms. The company also provides cloud, multi-cloud, and edge computing solutions; M-PESA, an African mobile money platform to make payments and offer financial services; and international voice and roaming services. In addition, it offers unified communications, mobile connectivity, IoT co",
+      "fullTimeEmployees": 91128,
+      "industry": "Telecom Services",
+      "sector": "Communication Services"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-13T18:48:51.082Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "VOD"
+}

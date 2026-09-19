@@ -1,7 +1,7 @@
 {
-  "contentHash": "d8fe14c896e66aaa",
+  "contentHash": "717b32a38fe24ede",
   "payload": {
-    "count": 3,
+    "count": 8,
     "items": [
       {
         "claim": "Genmab meddelte at Rodrigo Fernandez-Baca er udnævnt til General Manager for Italien og Spanien.",
@@ -29,12 +29,57 @@
         "source": "Rodrigo Fernandez-Baca, tiltrædende General Manager Italien og Spanien, Genmab",
         "url": "https://ir.genmab.com/news-releases/news-release-details/genmab-appoints-rodrigo-fernandez-baca-general-manager-italy-and",
         "verifiedAs": null
+      },
+      {
+        "claim": "Genmab indkalder til ekstraordinær generalforsamling onsdag den 7. oktober 2026 kl. 15.00 CEST på selskabets adresse Carl Jacobsens Vej 30 i Valby, og henviser til en videohilsen og materiale om selskabets aktionærdialog og forslag om bestyrelsesvederlag.",
+        "key": "42067bbd371fd79a",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-15T06:13:15Z",
+        "source": "Genmab A/S, selskabsmeddelelse; kontaktpersoner anført som Marisol Peron, Senior Vice President, Global Communications & Corporate Affairs, og Andrew Carlsen, Vice President, Head of Investor Relations",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/notice-convene-extraordinary-general-meeting-genmab",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Genmab oplyser at selskabet forhoejer sin aktiekapital med 28.011 aktier som foelge af udnyttelse af medarbejderwarrants, og at de nye aktier optages til handel paa Nasdaq Copenhagen efter registrering hos Erhvervsstyrelsen.",
+        "key": "11a9ce20970e8caa",
+        "publishedAt": "2026-09-08",
+        "recordedAt": "2026-09-15T06:13:15Z",
+        "source": "Genmab A/S, selskabsmeddelelse",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/capital-increase-genmab-result-employee-warrant-exercise-94",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Genmab meddeler at selskabet har offentliggjort sine vedtaegter (Articles of Association).",
+        "key": "cb0d548c5181bb1e",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-15T06:13:15Z",
+        "source": "Genmab A/S, nyhedsoversigten paa selskabets IR-side",
+        "url": "https://ir.genmab.com/genmab-news",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Genmabs Chief Development Officer sagde paa Wells Fargos sundhedskonference at selskabet er 'in a great point in our journey' med tre store fase III-aktiver - epcoritamab, Rina-S og petosemtamab - og at den store kommercielle mulighed ligger i foerstelinje-DLBCL i kombination med R-CHOP.",
+        "key": "95bd16360f228b8b",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-15T06:13:15Z",
+        "source": "Genmabs Chief Development Officer (i referatet omtalt som Judith), gengivet i Investing.coms konferencereferat",
+        "url": "https://www.investing.com/news/transcripts/genmab-at-wells-fargo-healthcare-conference-pipeline-nears-key-readouts-93CH-4894434",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Samme sted sagde hun at fase II-data for petosemtamab 'could transform the landscape of head and neck treatment', og at epcoritamab adskiller sig fra andre CD20-antistoffer ved ikke at kraeve hospitalsindlaeggelse.",
+        "key": "96061f7e720c3694",
+        "publishedAt": "2026-09-09",
+        "recordedAt": "2026-09-15T06:13:15Z",
+        "source": "Genmabs Chief Development Officer (i referatet omtalt som Judith), gengivet i Investing.coms konferencereferat",
+        "url": "https://www.investing.com/news/transcripts/genmab-at-wells-fargo-healthcare-conference-pipeline-nears-key-readouts-93CH-4894434",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-06T06:13:02Z",
+  "recordedAt": "2026-09-15T06:13:15Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GMAB.CO"

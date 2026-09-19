@@ -1,0 +1,362 @@
+{
+  "contentHash": "216e09622234a44d",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": null,
+        "cash": 36377000000,
+        "cashAndShortTerm": 36377000000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 64305000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 41963000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 1262470000,
+        "shortTermDebt": 22342000000,
+        "totalAssets": 547538000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 64305000000,
+        "totalEquity": 65189000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 39768000000,
+        "cashAndShortTerm": 39768000000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 52590000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 34956000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 1315936000,
+        "shortTermDebt": 17634000000,
+        "totalAssets": 531176000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 52590000000,
+        "totalEquity": 63679000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 30230000000,
+        "cashAndShortTerm": 30230000000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 59694000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 38918000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 1333743000,
+        "shortTermDebt": 20776000000,
+        "totalAssets": 535349000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 59694000000,
+        "totalEquity": 59253000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 21421000000,
+        "cashAndShortTerm": 21421000000,
+        "currentAssets": null,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 62946000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 43203000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 1326829000,
+        "shortTermDebt": 19743000000,
+        "totalAssets": 555255000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": 62946000000,
+        "totalEquity": 60537000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -3500000000,
+        "capitalExpenditures": null,
+        "depreciation": 837000000,
+        "dividendsPaid": -2996000000,
+        "freeCashFlow": 5739000000,
+        "operatingCashFlow": 5739000000,
+        "stockBasedCompensation": null,
+        "year": 2025
+      },
+      {
+        "buyback": -1750000000,
+        "capitalExpenditures": null,
+        "depreciation": 979000000,
+        "dividendsPaid": -3135000000,
+        "freeCashFlow": 2164000000,
+        "operatingCashFlow": 2164000000,
+        "stockBasedCompensation": null,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 1215000000,
+        "dividendsPaid": -3131000000,
+        "freeCashFlow": 8631000000,
+        "operatingCashFlow": 8631000000,
+        "stockBasedCompensation": null,
+        "year": 2023
+      },
+      {
+        "buyback": -250000000,
+        "capitalExpenditures": -564000000,
+        "depreciation": 1366000000,
+        "dividendsPaid": -2989000000,
+        "freeCashFlow": 11081000000,
+        "operatingCashFlow": 11081000000,
+        "stockBasedCompensation": null,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": 6349000000,
+        "incomeTaxExpense": 1042000000,
+        "interestExpense": 10119000000,
+        "interestPaid": 10073000000,
+        "netIncome": 5307000000,
+        "operatingIncome": null,
+        "periodEnd": "2025-12-31",
+        "revenue": 20319000000,
+        "year": 2025
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": -601000000,
+        "incomeTaxExpense": -556000000,
+        "interestExpense": 10975000000,
+        "interestPaid": 11340000000,
+        "netIncome": 4818000000,
+        "operatingIncome": null,
+        "periodEnd": "2024-12-31",
+        "revenue": 13278000000,
+        "year": 2024
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": -765000000,
+        "incomeTaxExpense": 738000000,
+        "interestExpense": 9928000000,
+        "interestPaid": 9138000000,
+        "netIncome": -1091000000,
+        "operatingIncome": null,
+        "periodEnd": "2023-12-31",
+        "revenue": 20022000000,
+        "year": 2023
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": 7029000000,
+        "incomeTaxExpense": 1250000000,
+        "interestExpense": 2321000000,
+        "interestPaid": 2007000000,
+        "netIncome": 6260000000,
+        "operatingIncome": null,
+        "periodEnd": "2022-12-31",
+        "revenue": 19973000000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "BENDER BRADLEY D",
+        "relation": "Officer",
+        "shares": 12781
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "BOYER K DAVID JR",
+        "relation": "Director",
+        "shares": 14341
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "LESHER KRISTIN",
+        "relation": "Officer",
+        "shares": 78953
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "MAGUIRE MICHAEL BARON",
+        "relation": "Chief Financial Officer",
+        "shares": 92623
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "POWELL CYNTHIA B",
+        "relation": "Officer",
+        "shares": 14381
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "ROGERS WILLIAM H JR",
+        "relation": "Chief Executive Officer",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "STEIN LAURENCE",
+        "relation": "Director",
+        "shares": 11216
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "STENGEL SCOTT A",
+        "relation": "Officer",
+        "shares": 14978
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-07-31",
+        "description": "Sale at price 51.85 per share.",
+        "filer": "WILSON DONTA L",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-07-28",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "BESSANT CATHERINE P",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-07-23",
+        "description": "Sale at price 50.70 per share.",
+        "filer": "BOYER K DAVID JR",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-07-20",
+        "description": "Sale at price 52.36 per share.",
+        "filer": "ROGERS WILLIAM H JR",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-06-01",
+        "description": "",
+        "filer": "BENDER BRADLEY D",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-03-13",
+        "description": "",
+        "filer": "POWELL CYNTHIA B",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-03-13",
+        "description": "",
+        "filer": "BENDER BRADLEY D",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-02-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "TANNER BRUCE L",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-02-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "BOYER K DAVID JR",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-02-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "STEIN LAURENCE",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-02-24",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "PRUZAN JONATHAN M",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-02-23",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "POWELL CYNTHIA B",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Truist Financial Corporation, a financial services company, provides banking and trust services in the Southeastern and Mid-Atlantic United States. The company operates through two segments, Consumer and Small Business Banking; and Wholesale Banking. Its deposit products include noninterest-bearing checking, interest-bearing checking, savings, and money market deposit accounts, as well as certificates of deposit and individual retirement accounts. The company also provides funding; asset management; credit card lending; home equity and mortgage lending; other direct retail lending; home mortga",
+      "fullTimeEmployees": 37849,
+      "industry": "Banks - Regional",
+      "sector": "Financial Services"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-13T18:46:12.881Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "TFC"
+}
