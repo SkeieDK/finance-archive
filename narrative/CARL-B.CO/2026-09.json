@@ -1,0 +1,32 @@
+{
+  "contentHash": "acee01dd1d0411d3",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Carlsberg Group omtalte en ny analyse fra Implement Consulting Group, som ifølge selskabets fremstilling opgør Carlsberg-familiens fondes uddelinger til samfundsformål i 2020-2024 og deres beskæftigelsesmæssige aftryk i Danmark.",
+        "key": "5338426cca837477",
+        "publishedAt": "2026-09-18",
+        "recordedAt": "2026-09-21T07:10:00Z",
+        "source": "Carlsberg Group, newsroom-artikel på carlsberggroup.com (ingen navngiven talsperson citeret; analysen tilskrives Implement Consulting Group)",
+        "url": "https://www.carlsberggroup.com/newsroom/new-analysis-highlights-the-carlsberg-family-s-contribution-to-danish-society/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Carlsberg Asia lancerede kampagnen «Cheers from the Origin» i partnerskab med RedNote rettet mod Hongkong, Singapore, Malaysia og Vietnam, og beskrev den som et led i selskabets digitale accelerationsprogram i Asien.",
+        "key": "172011fbaf70eb51",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-09-21T07:10:00Z",
+        "source": "Carlsberg Group, newsroom-artikel på carlsberggroup.com; Arindam Varanasi, Commercial Vice President, Carlsberg Asia: «This campaign marks a pivotal milestone in our Asia Digital Acceleration Program», og Dodo Kwong, Regional Head, Asia Global Business Solutions, RedNote: «Our continued partnership with Carlsberg shows how a heritage brand can thrive on RED»",
+        "url": "https://www.carlsberggroup.com/newsroom/cheers-from-the-origin-kicks-off-as-carlsberg-asia-expands-ties-with-rednote/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-21T07:10:00Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "CARL-B.CO"
+}

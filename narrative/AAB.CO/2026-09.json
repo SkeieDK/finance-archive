@@ -1,0 +1,32 @@
+{
+  "contentHash": "1809ba6681c41e2f",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Aalborg Boldspilklub A/S meddelte en præcisering af resultatforventningerne for 2026 og angav, at forventningen til årets resultat før skat på baggrund af årets første otte måneder indsnævres til et lavere interval end hidtil udmeldt.",
+        "key": "795c499ec1709363",
+        "publishedAt": "2026-09-15",
+        "recordedAt": "2026-09-20T06:20:37Z",
+        "source": "Aalborg Boldspilklub A/S, selskabsmeddelelse; administrerende direktør Michael Tuxen Boll",
+        "url": "https://www.globenewswire.com/news-release/2026/09/15/3361795/0/da/pr%C3%A6cisering-af-resultatforventningerne-for-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Aalborg Boldspilklub A/S meddelte efter ekstraordinær generalforsamling, at Thomas Hitzlsperger udtræder af bestyrelsen og afløses af Peter Sand for den resterende valgperiode, med Jesper Brøchner Thing som formand og Jesper Fristrup som næstformand.",
+        "key": "7d92547b00a75930",
+        "publishedAt": "2026-09-15",
+        "recordedAt": "2026-09-20T06:20:37Z",
+        "source": "Aalborg Boldspilklub A/S, selskabsmeddelelse om ekstraordinær generalforsamling (dirigent Tommy Olesen)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/15/3361677/0/da/ekstraordin%C3%A6r-generalforsamling-i-aalborg-boldspilklub-a-s.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-20T06:20:37Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "AAB.CO"
+}

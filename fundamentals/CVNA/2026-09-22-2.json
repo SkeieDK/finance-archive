@@ -1,0 +1,661 @@
+{
+  "contentHash": "5017a5cea742e451",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 406000000,
+        "cash": 2327000000,
+        "cashAndShortTerm": 2813000000,
+        "currentAssets": 6549000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 5521000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 2408000000,
+        "longTermDebt": 4830000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 2243000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 711150000,
+        "shortTermDebt": 285000000,
+        "totalAssets": 13201000000,
+        "totalCurrentLiabilities": 1519000000,
+        "totalDebt": 5521000000,
+        "totalEquity": 4203000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 414000000,
+        "cash": 1716000000,
+        "cashAndShortTerm": 2180000000,
+        "currentAssets": 4869000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 6046000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 1608000000,
+        "longTermDebt": 5256000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 101000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 666355000,
+        "shortTermDebt": 376000000,
+        "totalAssets": 8484000000,
+        "totalCurrentLiabilities": 1338000000,
+        "totalDebt": 6046000000,
+        "totalEquity": 1375000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 433000000,
+        "cash": 530000000,
+        "cashAndShortTerm": 896000000,
+        "currentAssets": 3321000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 6706000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 1150000000,
+        "longTermDebt": 5416000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 70000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 571195000,
+        "shortTermDebt": 857000000,
+        "totalAssets": 7071000000,
+        "totalCurrentLiabilities": 1536000000,
+        "totalDebt": 6706000000,
+        "totalEquity": -384000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 507000000,
+        "cash": 434000000,
+        "cashAndShortTerm": 755000000,
+        "currentAssets": 4594000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 8816000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": 1876000000,
+        "longTermDebt": 6574000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 78000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 530185000,
+        "shortTermDebt": 1735000000,
+        "totalAssets": 8698000000,
+        "totalCurrentLiabilities": 2592000000,
+        "totalDebt": 8816000000,
+        "totalEquity": -1053000000,
+        "year": 2022
+      },
+      {
+        "cash": 403000000,
+        "cashAndShortTerm": 403000000,
+        "currentAssets": 4892000000,
+        "inventory": 3149000000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 7015000000,
+        "totalCurrentLiabilities": 2890000000,
+        "totalDebt": null,
+        "totalEquity": 525000000,
+        "year": 2021
+      },
+      {
+        "cash": 301000000,
+        "cashAndShortTerm": 301000000,
+        "currentAssets": 1923000000,
+        "inventory": 1036000000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 3035000000,
+        "totalCurrentLiabilities": 467000000,
+        "totalDebt": null,
+        "totalEquity": 802000000,
+        "year": 2020
+      },
+      {
+        "cash": 76000000,
+        "cashAndShortTerm": 76000000,
+        "currentAssets": 1359422000,
+        "inventory": 762696000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 2057748000,
+        "totalCurrentLiabilities": 864870000,
+        "totalDebt": null,
+        "totalEquity": 192000000,
+        "year": 2019
+      },
+      {
+        "cash": 78861000,
+        "cashAndShortTerm": 78861000,
+        "currentAssets": 662854000,
+        "inventory": 412243000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 991013000,
+        "totalCurrentLiabilities": 329511000,
+        "totalDebt": null,
+        "totalEquity": 227000000,
+        "year": 2018
+      },
+      {
+        "cash": 172680000,
+        "cashAndShortTerm": 172680000,
+        "currentAssets": 489718000,
+        "inventory": 227446000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 641137000,
+        "totalCurrentLiabilities": 306031000,
+        "totalDebt": null,
+        "totalEquity": 279544000,
+        "year": 2017
+      },
+      {
+        "cash": 39184000,
+        "cashAndShortTerm": 39184000,
+        "currentAssets": 275241000,
+        "inventory": 185506000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 335833000,
+        "totalCurrentLiabilities": 196418000,
+        "totalDebt": null,
+        "totalEquity": null,
+        "year": 2016
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -147000000,
+        "depreciation": 275000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 889000000,
+        "operatingCashFlow": 1036000000,
+        "stockBasedCompensation": 96000000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -91000000,
+        "depreciation": 305000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 827000000,
+        "operatingCashFlow": 918000000,
+        "stockBasedCompensation": 91000000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -87000000,
+        "depreciation": 352000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 716000000,
+        "operatingCashFlow": 803000000,
+        "stockBasedCompensation": 73000000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -512000000,
+        "depreciation": 261000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -1836000000,
+        "operatingCashFlow": -1324000000,
+        "stockBasedCompensation": 69000000,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": -2594000000,
+        "stockBasedCompensation": 39000000,
+        "year": 2021
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": -608000000,
+        "stockBasedCompensation": 25000000,
+        "year": 2020
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": -757000000,
+        "stockBasedCompensation": 33000000,
+        "year": 2019
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": -4619000,
+        "freeCashFlow": null,
+        "operatingCashFlow": -414340000,
+        "stockBasedCompensation": 24095000,
+        "year": 2018
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": 0,
+        "freeCashFlow": null,
+        "operatingCashFlow": -199924000,
+        "stockBasedCompensation": 5611000,
+        "year": 2017
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": 0,
+        "freeCashFlow": null,
+        "operatingCashFlow": -240225000,
+        "stockBasedCompensation": 555000,
+        "year": 2016
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": null,
+        "dividendsPaid": -33533000,
+        "freeCashFlow": null,
+        "operatingCashFlow": -53508000,
+        "stockBasedCompensation": 490000,
+        "year": 2015
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 1881000000,
+        "grossProfit": 4192000000,
+        "incomeBeforeTax": -890000000,
+        "incomeTaxExpense": -2785000000,
+        "interestExpense": 505000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 336000000,
+        "netIncome": 1407000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1881000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 20322000000,
+        "year": 2025
+      },
+      {
+        "ebit": 990000000,
+        "grossProfit": 2876000000,
+        "incomeBeforeTax": 400000000,
+        "incomeTaxExpense": -4000000,
+        "interestExpense": 651000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 115000000,
+        "netIncome": 210000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 990000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 13673000000,
+        "year": 2024
+      },
+      {
+        "ebit": -80000000,
+        "grossProfit": 1724000000,
+        "incomeBeforeTax": 175000000,
+        "incomeTaxExpense": 25000000,
+        "interestExpense": 632000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 538000000,
+        "netIncome": 450000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -80000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 10771000000,
+        "year": 2023
+      },
+      {
+        "ebit": -2351000000,
+        "grossProfit": 1246000000,
+        "incomeBeforeTax": -2893000000,
+        "incomeTaxExpense": 1000000,
+        "interestExpense": 486000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 423000000,
+        "netIncome": -1587000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -2351000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 13604000000,
+        "year": 2022
+      },
+      {
+        "ebit": null,
+        "grossProfit": 1929000000,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 1000000,
+        "interestExpense": null,
+        "netIncome": -135000000,
+        "operatingIncome": null,
+        "revenue": 12814000000,
+        "year": 2021
+      },
+      {
+        "ebit": null,
+        "grossProfit": 794000000,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 0,
+        "interestExpense": null,
+        "netIncome": -171000000,
+        "operatingIncome": null,
+        "revenue": 5587000000,
+        "year": 2020
+      },
+      {
+        "ebit": null,
+        "grossProfit": 507000000,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 0,
+        "interestExpense": null,
+        "netIncome": -115000000,
+        "operatingIncome": null,
+        "revenue": 3940000000,
+        "year": 2019
+      },
+      {
+        "ebit": null,
+        "grossProfit": 196709000,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 0,
+        "interestExpense": null,
+        "netIncome": -55476000,
+        "operatingIncome": null,
+        "revenue": 1955467000,
+        "year": 2018
+      },
+      {
+        "ebit": null,
+        "grossProfit": 68091000,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 0,
+        "interestExpense": null,
+        "netIncome": -62841000,
+        "operatingIncome": null,
+        "revenue": 858870000,
+        "year": 2017
+      },
+      {
+        "ebit": null,
+        "grossProfit": 19197000,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 0,
+        "interestExpense": null,
+        "netIncome": -93112000,
+        "operatingIncome": null,
+        "revenue": 365148000,
+        "year": 2016
+      },
+      {
+        "ebit": null,
+        "grossProfit": 1346000,
+        "incomeBeforeTax": null,
+        "incomeTaxExpense": 0,
+        "interestExpense": null,
+        "netIncome": -36780000,
+        "operatingIncome": null,
+        "revenue": 130392000,
+        "year": 2015
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "BREAUX PAUL W",
+        "relation": "General Counsel",
+        "shares": 430940
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "GARCIA ERNEST C III",
+        "relation": "Chief Executive Officer",
+        "shares": 8723870
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "GILL DANIEL J",
+        "relation": "Officer",
+        "shares": 1050300
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "HUSTON BENJAMIN EDWARD",
+        "relation": "Chief Operating Officer",
+        "shares": 478693
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "JENKINS MARK W",
+        "relation": "Chief Financial Officer",
+        "shares": 1149520
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "KEETON RYAN SCOTT",
+        "relation": "Officer",
+        "shares": 432389
+      },
+      {
+        "latestBuySell": "Purchase",
+        "name": "MAROONE MICHAEL E",
+        "relation": "Director",
+        "shares": 213837
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "PLATT IRA J",
+        "relation": "Director",
+        "shares": 354880
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-14",
+        "description": "Sale at price 70.05 - 70.68 per share.",
+        "filer": "TAIRA THOMAS",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-01",
+        "description": "Conversion of Exercise of derivative security at price 2.01 - 10.39 per share.",
+        "filer": "JENKINS MARK W",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-01",
+        "description": "Sale at price 71.36 - 71.83 per share.",
+        "filer": "HUSTON BENJAMIN EDWARD",
+        "ownership": "D",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-01",
+        "description": "Sale at price 71.36 - 71.83 per share.",
+        "filer": "JENKINS MARK W",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-01",
+        "description": "Sale at price 71.40 - 71.88 per share.",
+        "filer": "PALMER STEPHEN R",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Conversion of Exercise of derivative security at price 3.00 per share.",
+        "filer": "QUAYLE DAN",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Conversion of Exercise of derivative security at price 3.00 per share.",
+        "filer": "PLATT IRA J",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 73.00 - 75.50 per share.",
+        "filer": "PLATT IRA J",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 75.00 per share.",
+        "filer": "QUAYLE DAN",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "Conversion of Exercise of derivative security at price 2.01 - 10.39 per share.",
+        "filer": "JENKINS MARK W",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "JENKINS MARK W",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-03",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "BREAUX PAUL W",
+        "ownership": "D",
+        "relation": "General Counsel",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Carvana Co., together with its subsidiaries, operates an e-commerce platform for buying and selling used cars. It provides vehicle acquisition, inspection and reconditioning, online search and shopping experience, financing, complementary products, logistics network and distinctive fulfillment experience, and post-sale customer support services. The company also operates auction sites. Carvana Co. was founded in 2012 and is based in Tempe, Arizona.",
+      "fullTimeEmployees": 23100,
+      "industry": "Auto & Truck Dealerships",
+      "sector": "Consumer Cyclical"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-22T15:31:43.735Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "CVNA"
+}

@@ -1,0 +1,4842 @@
+{
+  "contentHash": "9e66aa602e533c7e",
+  "payload": {
+    "asOfYear": 2026,
+    "count": 598,
+    "minCell": 5,
+    "verdicts": [
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 135,
+        "reason": null,
+        "ticker": "A",
+        "valuePercentile": 5.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -22.4x — under 3x, gælden tynger driften",
+        "ticker": "AAB.CO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 199,
+        "reason": "EBIT svinger (variationskoefficient 0.6)",
+        "ticker": "AAPL",
+        "valuePercentile": 35.5
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 102,
+        "reason": null,
+        "ticker": "ABBV",
+        "valuePercentile": 28.8
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 285,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "ABNB",
+        "valuePercentile": 6.4
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 169,
+        "reason": "EBIT svinger (variationskoefficient 0.56)",
+        "ticker": "ABT",
+        "valuePercentile": 43.8
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "ACGL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 52,
+        "reason": "EBIT svinger (variationskoefficient 0.42)",
+        "ticker": "ACN",
+        "valuePercentile": 81.3
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 11,
+        "reason": "EBIT svinger (variationskoefficient 0.87)",
+        "ticker": "ADBE",
+        "valuePercentile": 95.8
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 147,
+        "reason": "EBIT svinger (variationskoefficient 0.61)",
+        "ticker": "ADI",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 46,
+        "reason": null,
+        "ticker": "ADM",
+        "valuePercentile": 68.8
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 25,
+        "reason": null,
+        "ticker": "ADP",
+        "valuePercentile": 82.1
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 165,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "ADSK",
+        "valuePercentile": 45.8
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 186,
+        "reason": "2.7x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "AEE",
+        "valuePercentile": 39.1
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 187,
+        "reason": "2.4x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "AEP",
+        "valuePercentile": 39.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.1x — under 3x, gælden tynger driften",
+        "ticker": "AES",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "AFL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "AIG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "AIZ",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "AJG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 48,
+        "reason": "EBIT svinger (variationskoefficient 0.4)",
+        "ticker": "AKAM",
+        "valuePercentile": 83.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 0.2x — under 3x, gælden tynger driften",
+        "ticker": "ALB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 30,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "ALGN",
+        "valuePercentile": 90.8
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "ALL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 55,
+        "reason": null,
+        "ticker": "ALLE",
+        "valuePercentile": 63.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -3.2x — under 3x, gælden tynger driften",
+        "ticker": "ALMU",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 210,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "AMAT",
+        "valuePercentile": 30.6
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 208,
+        "reason": "EBIT svinger (variationskoefficient 0.63)",
+        "ticker": "AMBU-B.CO",
+        "valuePercentile": 31.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 139,
+        "reason": "rentedækningen er faldet til 2.8x seneste år",
+        "ticker": "AMCR",
+        "valuePercentile": 55.1
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 294,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "AMD",
+        "valuePercentile": 3.8
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 237,
+        "reason": "EBIT svinger (variationskoefficient 0.46)",
+        "ticker": "AME",
+        "valuePercentile": 22.7
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 96,
+        "reason": null,
+        "ticker": "AMGN",
+        "valuePercentile": 32.7
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "AMP",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (REIT - Specialty, n=6)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 128,
+        "reason": "2.8x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "AMT",
+        "valuePercentile": 58.3
+      },
+      {
+        "anchor": "branche (Internet Retail, n=6)",
+        "book": "asymmetric",
+        "rank": 276,
+        "reason": "EBIT svinger (variationskoefficient 1.49)",
+        "ticker": "AMZN",
+        "valuePercentile": 8.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen brugbar værdimåling: nettogæld ukendt — EV kan ikke beregnes",
+        "ticker": "ANET",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "AON",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 12,
+        "reason": "EBIT svinger (variationskoefficient 0.4)",
+        "ticker": "AOS",
+        "valuePercentile": 95.5
+      },
+      {
+        "anchor": "sektor (Energy, n=7)",
+        "book": "stable",
+        "rank": 11,
+        "reason": null,
+        "ticker": "APA",
+        "valuePercentile": 92.9
+      },
+      {
+        "anchor": "branche (Specialty Chemicals, n=5)",
+        "book": "asymmetric",
+        "rank": 148,
+        "reason": "rentedækningen er faldet til -4.1x seneste år",
+        "ticker": "APD",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 203,
+        "reason": "EBIT svinger (variationskoefficient 0.73)",
+        "ticker": "APH",
+        "valuePercentile": 33.1
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "APO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 295,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "APP",
+        "valuePercentile": 3.6
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 36,
+        "reason": null,
+        "ticker": "APTV",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "rank": 15,
+        "reason": "rentedækningen er faldet til -4.4x seneste år",
+        "ticker": "ARE",
+        "valuePercentile": 93.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "ARES",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 120,
+        "reason": null,
+        "ticker": "ASML",
+        "valuePercentile": 14.3
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 140,
+        "reason": null,
+        "ticker": "ASR",
+        "valuePercentile": 1.3
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 98,
+        "reason": null,
+        "ticker": "ATCO-A.ST",
+        "valuePercentile": 31.8
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "rank": 204,
+        "reason": "EBIT svinger (variationskoefficient 0.42)",
+        "ticker": "ATO",
+        "valuePercentile": 32.8
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 220,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "AVGO",
+        "valuePercentile": 26.9
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 63,
+        "reason": null,
+        "ticker": "AVY",
+        "valuePercentile": 58.3
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "rank": 99,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "AWK",
+        "valuePercentile": 67.2
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "asymmetric",
+        "rank": 277,
+        "reason": "rentedækningen er faldet til -0.7x seneste år",
+        "ticker": "AXON",
+        "valuePercentile": 8.3
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "AXP",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 71,
+        "reason": null,
+        "ticker": "AZO",
+        "valuePercentile": 52.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -0.8x — under 3x, gælden tynger driften",
+        "ticker": "BA",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 138,
+        "reason": null,
+        "ticker": "BABA",
+        "valuePercentile": 2.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "BAC",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 109,
+        "reason": null,
+        "ticker": "BAKKA.OL",
+        "valuePercentile": 22.9
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 84,
+        "reason": null,
+        "ticker": "BALL",
+        "valuePercentile": 41.7
+      },
+      {
+        "anchor": "branche (Biotechnology, n=6)",
+        "book": "asymmetric",
+        "rank": 24,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "BAVA.CO",
+        "valuePercentile": 91.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -0.5x — under 3x, gælden tynger driften",
+        "ticker": "BAX",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 45,
+        "reason": null,
+        "ticker": "BBY",
+        "valuePercentile": 69.4
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 113,
+        "reason": null,
+        "ticker": "BDX",
+        "valuePercentile": 21.2
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "BEN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 26,
+        "reason": null,
+        "ticker": "BF-B",
+        "valuePercentile": 81.3
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 196,
+        "reason": "rentedækningen er faldet til 2.8x seneste år",
+        "ticker": "BG",
+        "valuePercentile": 36.4
+      },
+      {
+        "anchor": "branche (Drug Manufacturers - General, n=6)",
+        "book": "asymmetric",
+        "rank": 25,
+        "reason": "EBIT svinger (variationskoefficient 0.58)",
+        "ticker": "BIIB",
+        "valuePercentile": 91.7
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 83,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "BKNG",
+        "valuePercentile": 73.1
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 256,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "BKR",
+        "valuePercentile": 14.7
+      },
+      {
+        "anchor": "branche (Building Products & Equipment, n=5)",
+        "book": "asymmetric",
+        "rank": 32,
+        "reason": "rentedækningen er faldet til 2.9x seneste år",
+        "ticker": "BLDR",
+        "valuePercentile": 90
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "BLK",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Drug Manufacturers - General, n=6)",
+        "book": "asymmetric",
+        "rank": 74,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "BMY",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "branche (Oil & Gas E&P, n=7)",
+        "book": "asymmetric",
+        "rank": 63,
+        "reason": "rentedækningen er faldet til 1.6x seneste år",
+        "ticker": "BNOR.OL",
+        "valuePercentile": 78.6
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "BNY",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 209,
+        "reason": "EBIT svinger (variationskoefficient 0.47)",
+        "ticker": "BR",
+        "valuePercentile": 31.3
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "BRK-B",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "BRO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 112,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "BSX",
+        "valuePercentile": 62.5
+      },
+      {
+        "anchor": "sektor (Energy, n=7)",
+        "book": "stable",
+        "rank": 52,
+        "reason": null,
+        "ticker": "BWLPG.OL",
+        "valuePercentile": 64.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "BX",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 53,
+        "reason": "1.5x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "BXP",
+        "valuePercentile": 81.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "C",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 51,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "CAH",
+        "valuePercentile": 81.6
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 37,
+        "reason": null,
+        "ticker": "CARL-B.CO",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 66,
+        "reason": null,
+        "ticker": "CARR",
+        "valuePercentile": 56.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 129,
+        "reason": null,
+        "ticker": "CASY",
+        "valuePercentile": 8.3
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 255,
+        "reason": "EBIT svinger (variationskoefficient 0.54)",
+        "ticker": "CAT",
+        "valuePercentile": 15.3
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "CB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "CBOE",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 113,
+        "reason": "EBIT svinger (variationskoefficient 0.42)",
+        "ticker": "CBRAIN.CO",
+        "valuePercentile": 62.5
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen rentepost oplyst, og nettogæld/EBIT er 9x — over 4x",
+        "ticker": "CBRE",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (REIT - Specialty, n=6)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 225,
+        "reason": "2.5x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "CCI",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 275,
+        "reason": "EBIT svinger (variationskoefficient 0.53)",
+        "ticker": "CCJ",
+        "valuePercentile": 8.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.5x — under 3x, gælden tynger driften",
+        "ticker": "CCL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 243,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "CDNS",
+        "valuePercentile": 20.8
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 170,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "CDW",
+        "valuePercentile": 43.8
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "rank": 300,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "CEG",
+        "valuePercentile": 1.6
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 33,
+        "reason": "EBIT svinger (variationskoefficient 0.87)",
+        "ticker": "CF",
+        "valuePercentile": 90
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "CFG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Household & Personal Products, n=5)",
+        "book": "stable",
+        "rank": 126,
+        "reason": null,
+        "ticker": "CHD",
+        "valuePercentile": 10
+      },
+      {
+        "anchor": "branche (Medical Devices, n=7)",
+        "book": "stable",
+        "rank": 132,
+        "reason": null,
+        "ticker": "CHEMM.CO",
+        "valuePercentile": 7.1
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 108,
+        "reason": null,
+        "ticker": "CHRW",
+        "valuePercentile": 23.8
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 98,
+        "reason": "2.5x er under 3x, men Communication Services har selv en median på 4.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "CHTR",
+        "valuePercentile": 67.9
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 2,
+        "reason": null,
+        "ticker": "CI",
+        "valuePercentile": 98.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 3x — under 3x, gælden tynger driften",
+        "ticker": "CIEN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "CINF",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Household & Personal Products, n=5)",
+        "book": "stable",
+        "rank": 59,
+        "reason": null,
+        "ticker": "CL",
+        "valuePercentile": 60
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 257,
+        "reason": "EBIT svinger (variationskoefficient 0.46)",
+        "ticker": "CLX",
+        "valuePercentile": 13.6
+      },
+      {
+        "anchor": "sektor (Communication Services, n=5)",
+        "book": "stable",
+        "rank": 16,
+        "reason": null,
+        "ticker": "CMCSA",
+        "valuePercentile": 90
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "CME",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen rentepost oplyst, og nettogæld/EBIT er 10.5x — over 4x",
+        "ticker": "CMG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 68,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "CMI",
+        "valuePercentile": 77.3
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 188,
+        "reason": "2.1x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "CMS",
+        "valuePercentile": 39.1
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 1,
+        "reason": "rentedækningen er faldet til -11.2x seneste år",
+        "ticker": "CNC",
+        "valuePercentile": 98.7
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 239,
+        "reason": "2.4x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "CNP",
+        "valuePercentile": 21.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "COF",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 0.9x — under 3x, gælden tynger driften",
+        "ticker": "COHR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "COIN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 69,
+        "reason": null,
+        "ticker": "COLO-B.CO",
+        "valuePercentile": 55.8
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 80,
+        "reason": "EBIT svinger (variationskoefficient 0.45)",
+        "ticker": "COO",
+        "valuePercentile": 73.7
+      },
+      {
+        "anchor": "sektor (Energy, n=7)",
+        "book": "stable",
+        "rank": 74,
+        "reason": null,
+        "ticker": "COP",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 100,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "COR",
+        "valuePercentile": 67.1
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 290,
+        "reason": "EBIT svinger (variationskoefficient 0.54)",
+        "ticker": "COST",
+        "valuePercentile": 4.5
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 1,
+        "reason": null,
+        "ticker": "CPA",
+        "valuePercentile": 98.8
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 14,
+        "reason": "EBIT svinger (variationskoefficient 0.62)",
+        "ticker": "CPAY",
+        "valuePercentile": 94.4
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 3,
+        "reason": null,
+        "ticker": "CPB",
+        "valuePercentile": 97.9
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 145,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "CPRI",
+        "valuePercentile": 51.3
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 65,
+        "reason": "EBIT svinger (variationskoefficient 0.72)",
+        "ticker": "CPRT",
+        "valuePercentile": 77.6
+      },
+      {
+        "anchor": "hele universet (n=140)",
+        "book": "stable",
+        "rank": 114,
+        "reason": null,
+        "ticker": "CPT",
+        "valuePercentile": 21.1
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "CRCL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "hele universet (n=140)",
+        "book": "stable",
+        "rank": 61,
+        "reason": null,
+        "ticker": "CRH",
+        "valuePercentile": 59.6
+      },
+      {
+        "anchor": "branche (Diagnostics & Research, n=7)",
+        "book": "asymmetric",
+        "rank": 64,
+        "reason": "rentedækningen er faldet til 0.2x seneste år",
+        "ticker": "CRL",
+        "valuePercentile": 78.6
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen rentepost oplyst, og nettogæld/EBIT er 45.2x — over 4x",
+        "ticker": "CRM",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -6x — under 3x, gælden tynger driften",
+        "ticker": "CRWD",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 91,
+        "reason": null,
+        "ticker": "CSCO",
+        "valuePercentile": 39.3
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "rank": 87,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "CSGP",
+        "valuePercentile": 70.8
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 67,
+        "reason": null,
+        "ticker": "CSX",
+        "valuePercentile": 56.3
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 219,
+        "reason": "EBIT svinger (variationskoefficient 0.58)",
+        "ticker": "CTAS",
+        "valuePercentile": 27.6
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 16,
+        "reason": "EBIT svinger (variationskoefficient 0.45)",
+        "ticker": "CTSH",
+        "valuePercentile": 93.8
+      },
+      {
+        "anchor": "hele universet (n=140)",
+        "book": "stable",
+        "rank": 131,
+        "reason": null,
+        "ticker": "CTVA",
+        "valuePercentile": 7.9
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 0.7x — under 3x, gælden tynger driften",
+        "ticker": "CVNA",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 66,
+        "reason": "rentedækningen er faldet til 1.5x seneste år",
+        "ticker": "CVS",
+        "valuePercentile": 77.6
+      },
+      {
+        "anchor": "sektor (Energy, n=7)",
+        "book": "stable",
+        "rank": 111,
+        "reason": null,
+        "ticker": "CVX",
+        "valuePercentile": 21.4
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 260,
+        "reason": "1.9x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "D",
+        "valuePercentile": 13
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 21,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "DAL",
+        "valuePercentile": 92.9
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -562x — under 3x, gælden tynger driften",
+        "ticker": "DASH",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.5x — under 3x, gælden tynger driften",
+        "ticker": "DD",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -3.8x — under 3x, gælden tynger driften",
+        "ticker": "DDOG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 234,
+        "reason": "rentedækningen er faldet til 3x seneste år",
+        "ticker": "DE",
+        "valuePercentile": 23.5
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 29,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "DECK",
+        "valuePercentile": 91
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 254,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "DELL",
+        "valuePercentile": 16.1
+      },
+      {
+        "anchor": "branche (Medical Devices, n=7)",
+        "book": "stable",
+        "rank": 75,
+        "reason": null,
+        "ticker": "DEMANT.CO",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 18,
+        "reason": null,
+        "ticker": "DG",
+        "valuePercentile": 89.6
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 90,
+        "reason": null,
+        "ticker": "DGX",
+        "valuePercentile": 40.4
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 13,
+        "reason": null,
+        "ticker": "DHI",
+        "valuePercentile": 91.7
+      },
+      {
+        "anchor": "branche (Diagnostics & Research, n=7)",
+        "book": "asymmetric",
+        "rank": 108,
+        "reason": "EBIT svinger (variationskoefficient 0.48)",
+        "ticker": "DHR",
+        "valuePercentile": 64.3
+      },
+      {
+        "anchor": "sektor (Communication Services, n=5)",
+        "book": "stable",
+        "rank": 100,
+        "reason": null,
+        "ticker": "DIS",
+        "valuePercentile": 30
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.4x — under 3x, gælden tynger driften",
+        "ticker": "DLR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 197,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "DLTR",
+        "valuePercentile": 36.4
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -9294.7x — under 3x, gælden tynger driften",
+        "ticker": "DNA",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "DNB.OL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 31,
+        "reason": "EBIT svinger (variationskoefficient 0.72)",
+        "ticker": "DNORD.CO",
+        "valuePercentile": 90.8
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 120,
+        "reason": "2.3x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "DOC",
+        "valuePercentile": 60.4
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 62,
+        "reason": null,
+        "ticker": "DOV",
+        "valuePercentile": 59.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.4x — under 3x, gælden tynger driften",
+        "ticker": "DOW",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 146,
+        "reason": "EBIT svinger (variationskoefficient 0.45)",
+        "ticker": "DPZ",
+        "valuePercentile": 51.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 222,
+        "reason": "EBIT svinger (variationskoefficient 0.55)",
+        "ticker": "DRI",
+        "valuePercentile": 25.6
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 28,
+        "reason": null,
+        "ticker": "DSV.CO",
+        "valuePercentile": 80
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 86,
+        "reason": "2.4x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "DTE",
+        "valuePercentile": 71.7
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 240,
+        "reason": "2.4x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "DUK",
+        "valuePercentile": 21.7
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 43,
+        "reason": null,
+        "ticker": "DVA",
+        "valuePercentile": 71.2
+      },
+      {
+        "anchor": "branche (Oil & Gas E&P, n=7)",
+        "book": "asymmetric",
+        "rank": 22,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "DVN",
+        "valuePercentile": 92.9
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 263,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "DXCM",
+        "valuePercentile": 12.5
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 92,
+        "reason": null,
+        "ticker": "EBAY",
+        "valuePercentile": 36.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -1.9x — under 3x, gælden tynger driften",
+        "ticker": "ECHO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Chemicals, n=5)",
+        "book": "asymmetric",
+        "rank": 270,
+        "reason": "EBIT svinger (variationskoefficient 0.42)",
+        "ticker": "ECL",
+        "valuePercentile": 10
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 4,
+        "reason": "2.6x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "ED",
+        "valuePercentile": 97.8
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 124,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "EFX",
+        "valuePercentile": 59.2
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "EG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 19,
+        "reason": "1.6x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "EIX",
+        "valuePercentile": 93.5
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 17,
+        "reason": "rentedækningen er faldet til 0.5x seneste år",
+        "ticker": "EKTA-B.ST",
+        "valuePercentile": 93.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.5x — under 3x, gælden tynger driften",
+        "ticker": "EL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 20,
+        "reason": null,
+        "ticker": "ELV",
+        "valuePercentile": 86.5
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.9x — under 3x, gælden tynger driften",
+        "ticker": "EMBJ",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 235,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "EME",
+        "valuePercentile": 23.5
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 110,
+        "reason": null,
+        "ticker": "EMR",
+        "valuePercentile": 22.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.3x — under 3x, gælden tynger driften",
+        "ticker": "ENTG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Oil & Gas E&P, n=7)",
+        "book": "asymmetric",
+        "rank": 174,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "EOG",
+        "valuePercentile": 42.9
+      },
+      {
+        "anchor": "branche (REIT - Specialty, n=6)",
+        "book": "asymmetric",
+        "rank": 278,
+        "reason": "EBIT svinger (variationskoefficient 0.61)",
+        "ticker": "EQIX",
+        "valuePercentile": 8.3
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 6,
+        "reason": "EBIT svinger (variationskoefficient 0.48)",
+        "ticker": "EQNR.OL",
+        "valuePercentile": 97.1
+      },
+      {
+        "anchor": "branche (Oil & Gas E&P, n=7)",
+        "book": "asymmetric",
+        "rank": 281,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "EQT",
+        "valuePercentile": 7.1
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "ERIE",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 60,
+        "reason": "2.6x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "ES",
+        "valuePercentile": 80.4
+      },
+      {
+        "anchor": "branche (REIT - Residential, n=5)",
+        "book": "asymmetric",
+        "rank": 91,
+        "reason": "EBIT svinger (variationskoefficient 0.65)",
+        "ticker": "ESS",
+        "valuePercentile": 70
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 136,
+        "reason": null,
+        "ticker": "ETN",
+        "valuePercentile": 4.5
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 283,
+        "reason": "2.5x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "ETR",
+        "valuePercentile": 6.5
+      },
+      {
+        "anchor": "branche (Internet Retail, n=6)",
+        "book": "asymmetric",
+        "rank": 75,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "ETSY",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 106,
+        "reason": "2.5x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "EVRG",
+        "valuePercentile": 65.2
+      },
+      {
+        "anchor": "branche (Medical Devices, n=7)",
+        "book": "stable",
+        "rank": 112,
+        "reason": null,
+        "ticker": "EW",
+        "valuePercentile": 21.4
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 143,
+        "reason": "2.3x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "EXC",
+        "valuePercentile": 52.2
+      },
+      {
+        "anchor": "branche (Oil & Gas E&P, n=7)",
+        "book": "asymmetric",
+        "rank": 241,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "EXE",
+        "valuePercentile": 21.4
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 140,
+        "reason": "EBIT svinger (variationskoefficient 0.5)",
+        "ticker": "EXPD",
+        "valuePercentile": 55.1
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 123,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "EXPE",
+        "valuePercentile": 60.3
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 171,
+        "reason": "2.4x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "EXR",
+        "valuePercentile": 43.8
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 251,
+        "reason": "rentedækningen er faldet til -6.9x seneste år",
+        "ticker": "F",
+        "valuePercentile": 16.7
+      },
+      {
+        "anchor": "branche (Oil & Gas E&P, n=7)",
+        "book": "asymmetric",
+        "rank": 109,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "FANG",
+        "valuePercentile": 64.3
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 211,
+        "reason": "EBIT svinger (variationskoefficient 0.44)",
+        "ticker": "FAST",
+        "valuePercentile": 30.6
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 111,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "FCX",
+        "valuePercentile": 63.3
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "FDS",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 67,
+        "reason": "EBIT svinger (variationskoefficient 0.4)",
+        "ticker": "FDX",
+        "valuePercentile": 77.6
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 29,
+        "reason": null,
+        "ticker": "FDXF",
+        "valuePercentile": 80
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 42,
+        "reason": "2.2x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "FE",
+        "valuePercentile": 87
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 42,
+        "reason": null,
+        "ticker": "FERG",
+        "valuePercentile": 71.3
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 97,
+        "reason": null,
+        "ticker": "FFIV",
+        "valuePercentile": 32.1
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 216,
+        "reason": "EBIT svinger (variationskoefficient 0.79)",
+        "ticker": "FICO",
+        "valuePercentile": 29.2
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 246,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "FIS",
+        "valuePercentile": 18.8
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "ingen brugbar værdimåling: ingen brugbar markedsværdi",
+        "ticker": "FISV",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "FITB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 273,
+        "reason": "EBIT svinger (variationskoefficient 1.19)",
+        "ticker": "FIX",
+        "valuePercentile": 9.2
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 104,
+        "reason": null,
+        "ticker": "FLEX",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "sektor (Communication Services, n=5)",
+        "book": "stable",
+        "rank": 44,
+        "reason": null,
+        "ticker": "FOXA",
+        "valuePercentile": 70
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 226,
+        "reason": "3x er under 3x, men Real Estate har selv en median på 2.8x — svagheden er sektorens, ikke selskabets",
+        "ticker": "FRT",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 200,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "FSLR",
+        "valuePercentile": 35.5
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 252,
+        "reason": "EBIT svinger (variationskoefficient 1.28)",
+        "ticker": "FTNT",
+        "valuePercentile": 16.7
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 57,
+        "reason": null,
+        "ticker": "FTV",
+        "valuePercentile": 60.7
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "stable",
+        "rank": 85,
+        "reason": null,
+        "ticker": "GD",
+        "valuePercentile": 41.7
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 85,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "GDDY",
+        "valuePercentile": 72.2
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "asymmetric",
+        "rank": 129,
+        "reason": "EBIT svinger (variationskoefficient 0.44)",
+        "ticker": "GE",
+        "valuePercentile": 58.3
+      },
+      {
+        "anchor": "branche (Medical Devices, n=7)",
+        "book": "stable",
+        "rank": 12,
+        "reason": null,
+        "ticker": "GEHC",
+        "valuePercentile": 92.9
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.9x — under 3x, gælden tynger driften",
+        "ticker": "GEN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -14.2x — under 3x, gælden tynger driften",
+        "ticker": "GEV",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Drug Manufacturers - General, n=6)",
+        "book": "asymmetric",
+        "rank": 227,
+        "reason": "EBIT svinger (variationskoefficient 0.73)",
+        "ticker": "GILD",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 45,
+        "reason": "rentedækningen er faldet til 1.6x seneste år",
+        "ticker": "GIS",
+        "valuePercentile": 86.4
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "GL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 137,
+        "reason": null,
+        "ticker": "GLW",
+        "valuePercentile": 3.6
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 160,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "GM",
+        "valuePercentile": 47.4
+      },
+      {
+        "anchor": "branche (Biotechnology, n=6)",
+        "book": "asymmetric",
+        "rank": 130,
+        "reason": "EBIT svinger (variationskoefficient 0.9)",
+        "ticker": "GMAB.CO",
+        "valuePercentile": 58.3
+      },
+      {
+        "anchor": "branche (Medical Devices, n=7)",
+        "book": "stable",
+        "rank": 31,
+        "reason": null,
+        "ticker": "GN.CO",
+        "valuePercentile": 78.6
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 96,
+        "reason": "EBIT svinger (variationskoefficient 0.53)",
+        "ticker": "GNRC",
+        "valuePercentile": 68.2
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 228,
+        "reason": "EBIT svinger (variationskoefficient 0.71)",
+        "ticker": "GOOGL",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 47,
+        "reason": "rentedækningen er faldet til 1.3x seneste år",
+        "ticker": "GPC",
+        "valuePercentile": 85.9
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.4x — under 3x, gælden tynger driften",
+        "ticker": "GPN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -2.5x — under 3x, gælden tynger driften",
+        "ticker": "GRAB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 142,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "GRMN",
+        "valuePercentile": 53.2
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "GS",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -1.2x — under 3x, gælden tynger driften",
+        "ticker": "GUBRA.CO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 183,
+        "reason": "EBIT svinger (variationskoefficient 0.45)",
+        "ticker": "GWW",
+        "valuePercentile": 40.8
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 61,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "HAL",
+        "valuePercentile": 79.4
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.4x — under 3x, gælden tynger driften",
+        "ticker": "HARB-B.CO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.2x — under 3x, gælden tynger driften",
+        "ticker": "HAS",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "HBAN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 50,
+        "reason": null,
+        "ticker": "HCA",
+        "valuePercentile": 67.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 101,
+        "reason": "EBIT svinger (variationskoefficient 0.48)",
+        "ticker": "HD",
+        "valuePercentile": 66.7
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 48,
+        "reason": null,
+        "ticker": "HEXA-B.ST",
+        "valuePercentile": 67.9
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "HIG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "asymmetric",
+        "rank": 26,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "HII",
+        "valuePercentile": 91.7
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 266,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "HLT",
+        "valuePercentile": 11.5
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "rank": 247,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "HNRG",
+        "valuePercentile": 18.8
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 9,
+        "reason": null,
+        "ticker": "HON",
+        "valuePercentile": 93.8
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "stable",
+        "rank": 38,
+        "reason": null,
+        "ticker": "HONA",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "HOOD",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 232,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "HPE",
+        "valuePercentile": 24.2
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 5,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "HPQ",
+        "valuePercentile": 97.6
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 23,
+        "reason": null,
+        "ticker": "HRL",
+        "valuePercentile": 85.4
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 73,
+        "reason": null,
+        "ticker": "HSIC",
+        "valuePercentile": 51.9
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "rank": 88,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "HST",
+        "valuePercentile": 70.8
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 68,
+        "reason": null,
+        "ticker": "HSY",
+        "valuePercentile": 56.3
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 192,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "HUBB",
+        "valuePercentile": 37.8
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 15,
+        "reason": null,
+        "ticker": "HUM",
+        "valuePercentile": 90.4
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "asymmetric",
+        "rank": 229,
+        "reason": "EBIT svinger (variationskoefficient 0.48)",
+        "ticker": "HWM",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "IBKR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 286,
+        "reason": "EBIT svinger (variationskoefficient 0.46)",
+        "ticker": "IBM",
+        "valuePercentile": 6.3
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "ICE",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 35,
+        "reason": null,
+        "ticker": "ICFI",
+        "valuePercentile": 76.3
+      },
+      {
+        "anchor": "branche (Diagnostics & Research, n=7)",
+        "book": "asymmetric",
+        "rank": 242,
+        "reason": "EBIT svinger (variationskoefficient 0.68)",
+        "ticker": "IDXX",
+        "valuePercentile": 21.4
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 125,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "IEX",
+        "valuePercentile": 59.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -2.8x — under 3x, gælden tynger driften",
+        "ticker": "IFF",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.8x — under 3x, gælden tynger driften",
+        "ticker": "IG.CO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Biotechnology, n=6)",
+        "book": "asymmetric",
+        "rank": 177,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "INCY",
+        "valuePercentile": 41.7
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 103,
+        "reason": null,
+        "ticker": "INDT.ST",
+        "valuePercentile": 28.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -1x — under 3x, gælden tynger driften",
+        "ticker": "INTC",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 40,
+        "reason": "EBIT svinger (variationskoefficient 0.7)",
+        "ticker": "INTU",
+        "valuePercentile": 87.5
+      },
+      {
+        "anchor": "branche (REIT - Residential, n=5)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 271,
+        "reason": "2.4x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "INVH",
+        "valuePercentile": 10
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.9x — under 3x, gælden tynger driften",
+        "ticker": "IP",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Diagnostics & Research, n=7)",
+        "book": "asymmetric",
+        "rank": 149,
+        "reason": "rentedækningen er faldet til 3x seneste år",
+        "ticker": "IQV",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 150,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "IR",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "branche (REIT - Specialty, n=6)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 178,
+        "reason": "1.5x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "IRM",
+        "valuePercentile": 41.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen brugbar værdimåling: nettogæld ukendt — EV kan ikke beregnes",
+        "ticker": "ISRG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 94,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "IT",
+        "valuePercentile": 68.8
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 76,
+        "reason": null,
+        "ticker": "ITW",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 159,
+        "reason": "EBIT svinger (variationskoefficient 0.47)",
+        "ticker": "IVSO.ST",
+        "valuePercentile": 47.6
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "IVZ",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 116,
+        "reason": null,
+        "ticker": "J",
+        "valuePercentile": 18.8
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 86,
+        "reason": null,
+        "ticker": "JBHT",
+        "valuePercentile": 41.3
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 151,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "JBL",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "branche (Building Products & Equipment, n=5)",
+        "book": "asymmetric",
+        "rank": 272,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "JCI",
+        "valuePercentile": 10
+      },
+      {
+        "anchor": "branche (Internet Retail, n=6)",
+        "book": "asymmetric",
+        "rank": 27,
+        "reason": "EBIT svinger (variationskoefficient 0.42)",
+        "ticker": "JD",
+        "valuePercentile": 91.7
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 39,
+        "reason": null,
+        "ticker": "JKHY",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -38.5x — under 3x, gælden tynger driften",
+        "ticker": "JMIA",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 128,
+        "reason": null,
+        "ticker": "JNJ",
+        "valuePercentile": 9.6
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "JPM",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 152,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "KDP",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "KEY",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 121,
+        "reason": null,
+        "ticker": "KEYS",
+        "valuePercentile": 14.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.9x — under 3x, gælden tynger driften",
+        "ticker": "KHC",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 121,
+        "reason": "2.4x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "KIM",
+        "valuePercentile": 60.4
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "KINS",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "KKR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 212,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "KLAC",
+        "valuePercentile": 30.6
+      },
+      {
+        "anchor": "branche (Household & Personal Products, n=5)",
+        "book": "stable",
+        "rank": 17,
+        "reason": null,
+        "ticker": "KMB",
+        "valuePercentile": 90
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen rentepost oplyst, og nettogæld/EBIT er 9x — over 4x",
+        "ticker": "KMI",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 47,
+        "reason": null,
+        "ticker": "KNEBV.HE",
+        "valuePercentile": 68.2
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 139,
+        "reason": null,
+        "ticker": "KO",
+        "valuePercentile": 2.1
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "stable",
+        "rank": 130,
+        "reason": null,
+        "ticker": "KOG.OL",
+        "valuePercentile": 8.3
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 238,
+        "reason": "rentedækningen er faldet til 3x seneste år",
+        "ticker": "KR",
+        "valuePercentile": 22.7
+      },
+      {
+        "anchor": "branche (Household & Personal Products, n=5)",
+        "book": "stable",
+        "rank": 60,
+        "reason": null,
+        "ticker": "KVUE",
+        "valuePercentile": 60
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "L",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Information Technology Services, n=8)",
+        "book": "asymmetric",
+        "rank": 136,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "LDOS",
+        "valuePercentile": 56.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 2,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "LEN",
+        "valuePercentile": 98.7
+      },
+      {
+        "anchor": "branche (Diagnostics & Research, n=7)",
+        "book": "asymmetric",
+        "rank": 23,
+        "reason": "EBIT svinger (variationskoefficient 0.45)",
+        "ticker": "LH",
+        "valuePercentile": 92.9
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "stable",
+        "rank": 105,
+        "reason": null,
+        "ticker": "LHX",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "branche (Building Products & Equipment, n=5)",
+        "book": "asymmetric",
+        "rank": 153,
+        "reason": "EBIT svinger (variationskoefficient 0.57)",
+        "ticker": "LII",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "branche (Specialty Chemicals, n=5)",
+        "book": "asymmetric",
+        "rank": 213,
+        "reason": "EBIT svinger (variationskoefficient 0.46)",
+        "ticker": "LIN",
+        "valuePercentile": 30
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -5.7x — under 3x, gælden tynger driften",
+        "ticker": "LITE",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Drug Manufacturers - General, n=6)",
+        "book": "asymmetric",
+        "rank": 279,
+        "reason": "EBIT svinger (variationskoefficient 0.54)",
+        "ticker": "LLY",
+        "valuePercentile": 8.3
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "stable",
+        "rank": 64,
+        "reason": null,
+        "ticker": "LMT",
+        "valuePercentile": 58.3
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 217,
+        "reason": "2.3x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "LNT",
+        "valuePercentile": 28.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 81,
+        "reason": null,
+        "ticker": "LOW",
+        "valuePercentile": 47.2
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 233,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "LRCX",
+        "valuePercentile": 24.2
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 13,
+        "reason": "rentedækningen er faldet til 1.4x seneste år",
+        "ticker": "LSG.OL",
+        "valuePercentile": 95.5
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 9,
+        "reason": "EBIT svinger (variationskoefficient 0.9)",
+        "ticker": "LULU",
+        "valuePercentile": 96.2
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.4x — under 3x, gælden tynger driften",
+        "ticker": "LUV",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 55,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "LVS",
+        "valuePercentile": 80.8
+      },
+      {
+        "anchor": "branche (Specialty Chemicals, n=5)",
+        "book": "asymmetric",
+        "rank": 34,
+        "reason": "rentedækningen er faldet til -0.9x seneste år",
+        "ticker": "LYB",
+        "valuePercentile": 90
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 250,
+        "reason": "2.8x er under 3x, men Communication Services har selv en median på 4.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "LYV",
+        "valuePercentile": 17.9
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "MA",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (REIT - Residential, n=5)",
+        "book": "asymmetric",
+        "rank": 214,
+        "reason": "EBIT svinger (variationskoefficient 0.83)",
+        "ticker": "MAA",
+        "valuePercentile": 30
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 7,
+        "reason": "EBIT svinger (variationskoefficient 0.99)",
+        "ticker": "MAERSK-B.CO",
+        "valuePercentile": 96.9
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 274,
+        "reason": "EBIT svinger (variationskoefficient 0.67)",
+        "ticker": "MAR",
+        "valuePercentile": 9
+      },
+      {
+        "anchor": "branche (Building Products & Equipment, n=5)",
+        "book": "asymmetric",
+        "rank": 92,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MAS",
+        "valuePercentile": 70
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 115,
+        "reason": null,
+        "ticker": "MCD",
+        "valuePercentile": 19.4
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 116,
+        "reason": "rentedækningen er faldet til 2.3x seneste år",
+        "ticker": "MCHP",
+        "valuePercentile": 61.5
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 138,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MCK",
+        "valuePercentile": 55.3
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "MCO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 124,
+        "reason": null,
+        "ticker": "MDLZ",
+        "valuePercentile": 12.5
+      },
+      {
+        "anchor": "branche (Medical Devices, n=7)",
+        "book": "stable",
+        "rank": 93,
+        "reason": null,
+        "ticker": "MDT",
+        "valuePercentile": 35.7
+      },
+      {
+        "anchor": "branche (Internet Retail, n=6)",
+        "book": "asymmetric",
+        "rank": 179,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MELI",
+        "valuePercentile": 41.7
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "MET",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 154,
+        "reason": "EBIT svinger (variationskoefficient 0.96)",
+        "ticker": "META",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 102,
+        "reason": "rentedækningen er faldet til -8.3x seneste år",
+        "ticker": "METSB.HE",
+        "valuePercentile": 66.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.9x — under 3x, gælden tynger driften",
+        "ticker": "MGM",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 72,
+        "reason": null,
+        "ticker": "MKC",
+        "valuePercentile": 52.1
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 195,
+        "reason": "EBIT svinger (variationskoefficient 0.79)",
+        "ticker": "MLM",
+        "valuePercentile": 36.7
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 95,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MMM",
+        "valuePercentile": 68.4
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen brugbar værdimåling: nettogæld ukendt — EV kan ikke beregnes",
+        "ticker": "MNST",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 51,
+        "reason": null,
+        "ticker": "MO",
+        "valuePercentile": 64.6
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 49,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MOS",
+        "valuePercentile": 83.3
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 40,
+        "reason": null,
+        "ticker": "MOWI.OL",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -4.1x — under 3x, gælden tynger driften",
+        "ticker": "MP",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 191,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MPC",
+        "valuePercentile": 38.2
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 244,
+        "reason": "EBIT svinger (variationskoefficient 1.13)",
+        "ticker": "MPWR",
+        "valuePercentile": 19.2
+      },
+      {
+        "anchor": "branche (Drug Manufacturers - General, n=6)",
+        "book": "asymmetric",
+        "rank": 131,
+        "reason": "EBIT svinger (variationskoefficient 0.48)",
+        "ticker": "MRK",
+        "valuePercentile": 58.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -138x — under 3x, gælden tynger driften",
+        "ticker": "MRNA",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "MRSH",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -0.6x — under 3x, gælden tynger driften",
+        "ticker": "MRVL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "MS",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "MSCI",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 155,
+        "reason": "EBIT svinger (variationskoefficient 0.75)",
+        "ticker": "MSFT",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 184,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MSI",
+        "valuePercentile": 39.5
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "MTB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 106,
+        "reason": null,
+        "ticker": "MTD",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 73,
+        "reason": "EBIT svinger (variationskoefficient 0.63)",
+        "ticker": "MTN",
+        "valuePercentile": 75.6
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 267,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "MU",
+        "valuePercentile": 11.5
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -3.9x — under 3x, gælden tynger driften",
+        "ticker": "NA",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.5x — under 3x, gælden tynger driften",
+        "ticker": "NCLH",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "NDA-DK.CO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "NDAQ",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 207,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "NDSN",
+        "valuePercentile": 31.8
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "rank": 298,
+        "reason": "rentedækningen er faldet til 1.8x seneste år",
+        "ticker": "NEE",
+        "valuePercentile": 2.2
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -57.1x — under 3x, gælden tynger driften",
+        "ticker": "NEL.OL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 133,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "NELLY.ST",
+        "valuePercentile": 57.7
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 296,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "NEM",
+        "valuePercentile": 3.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -30.7x — under 3x, gælden tynger driften",
+        "ticker": "NET",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 19,
+        "reason": null,
+        "ticker": "NETC.CO",
+        "valuePercentile": 89.3
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 269,
+        "reason": "EBIT svinger (variationskoefficient 1.34)",
+        "ticker": "NFLX",
+        "valuePercentile": 10.7
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 81,
+        "reason": "EBIT svinger (variationskoefficient 0.54)",
+        "ticker": "NHY.OL",
+        "valuePercentile": 73.3
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 166,
+        "reason": "2.8x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "NI",
+        "valuePercentile": 45.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 54,
+        "reason": null,
+        "ticker": "NKE",
+        "valuePercentile": 63.9
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 90,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "NKT.CO",
+        "valuePercentile": 70.4
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "asymmetric",
+        "rank": 76,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "NOC",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 201,
+        "reason": "rentedækningen er faldet til 2.1x seneste år",
+        "ticker": "NOD.OL",
+        "valuePercentile": 34.6
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 24,
+        "reason": null,
+        "ticker": "NOVO-B.CO",
+        "valuePercentile": 82.7
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 264,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "NOW",
+        "valuePercentile": 12.5
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "rank": 3,
+        "reason": "rentedækningen er faldet til 2.5x seneste år",
+        "ticker": "NRG",
+        "valuePercentile": 98.4
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 87,
+        "reason": null,
+        "ticker": "NSC",
+        "valuePercentile": 41.3
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 118,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "NTAP",
+        "valuePercentile": 61.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "NTRS",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "NU",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 82,
+        "reason": "EBIT svinger (variationskoefficient 0.55)",
+        "ticker": "NUE",
+        "valuePercentile": 73.3
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 176,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "NVDA",
+        "valuePercentile": 42.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 22,
+        "reason": null,
+        "ticker": "NVR",
+        "valuePercentile": 86.1
+      },
+      {
+        "anchor": "sektor (Communication Services, n=5)",
+        "book": "stable",
+        "rank": 127,
+        "reason": null,
+        "ticker": "NWS",
+        "valuePercentile": 10
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 56,
+        "reason": "EBIT svinger (variationskoefficient 0.47)",
+        "ticker": "NXPI",
+        "valuePercentile": 80.8
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 70,
+        "reason": "2.1x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "O",
+        "valuePercentile": 77.1
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 161,
+        "reason": "EBIT svinger (variationskoefficient 0.74)",
+        "ticker": "ODFL",
+        "valuePercentile": 46.9
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 88,
+        "reason": null,
+        "ticker": "OET.OL",
+        "valuePercentile": 41.3
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 137,
+        "reason": "EBIT svinger (variationskoefficient 0.74)",
+        "ticker": "OKE",
+        "valuePercentile": 55.9
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 50,
+        "reason": "rentedækningen er faldet til 1.7x seneste år",
+        "ticker": "OMC",
+        "valuePercentile": 82.1
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 84,
+        "reason": "rentedækningen er faldet til 1.2x seneste år",
+        "ticker": "ON",
+        "valuePercentile": 73.1
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 70,
+        "reason": null,
+        "ticker": "ORCL",
+        "valuePercentile": 53.6
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 202,
+        "reason": "EBIT svinger (variationskoefficient 0.54)",
+        "ticker": "ORLY",
+        "valuePercentile": 33.3
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 71,
+        "reason": "1.8x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "ORSTED.CO",
+        "valuePercentile": 76.6
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 21,
+        "reason": null,
+        "ticker": "OTIS",
+        "valuePercentile": 86.4
+      },
+      {
+        "anchor": "branche (Oil & Gas E&P, n=7)",
+        "book": "asymmetric",
+        "rank": 175,
+        "reason": "EBIT svinger (variationskoefficient 0.64)",
+        "ticker": "OXY",
+        "valuePercentile": 42.9
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 288,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "PANW",
+        "valuePercentile": 5.6
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 8,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "PARKEN.CO",
+        "valuePercentile": 96.4
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 62,
+        "reason": "EBIT svinger (variationskoefficient 0.4)",
+        "ticker": "PAYX",
+        "valuePercentile": 79.2
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 49,
+        "reason": null,
+        "ticker": "PCAR",
+        "valuePercentile": 67.5
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 127,
+        "reason": "1.5x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "PCG",
+        "valuePercentile": 58.7
+      },
+      {
+        "anchor": "branche (Internet Retail, n=6)",
+        "book": "asymmetric",
+        "rank": 132,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "PDD",
+        "valuePercentile": 58.3
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 72,
+        "reason": "2.9x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "PEG",
+        "valuePercentile": 76.1
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 83,
+        "reason": null,
+        "ticker": "PEP",
+        "valuePercentile": 43.8
+      },
+      {
+        "anchor": "branche (Drug Manufacturers - General, n=6)",
+        "book": "asymmetric",
+        "rank": 180,
+        "reason": "EBIT svinger (variationskoefficient 0.82)",
+        "ticker": "PFE",
+        "valuePercentile": 41.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "PFG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Household & Personal Products, n=5)",
+        "book": "stable",
+        "rank": 101,
+        "reason": null,
+        "ticker": "PG",
+        "valuePercentile": 30
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "PGR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 258,
+        "reason": "EBIT svinger (variationskoefficient 0.45)",
+        "ticker": "PH",
+        "valuePercentile": 13.6
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 4,
+        "reason": null,
+        "ticker": "PHM",
+        "valuePercentile": 97.2
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 172,
+        "reason": "EBIT svinger (variationskoefficient 0.47)",
+        "ticker": "PKG",
+        "valuePercentile": 43.6
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "rank": 248,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "PLD",
+        "valuePercentile": 18.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -2.6x — under 3x, gælden tynger driften",
+        "ticker": "PLTR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 125,
+        "reason": null,
+        "ticker": "PM",
+        "valuePercentile": 12.5
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "PNC",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 27,
+        "reason": null,
+        "ticker": "PNDORA.CO",
+        "valuePercentile": 80.6
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 46,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "PNR",
+        "valuePercentile": 86.4
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 107,
+        "reason": "2.6x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "PNW",
+        "valuePercentile": 65.2
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 265,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "PODD",
+        "valuePercentile": 12.5
+      },
+      {
+        "anchor": "hele universet (n=140)",
+        "book": "stable",
+        "rank": 34,
+        "reason": null,
+        "ticker": "PPG",
+        "valuePercentile": 76.8
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 43,
+        "reason": "2.5x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "PPL",
+        "valuePercentile": 87
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "PRU",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "rank": 122,
+        "reason": "EBIT svinger (variationskoefficient 0.63)",
+        "ticker": "PSA",
+        "valuePercentile": 60.4
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 0.9x — under 3x, gælden tynger driften",
+        "ticker": "PSKY",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 156,
+        "reason": "EBIT svinger (variationskoefficient 0.49)",
+        "ticker": "PSX",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 141,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "PTC",
+        "valuePercentile": 54.2
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 268,
+        "reason": "EBIT svinger (variationskoefficient 0.51)",
+        "ticker": "PWR",
+        "valuePercentile": 11.2
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "PYPL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 82,
+        "reason": null,
+        "ticker": "Q",
+        "valuePercentile": 46.4
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 38,
+        "reason": "EBIT svinger (variationskoefficient 0.55)",
+        "ticker": "QCOM",
+        "valuePercentile": 88.5
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 10,
+        "reason": null,
+        "ticker": "RBREW.CO",
+        "valuePercentile": 93.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -23.9x — under 3x, gælden tynger driften",
+        "ticker": "RCEL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.3x — under 3x, gælden tynger driften",
+        "ticker": "RCL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "gæld uden rentepost, og ingen positiv EBIT at måle gælden mod",
+        "ticker": "RDDT",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -4.5x — under 3x, gælden tynger driften",
+        "ticker": "RDW",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "hele universet (n=140)",
+        "book": "stable",
+        "rank": 65,
+        "reason": null,
+        "ticker": "REG",
+        "valuePercentile": 56.8
+      },
+      {
+        "anchor": "branche (Biotechnology, n=6)",
+        "book": "asymmetric",
+        "rank": 77,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "REGN",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "RF",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "RJF",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 223,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "RL",
+        "valuePercentile": 25.6
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 115,
+        "reason": "EBIT svinger (variationskoefficient 0.69)",
+        "ticker": "RMD",
+        "valuePercentile": 61.8
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 6,
+        "reason": null,
+        "ticker": "ROCK-B.CO",
+        "valuePercentile": 96.3
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 123,
+        "reason": null,
+        "ticker": "ROK",
+        "valuePercentile": 13.6
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 107,
+        "reason": null,
+        "ticker": "ROL",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 89,
+        "reason": "EBIT svinger (variationskoefficient 0.46)",
+        "ticker": "ROP",
+        "valuePercentile": 70.8
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 122,
+        "reason": null,
+        "ticker": "ROST",
+        "valuePercentile": 13.9
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 162,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "RSG",
+        "valuePercentile": 46.9
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "asymmetric",
+        "rank": 181,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "RTX",
+        "valuePercentile": 41.7
+      },
+      {
+        "anchor": "branche (Diagnostics & Research, n=7)",
+        "book": "asymmetric",
+        "rank": 282,
+        "reason": "EBIT svinger (variationskoefficient 0.85)",
+        "ticker": "RVTY",
+        "valuePercentile": 7.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -1983.5x — under 3x, gælden tynger driften",
+        "ticker": "RXRX",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 0.3x — under 3x, gælden tynger driften",
+        "ticker": "SABR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 126,
+        "reason": "rentedækningen er faldet til 2.2x seneste år",
+        "ticker": "SALM.OL",
+        "valuePercentile": 59.1
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -4.1x — under 3x, gælden tynger driften",
+        "ticker": "SALME.OL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 89,
+        "reason": null,
+        "ticker": "SAND.ST",
+        "valuePercentile": 40.9
+      },
+      {
+        "anchor": "branche (REIT - Specialty, n=6)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 78,
+        "reason": "2.6x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "SBAC",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 245,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "SBUX",
+        "valuePercentile": 19.2
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "SCHW",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Internet Retail, n=6)",
+        "book": "asymmetric",
+        "rank": 230,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "SE",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -714.8x — under 3x, gælden tynger driften",
+        "ticker": "SHOP",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Chemicals, n=5)",
+        "book": "asymmetric",
+        "rank": 93,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "SHW",
+        "valuePercentile": 70
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 7,
+        "reason": null,
+        "ticker": "SIEGY",
+        "valuePercentile": 95.5
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1x — under 3x, gælden tynger driften",
+        "ticker": "SJM",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 168,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "SLB",
+        "valuePercentile": 44.1
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 39,
+        "reason": "EBIT svinger (variationskoefficient 1.63)",
+        "ticker": "SMCI",
+        "valuePercentile": 87.9
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 59,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "SNA",
+        "valuePercentile": 80.6
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -16.8x — under 3x, gælden tynger driften",
+        "ticker": "SNDK",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -350.3x — under 3x, gælden tynger driften",
+        "ticker": "SNOW",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 218,
+        "reason": "rentedækningen er faldet til 2x seneste år",
+        "ticker": "SNPS",
+        "valuePercentile": 27.8
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 189,
+        "reason": "2.5x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "SO",
+        "valuePercentile": 39.1
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 41,
+        "reason": null,
+        "ticker": "SOLV",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "sektor (Technology, n=14)",
+        "book": "stable",
+        "rank": 5,
+        "reason": null,
+        "ticker": "SONY",
+        "valuePercentile": 96.4
+      },
+      {
+        "anchor": "hele universet (n=140)",
+        "book": "stable",
+        "rank": 118,
+        "reason": null,
+        "ticker": "SPG",
+        "valuePercentile": 17.1
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "SPGI",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 221,
+        "reason": "2.6x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "SRE",
+        "valuePercentile": 26.6
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 54,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "STE",
+        "valuePercentile": 81.3
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 135,
+        "reason": "EBIT svinger (variationskoefficient 0.86)",
+        "ticker": "STLD",
+        "valuePercentile": 56.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "STT",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 284,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "STX",
+        "valuePercentile": 6.5
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 97,
+        "reason": "EBIT svinger (variationskoefficient 0.6)",
+        "ticker": "STZ",
+        "valuePercentile": 68.2
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 57,
+        "reason": "rentedækningen er faldet til 2x seneste år",
+        "ticker": "SW",
+        "valuePercentile": 80.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.3x — under 3x, gælden tynger driften",
+        "ticker": "SWK",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 10,
+        "reason": "EBIT svinger (variationskoefficient 0.63)",
+        "ticker": "SWKS",
+        "valuePercentile": 96.2
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "SYF",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Medical Devices, n=8)",
+        "book": "asymmetric",
+        "rank": 114,
+        "reason": "EBIT svinger (variationskoefficient 0.41)",
+        "ticker": "SYK",
+        "valuePercentile": 62.5
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 80,
+        "reason": null,
+        "ticker": "SYY",
+        "valuePercentile": 47.9
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 119,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "T",
+        "valuePercentile": 60.7
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=11)",
+        "book": "asymmetric",
+        "rank": 69,
+        "reason": "rentedækningen er faldet til -9.4x seneste år",
+        "ticker": "TAP",
+        "valuePercentile": 77.3
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 18,
+        "reason": "EBIT svinger (variationskoefficient 0.7)",
+        "ticker": "TCOM",
+        "valuePercentile": 93.6
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.6x — under 3x, gælden tynger driften",
+        "ticker": "TDG",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 164,
+        "reason": "EBIT svinger (variationskoefficient 0.65)",
+        "ticker": "TDY",
+        "valuePercentile": 46
+      },
+      {
+        "anchor": "branche (Biotechnology, n=6)",
+        "book": "asymmetric",
+        "rank": 280,
+        "reason": "EBIT svinger (variationskoefficient 0.4)",
+        "ticker": "TECH",
+        "valuePercentile": 8.3
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 105,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TEL",
+        "valuePercentile": 65.3
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 79,
+        "reason": "EBIT svinger (variationskoefficient 0.55)",
+        "ticker": "TEL.OL",
+        "valuePercentile": 75
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 262,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TER",
+        "valuePercentile": 12.9
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "TFC",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 58,
+        "reason": null,
+        "ticker": "TGT",
+        "valuePercentile": 60.4
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 194,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TJX",
+        "valuePercentile": 37.2
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 157,
+        "reason": "2.8x er under 3x, men Communication Services har selv en median på 4.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "TKO",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "branche (Diagnostics & Research, n=7)",
+        "book": "asymmetric",
+        "rank": 198,
+        "reason": "EBIT svinger (variationskoefficient 0.74)",
+        "ticker": "TMO",
+        "valuePercentile": 35.7
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 206,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TMUS",
+        "valuePercentile": 32.1
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 77,
+        "reason": null,
+        "ticker": "TOM.OL",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Energy, n=7)",
+        "book": "stable",
+        "rank": 133,
+        "reason": null,
+        "ticker": "TPL",
+        "valuePercentile": 7.1
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 173,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TPR",
+        "valuePercentile": 43.6
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "stable",
+        "rank": 33,
+        "reason": null,
+        "ticker": "TREL-B.ST",
+        "valuePercentile": 77.3
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 297,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TRGP",
+        "valuePercentile": 2.9
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 167,
+        "reason": "EBIT svinger (variationskoefficient 1.09)",
+        "ticker": "TRMB",
+        "valuePercentile": 44.4
+      },
+      {
+        "anchor": "sektor (Energy, n=7)",
+        "book": "stable",
+        "rank": 32,
+        "reason": null,
+        "ticker": "TRMD",
+        "valuePercentile": 78.6
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "ingen brugbar værdimåling: under to år med EBIT",
+        "ticker": "TRMED.OL",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "TROW",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "TRV",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "TRYG.CO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 103,
+        "reason": "EBIT svinger (variationskoefficient 0.57)",
+        "ticker": "TSCO",
+        "valuePercentile": 66.7
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 301,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TSLA",
+        "valuePercentile": 1.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.7x — under 3x, gælden tynger driften",
+        "ticker": "TSN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Building Products & Equipment, n=5)",
+        "book": "asymmetric",
+        "rank": 215,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "TT",
+        "valuePercentile": 30
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "rank": 36,
+        "reason": "EBIT svinger (variationskoefficient 0.99)",
+        "ticker": "TTD",
+        "valuePercentile": 89.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -16.5x — under 3x, gælden tynger driften",
+        "ticker": "TTWO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Semiconductors, n=13)",
+        "book": "asymmetric",
+        "rank": 117,
+        "reason": "EBIT svinger (variationskoefficient 0.44)",
+        "ticker": "TXN",
+        "valuePercentile": 61.5
+      },
+      {
+        "anchor": "branche (Aerospace & Defense, n=6)",
+        "book": "stable",
+        "rank": 14,
+        "reason": null,
+        "ticker": "TXT",
+        "valuePercentile": 91.7
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 193,
+        "reason": "EBIT svinger (variationskoefficient 0.59)",
+        "ticker": "TYL",
+        "valuePercentile": 37.5
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -33x — under 3x, gælden tynger driften",
+        "ticker": "U",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 44,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "UAL",
+        "valuePercentile": 86.7
+      },
+      {
+        "anchor": "branche (Software - Application, n=12)",
+        "book": "asymmetric",
+        "rank": 292,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "UBER",
+        "valuePercentile": 4.2
+      },
+      {
+        "anchor": "branche (REIT - Residential, n=5)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 35,
+        "reason": "2.3x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "UDR",
+        "valuePercentile": 90
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 8,
+        "reason": null,
+        "ticker": "UHS",
+        "valuePercentile": 94.2
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 104,
+        "reason": "EBIT svinger (variationskoefficient 0.73)",
+        "ticker": "ULTA",
+        "valuePercentile": 66.7
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 20,
+        "reason": "EBIT svinger (variationskoefficient 0.54)",
+        "ticker": "UNH",
+        "valuePercentile": 93.4
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 78,
+        "reason": null,
+        "ticker": "UNP",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 37,
+        "reason": "EBIT svinger (variationskoefficient 0.44)",
+        "ticker": "UPS",
+        "valuePercentile": 88.8
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 110,
+        "reason": "EBIT svinger (variationskoefficient 0.67)",
+        "ticker": "URI",
+        "valuePercentile": 64.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "USB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "V",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 253,
+        "reason": "EBIT svinger (variationskoefficient 0.46)",
+        "ticker": "VALE",
+        "valuePercentile": 16.7
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 293,
+        "reason": "EBIT svinger (variationskoefficient 0.89)",
+        "ticker": "VEEV",
+        "valuePercentile": 3.9
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "rank": 41,
+        "reason": "EBIT svinger (variationskoefficient 0.97)",
+        "ticker": "VICI",
+        "valuePercentile": 87.5
+      },
+      {
+        "anchor": "sektor (Energy, n=17)",
+        "book": "asymmetric",
+        "rank": 205,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "VLO",
+        "valuePercentile": 32.4
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 56,
+        "reason": null,
+        "ticker": "VLTO",
+        "valuePercentile": 61.3
+      },
+      {
+        "anchor": "sektor (Basic Materials, n=15)",
+        "book": "asymmetric",
+        "rank": 163,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "VMC",
+        "valuePercentile": 46.7
+      },
+      {
+        "anchor": "branche (REIT - Residential, n=5)",
+        "book": "asymmetric",
+        "rank": 158,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "VMRK",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.7x — under 3x, gælden tynger driften",
+        "ticker": "VOD",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 95,
+        "reason": null,
+        "ticker": "VRSK",
+        "valuePercentile": 35
+      },
+      {
+        "anchor": "branche (Software - Infrastructure, n=9)",
+        "book": "asymmetric",
+        "rank": 190,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "VRSN",
+        "valuePercentile": 38.9
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 289,
+        "reason": "EBIT svinger (variationskoefficient 0.87)",
+        "ticker": "VRT",
+        "valuePercentile": 5.1
+      },
+      {
+        "anchor": "branche (Biotechnology, n=6)",
+        "book": "asymmetric",
+        "rank": 231,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "VRTX",
+        "valuePercentile": 25
+      },
+      {
+        "anchor": "sektor (Utilities, n=32)",
+        "book": "asymmetric",
+        "rank": 249,
+        "reason": "rentedækningen er faldet til 1.9x seneste år",
+        "ticker": "VST",
+        "valuePercentile": 18.8
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1x — under 3x, gælden tynger driften",
+        "ticker": "VTR",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 0.7x — under 3x, gælden tynger driften",
+        "ticker": "VTRS",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 291,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "VWS.CO",
+        "valuePercentile": 4.5
+      },
+      {
+        "anchor": "sektor (Communication Services, n=5)",
+        "book": "stable",
+        "rank": 79,
+        "reason": null,
+        "ticker": "VZ",
+        "valuePercentile": 50
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 236,
+        "reason": "EBIT svinger (variationskoefficient 0.68)",
+        "ticker": "WAB",
+        "valuePercentile": 23.5
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 117,
+        "reason": null,
+        "ticker": "WAT",
+        "valuePercentile": 17.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -2.4x — under 3x, gælden tynger driften",
+        "ticker": "WBD",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.6x — under 3x, gælden tynger driften",
+        "ticker": "WDAY",
+        "valuePercentile": null
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.8x — under 3x, gælden tynger driften",
+        "ticker": "WDC",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 144,
+        "reason": "2.6x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "WEC",
+        "valuePercentile": 52.2
+      },
+      {
+        "anchor": "sektor (Real Estate, n=24)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 287,
+        "reason": "1.5x er under 3x, men Real Estate har selv en median på 3x — svagheden er sektorens, ikke selskabets",
+        "ticker": "WELL",
+        "valuePercentile": 6.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "WFC",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Industrials, n=40)",
+        "book": "stable",
+        "rank": 119,
+        "reason": null,
+        "ticker": "WM",
+        "valuePercentile": 16.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 2.8x — under 3x, gælden tynger driften",
+        "ticker": "WMB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Defensive, n=24)",
+        "book": "stable",
+        "rank": 134,
+        "reason": null,
+        "ticker": "WMT",
+        "valuePercentile": 6.3
+      },
+      {
+        "anchor": "sektor (Communication Services, n=14)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 185,
+        "reason": "2.7x er under 3x, men Communication Services har selv en median på 4.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "WPP",
+        "valuePercentile": 39.3
+      },
+      {
+        "anchor": null,
+        "book": "stable",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "WRB",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 224,
+        "reason": "EBIT svinger (variationskoefficient 0.63)",
+        "ticker": "WSM",
+        "valuePercentile": 25.6
+      },
+      {
+        "anchor": "sektor (Healthcare, n=38)",
+        "book": "asymmetric",
+        "rank": 259,
+        "reason": "EBIT svinger (variationskoefficient 0.59)",
+        "ticker": "WST",
+        "valuePercentile": 13.2
+      },
+      {
+        "anchor": null,
+        "book": "asymmetric",
+        "rank": null,
+        "reason": "finansiel sektor — EV/EBIT er meningsløst her",
+        "ticker": "WTW",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (REIT - Specialty, n=6)",
+        "book": "asymmetric",
+        "rank": 28,
+        "reason": "rentedækningen er faldet til 2.7x seneste år",
+        "ticker": "WY",
+        "valuePercentile": 91.7
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning 1.4x — under 3x, gælden tynger driften",
+        "ticker": "WYNN",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "branche (Utilities - Regulated Electric, n=23)",
+        "book": "asymmetric",
+        "coverageRescued": true,
+        "rank": 261,
+        "reason": "2.2x er under 3x, men Utilities har selv en median på 2.5x — svagheden er sektorens, ikke selskabets",
+        "ticker": "XEL",
+        "valuePercentile": 13
+      },
+      {
+        "anchor": "sektor (Energy, n=7)",
+        "book": "stable",
+        "rank": 94,
+        "reason": null,
+        "ticker": "XOM",
+        "valuePercentile": 35.7
+      },
+      {
+        "anchor": "branche (Specialty Industrial Machinery, n=11)",
+        "book": "asymmetric",
+        "rank": 182,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "XYL",
+        "valuePercentile": 40.9
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -17.2x — under 3x, gælden tynger driften",
+        "ticker": "XYZ",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=18)",
+        "book": "stable",
+        "rank": 99,
+        "reason": null,
+        "ticker": "YUM",
+        "valuePercentile": 30.6
+      },
+      {
+        "anchor": "sektor (Consumer Cyclical, n=39)",
+        "book": "asymmetric",
+        "rank": 58,
+        "reason": "EBIT svinger (variationskoefficient 0.43)",
+        "ticker": "YUMC",
+        "valuePercentile": 80.8
+      },
+      {
+        "anchor": "sektor (Industrials, n=49)",
+        "book": "asymmetric",
+        "rank": 299,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "ZAP.OL",
+        "valuePercentile": 2
+      },
+      {
+        "anchor": "branche (Medical Devices, n=7)",
+        "book": "stable",
+        "rank": 53,
+        "reason": null,
+        "ticker": "ZBH",
+        "valuePercentile": 64.3
+      },
+      {
+        "anchor": "sektor (Technology, n=62)",
+        "book": "asymmetric",
+        "rank": 134,
+        "reason": "har haft underskud i vinduet",
+        "ticker": "ZBRA",
+        "valuePercentile": 57.3
+      },
+      {
+        "anchor": null,
+        "book": "excluded",
+        "rank": null,
+        "reason": "rentedækning -21.3x — under 3x, gælden tynger driften",
+        "ticker": "ZEAL.CO",
+        "valuePercentile": null
+      },
+      {
+        "anchor": "sektor (Healthcare, n=26)",
+        "book": "stable",
+        "rank": 30,
+        "reason": null,
+        "ticker": "ZTS",
+        "valuePercentile": 78.8
+      }
+    ],
+    "week": "2026-W38"
+  },
+  "periodEnd": "2026-W38",
+  "recordedAt": "2026-09-19T17:13:04.199Z",
+  "source": "screen",
+  "sourceVersion": null,
+  "ticker": null
+}

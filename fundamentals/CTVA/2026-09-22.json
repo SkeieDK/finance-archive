@@ -1,0 +1,562 @@
+{
+  "contentHash": "8f37880c2e321f1d",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": null,
+        "cash": 4521000000,
+        "cashAndShortTerm": 4530000000,
+        "currentAssets": 17335000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 2580000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 251000000,
+        "inventory": 5667000000,
+        "longTermDebt": 1686000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 1963000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 2434000000,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 672163000,
+        "shortTermDebt": 894000000,
+        "totalAssets": 42845000000,
+        "totalCurrentLiabilities": 12125000000,
+        "totalDebt": 2580000000,
+        "totalEquity": 24386000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 3106000000,
+        "cashAndShortTerm": 3169000000,
+        "currentAssets": 15097000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 2703000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 478000000,
+        "inventory": 5432000000,
+        "longTermDebt": 1953000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 1707000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 2271000000,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 685595000,
+        "shortTermDebt": 750000000,
+        "totalAssets": 40825000000,
+        "totalCurrentLiabilities": 10386000000,
+        "totalDebt": 2703000000,
+        "totalEquity": 24030000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 1000000,
+        "cash": 2644000000,
+        "cashAndShortTerm": 2742000000,
+        "currentAssets": 16260000000,
+        "currentLeasePrincipal": 1000000,
+        "debtWithLeases": 2489000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 899000000,
+        "inventory": 6899000000,
+        "longTermDebt": 2291000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 1651000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 2467000000,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 701260000,
+        "shortTermDebt": 197000000,
+        "totalAssets": 42996000000,
+        "totalCurrentLiabilities": 10409000000,
+        "totalDebt": 2489000000,
+        "totalEquity": 25279000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 3000000,
+        "cash": 3191000000,
+        "cashAndShortTerm": 3315000000,
+        "currentAssets": 16795000000,
+        "currentLeasePrincipal": 1000000,
+        "debtWithLeases": 1307000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 1119000000,
+        "inventory": 6811000000,
+        "longTermDebt": 1281000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 1676000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 2255000000,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 713419000,
+        "shortTermDebt": 23000000,
+        "totalAssets": 42618000000,
+        "totalCurrentLiabilities": 10744000000,
+        "totalDebt": 1307000000,
+        "totalEquity": 25541000000,
+        "year": 2022
+      },
+      {
+        "cash": 4459000000,
+        "cashAndShortTerm": 4459000000,
+        "currentAssets": 15546000000,
+        "inventory": 5180000000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 42344000000,
+        "totalCurrentLiabilities": 9558000000,
+        "totalDebt": null,
+        "totalEquity": 25623000000,
+        "year": 2021
+      },
+      {
+        "cash": 3526000000,
+        "cashAndShortTerm": 3526000000,
+        "currentAssets": 14768000000,
+        "inventory": 4882000000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 42649000000,
+        "totalCurrentLiabilities": 8548000000,
+        "totalDebt": null,
+        "totalEquity": 25063000000,
+        "year": 2020
+      },
+      {
+        "cash": 1764000000,
+        "cashAndShortTerm": 1764000000,
+        "currentAssets": 13519000000,
+        "inventory": 5032000000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 42397000000,
+        "totalCurrentLiabilities": 8238000000,
+        "totalDebt": null,
+        "totalEquity": 24555000000,
+        "year": 2019
+      },
+      {
+        "cash": 2270000000,
+        "cashAndShortTerm": 2270000000,
+        "currentAssets": 22972000000,
+        "inventory": 5310000000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 108683000000,
+        "totalCurrentLiabilities": 13310000000,
+        "totalDebt": null,
+        "totalEquity": 75153000000,
+        "year": 2018
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -1071000000,
+        "capitalExpenditures": -591000000,
+        "depreciation": 1203000000,
+        "dividendsPaid": -475000000,
+        "freeCashFlow": 2815000000,
+        "operatingCashFlow": 3406000000,
+        "stockBasedCompensation": null,
+        "year": 2025
+      },
+      {
+        "buyback": -1009000000,
+        "capitalExpenditures": -597000000,
+        "depreciation": 1227000000,
+        "dividendsPaid": -458000000,
+        "freeCashFlow": 1548000000,
+        "operatingCashFlow": 2145000000,
+        "stockBasedCompensation": null,
+        "year": 2024
+      },
+      {
+        "buyback": -756000000,
+        "capitalExpenditures": -595000000,
+        "depreciation": 1211000000,
+        "dividendsPaid": -439000000,
+        "freeCashFlow": 1174000000,
+        "operatingCashFlow": 1769000000,
+        "stockBasedCompensation": null,
+        "year": 2023
+      },
+      {
+        "buyback": -1000000000,
+        "capitalExpenditures": -605000000,
+        "depreciation": 1223000000,
+        "dividendsPaid": -418000000,
+        "freeCashFlow": 267000000,
+        "operatingCashFlow": 872000000,
+        "stockBasedCompensation": null,
+        "year": 2022
+      },
+      {
+        "buyback": -950000000,
+        "capitalExpenditures": null,
+        "depreciation": 1243000000,
+        "dividendsPaid": -397000000,
+        "freeCashFlow": null,
+        "operatingCashFlow": 2727000000,
+        "stockBasedCompensation": null,
+        "year": 2021
+      },
+      {
+        "buyback": -275000000,
+        "capitalExpenditures": null,
+        "depreciation": 1177000000,
+        "dividendsPaid": -388000000,
+        "freeCashFlow": null,
+        "operatingCashFlow": 2064000000,
+        "stockBasedCompensation": null,
+        "year": 2020
+      },
+      {
+        "buyback": -25000000,
+        "capitalExpenditures": null,
+        "depreciation": 1599000000,
+        "dividendsPaid": -194000000,
+        "freeCashFlow": null,
+        "operatingCashFlow": 1070000000,
+        "stockBasedCompensation": null,
+        "year": 2019
+      },
+      {
+        "buyback": 0,
+        "capitalExpenditures": null,
+        "depreciation": 2790000000,
+        "dividendsPaid": 0,
+        "freeCashFlow": null,
+        "operatingCashFlow": 483000000,
+        "stockBasedCompensation": null,
+        "year": 2018
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 1868000000,
+        "grossProfit": 8229000000,
+        "incomeBeforeTax": 1688000000,
+        "incomeTaxExpense": 484000000,
+        "interestExpense": 180000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 191000000,
+        "netIncome": 1094000000,
+        "officialFields": [
+          "revenue",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2619000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 17401000000,
+        "year": 2025
+      },
+      {
+        "ebit": 1508000000,
+        "grossProfit": 7379000000,
+        "incomeBeforeTax": 1275000000,
+        "incomeTaxExpense": 412000000,
+        "interestExpense": 233000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 244000000,
+        "netIncome": 907000000,
+        "officialFields": [
+          "revenue",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2096000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 16908000000,
+        "year": 2024
+      },
+      {
+        "ebit": 1326000000,
+        "grossProfit": 7306000000,
+        "incomeBeforeTax": 1093000000,
+        "incomeTaxExpense": 152000000,
+        "interestExpense": 233000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 234000000,
+        "netIncome": 735000000,
+        "officialFields": [
+          "revenue",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2110000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 17226000000,
+        "year": 2023
+      },
+      {
+        "ebit": 1505000000,
+        "grossProfit": 7019000000,
+        "incomeBeforeTax": 1426000000,
+        "incomeTaxExpense": 210000000,
+        "interestExpense": 79000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 75000000,
+        "netIncome": 1147000000,
+        "officialFields": [
+          "revenue",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1928000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 17455000000,
+        "year": 2022
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": 2346000000,
+        "incomeTaxExpense": 524000000,
+        "interestExpense": null,
+        "netIncome": 1759000000,
+        "operatingIncome": null,
+        "revenue": 15655000000,
+        "year": 2021
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": 675000000,
+        "incomeTaxExpense": -81000000,
+        "interestExpense": null,
+        "netIncome": 681000000,
+        "operatingIncome": null,
+        "revenue": 14217000000,
+        "year": 2020
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": -316000000,
+        "incomeTaxExpense": -46000000,
+        "interestExpense": null,
+        "netIncome": -959000000,
+        "operatingIncome": null,
+        "revenue": 13846000000,
+        "year": 2019
+      },
+      {
+        "ebit": null,
+        "grossProfit": null,
+        "incomeBeforeTax": -6806000000,
+        "incomeTaxExpense": -31000000,
+        "interestExpense": null,
+        "netIncome": -5065000000,
+        "operatingIncome": null,
+        "revenue": 14287000000,
+        "year": 2018
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "EATHINGTON SAMUEL R",
+        "relation": "Officer",
+        "shares": 89902
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "ENGEL KLAUS A",
+        "relation": "Director",
+        "shares": 41125
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "FUERER CORNEL B",
+        "relation": "Officer",
+        "shares": 101641
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "JOHANNS MICHAEL O",
+        "relation": "Director",
+        "shares": 45088
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "JOHNSON DAVID PAUL",
+        "relation": "Chief Financial Officer",
+        "shares": 81828
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "KING ROBERT D",
+        "relation": "Officer",
+        "shares": 69238
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "LUTZ MARCOS M",
+        "relation": "Director",
+        "shares": 63959
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "MAGRO CHARLES V.",
+        "relation": "Chief Executive Officer",
+        "shares": 354172
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-07-31",
+        "description": "Stock Award(Grant) at price 78.71 per share.",
+        "filer": "GIESSELMAN JANET PLAUT",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-07-31",
+        "description": "Stock Award(Grant) at price 78.71 per share.",
+        "filer": "NAYYAR NAYAKI R",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-07-31",
+        "description": "Stock Award(Grant) at price 78.71 per share.",
+        "filer": "POLICINSKI CHRISTOPHER J",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-06-01",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "KISSAM LUTHER C IV",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-04-30",
+        "description": "Stock Award(Grant) at price 81.01 per share.",
+        "filer": "GIESSELMAN JANET PLAUT",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-30",
+        "description": "Stock Award(Grant) at price 81.01 per share.",
+        "filer": "NAYYAR NAYAKI R",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-28",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "GILSON JEAN-MARC",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-28",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "LUTZ MARCOS M",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-28",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "GIESSELMAN JANET PLAUT",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-28",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "NAYYAR NAYAKI R",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-28",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "PAGE GREGORY R",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-28",
+        "description": "Stock Award(Grant) at price 0.00 per share.",
+        "filer": "EVERITT DAVID C",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Corteva, Inc. operates in the agriculture business. The company operates through two segments, Seed and Crop Protection. The Seed segment develops and supplies advanced germplasm and traits that produce optimum yield for farms. It offers trait technologies that enhance resistance to weather, disease, insects, and herbicides used to control weeds, as well as food and nutritional characteristics. This segment also provides digital solutions that assist farmer decision-making with a view to optimize product selection, and maximize yield and profitability. The Crop Protection segment offers produc",
+      "fullTimeEmployees": 21500,
+      "industry": "Agricultural Inputs",
+      "sector": "Basic Materials"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-22T14:38:10.878Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "CTVA"
+}

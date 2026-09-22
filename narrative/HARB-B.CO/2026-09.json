@@ -1,0 +1,41 @@
+{
+  "contentHash": "dfe451d41cf75562",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "CFO Simon Andersson siger i periodemeddelelsen at Harboe i 1. kvartal har leveret vaekst i omsaetningen paa 5%, og at selskabet trods en utilfredsstillende indtjening i kvartalet fastholder sine forudsaetninger.",
+        "key": "975a9d00c71c54e3",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-22T06:20:03Z",
+        "source": "Simon Andersson, CFO, Harboes Bryggeri A/S — selskabsmeddelelse nr. 7 2026/27",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365335/0/da/periodemeddelelse-for-1-kvartal-2026-27.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "CEO Soeren Malling siger at ledelsen glaeder sig over den forretningsmaessige fremdrift i kvartalet, men beskriver kvartalet som turbulent med uforudsete stigninger i fragtrater og energipriser.",
+        "key": "25ef6347b63b7efe",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-22T06:20:03Z",
+        "source": "Soeren Malling, CEO, Harboes Bryggeri A/S — selskabsmeddelelse nr. 7 2026/27",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365335/0/da/periodemeddelelse-for-1-kvartal-2026-27.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet oplyser at det fastholder sine finansielle forventninger til regnskabsaaret om et resultat foer skat i intervallet 30-60 mio. kr.",
+        "key": "bc51f2bbac39f005",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-22T06:20:03Z",
+        "source": "Harboes Bryggeri A/S, periodemeddelelse for 1. kvartal 2026/27",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365335/0/da/periodemeddelelse-for-1-kvartal-2026-27.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-22T06:20:03Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "HARB-B.CO"
+}

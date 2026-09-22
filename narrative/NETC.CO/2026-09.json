@@ -1,7 +1,7 @@
 {
-  "contentHash": "bdea482da42bce5c",
+  "contentHash": "5715c6eab53caccf",
   "payload": {
-    "count": 6,
+    "count": 7,
     "items": [
       {
         "claim": "Netcompany said Danske Bank A/S had notified it that, as of 31 August 2026, Danske Bank controlled 2,196,808 voting rights corresponding to 4.78% of total voting rights in the company, down from a previously disclosed 5.00%.",
@@ -56,12 +56,21 @@
         "source": "Netcompany Group A/S, selskabsmeddelelse nr. 57/2026",
         "url": "https://www.mfn.se/one/a/netcompany-group/transactions-in-connection-with-share-buyback-programme-01d8c477",
         "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany Group oplyser om transaktioner i uge 38 under det tilbagekoebsprogram, selskabet igangsatte 3. februar 2026, og angiver formaalet som tilpasning af kapitalstrukturen og opfyldelse af forpligtelser knyttet til aktiebaserede incitamentsprogrammer.",
+        "key": "06744481f99af699",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-22T06:20:03Z",
+        "source": "Netcompany Group A/S, selskabsmeddelelse; kontaktpersoner Thomas Johansen, CFO, og Frederikke Linde, Head of IR",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365259/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-16T06:12:54Z",
+  "recordedAt": "2026-09-22T06:20:03Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NETC.CO"

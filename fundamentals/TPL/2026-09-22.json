@@ -1,0 +1,552 @@
+{
+  "contentHash": "8ded31aeafe39936",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 16175000,
+        "cash": 144809000,
+        "cashAndShortTerm": 144809000,
+        "currentAssets": 319320000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 16175000,
+        "deferredRevenueNonCurrent": 20107000,
+        "deferredTaxNonCurrent": 54107000,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 68938230,
+        "shortTermDebt": null,
+        "totalAssets": 1623278000,
+        "totalCurrentLiabilities": 72604000,
+        "totalDebt": 16175000,
+        "totalEquity": 1458907000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 453000,
+        "cash": 369835000,
+        "cashAndShortTerm": 369835000,
+        "currentAssets": 503369000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 453000,
+        "deferredRevenueNonCurrent": 6797000,
+        "deferredTaxNonCurrent": 47401000,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 68915409,
+        "shortTermDebt": null,
+        "totalAssets": 1248020000,
+        "totalCurrentLiabilities": 46561000,
+        "totalDebt": 453000,
+        "totalEquity": 1132465000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 1170000,
+        "cash": 725169000,
+        "cashAndShortTerm": 725169000,
+        "currentAssets": 862464000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 1170000,
+        "deferredRevenueNonCurrent": 6330000,
+        "deferredTaxNonCurrent": 42365000,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 69023043,
+        "shortTermDebt": null,
+        "totalAssets": 1156398000,
+        "totalCurrentLiabilities": 44387000,
+        "totalDebt": 1170000,
+        "totalEquity": 1043196000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 1955000,
+        "cash": 510834000,
+        "cashAndShortTerm": 510834000,
+        "currentAssets": 633401000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 1955000,
+        "deferredRevenueNonCurrent": 4488000,
+        "deferredTaxNonCurrent": 41151000,
+        "inventory": 109704000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 69261111,
+        "shortTermDebt": null,
+        "totalAssets": 877427000,
+        "totalCurrentLiabilities": 39595000,
+        "totalDebt": 1955000,
+        "totalEquity": 772887000,
+        "year": 2022
+      },
+      {
+        "cash": 428242000,
+        "cashAndShortTerm": 428242000,
+        "currentAssets": 526513000,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 764064000,
+        "totalCurrentLiabilities": 50900000,
+        "totalDebt": null,
+        "totalEquity": 651711000,
+        "year": 2021
+      },
+      {
+        "cash": 281046000,
+        "cashAndShortTerm": 281046000,
+        "currentAssets": 332530000,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 571635000,
+        "totalCurrentLiabilities": 21376000,
+        "totalDebt": null,
+        "totalEquity": 485184000,
+        "year": 2020
+      },
+      {
+        "cash": 303645000,
+        "cashAndShortTerm": 303645000,
+        "currentAssets": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 598176000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": null,
+        "totalEquity": 512137000,
+        "year": 2019
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -8380000,
+        "capitalExpenditures": -513775000,
+        "depreciation": 62533000,
+        "dividendsPaid": -147798000,
+        "freeCashFlow": 32135000,
+        "operatingCashFlow": 545910000,
+        "stockBasedCompensation": 15131000,
+        "year": 2025
+      },
+      {
+        "buyback": -29159000,
+        "capitalExpenditures": -425273000,
+        "depreciation": 25162000,
+        "dividendsPaid": -347309000,
+        "freeCashFlow": 65399000,
+        "operatingCashFlow": 490672000,
+        "stockBasedCompensation": 12498000,
+        "year": 2024
+      },
+      {
+        "buyback": -42573000,
+        "capitalExpenditures": -39997000,
+        "depreciation": 14757000,
+        "dividendsPaid": -99972000,
+        "freeCashFlow": 378291000,
+        "operatingCashFlow": 418288000,
+        "stockBasedCompensation": 10343000,
+        "year": 2023
+      },
+      {
+        "buyback": -87765000,
+        "capitalExpenditures": -20874000,
+        "depreciation": 15376000,
+        "dividendsPaid": -247281000,
+        "freeCashFlow": 426275000,
+        "operatingCashFlow": 447149000,
+        "stockBasedCompensation": 8432000,
+        "year": 2022
+      },
+      {
+        "buyback": -19684000,
+        "capitalExpenditures": null,
+        "depreciation": 16257000,
+        "dividendsPaid": -85264000,
+        "freeCashFlow": null,
+        "operatingCashFlow": 265163000,
+        "stockBasedCompensation": 28000,
+        "year": 2021
+      },
+      {
+        "buyback": 0,
+        "capitalExpenditures": null,
+        "depreciation": 14395000,
+        "dividendsPaid": -201660000,
+        "freeCashFlow": null,
+        "operatingCashFlow": 207037000,
+        "stockBasedCompensation": 0,
+        "year": 2020
+      },
+      {
+        "buyback": -4353000,
+        "capitalExpenditures": null,
+        "depreciation": 8906000,
+        "dividendsPaid": -46546000,
+        "freeCashFlow": null,
+        "operatingCashFlow": 342790000,
+        "stockBasedCompensation": 0,
+        "year": 2019
+      },
+      {
+        "buyback": -38397000,
+        "capitalExpenditures": null,
+        "depreciation": 2583000,
+        "dividendsPaid": -31652000,
+        "freeCashFlow": null,
+        "operatingCashFlow": 195448000,
+        "stockBasedCompensation": null,
+        "year": 2018
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 592161000,
+        "grossProfit": 682129000,
+        "incomeBeforeTax": 610329000,
+        "incomeTaxExpense": 128953000,
+        "interestExpense": 690000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 481376000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 592161000,
+        "periodEnd": "2025-12-31",
+        "revenue": 798190000,
+        "year": 2025
+      },
+      {
+        "ebit": 539138000,
+        "grossProfit": 634537000,
+        "incomeBeforeTax": 578821000,
+        "incomeTaxExpense": 124861000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 453960000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 539138000,
+        "periodEnd": "2024-12-31",
+        "revenue": 705823000,
+        "year": 2024
+      },
+      {
+        "ebit": 486053000,
+        "grossProfit": 583272000,
+        "incomeBeforeTax": 517561000,
+        "incomeTaxExpense": 111916000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 405645000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 486053000,
+        "periodEnd": "2023-12-31",
+        "revenue": 631595000,
+        "year": 2023
+      },
+      {
+        "ebit": 562307000,
+        "grossProfit": 634583000,
+        "incomeBeforeTax": 568855000,
+        "incomeTaxExpense": 122493000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 446362000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 562307000,
+        "periodEnd": "2022-12-31",
+        "revenue": 667422000,
+        "year": 2022
+      },
+      {
+        "ebit": 362393000,
+        "grossProfit": null,
+        "incomeBeforeTax": 363017000,
+        "incomeTaxExpense": 93037000,
+        "interestExpense": null,
+        "netIncome": 269980000,
+        "operatingIncome": 362393000,
+        "revenue": 450958000,
+        "year": 2021
+      },
+      {
+        "ebit": 217261000,
+        "grossProfit": null,
+        "incomeBeforeTax": 219662000,
+        "incomeTaxExpense": 43613000,
+        "interestExpense": null,
+        "netIncome": 176049000,
+        "operatingIncome": 217261000,
+        "revenue": 302564000,
+        "year": 2020
+      },
+      {
+        "ebit": 399573000,
+        "grossProfit": null,
+        "incomeBeforeTax": 402255000,
+        "incomeTaxExpense": 83527000,
+        "interestExpense": null,
+        "netIncome": 318728000,
+        "operatingIncome": 399573000,
+        "revenue": 490496000,
+        "year": 2019
+      },
+      {
+        "ebit": 260834000,
+        "grossProfit": null,
+        "incomeBeforeTax": 261750000,
+        "incomeTaxExpense": 52014000,
+        "interestExpense": null,
+        "netIncome": 209736000,
+        "operatingIncome": 260834000,
+        "revenue": 300220000,
+        "year": 2018
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "BEST RHYS J",
+        "relation": "Director",
+        "shares": 3299
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "COOK DONALD G",
+        "relation": "Director",
+        "shares": 3086
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "DOBBS MICHEAL W",
+        "relation": "General Counsel",
+        "shares": 7845
+      },
+      {
+        "latestBuySell": "Purchase",
+        "name": "DOYLE PETER BRENDAN",
+        "relation": "Director",
+        "shares": 160032
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "GLOVER TYLER",
+        "relation": "Chief Executive Officer",
+        "shares": 44171
+      },
+      {
+        "latestBuySell": "Purchase",
+        "name": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": 3390850
+      },
+      {
+        "latestBuySell": "Purchase",
+        "name": "OLIVER ERIC L",
+        "relation": "Director",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "ROOSA ROBERT M.",
+        "relation": "Director",
+        "shares": 4469
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-18",
+        "description": "Purchase at price 351.34 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-16",
+        "description": "Purchase at price 352.36 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-15",
+        "description": "Purchase at price 371.64 per share.",
+        "filer": "DOYLE PETER BRENDAN",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-09-15",
+        "description": "Purchase at price 371.63 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-11",
+        "description": "Purchase at price 367.88 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-10",
+        "description": "Purchase at price 366.18 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-09",
+        "description": "Purchase at price 378.57 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-08",
+        "description": "Purchase at price 375.10 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-04",
+        "description": "Purchase at price 360.03 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-03",
+        "description": "Purchase at price 367.61 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-02",
+        "description": "Purchase at price 363.20 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      },
+      {
+        "date": "2026-09-01",
+        "description": "Purchase at price 369.10 per share.",
+        "filer": "HORIZON KINETICS ASSET MANAGEMENT L.L.C.",
+        "ownership": "D",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Texas Pacific Land Corporation engages in the land and resource management, and water services and operations businesses. The Land and Resource Management segment manages surface acres of land, and oil and gas royalty interest in Permian Basin. This segment also engages in easements, such as transporting oil, gas and related hydrocarbons, power line and utility, and subsurface wellbore easements. In addition, this segment leases its land for processing, storage, and compression facilities and roads; and is involved in sale of materials, such as caliche, sand, and other material, as well as sel",
+      "fullTimeEmployees": 114,
+      "industry": "Oil & Gas E&P",
+      "sector": "Energy"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-22T14:56:59.219Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "TPL"
+}

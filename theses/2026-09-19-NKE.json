@@ -1,0 +1,26 @@
+{
+  "contentHash": "ff9130470745f3ef",
+  "payload": {
+    "claim": "Change the view if (a) reported gross margin expands more than ~150bp year-on-year on a currency-neutral basis with no tariff-refund or other one-off benefit in the bridge, (b) Greater China currency-neutral revenue decline narrows to single digits for two consecutive quarters, or (c) management raises rather than trims the H2 FY2027 outlook and wholesale sell-through data shows share stabilising versus On/Hoka. On the other side, revisit negatively if promotional intensity deepens, inventory days rise again, or the integrity gate escalates from Flag toward the supply-chain forced-labour inquiry producing a substantiated finding that touches sourcing costs.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorFiscalYear": 2026,
+      "basis": "annual",
+      "confidence": 0.75,
+      "fiscalYear": 2027,
+      "metric": "net_margin_pct",
+      "op": "<",
+      "reasoning": "FY2026's 6.7% net margin was propped up by a one-off IEEPA tariff refund worth ~$0.52 of Q4 EPS (adjusted Q4 EPS $0.20), so the underlying run-rate is closer to 5.3%; with H1 FY2027 guided to declining revenue, elevated promotional discounting and continued China weakness, I expect FY2027 net margin to stay below the flattered FY2026 level — which is inconsistent with the 5.9% owner-earnings growth the price already embeds.",
+      "statedYearsAhead": 1,
+      "value": 6.5
+    },
+    "resolveBy": "2028-06-30",
+    "ticker": "NKE",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2028-06-30",
+  "recordedAt": "2026-09-19T21:28:23.628Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "NKE"
+}

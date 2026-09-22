@@ -1,7 +1,7 @@
 {
-  "contentHash": "68248cce7bc8d82e",
+  "contentHash": "4eb8d91269c858e6",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "Zealand Pharma oplyste i selskabsmeddelelse nr. 46/2026 at selskabet i uge 36 købte 183.000 egne aktier, og at det derefter besidder i alt 3.916.842 egne aktier svarende til ca. 5,47 pct. af aktiekapitalen.",
@@ -29,12 +29,30 @@
         "source": "Zealand Pharma A/S, selskabsmeddelelse nr. 47/2026",
         "url": "https://www.globenewswire.com/news-release/2026/09/10/3359764/0/en/zealand-pharma-increases-its-share-capital-as-a-result-of-the-exercise-of-employee-warrants.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma meddelte, at EMA's CHMP har afgivet positiv udtalelse med anbefaling af markedsføringstilladelse til Zeydovio (glepaglutide) mod korttarmssyndrom hos voksne, og at EU-Kommissionen ventes at træffe endelig afgørelse inden for ca. 67 dage.",
+        "key": "382200629a53097e",
+        "publishedAt": "2026-09-18",
+        "recordedAt": "2026-09-21T07:00:00Z",
+        "source": "Zealand Pharma A/S, selskabsmeddelelse via GlobeNewswire; David Kendall, MD, Chief Medical Officer, udtalte at «The positive opinion for Zeydovio is the first major advancement in short bowel syndrome treatment in Europe in more than a decade»",
+        "url": "https://www.globenewswire.com/news-release/2026/09/18/3364558/0/en/zealand-pharma-receives-positive-chmp-opinion-for-zeydovio-glepaglutide-for-the-treatment-of-short-bowel-syndrome.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma oplyste om transaktioner i uge 37 2026 under selskabets aktietilbagekøbsprogram og anførte, at programmet gennemføres senest 31. oktober 2026, samt at selskabet herefter besidder ca. 5,82 % af aktiekapitalen i egne aktier.",
+        "key": "2c01a106e1850bcc",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-09-21T07:00:00Z",
+        "source": "Zealand Pharma A/S, selskabsmeddelelse via GlobeNewswire; investorkontakter Eric Rojas (VP, Head of Investor Relations) og Neshat Anis Ahmadi (Investor Relations Manager)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/14/3361304/0/en/zealand-pharma-transactions-related-to-share-buy-back-program-week-37-2026.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-14T06:12:32Z",
+  "recordedAt": "2026-09-21T07:00:00Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ZEAL.CO"

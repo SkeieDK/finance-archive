@@ -1,0 +1,26 @@
+{
+  "contentHash": "5d3651c49d5d4425",
+  "payload": {
+    "claim": "Change the view if (a) North American comparable sales stop deteriorating — a sequential improvement from -9% toward flat in Q3/Q4 FY2026 with full-price sell-through recovering above 80%, alongside guidance that is reaffirmed or raised rather than cut a third time; or (b) the new CEO's first full merchandise assortment ships and gross margin stabilises above 56% without the one-off tariff refund, restoring positive operating leverage; or (c) fair value re-computes materially above spot because the marked-down base year proves too pessimistic. Cut the view if a third consecutive guidance cut lands, if EBIT margin drops below 14% on a TTM basis, or if the integrity gate escalates from Flag to Disqualifying on the pending SDNY inventory/disclosure case (accounting channel) — the greenwashing matters alone do not touch the price.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-07-31",
+      "basis": "ttm",
+      "confidence": 0.8,
+      "metric": "ebit_margin_pct",
+      "op": "<",
+      "periodEnd": "2027-01-31",
+      "reasoning": "FY2026 guidance of $10.35–10.50B revenue and $9.48–$9.73 EPS backs into roughly 15% EBIT margin even *including* the one-off $134.5M tariff refund, versus 17.84% on the current TTM and 19.9% in FY2026 — discounting into a -10% Q3 plus fixed-cost deleverage compounds it. This is where I depart from the price: the reverse DCF's 3.9% growth assumes the margin structure holds while the company is telling us operating leverage has already inverted.",
+      "statedQuartersAhead": 2,
+      "value": 16
+    },
+    "resolveBy": "2027-04-30",
+    "ticker": "LULU",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-04-30",
+  "recordedAt": "2026-09-19T21:09:18.567Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "LULU"
+}

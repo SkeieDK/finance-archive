@@ -1,0 +1,419 @@
+{
+  "contentHash": "887909c266a07b4b",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 23214000,
+        "cash": 953569000,
+        "cashAndShortTerm": 2476811000,
+        "currentAssets": 3135985000,
+        "currentLeasePrincipal": 7023000,
+        "debtWithLeases": 23214000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 106000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 190892108,
+        "shortTermDebt": null,
+        "totalAssets": 3239173000,
+        "totalCurrentLiabilities": 271283000,
+        "totalDebt": 23214000,
+        "totalEquity": 2929038000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 26702000,
+        "cash": 562092000,
+        "cashAndShortTerm": 1840809000,
+        "currentAssets": 2223401000,
+        "currentLeasePrincipal": 6137000,
+        "debtWithLeases": 26702000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 157000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 180315979,
+        "shortTermDebt": null,
+        "totalAssets": 2336595000,
+        "totalCurrentLiabilities": 176024000,
+        "totalDebt": 26702000,
+        "totalEquity": 2130749000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 25747000,
+        "cash": 401176000,
+        "cashAndShortTerm": 1213122000,
+        "currentAssets": 1479687000,
+        "currentLeasePrincipal": 3707000,
+        "debtWithLeases": 25747000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 287000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 158993090,
+        "shortTermDebt": null,
+        "totalAssets": 1596467000,
+        "totalCurrentLiabilities": 133570000,
+        "totalDebt": 25747000,
+        "totalEquity": -412922000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 19492000,
+        "cash": 435810000,
+        "cashAndShortTerm": 1266544000,
+        "currentAssets": 1483927000,
+        "currentLeasePrincipal": 7802000,
+        "debtWithLeases": 19492000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 7136000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 158993090,
+        "shortTermDebt": null,
+        "totalAssets": 1599711000,
+        "totalCurrentLiabilities": 106457000,
+        "totalDebt": 19492000,
+        "totalEquity": -379064000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -6706000,
+        "depreciation": 15948000,
+        "dividendsPaid": null,
+        "freeCashFlow": 684169000,
+        "operatingCashFlow": 690875000,
+        "stockBasedCompensation": 343180000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -6248000,
+        "depreciation": 15643000,
+        "dividendsPaid": null,
+        "freeCashFlow": 215820000,
+        "operatingCashFlow": 222068000,
+        "stockBasedCompensation": 801646000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -9724000,
+        "depreciation": 13702000,
+        "dividendsPaid": null,
+        "freeCashFlow": -84838000,
+        "operatingCashFlow": -75114000,
+        "stockBasedCompensation": 47598000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -6233000,
+        "depreciation": 8000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -100254000,
+        "operatingCashFlow": -94021000,
+        "stockBasedCompensation": 55310000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 441984000,
+        "grossProfit": 2008290000,
+        "incomeBeforeTax": 528690000,
+        "incomeTaxExpense": -1031000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 529721000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 441984000,
+        "periodEnd": "2025-12-31",
+        "revenue": 2202506000,
+        "year": 2025
+      },
+      {
+        "ebit": -560568000,
+        "grossProfit": 1176610000,
+        "incomeBeforeTax": -485207000,
+        "incomeTaxExpense": -931000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -484276000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -560568000,
+        "periodEnd": "2024-12-31",
+        "revenue": 1300205000,
+        "year": 2024
+      },
+      {
+        "ebit": -140161000,
+        "grossProfit": 693018000,
+        "incomeBeforeTax": -87023000,
+        "incomeTaxExpense": 3801000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -90824000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -140161000,
+        "periodEnd": "2023-12-31",
+        "revenue": 804029000,
+        "year": 2023
+      },
+      {
+        "ebit": -172162000,
+        "grossProfit": 561902000,
+        "incomeBeforeTax": -157928000,
+        "incomeTaxExpense": 622000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -158550000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -172162000,
+        "periodEnd": "2022-12-31",
+        "revenue": 666701000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "FARRELL SARAH E",
+        "relation": "Director",
+        "shares": 70862
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "FILI-KRUSHEL PATRICIA D",
+        "relation": "Director",
+        "shares": 31755
+      },
+      {
+        "latestBuySell": "Stock Award(Grant)",
+        "name": "HABIGER DAVID C",
+        "relation": "Director",
+        "shares": 37264
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "HUFFMAN STEVE LADD",
+        "relation": "Chief Executive Officer",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "LEE BENJAMIN SEONG",
+        "relation": "Officer",
+        "shares": 79309
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "SAUERBERG ROBERT A.",
+        "relation": "Director",
+        "shares": null
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "SLOWE CHRISTOPHER BRIAN",
+        "relation": "Chief Technology Officer",
+        "shares": 193241
+      },
+      {
+        "latestBuySell": "Sale",
+        "name": "TENCENT HOLDINGS, LTD.",
+        "relation": "Unknown",
+        "shares": null
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-15",
+        "description": "Conversion of Exercise of derivative security at price 25.29 per share.",
+        "filer": "HUFFMAN STEVE LADD",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-15",
+        "description": "Sale at price 158.21 - 163.64 per share.",
+        "filer": "HUFFMAN STEVE LADD",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-14",
+        "description": "Conversion of Exercise of derivative security at price 5.35 - 20.76 per share.",
+        "filer": "WONG JENNIFER L",
+        "ownership": "D",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-09-14",
+        "description": "Sale at price 158.04 - 165.90 per share.",
+        "filer": "WONG JENNIFER L",
+        "ownership": "D",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-31",
+        "description": "Conversion of Exercise of derivative security at price 25.29 per share.",
+        "filer": "HUFFMAN STEVE LADD",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-31",
+        "description": "Sale at price 147.66 - 151.17 per share.",
+        "filer": "HUFFMAN STEVE LADD",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-25",
+        "description": "Sale at price 159.92 per share.",
+        "filer": "SAUERBERG ROBERT A.",
+        "ownership": "I",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-08-20",
+        "description": "",
+        "filer": "HUFFMAN STEVE LADD",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Conversion of Exercise of derivative security at price 25.29 per share.",
+        "filer": "HUFFMAN STEVE LADD",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Conversion of Exercise of derivative security at price 5.35 - 25.29 per share.",
+        "filer": "WONG JENNIFER L",
+        "ownership": "D",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 174.82 - 183.95 per share.",
+        "filer": "WONG JENNIFER L",
+        "ownership": "D",
+        "relation": "Chief Operating Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-08-14",
+        "description": "Sale at price 175.04 - 184.06 per share.",
+        "filer": "HUFFMAN STEVE LADD",
+        "ownership": "I",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Reddit, Inc. operates a digital community in the United States and internationally. The company's platform enables user to engage in conversations, explore passions, research new hobbies, exchange goods and services, create new communities and experiences, share laughs, and find belonging. It also organizes communities based on specific interests that enable users to engage in conversations by sharing experiences, submitting links, uploading images and videos, and replying to one another. Reddit, Inc. was founded in 2005 and is headquartered in San Francisco, California.",
+      "fullTimeEmployees": 2555,
+      "industry": "Internet Content & Information",
+      "sector": "Communication Services"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-22T14:53:32.239Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "RDDT"
+}

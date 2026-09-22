@@ -1,0 +1,426 @@
+{
+  "contentHash": "e74028722c72fe4b",
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": null,
+        "cash": 878000000,
+        "cashAndShortTerm": 878000000,
+        "currentAssets": 3859000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 5035000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 164000000,
+        "inventory": 1066000000,
+        "longTermDebt": 5035000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 546000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 363000000,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 173490864,
+        "shortTermDebt": null,
+        "totalAssets": 14294000000,
+        "totalCurrentLiabilities": 3136000000,
+        "totalDebt": 5035000000,
+        "totalEquity": 5049000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 762000000,
+        "cashAndShortTerm": 762000000,
+        "currentAssets": 3249000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 8010000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 225000000,
+        "inventory": 965000000,
+        "longTermDebt": 7810000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 410000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 350000000,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 172785606,
+        "shortTermDebt": 200000000,
+        "totalAssets": 14457000000,
+        "totalCurrentLiabilities": 2703000000,
+        "totalDebt": 8010000000,
+        "totalEquity": 2959000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 194000000,
+        "cashAndShortTerm": 194000000,
+        "currentAssets": 2519000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 8303000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 231000000,
+        "inventory": 857000000,
+        "longTermDebt": 8303000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 152000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 166000000,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 172709175,
+        "shortTermDebt": null,
+        "totalAssets": 13943000000,
+        "totalCurrentLiabilities": 1728000000,
+        "totalDebt": 8303000000,
+        "totalEquity": 11666000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 61000000,
+        "cashAndShortTerm": 61000000,
+        "currentAssets": 2231000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": null,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 215000000,
+        "inventory": 873000000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 235000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 91000000,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 172709175,
+        "shortTermDebt": null,
+        "totalAssets": 13594000000,
+        "totalCurrentLiabilities": 1311000000,
+        "totalDebt": null,
+        "totalEquity": 11742000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -379000000,
+        "depreciation": 489000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -10000000,
+        "operatingCashFlow": 369000000,
+        "stockBasedCompensation": 161000000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -380000000,
+        "depreciation": 555000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 805000000,
+        "operatingCashFlow": 1185000000,
+        "stockBasedCompensation": 112000000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -290000000,
+        "depreciation": 561000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1625000000,
+        "operatingCashFlow": 1915000000,
+        "stockBasedCompensation": 39000000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -251000000,
+        "depreciation": 578000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1428000000,
+        "operatingCashFlow": 1679000000,
+        "stockBasedCompensation": 37000000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 2181000000,
+        "grossProfit": 4451000000,
+        "incomeBeforeTax": 1713000000,
+        "incomeTaxExpense": 157000000,
+        "interestExpense": 347000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 181000000,
+        "netIncome": 1556000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2181000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 8325000000,
+        "year": 2025
+      },
+      {
+        "ebit": 1036000000,
+        "grossProfit": 4593000000,
+        "incomeBeforeTax": 605000000,
+        "incomeTaxExpense": 127000000,
+        "interestExpense": 367000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 287000000,
+        "netIncome": 479000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1036000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 8254000000,
+        "year": 2024
+      },
+      {
+        "ebit": 1692000000,
+        "grossProfit": 4693000000,
+        "incomeBeforeTax": 1667000000,
+        "incomeTaxExpense": 321000000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1346000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1692000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 8197000000,
+        "year": 2023
+      },
+      {
+        "ebit": 1693000000,
+        "grossProfit": 4695000000,
+        "incomeBeforeTax": 1692000000,
+        "incomeTaxExpense": 349000000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1343000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1693000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 8130000000,
+        "year": 2022
+      }
+    ],
+    "insiderHolders": [
+      {
+        "latestBuySell": "Sale",
+        "name": "3M CO",
+        "relation": "Beneficial Owner of more than 10% of a Class of Security",
+        "shares": 25569200
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "COX CARRIE SMITH",
+        "relation": "Director",
+        "shares": 16400
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "GOMEZ TAMMY L",
+        "relation": "Officer",
+        "shares": 13362
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "HANSON BRYAN CRAIG",
+        "relation": "Chief Executive Officer",
+        "shares": 185515
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "HARRINGTON PAUL S",
+        "relation": "Officer",
+        "shares": 20452
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "KIRBERGER MARCELA A.",
+        "relation": "Officer",
+        "shares": 13540
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "LANDUCCI AMY",
+        "relation": "Chief Technology Officer",
+        "shares": 39888
+      },
+      {
+        "latestBuySell": "Conversion of Exercise of derivative security",
+        "name": "MCMILLAN WAYDE D",
+        "relation": "Chief Financial Officer",
+        "shares": 48637
+      }
+    ],
+    "insiderTransactions": [
+      {
+        "date": "2026-09-01",
+        "description": "",
+        "filer": "HANSON BRYAN CRAIG",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-13",
+        "description": "",
+        "filer": "HARRINGTON PAUL S",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-13",
+        "description": "",
+        "filer": "MCMILLAN WAYDE D",
+        "ownership": "D",
+        "relation": "Chief Financial Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-13",
+        "description": "",
+        "filer": "HANSON BRYAN CRAIG",
+        "ownership": "D",
+        "relation": "Chief Executive Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-13",
+        "description": "",
+        "filer": "KIRBERGER MARCELA A.",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-13",
+        "description": "",
+        "filer": "GOMEZ TAMMY L",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-13",
+        "description": "",
+        "filer": "LANDUCCI AMY",
+        "ownership": "D",
+        "relation": "Chief Technology Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-05-13",
+        "description": "",
+        "filer": "WILCOX MARY T",
+        "ownership": "D",
+        "relation": "Officer",
+        "value": ""
+      },
+      {
+        "date": "2026-04-30",
+        "description": "",
+        "filer": "WENDELL AMY MCBRIDE",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-30",
+        "description": "",
+        "filer": "MILY ELIZABETH",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-30",
+        "description": "",
+        "filer": "EDWARDS SHIRLEY ANN",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      },
+      {
+        "date": "2026-04-30",
+        "description": "",
+        "filer": "WEILAND JOHN H",
+        "ownership": "D",
+        "relation": "Director",
+        "value": ""
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Solventum Corporation, a healthcare company, develops, manufactures, and commercializes a portfolio of solutions to address critical customer and patient needs in the United States and internationally. It operates through three segments: Medsurg, Dental Solutions, and Health Information Systems. The Medsurg segment offers solutions, such as negative pressure wound therapy, advanced wound dressings, advanced skin care, synthetic tissue matrices, I.V. site management, sterilization assurance, temperature management, surgical supplies, medical tapes and wraps, stethoscopes, medical electrodes, an",
+      "fullTimeEmployees": 20584,
+      "industry": "Medical Instruments & Supplies",
+      "sector": "Healthcare"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-09-22T14:55:32.404Z",
+  "source": "yahoo-finance2",
+  "sourceVersion": "4.0.2",
+  "ticker": "SOLV"
+}

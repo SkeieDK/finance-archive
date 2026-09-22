@@ -1,7 +1,7 @@
 {
-  "contentHash": "b761c51916525f7b",
+  "contentHash": "f14d68bb001138f5",
   "payload": {
-    "count": 6,
+    "count": 8,
     "items": [
       {
         "claim": "Maersk said Roberta Duarte will rejoin the company as Chief People Officer from 1 November, succeeding Susana Elvira, with Duarte quoted saying she is 'truly honoured to return to Maersk' and that the company 'feels like home'.",
@@ -56,12 +56,30 @@
         "source": "Maersk, Europe Market Update September 2026",
         "url": "https://www.maersk.com/news/articles/2026/09/09/europe-market-update-september",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Moeller - Maersk oplyser om transaktioner i uge 38 (14.-18. september) under aktietilbagekoebsprogrammet, der blev annonceret 5. februar 2026, og hvis anden fase loeber fra 13. august 2026 til 29. januar 2027.",
+        "key": "46fbaf3f7603fa4f",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-22T06:20:03Z",
+        "source": "A.P. Moeller - Maersk A/S, selskabsmeddelelse; kontaktpersoner Martin Dunwoodie, Head of Investor Relations, og Jesper Loev, Head of Media Relations",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365452/0/en/transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Moeller - Maersk oplyser om transaktioner i ugen 7.-11. september under samme program og gentager at anden fase loeber fra 13. august 2026 til 29. januar 2027.",
+        "key": "7dcd8fd0b14d5f2f",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-09-22T06:20:03Z",
+        "source": "A.P. Moeller - Maersk A/S, selskabsmeddelelse paa investor.maersk.com; kontaktpersoner Martin Dunwoodie og Jesper Loev",
+        "url": "https://investor.maersk.com/news-releases/news-release-details/transactions-connection-share-buy-back-program-330",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-16T06:12:54Z",
+  "recordedAt": "2026-09-22T06:20:03Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-B.CO"

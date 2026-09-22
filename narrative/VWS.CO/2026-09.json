@@ -1,7 +1,7 @@
 {
-  "contentHash": "30376c7c13f76dca",
+  "contentHash": "295aed5ee9925e5a",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "Vestas fører på sin egen investoroversigt over vindmølleordrer en meddelelse dateret 08-09-26 med overskriften \"Vestas announces two new orders in Italy for a total of 105 MW\", og oversigten viser ingen ordremeddelelser derefter.",
@@ -29,12 +29,30 @@
         "source": "reNEWS (renews.biz)",
         "url": "https://www.renews.biz/onshore-wind/vestas-secures-105mw-italy-double/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Vestas Wind Systems A/S oplyste om transaktioner foretaget under selskabets aktietilbagekøbsprogram i perioden 10.-16. september 2026 under det program, selskabet igangsatte 12. august 2026.",
+        "key": "5e43c82adc5c90e1",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-20T06:20:37Z",
+        "source": "Vestas Wind Systems A/S, selskabsmeddelelse gengivet på MarketScreener; kontaktpersoner Daniel Patterson og Frederik Holm Jacobsen, Investor Relations",
+        "url": "https://www.marketscreener.com/news/vestas-wind-a-s-transactions-in-connection-with-share-buy-back-programme-10-16-september-2026-ce785bd3db81f323",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Vestas meddelte tre ordrer på i alt 119 MW i Holland, Belgien og Polen, alle med 20-årige serviceaftaler, ifølge Windtech Internationals gengivelse af selskabets udmelding.",
+        "key": "a972b226cf914756",
+        "publishedAt": "2026-09-16",
+        "recordedAt": "2026-09-20T06:20:37Z",
+        "source": "Windtech International, der refererer Vestas' egen meddelelse (ingen navngiven Vestas-talsperson citeret)",
+        "url": "https://www.windtech-international.com/projects-and-contracts/vestas-announces-three-orders-totalling-119-mw",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-14T06:12:32Z",
+  "recordedAt": "2026-09-20T06:20:37Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "VWS.CO"
