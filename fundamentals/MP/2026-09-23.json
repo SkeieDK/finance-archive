@@ -1,0 +1,435 @@
+{
+  "contentHash": "6716be3f4bf33997",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+      "evidenceAccn": "0001801368-26-000008",
+      "via": "concept-map v0"
+    },
+    "secFieldsRefused": [
+      {
+        "field": "cashAndShortTerm",
+        "ratio": 0.11555595025140716,
+        "reason": "balance: cashAndShortTerm 2022: SEC 136.6M mod 1.18B fra Yahoo — faktor 9 for lav; hverken forfremmet eller flettet",
+        "year": 2022
+      }
+    ],
+    "secPromotedYears": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 8429000,
+        "cash": 1166011000,
+        "cashAndShortTerm": 1830286000,
+        "currentAssets": 2165801000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 1007170000,
+        "deferredRevenueNonCurrent": 105990000,
+        "deferredTaxNonCurrent": 78418000,
+        "inventory": 171560000,
+        "longTermDebt": 931330000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 48576000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 177357647,
+        "shortTermDebt": 67411000,
+        "totalAssets": 3864160000,
+        "totalCurrentLiabilities": 299049000,
+        "totalDebt": 1007170000,
+        "totalEquity": 1978757000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 5798000,
+        "cash": 282442000,
+        "cashAndShortTerm": 850868000,
+        "currentAssets": 1031322000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 914527000,
+        "deferredRevenueNonCurrent": 63207000,
+        "deferredTaxNonCurrent": 110811000,
+        "inventory": 107905000,
+        "longTermDebt": 908729000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 26114000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 163195788,
+        "shortTermDebt": null,
+        "totalAssets": 2333558000,
+        "totalCurrentLiabilities": 164019000,
+        "totalDebt": 914527000,
+        "totalEquity": 1054880000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 6829000,
+        "cash": 263351000,
+        "cashAndShortTerm": 997844000,
+        "currentAssets": 1131177000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 688809000,
+        "deferredRevenueNonCurrent": 17433000,
+        "deferredTaxNonCurrent": 130793000,
+        "inventory": 95182000,
+        "longTermDebt": 681980000,
+        "longTermProvisions": 22063000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 25088000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 178082383,
+        "shortTermDebt": null,
+        "totalAssets": 2336452000,
+        "totalCurrentLiabilities": 108550000,
+        "totalDebt": 688809000,
+        "totalEquity": 1365779000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 15000,
+        "cash": 136627000,
+        "cashAndShortTerm": 1182345000,
+        "currentAssets": 1293828000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 678459000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 122353000,
+        "inventory": 57554000,
+        "longTermDebt": 678444000,
+        "longTermProvisions": 21875000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 4985000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 177706608,
+        "shortTermDebt": null,
+        "totalAssets": 2237787000,
+        "totalCurrentLiabilities": 97481000,
+        "totalDebt": 678459000,
+        "totalEquity": 1312634000,
+        "year": 2022
+      },
+      {
+        "cash": 1179297000,
+        "cashAndShortTerm": null,
+        "currentAssets": 1276807000,
+        "inventory": 38692000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 1889666000,
+        "totalCurrentLiabilities": 59543000,
+        "totalDebt": null,
+        "totalEquity": 1008732000,
+        "year": 2021
+      },
+      {
+        "cash": 519652000,
+        "cashAndShortTerm": null,
+        "currentAssets": 561047000,
+        "inventory": 32272000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 1074288000,
+        "totalCurrentLiabilities": 43061000,
+        "totalDebt": null,
+        "totalEquity": 853877000,
+        "year": 2020
+      },
+      {
+        "cash": 2757000,
+        "cashAndShortTerm": null,
+        "currentAssets": 27409000,
+        "inventory": 23048000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 101794000,
+        "totalCurrentLiabilities": 31315000,
+        "totalDebt": null,
+        "totalEquity": -18022000,
+        "year": 2019
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -31104000,
+        "capitalExpenditures": -172375000,
+        "depreciation": 89267000,
+        "dividendsPaid": null,
+        "freeCashFlow": -328130000,
+        "operatingCashFlow": -155755000,
+        "stockBasedCompensation": 30163000,
+        "year": 2025
+      },
+      {
+        "buyback": -225068000,
+        "capitalExpenditures": -186418000,
+        "depreciation": 78057000,
+        "dividendsPaid": null,
+        "freeCashFlow": -173069000,
+        "operatingCashFlow": 13349000,
+        "stockBasedCompensation": 23183000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -261897000,
+        "depreciation": 55709000,
+        "dividendsPaid": null,
+        "freeCashFlow": -199198000,
+        "operatingCashFlow": 62699000,
+        "stockBasedCompensation": 25236000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -326595000,
+        "depreciation": 18356000,
+        "dividendsPaid": null,
+        "freeCashFlow": 16919000,
+        "operatingCashFlow": 343514000,
+        "stockBasedCompensation": 31780000,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 24382000,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": 101971000,
+        "stockBasedCompensation": 22931000,
+        "year": 2021
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 6931000,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": 3277000,
+        "stockBasedCompensation": 5014000,
+        "year": 2020
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 4687000,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": -437000,
+        "stockBasedCompensation": 0,
+        "year": 2019
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": -149374000,
+        "grossProfit": -57615000,
+        "incomeBeforeTax": -117774000,
+        "incomeTaxExpense": -31900000,
+        "interestExpense": 31481000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": -85874000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -149374000,
+        "periodEnd": "2025-12-31",
+        "revenue": 224441000,
+        "year": 2025
+      },
+      {
+        "ebit": -169426000,
+        "grossProfit": -66788000,
+        "incomeBeforeTax": -93347000,
+        "incomeTaxExpense": -27923000,
+        "interestExpense": 23010000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 12127000,
+        "netIncome": -65424000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -169426000,
+        "periodEnd": "2024-12-31",
+        "revenue": 203855000,
+        "year": 2024
+      },
+      {
+        "ebit": -17719000,
+        "grossProfit": 105022000,
+        "incomeBeforeTax": 33075000,
+        "incomeTaxExpense": 8768000,
+        "interestExpense": 5254000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 2059000,
+        "netIncome": 24307000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -17719000,
+        "periodEnd": "2023-12-31",
+        "revenue": 253445000,
+        "year": 2023
+      },
+      {
+        "ebit": 327411000,
+        "grossProfit": 416936000,
+        "incomeBeforeTax": 341152000,
+        "incomeTaxExpense": 52148000,
+        "interestExpense": 5786000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 2096000,
+        "netIncome": 289004000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 327411000,
+        "periodEnd": "2022-12-31",
+        "revenue": 527510000,
+        "year": 2022
+      },
+      {
+        "ebit": 165345000,
+        "grossProfit": null,
+        "incomeBeforeTax": 160195000,
+        "incomeTaxExpense": 25158000,
+        "interestExpense": null,
+        "netIncome": 135037000,
+        "operatingIncome": 165345000,
+        "revenue": 331952000,
+        "year": 2021
+      },
+      {
+        "ebit": -34703000,
+        "grossProfit": null,
+        "incomeBeforeTax": -39461000,
+        "incomeTaxExpense": -17636000,
+        "interestExpense": null,
+        "netIncome": -21825000,
+        "operatingIncome": -34703000,
+        "revenue": 134310000,
+        "year": 2020
+      },
+      {
+        "ebit": -7620000,
+        "grossProfit": null,
+        "incomeBeforeTax": -6754000,
+        "incomeTaxExpense": 1000,
+        "interestExpense": null,
+        "netIncome": -6755000,
+        "operatingIncome": -7620000,
+        "revenue": 73017000,
+        "year": 2019
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "MP Materials Corp., together with its subsidiaries, produces rare earth materials in the Western Hemisphere. It operates in two segments, Materials and Magnetics. The Materials segment owns and operates the Mountain Pass Rare Earth Mine and Processing facility located near Mountain Pass, San Bernardino County, California. The Magnetics segment produces magnetic precursor products, including NdPr metal; and manufactures NdFeB permanent magnets. MP Materials Corp. was founded in 2017 and is headquartered in Las Vegas, Nevada.",
+      "fullTimeEmployees": 998,
+      "industry": "Other Industrial Metals & Mining",
+      "sector": "Basic Materials"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2025-12-31",
+  "recordedAt": "2026-09-23T19:16:50.247Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+        "evidenceAccn": "0001801368-26-000008",
+        "via": "concept-map v0"
+      },
+      "promotedYears": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "MP"
+}

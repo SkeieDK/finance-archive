@@ -1,7 +1,7 @@
 {
-  "contentHash": "adcf68a3b95512c7",
+  "contentHash": "6ab5757156e95efb",
   "payload": {
-    "count": 23,
+    "count": 24,
     "items": [
       {
         "claim": "H1 2025/2026: It shows revenue of DKK 249.0 million (-1.0% YoY in DKK, +3% organic/local currency) with an expanded gross margin of 95% due to product mix shift toward higher-spec XcytoMatic instruments.",
@@ -209,12 +209,21 @@
         "source": "BlackRock, Inc., via storaktionaermeddelelse nr. 315 fra ChemoMetec A/S",
         "url": "https://www.globenewswire.com/news-release/2026/09/16/3363184/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec indkaldte til ordinær generalforsamling torsdag den 8. oktober 2026 kl. 17.30 på Nordsjællands KonferenceCenter i Allerød.",
+        "key": "e6b5b0f0773fd8e2",
+        "publishedAt": "2026-09-16",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse nr. 314 (kontakt: CFO Phillip Massie Price)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/16/3363146/0/en/notice-of-annual-general-meeting-2026.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-17T06:12:42Z",
+  "recordedAt": "2026-09-23T06:22:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CHEMM.CO"

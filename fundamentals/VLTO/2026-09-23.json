@@ -1,0 +1,362 @@
+{
+  "contentHash": "3936e4438bb0318d",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+      "evidenceAccn": "0001967680-26-000011",
+      "via": "concept-map v0"
+    },
+    "secFieldsRefused": [],
+    "secPromotedYears": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 206000000,
+        "cash": 2031000000,
+        "cashAndShortTerm": 2031000000,
+        "currentAssets": 3432000000,
+        "currentLeasePrincipal": 48000000,
+        "debtWithLeases": 2879000000,
+        "deferredRevenueNonCurrent": 20000000,
+        "deferredTaxNonCurrent": null,
+        "inventory": 307000000,
+        "longTermDebt": 1973000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 61000000,
+        "payablesNonCurrent": 279000000,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 248400000,
+        "shortTermDebt": 700000000,
+        "totalAssets": 7693000000,
+        "totalCurrentLiabilities": 2056000000,
+        "totalDebt": 2879000000,
+        "totalEquity": 3106000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 168000000,
+        "cash": 1101000000,
+        "cashAndShortTerm": 1101000000,
+        "currentAssets": 2387000000,
+        "currentLeasePrincipal": 39000000,
+        "debtWithLeases": 2767000000,
+        "deferredRevenueNonCurrent": 17000000,
+        "deferredTaxNonCurrent": null,
+        "inventory": 288000000,
+        "longTermDebt": 2599000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 47000000,
+        "payablesNonCurrent": 295000000,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 247400000,
+        "shortTermDebt": null,
+        "totalAssets": 6406000000,
+        "totalCurrentLiabilities": 1245000000,
+        "totalDebt": 2767000000,
+        "totalEquity": 2045000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 148000000,
+        "cash": 762000000,
+        "cashAndShortTerm": 762000000,
+        "currentAssets": 2073000000,
+        "currentLeasePrincipal": 33000000,
+        "debtWithLeases": 2777000000,
+        "deferredRevenueNonCurrent": 15000000,
+        "deferredTaxNonCurrent": null,
+        "inventory": 297000000,
+        "longTermDebt": 2629000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 51000000,
+        "payablesNonCurrent": 185000000,
+        "pensionObligations": 30000000,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 246400000,
+        "shortTermDebt": null,
+        "totalAssets": 5693000000,
+        "totalCurrentLiabilities": 1265000000,
+        "totalDebt": 2777000000,
+        "totalEquity": 1389000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 123000000,
+        "cash": 0,
+        "cashAndShortTerm": null,
+        "currentAssets": 1280000000,
+        "currentLeasePrincipal": 32000000,
+        "debtWithLeases": 123000000,
+        "deferredRevenueNonCurrent": 14000000,
+        "deferredTaxNonCurrent": null,
+        "inventory": 345000000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 23000000,
+        "payablesNonCurrent": 264000000,
+        "pensionObligations": 13000000,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 246061744,
+        "shortTermDebt": null,
+        "totalAssets": 4825000000,
+        "totalCurrentLiabilities": 1123000000,
+        "totalDebt": 123000000,
+        "totalEquity": 3240000000,
+        "year": 2022
+      },
+      {
+        "cash": null,
+        "cashAndShortTerm": null,
+        "currentAssets": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 4840000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": null,
+        "totalEquity": null,
+        "year": 2021
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -63000000,
+        "depreciation": 78000000,
+        "dividendsPaid": -109000000,
+        "freeCashFlow": 1014000000,
+        "operatingCashFlow": 1077000000,
+        "stockBasedCompensation": 74000000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -55000000,
+        "depreciation": 78000000,
+        "dividendsPaid": -89000000,
+        "freeCashFlow": 820000000,
+        "operatingCashFlow": 875000000,
+        "stockBasedCompensation": 65000000,
+        "year": 2024
+      },
+      {
+        "buyback": -147000000,
+        "capitalExpenditures": -54000000,
+        "depreciation": 87000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 909000000,
+        "operatingCashFlow": 963000000,
+        "stockBasedCompensation": 55000000,
+        "year": 2023
+      },
+      {
+        "buyback": -781000000,
+        "capitalExpenditures": -34000000,
+        "depreciation": 90000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 836000000,
+        "operatingCashFlow": 870000000,
+        "stockBasedCompensation": 41000000,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 106000000,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": 896000000,
+        "stockBasedCompensation": 34000000,
+        "year": 2021
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 1277000000,
+        "grossProfit": 3299000000,
+        "incomeBeforeTax": 1173000000,
+        "incomeTaxExpense": 233000000,
+        "interestExpense": 96000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 138000000,
+        "netIncome": 940000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1277000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 5503000000,
+        "year": 2025
+      },
+      {
+        "ebit": 1208000000,
+        "grossProfit": 3105000000,
+        "incomeBeforeTax": 1086000000,
+        "incomeTaxExpense": 253000000,
+        "interestExpense": 113000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 137000000,
+        "netIncome": 833000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1208000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 5193000000,
+        "year": 2024
+      },
+      {
+        "ebit": 1140000000,
+        "grossProfit": 2901000000,
+        "incomeBeforeTax": 1096000000,
+        "incomeTaxExpense": 257000000,
+        "interestExpense": 30000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 839000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1140000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 5021000000,
+        "year": 2023
+      },
+      {
+        "ebit": 1112000000,
+        "grossProfit": 2760000000,
+        "incomeBeforeTax": 1113000000,
+        "incomeTaxExpense": 268000000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 845000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1112000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 4870000000,
+        "year": 2022
+      },
+      {
+        "ebit": 1041000000,
+        "grossProfit": 2713000000,
+        "incomeBeforeTax": 1047000000,
+        "incomeTaxExpense": 186000000,
+        "interestExpense": null,
+        "netIncome": 861000000,
+        "operatingIncome": 1041000000,
+        "revenue": 4700000000,
+        "year": 2021
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Veralto Corporation provides water analytics, water treatment, marking and coding, and packaging and color solutions worldwide. It operates through two segments, Water Quality (WQ) and Product Quality & Innovation (PQI). The WQ segment offers precision instrumentation and water treatment technologies to measure, analyze, and treat water in residential, commercial, municipal, industrial, research, and natural resource applications under the Hach, Trojan Technologies, ChemTreat, and other brands. This segment also provides water solutions, including chemical reagents, services, and software solu",
+      "fullTimeEmployees": 17000,
+      "industry": "Pollution & Treatment Controls",
+      "sector": "Industrials"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2025-12-31",
+  "recordedAt": "2026-09-23T20:05:59.563Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+        "evidenceAccn": "0001967680-26-000011",
+        "via": "concept-map v0"
+      },
+      "promotedYears": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "VLTO"
+}

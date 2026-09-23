@@ -1,0 +1,348 @@
+{
+  "contentHash": "a634031e6ae722fb",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+      "evidenceAccn": "0001932393-26-000007",
+      "via": "concept-map v0"
+    },
+    "secFieldsRefused": [],
+    "secPromotedYears": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 460000000,
+        "cash": 4492000000,
+        "cashAndShortTerm": 4492000000,
+        "currentAssets": 12501000000,
+        "currentLeasePrincipal": 134000000,
+        "debtWithLeases": 10463000000,
+        "deferredRevenueNonCurrent": 803000000,
+        "deferredTaxNonCurrent": 193000000,
+        "inventory": 2234000000,
+        "longTermDebt": 9495000000,
+        "longTermProvisions": 413000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 203000000,
+        "payablesNonCurrent": 156000000,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 455736583,
+        "shortTermDebt": 508000000,
+        "totalAssets": 36906000000,
+        "totalCurrentLiabilities": 9105000000,
+        "totalDebt": 10463000000,
+        "totalEquity": 10390000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 425000000,
+        "cash": 2874000000,
+        "cashAndShortTerm": 2874000000,
+        "currentAssets": 9901000000,
+        "currentLeasePrincipal": 115000000,
+        "debtWithLeases": 9376000000,
+        "deferredRevenueNonCurrent": 686000000,
+        "deferredTaxNonCurrent": 56000000,
+        "inventory": 1939000000,
+        "longTermDebt": 7449000000,
+        "longTermProvisions": 291000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 208000000,
+        "payablesNonCurrent": 237000000,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 456955918,
+        "shortTermDebt": 1502000000,
+        "totalAssets": 33089000000,
+        "totalCurrentLiabilities": 9553000000,
+        "totalDebt": 9376000000,
+        "totalEquity": 8464000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 421000000,
+        "cash": 2494000000,
+        "cashAndShortTerm": 2494000000,
+        "currentAssets": 9410000000,
+        "currentLeasePrincipal": 110000000,
+        "debtWithLeases": 9863000000,
+        "deferredRevenueNonCurrent": 705000000,
+        "deferredTaxNonCurrent": 68000000,
+        "inventory": 1960000000,
+        "longTermDebt": 8436000000,
+        "longTermProvisions": 265000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 252000000,
+        "payablesNonCurrent": 208000000,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 455342290,
+        "shortTermDebt": 1006000000,
+        "totalAssets": 32454000000,
+        "totalCurrentLiabilities": 8981000000,
+        "totalDebt": 9863000000,
+        "totalEquity": 7145000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 386000000,
+        "cash": 1440000000,
+        "cashAndShortTerm": 1440000000,
+        "currentAssets": 8318000000,
+        "currentLeasePrincipal": 104000000,
+        "debtWithLeases": 8635000000,
+        "deferredRevenueNonCurrent": 630000000,
+        "deferredTaxNonCurrent": 370000000,
+        "inventory": 2155000000,
+        "longTermDebt": 8234000000,
+        "longTermProvisions": 251000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 321000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 454000000,
+        "shortTermDebt": 15000000,
+        "totalAssets": 27539000000,
+        "totalCurrentLiabilities": 7191000000,
+        "totalDebt": 8635000000,
+        "totalEquity": 9362000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -200000000,
+        "capitalExpenditures": -482000000,
+        "depreciation": 578000000,
+        "dividendsPaid": -64000000,
+        "freeCashFlow": 1505000000,
+        "operatingCashFlow": 1987000000,
+        "stockBasedCompensation": 130000000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -401000000,
+        "depreciation": 580000000,
+        "dividendsPaid": -55000000,
+        "freeCashFlow": 1550000000,
+        "operatingCashFlow": 1951000000,
+        "stockBasedCompensation": 125000000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -387000000,
+        "depreciation": 610000000,
+        "dividendsPaid": -41000000,
+        "freeCashFlow": 1714000000,
+        "operatingCashFlow": 2101000000,
+        "stockBasedCompensation": 114000000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -310000000,
+        "depreciation": 633000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1803000000,
+        "operatingCashFlow": 2113000000,
+        "stockBasedCompensation": 67000000,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 225000000,
+        "dividendsPaid": 0,
+        "freeCashFlow": null,
+        "operatingCashFlow": 1607000000,
+        "stockBasedCompensation": 76000000,
+        "year": 2021
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 2763000000,
+        "grossProfit": 8248000000,
+        "incomeBeforeTax": 2768000000,
+        "incomeTaxExpense": 614000000,
+        "interestExpense": 440000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 522000000,
+        "netIncome": 2084000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2763000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 20625000000,
+        "year": 2025
+      },
+      {
+        "ebit": 2625000000,
+        "grossProfit": 8205000000,
+        "incomeBeforeTax": 2581000000,
+        "incomeTaxExpense": 531000000,
+        "interestExpense": 505000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 550000000,
+        "netIncome": 1993000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2625000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 19672000000,
+        "year": 2024
+      },
+      {
+        "ebit": 2435000000,
+        "grossProfit": 7922000000,
+        "incomeBeforeTax": 2361000000,
+        "incomeTaxExpense": 743000000,
+        "interestExpense": 542000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 570000000,
+        "netIncome": 1568000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2435000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 19552000000,
+        "year": 2023
+      },
+      {
+        "ebit": 2522000000,
+        "grossProfit": 7179000000,
+        "incomeBeforeTax": 2512000000,
+        "incomeTaxExpense": 563000000,
+        "interestExpense": 86000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1916000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2522000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 18341000000,
+        "year": 2022
+      },
+      {
+        "ebit": 2795000000,
+        "grossProfit": 7174000000,
+        "incomeBeforeTax": 2875000000,
+        "incomeTaxExpense": 600000000,
+        "interestExpense": null,
+        "netIncome": 2247000000,
+        "operatingIncome": 2795000000,
+        "revenue": 17585000000,
+        "year": 2021
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "GE HealthCare Technologies Inc. engages in the development, manufacture, and marketing of products, services, and complementary digital solutions used in the diagnosis, treatment, and monitoring of patients in the United States, Canada, and internationally. The company operates through four segments: Imaging, Advanced Visualization Solutions (AVS), Patient Care Solutions (PCS), and Pharmaceutical Diagnostics (PDx). The Imaging segment offers molecular imaging, computed tomography (CT) scanning, magnetic resonance (MR) imaging, X-ray systems, and women's health products. The AVS segment provide",
+      "fullTimeEmployees": 54000,
+      "industry": "Medical Devices",
+      "sector": "Healthcare"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2025-12-31",
+  "recordedAt": "2026-09-23T19:08:46.478Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+        "evidenceAccn": "0001932393-26-000007",
+        "via": "concept-map v0"
+      },
+      "promotedYears": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "GEHC"
+}

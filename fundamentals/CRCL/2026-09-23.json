@@ -1,0 +1,294 @@
+{
+  "contentHash": "75d58b9db53067ec",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "concept": "us-gaap:Revenues",
+      "evidenceAccn": "0001876042-26-000062",
+      "via": "concept-map v0"
+    },
+    "secFieldsRefused": [],
+    "secPromotedYears": [
+      2025,
+      2024,
+      2023
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": null,
+        "cash": 1526046000,
+        "cashAndShortTerm": 1526588000,
+        "currentAssets": 77801467000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 36821000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 28702000,
+        "inventory": null,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 25337000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 242259000,
+        "shortTermDebt": 36821000,
+        "totalAssets": 78713207000,
+        "totalCurrentLiabilities": 75328395000,
+        "totalDebt": 36821000,
+        "totalEquity": 3330773000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 750981000,
+        "cashAndShortTerm": 765309000,
+        "currentAssets": 45164949000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 40717000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 29559000,
+        "inventory": null,
+        "longTermDebt": 40717000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 21281000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 222540115,
+        "shortTermDebt": null,
+        "totalAssets": 45834409000,
+        "totalCurrentLiabilities": 44030967000,
+        "totalDebt": 40717000,
+        "totalEquity": 570529000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 368623000,
+        "cashAndShortTerm": 520806000,
+        "currentAssets": 25313911000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 58487000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 19616000,
+        "inventory": null,
+        "longTermDebt": 58487000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 8569000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 222540115,
+        "shortTermDebt": null,
+        "totalAssets": 25996583000,
+        "totalCurrentLiabilities": 24437538000,
+        "totalDebt": 58487000,
+        "totalEquity": 339471000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": null,
+        "cash": 161564000,
+        "cashAndShortTerm": 161564000,
+        "currentAssets": 43572235000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 928161000,
+        "deferredRevenueNonCurrent": 301000,
+        "deferredTaxNonCurrent": null,
+        "inventory": null,
+        "longTermDebt": 904122000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": null,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2021-12-31",
+        "sharesOutstanding": 222540115,
+        "shortTermDebt": 24039000,
+        "totalAssets": 43896345000,
+        "totalCurrentLiabilities": 43479755000,
+        "totalDebt": 928161000,
+        "totalEquity": -768408000,
+        "year": 2021
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -56200000,
+        "depreciation": 76627000,
+        "dividendsPaid": null,
+        "freeCashFlow": 485929000,
+        "operatingCashFlow": 542129000,
+        "stockBasedCompensation": 562875000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -39098000,
+        "depreciation": 50854000,
+        "dividendsPaid": null,
+        "freeCashFlow": 305478000,
+        "operatingCashFlow": 344576000,
+        "stockBasedCompensation": 50134000,
+        "year": 2024
+      },
+      {
+        "buyback": -8745000,
+        "capitalExpenditures": -32862000,
+        "depreciation": 34887000,
+        "dividendsPaid": null,
+        "freeCashFlow": 106706000,
+        "operatingCashFlow": 139568000,
+        "stockBasedCompensation": 107999000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -18315000,
+        "depreciation": 13277000,
+        "dividendsPaid": null,
+        "freeCashFlow": -91008000,
+        "operatingCashFlow": -72693000,
+        "stockBasedCompensation": 69266000,
+        "year": 2022
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": -96435000,
+        "grossProfit": 238113000,
+        "incomeBeforeTax": -102893000,
+        "incomeTaxExpense": -33375000,
+        "interestExpense": 1226000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 180000,
+        "netIncome": -69508000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -96435000,
+        "periodEnd": "2025-12-31",
+        "revenue": 2746642000,
+        "year": 2025
+      },
+      {
+        "ebit": 167158000,
+        "grossProfit": 395479000,
+        "incomeBeforeTax": 221574000,
+        "incomeTaxExpense": 64583000,
+        "interestExpense": 1906000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 258000,
+        "netIncome": 155667000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 167158000,
+        "periodEnd": "2024-12-31",
+        "revenue": 1676253000,
+        "year": 2024
+      },
+      {
+        "ebit": 269528000,
+        "grossProfit": 426687000,
+        "incomeBeforeTax": 318949000,
+        "incomeTaxExpense": 47400000,
+        "interestExpense": 1912000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 253000,
+        "netIncome": 267562000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 269528000,
+        "periodEnd": "2023-12-31",
+        "revenue": 1450466000,
+        "year": 2023
+      },
+      {
+        "ebit": -755825000,
+        "grossProfit": 249737000,
+        "incomeBeforeTax": -758509000,
+        "incomeTaxExpense": 3263000,
+        "interestExpense": 2684000,
+        "interestPaid": 350000,
+        "netIncome": -768847000,
+        "operatingIncome": 63514000,
+        "periodEnd": "2022-12-31",
+        "revenue": 772052000,
+        "year": 2022
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Circle Internet Group, Inc. operates as a platform, network, and market infrastructure for stablecoin and blockchain applications. The company provides various platform including Arc Blockchain and Developer Infrastructure, an open, layer-1 blockchain network purpose-built to bring real world economic activity onchain; Circle Digital Assets and Services, which includes circle digital assets, USDC, EURC, and USYC, as well as circle mint and xreserve, related liquidity, custody, and trust infrastructure; and Circle Applications, which includes circle payments network and stablefx, applications t",
+      "fullTimeEmployees": 1100,
+      "industry": "Capital Markets",
+      "sector": "Financial Services"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2025-12-31",
+  "recordedAt": "2026-09-23T19:03:04.952Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "concept": "us-gaap:Revenues",
+        "evidenceAccn": "0001876042-26-000062",
+        "via": "concept-map v0"
+      },
+      "promotedYears": [
+        2025,
+        2024,
+        2023
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "CRCL"
+}

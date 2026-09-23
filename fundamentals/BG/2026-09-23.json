@@ -1,0 +1,354 @@
+{
+  "contentHash": "46adb1a8fb4d16b4",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "concept": "us-gaap:Revenues",
+      "evidenceAccn": "0001628280-26-009842",
+      "via": "concept-map v0"
+    },
+    "secFieldsRefused": [],
+    "secPromotedYears": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 1596000000,
+        "cash": 1135000000,
+        "cashAndShortTerm": 2204000000,
+        "currentAssets": 24391000000,
+        "currentLeasePrincipal": 499000000,
+        "debtWithLeases": 15855000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 988000000,
+        "inventory": 13198000000,
+        "longTermDebt": 8831000000,
+        "longTermProvisions": 551000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 212000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 180000000,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 193408656,
+        "shortTermDebt": 5428000000,
+        "totalAssets": 44528000000,
+        "totalCurrentLiabilities": 15127000000,
+        "totalDebt": 15855000000,
+        "totalEquity": 17369000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 881000000,
+        "cash": 3311000000,
+        "cashAndShortTerm": 3795000000,
+        "currentAssets": 15958000000,
+        "currentLeasePrincipal": 286000000,
+        "debtWithLeases": 7119000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 379000000,
+        "inventory": 6491000000,
+        "longTermDebt": 4694000000,
+        "longTermProvisions": 281000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 164000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": 170000000,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 133964235,
+        "shortTermDebt": 1544000000,
+        "totalAssets": 24899000000,
+        "totalCurrentLiabilities": 7435000000,
+        "totalDebt": 7119000000,
+        "totalEquity": 10945000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 874000000,
+        "cash": 2602000000,
+        "cashAndShortTerm": 2707000000,
+        "currentAssets": 16350000000,
+        "currentLeasePrincipal": 308000000,
+        "debtWithLeases": 5756000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 400000000,
+        "inventory": 7105000000,
+        "longTermDebt": 4080000000,
+        "longTermProvisions": 218000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 176000000,
+        "payablesNonCurrent": 68000000,
+        "pensionObligations": 170000000,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 149907932,
+        "shortTermDebt": 802000000,
+        "totalAssets": 25372000000,
+        "totalCurrentLiabilities": 7687000000,
+        "totalDebt": 5756000000,
+        "totalEquity": 11814000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 972000000,
+        "cash": 1104000000,
+        "cashAndShortTerm": 1223000000,
+        "currentAssets": 16758000000,
+        "currentLeasePrincipal": 425000000,
+        "debtWithLeases": 5623000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 365000000,
+        "inventory": 8408000000,
+        "longTermDebt": 3259000000,
+        "longTermProvisions": 205000000,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 160000000,
+        "payablesNonCurrent": 59000000,
+        "pensionObligations": 152000000,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 149907932,
+        "shortTermDebt": 1392000000,
+        "totalAssets": 24580000000,
+        "totalCurrentLiabilities": 9600000000,
+        "totalDebt": 5623000000,
+        "totalEquity": 9956000000,
+        "year": 2022
+      },
+      {
+        "cash": 902000000,
+        "cashAndShortTerm": 902000000,
+        "currentAssets": null,
+        "inventory": null,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 23819000000,
+        "totalCurrentLiabilities": null,
+        "totalDebt": null,
+        "totalEquity": 7825000000,
+        "year": 2021
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -551000000,
+        "capitalExpenditures": -1723000000,
+        "depreciation": 703000000,
+        "dividendsPaid": -459000000,
+        "freeCashFlow": -879000000,
+        "operatingCashFlow": 844000000,
+        "stockBasedCompensation": 73000000,
+        "year": 2025
+      },
+      {
+        "buyback": -1100000000,
+        "capitalExpenditures": -1376000000,
+        "depreciation": 468000000,
+        "dividendsPaid": -378000000,
+        "freeCashFlow": 524000000,
+        "operatingCashFlow": 1900000000,
+        "stockBasedCompensation": 65000000,
+        "year": 2024
+      },
+      {
+        "buyback": -600000000,
+        "capitalExpenditures": -1122000000,
+        "depreciation": 451000000,
+        "dividendsPaid": -383000000,
+        "freeCashFlow": 2186000000,
+        "operatingCashFlow": 3308000000,
+        "stockBasedCompensation": 69000000,
+        "year": 2023
+      },
+      {
+        "buyback": -200000000,
+        "capitalExpenditures": -555000000,
+        "depreciation": 408000000,
+        "dividendsPaid": -349000000,
+        "freeCashFlow": -6104000000,
+        "operatingCashFlow": -5549000000,
+        "stockBasedCompensation": 65000000,
+        "year": 2022
+      },
+      {
+        "buyback": -100000000,
+        "capitalExpenditures": null,
+        "depreciation": 424000000,
+        "dividendsPaid": -289000000,
+        "freeCashFlow": null,
+        "operatingCashFlow": -2894000000,
+        "stockBasedCompensation": null,
+        "year": 2021
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 1762000000,
+        "grossProfit": 3409000000,
+        "incomeBeforeTax": 1134000000,
+        "incomeTaxExpense": 288000000,
+        "interestExpense": 628000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 816000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1296000000,
+        "periodEnd": "2025-12-31",
+        "revenue": 70329000000,
+        "year": 2025
+      },
+      {
+        "ebit": 1995000000,
+        "grossProfit": 3393000000,
+        "incomeBeforeTax": 1524000000,
+        "incomeTaxExpense": 336000000,
+        "interestExpense": 471000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1137000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1617000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 53108000000,
+        "year": 2024
+      },
+      {
+        "ebit": 3567000000,
+        "grossProfit": 4845000000,
+        "incomeBeforeTax": 3051000000,
+        "incomeTaxExpense": 714000000,
+        "interestExpense": 516000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 2243000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 3130000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 59540000000,
+        "year": 2023
+      },
+      {
+        "ebit": 2469000000,
+        "grossProfit": 3682000000,
+        "incomeBeforeTax": 2066000000,
+        "incomeTaxExpense": 388000000,
+        "interestExpense": 403000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1610000000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 2313000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 67232000000,
+        "year": 2022
+      },
+      {
+        "ebit": null,
+        "grossProfit": 3363000000,
+        "incomeBeforeTax": 2565000000,
+        "incomeTaxExpense": 398000000,
+        "interestExpense": null,
+        "netIncome": 2078000000,
+        "operatingIncome": null,
+        "revenue": 59152000000,
+        "year": 2021
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Bunge Global SA operates as an agribusiness and food company worldwide. It operates through four segments: Soybean Processing and Refining, Softseed Processing and Refining, Other Oilseeds Processing and Refining, and Grain Merchandising and Milling. The Soybean Processing and Refining segment is involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of soybeans and soybean related products, as well as biodiesel and fertilizer production and distribution for the food, animal feed and biofuel industries. The Softseed Processing and Refining se",
+      "fullTimeEmployees": 34000,
+      "industry": "Farm Products",
+      "sector": "Consumer Defensive"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2025-12-31",
+  "recordedAt": "2026-09-23T18:59:06.643Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "concept": "us-gaap:Revenues",
+        "evidenceAccn": "0001628280-26-009842",
+        "via": "concept-map v0"
+      },
+      "promotedYears": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "BG"
+}

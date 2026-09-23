@@ -1,7 +1,7 @@
 {
-  "contentHash": "75a8014b490a4b49",
+  "contentHash": "baff5d29b4b119b3",
   "payload": {
-    "count": 6,
+    "count": 7,
     "items": [
       {
         "claim": "Ambu meddelte, at selskabet i perioden 24.-28. august 2026 har foretaget yderligere tilbagekøb af egne aktier under sit igangværende aktietilbagekøbsprogram, og opgjorde den samlede beholdning af egne aktier efter programmet.",
@@ -56,12 +56,21 @@
         "source": "ad-hoc-news.de, med MarketScreener som angivet kilde",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ambu-stock-gains-acquisition-catalyst-with-tims-medical-deal/70104411",
         "verifiedAs": null
+      },
+      {
+        "claim": "Ambu meddelte, at selskabets aktietilbagekøbsprogram, som blev annonceret 6. maj 2026, nu er afsluttet, og at formålet var at gennemføre en kapitalnedsættelse.",
+        "key": "f24e20bffa190954",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Ambu A/S, selskabsmeddelelse (kontaktpersoner: Tine Bjørn Schmidt, Director of Corporate Communications, og Lisa Bedell Clive, Head of Investor Relations)",
+        "url": "https://via.ritzau.dk/announcement/15173333?publisherId=13561943",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-17T06:12:42Z",
+  "recordedAt": "2026-09-23T06:22:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "AMBU-B.CO"

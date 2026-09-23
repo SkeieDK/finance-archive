@@ -1,7 +1,7 @@
 {
-  "contentHash": "4dad135fb9bae508",
+  "contentHash": "cbdf4c59d609eb07",
   "payload": {
-    "count": 36,
+    "count": 44,
     "items": [
       {
         "claim": "Novo Nordisk oplyste torsdag, at Kinas laegemiddelmyndighed har accepteret selskabets ansoegning om markedsfoering af den orale version af vaegttabsmidlet Wegovy.",
@@ -326,12 +326,84 @@
         "source": "Novo Nordisk A/S, selskabsmeddelelse om aktietilbagekoebsprogram",
         "url": "https://www.globenewswire.com/news-release/2026/09/14/3361191/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk fremlagde på sin Capital Markets Day ambitioner om at lancere mere end fem multi-blockbuster-lægemidler inden 2030, nå mere end 60 mio. patienter globalt i 2030 og fastholde en bredt stabil overskudsgrad samt et attraktivt udbytte per aktie.",
+        "key": "25f802276ae680b9",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse forud for Capital Markets Day 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365171/0/en/highlights-to-be-presented-at-novo-s-capital-markets-day-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk understregede, at de fremlagte 2030-mål er ambitioner behæftet med iboende usikkerhed og ikke udgør officiel finansiel guidance.",
+        "key": "160591bde5ee29a4",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse forud for Capital Markets Day 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365171/0/en/highlights-to-be-presented-at-novo-s-capital-markets-day-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk meddelte, at CagriSema i fase 3-studiet REIMAGINE 5 gav større vægttab end tirzepatid hos voksne med type 2-diabetes, og at HbA1c-reduktionen var non-inferiør efter 60 uger.",
+        "key": "e0ab643abc2e12ca",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Novo Nordisk A/S, nyhedsmeddelelse",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916774",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Martin Holst Lange, executive vice president for Research & Development og chief scientific officer, sagde om resultaterne, at »these findings strengthen our confidence in its potential, add to the growing evidence for amylin biology and reinforce our ambition to advance the next generation«.",
+        "key": "709a0f0de74227b6",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Martin Holst Lange, EVP Research & Development og chief scientific officer, Novo Nordisk",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916774",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk og UNICEF meddelte, at de udvider deres globale partnerskab med fire år og syv lande for at forebygge overvægt og fedme blandt børn, med et tilsagn fra Novo på 18 mio. USD i perioden 2026-2030.",
+        "key": "73ed837372364912",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Novo Nordisk A/S, nyhedsmeddelelse",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916776",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Kitty van der Heijden, Deputy Executive Director for partnerskaber i UNICEF, sagde: »The moment to act is now. Through our partnership with Novo, UNICEF will work with governments to turn evidence into policies, build services, and create environments that protect children early.«",
+        "key": "40e3fe8f9077f139",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Kitty van der Heijden, Deputy Executive Director, Partnerships, UNICEF",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916776",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Elin Jäger, SVP, chief of staff og head of CEO Office, Corporate Strategy and Sustainability i Novo, sagde, at »preventing childhood obesity requires long-term, collective action to create healthier environments for children«.",
+        "key": "d5b4531cab4358d8",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Elin Jäger, SVP, chief of staff og head of CEO Office, Corporate Strategy and Sustainability, Novo Nordisk",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916776",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk oplyste i den løbende opdatering på aktietilbagekøbsprogrammet fra 6. maj 2026, at der frem til 18. september 2026 er tilbagekøbt 19,4 mio. B-aktier.",
+        "key": "1a13246ee6039b1f",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-23T06:22:51Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse om aktietilbagekøbsprogram",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365489/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-17T06:12:42Z",
+  "recordedAt": "2026-09-23T06:22:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

@@ -1,0 +1,365 @@
+{
+  "contentHash": "e0125664beb40e1e",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+      "evidenceAccn": "0001819810-26-000029",
+      "via": "concept-map v0"
+    },
+    "secFieldsRefused": [
+      {
+        "field": "totalEquity",
+        "ratio": 0.09264558592073258,
+        "reason": "balance: totalEquity 2022: SEC -6.5M mod 69.9M fra Yahoo — faktor 11 for lav; hverken forfremmet eller flettet",
+        "year": 2022
+      }
+    ],
+    "secPromotedYears": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 36430000,
+        "cash": 94467000,
+        "cashAndShortTerm": 95183000,
+        "currentAssets": 252812000,
+        "currentLeasePrincipal": 4683000,
+        "debtWithLeases": 123799000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 38358000,
+        "inventory": 55847000,
+        "longTermDebt": 80036000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 2119000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 191915804,
+        "shortTermDebt": 7333000,
+        "totalAssets": 1449137000,
+        "totalCurrentLiabilities": 155614000,
+        "totalDebt": 123799000,
+        "totalEquity": 1137050000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 19251000,
+        "cash": 33712000,
+        "cashAndShortTerm": 49071000,
+        "currentAssets": 125925000,
+        "currentLeasePrincipal": 4827000,
+        "debtWithLeases": 144981000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 582000,
+        "inventory": 2239000,
+        "longTermDebt": 124464000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 428000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 66273631,
+        "shortTermDebt": 1266000,
+        "totalAssets": 292617000,
+        "totalCurrentLiabilities": 149343000,
+        "totalDebt": 144981000,
+        "totalEquity": -51909000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 17615000,
+        "cash": 30278000,
+        "cashAndShortTerm": 30278000,
+        "currentAssets": 109313000,
+        "currentLeasePrincipal": 4176000,
+        "debtWithLeases": 105835000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 2402000,
+        "inventory": 1516000,
+        "longTermDebt": 86842000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 400000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 65192704,
+        "shortTermDebt": 1378000,
+        "totalAssets": 271269000,
+        "totalCurrentLiabilities": 112036000,
+        "totalDebt": 105835000,
+        "totalEquity": 52825000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 16762000,
+        "cash": 28316000,
+        "cashAndShortTerm": 28316000,
+        "currentAssets": 96167000,
+        "currentLeasePrincipal": 3513000,
+        "debtWithLeases": 95085000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 3255000,
+        "inventory": 1469000,
+        "longTermDebt": 74745000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "inventory"
+        ],
+        "otherNonCurrentLiab": 506000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 64280631,
+        "shortTermDebt": 3578000,
+        "totalAssets": 257698000,
+        "totalCurrentLiabilities": 94739000,
+        "totalDebt": 95085000,
+        "totalEquity": 69890000,
+        "year": 2022
+      },
+      {
+        "cash": 20523000,
+        "cashAndShortTerm": 20523000,
+        "currentAssets": 55216000,
+        "inventory": 688000,
+        "longTermDebt": null,
+        "sharesOutstanding": null,
+        "shortTermDebt": null,
+        "totalAssets": 261756000,
+        "totalCurrentLiabilities": 51238000,
+        "totalDebt": null,
+        "totalEquity": null,
+        "year": 2021
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": -63863000,
+        "capitalExpenditures": -23280000,
+        "depreciation": 32639000,
+        "dividendsPaid": null,
+        "freeCashFlow": -200611000,
+        "operatingCashFlow": -177331000,
+        "stockBasedCompensation": 58990000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -10916000,
+        "depreciation": 11692000,
+        "dividendsPaid": null,
+        "freeCashFlow": -28264000,
+        "operatingCashFlow": -17348000,
+        "stockBasedCompensation": 11326000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -8327000,
+        "depreciation": 10724000,
+        "dividendsPaid": null,
+        "freeCashFlow": -7096000,
+        "operatingCashFlow": 1231000,
+        "stockBasedCompensation": 8658000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -4152000,
+        "depreciation": 11288000,
+        "dividendsPaid": null,
+        "freeCashFlow": -35809000,
+        "operatingCashFlow": -31657000,
+        "stockBasedCompensation": 10786000,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": null,
+        "depreciation": 10584000,
+        "dividendsPaid": null,
+        "freeCashFlow": null,
+        "operatingCashFlow": -37358000,
+        "stockBasedCompensation": 27112000,
+        "year": 2021
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": -229677000,
+        "grossProfit": 17285000,
+        "incomeBeforeTax": -251566000,
+        "incomeTaxExpense": -25014000,
+        "interestExpense": 39704000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 39125000,
+        "netIncome": -226552000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -229677000,
+        "periodEnd": "2025-12-31",
+        "revenue": 335381000,
+        "year": 2025
+      },
+      {
+        "ebit": -42200000,
+        "grossProfit": 44455000,
+        "incomeBeforeTax": -116331000,
+        "incomeTaxExpense": -2020000,
+        "interestExpense": 13483000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 12159000,
+        "netIncome": -114315000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -42200000,
+        "periodEnd": "2024-12-31",
+        "revenue": 304101000,
+        "year": 2024
+      },
+      {
+        "ebit": -15548000,
+        "grossProfit": 57969000,
+        "incomeBeforeTax": -27750000,
+        "incomeTaxExpense": -486000,
+        "interestExpense": 10699000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 9082000,
+        "netIncome": -27263000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -15548000,
+        "periodEnd": "2023-12-31",
+        "revenue": 243800000,
+        "year": 2023
+      },
+      {
+        "ebit": -146448000,
+        "grossProfit": 28695000,
+        "incomeBeforeTax": -138592000,
+        "incomeTaxExpense": -7972000,
+        "interestExpense": 8219000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 6868000,
+        "netIncome": -130617000,
+        "officialFields": [
+          "revenue",
+          "grossProfit",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -146448000,
+        "periodEnd": "2022-12-31",
+        "revenue": 160549000,
+        "year": 2022
+      },
+      {
+        "ebit": -70187000,
+        "grossProfit": 29377000,
+        "incomeBeforeTax": -72806000,
+        "incomeTaxExpense": -11269000,
+        "interestExpense": null,
+        "netIncome": -61537000,
+        "operatingIncome": -70187000,
+        "revenue": 137601000,
+        "year": 2021
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Redwire Corporation provides critical space solutions and space infrastructure for government and commercial customers in the United States, Europe, and internationally. It operates in two segments Space and Defense Tech. The company offers sensors and avionics systems, including star trackers and sun sensors, which are critical for accurate navigation and control of spacecraft; camera systems; infrared, space situational awareness, and position timing and navigation payloads; It also provides software suite that enables digital engineering and generation of high-fidelity, interactive modeling",
+      "fullTimeEmployees": 1410,
+      "industry": "Aerospace & Defense",
+      "sector": "Industrials"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2025-12-31",
+  "recordedAt": "2026-09-23T19:24:06.127Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+        "evidenceAccn": "0001819810-26-000029",
+        "via": "concept-map v0"
+      },
+      "promotedYears": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "RDW"
+}

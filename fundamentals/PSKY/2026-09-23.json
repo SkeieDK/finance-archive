@@ -1,0 +1,272 @@
+{
+  "contentHash": "82b66a4d3c161329",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "via": "verified-fill"
+    },
+    "secFieldsRefused": [],
+    "secPromotedYears": [
+      2024,
+      2023
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 1150000000,
+        "cash": 3274000000,
+        "cashAndShortTerm": 3274000000,
+        "currentAssets": 13320000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 14808000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 85000000,
+        "inventory": 1461000000,
+        "longTermDebt": 13225000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 2850000000,
+        "payablesNonCurrent": 1361000000,
+        "pensionObligations": 1185000000,
+        "periodEnd": "2025-12-31",
+        "sharesOutstanding": 1107500087,
+        "shortTermDebt": 433000000,
+        "totalAssets": 43342000000,
+        "totalCurrentLiabilities": 10599000000,
+        "totalDebt": 14808000000,
+        "totalEquity": 12887000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 1048000000,
+        "cash": 2661000000,
+        "cashAndShortTerm": 2661000000,
+        "currentAssets": 12542000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 15549000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 34000000,
+        "inventory": 1429000000,
+        "longTermDebt": 14501000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "cash",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 1640000000,
+        "payablesNonCurrent": 1310000000,
+        "pensionObligations": 1226000000,
+        "periodEnd": "2024-12-31",
+        "sharesOutstanding": 670702683,
+        "shortTermDebt": null,
+        "totalAssets": 46172000000,
+        "totalCurrentLiabilities": 9631000000,
+        "totalDebt": 15549000000,
+        "totalEquity": 16782000000,
+        "year": 2024
+      },
+      {
+        "capitalLeaseObligations": 1256000000,
+        "cash": 2460000000,
+        "cashAndShortTerm": 2460000000,
+        "currentAssets": 12703000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 15858000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 503000000,
+        "inventory": 1414000000,
+        "longTermDebt": 14601000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 1746000000,
+        "payablesNonCurrent": 1394000000,
+        "pensionObligations": 1337000000,
+        "periodEnd": "2023-12-31",
+        "sharesOutstanding": 652702875,
+        "shortTermDebt": 1000000,
+        "totalAssets": 53543000000,
+        "totalCurrentLiabilities": 9656000000,
+        "totalDebt": 15858000000,
+        "totalEquity": 23050000000,
+        "year": 2023
+      },
+      {
+        "capitalLeaseObligations": 1428000000,
+        "cash": 2885000000,
+        "cashAndShortTerm": 2885000000,
+        "currentAssets": 13734000000,
+        "currentLeasePrincipal": null,
+        "debtWithLeases": 17274000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 1077000000,
+        "inventory": 1342000000,
+        "longTermDebt": 15607000000,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 2082000000,
+        "payablesNonCurrent": 1744000000,
+        "pensionObligations": 1458000000,
+        "periodEnd": "2022-12-31",
+        "sharesOutstanding": 649704664,
+        "shortTermDebt": 239000000,
+        "totalAssets": 58393000000,
+        "totalCurrentLiabilities": 11191000000,
+        "totalDebt": 17274000000,
+        "totalEquity": 23606000000,
+        "year": 2022
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -263000000,
+        "depreciation": 392000000,
+        "dividendsPaid": -168000000,
+        "freeCashFlow": 489000000,
+        "operatingCashFlow": 752000000,
+        "stockBasedCompensation": 245000000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -328000000,
+        "depreciation": 418000000,
+        "dividendsPaid": -447000000,
+        "freeCashFlow": 147000000,
+        "operatingCashFlow": 475000000,
+        "stockBasedCompensation": 177000000,
+        "year": 2023
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -358000000,
+        "depreciation": 378000000,
+        "dividendsPaid": -689000000,
+        "freeCashFlow": -139000000,
+        "operatingCashFlow": 219000000,
+        "stockBasedCompensation": 172000000,
+        "year": 2022
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -354000000,
+        "depreciation": 390000000,
+        "dividendsPaid": -647000000,
+        "freeCashFlow": 599000000,
+        "operatingCashFlow": 953000000,
+        "stockBasedCompensation": 192000000,
+        "year": 2021
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": -5269000000,
+        "grossProfit": 8658000000,
+        "incomeBeforeTax": -6177000000,
+        "incomeTaxExpense": -305000000,
+        "interestExpense": 860000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 833000000,
+        "netIncome": -6190000000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -5269000000,
+        "periodEnd": "2024-12-31",
+        "revenue": 29213000000,
+        "year": 2024
+      },
+      {
+        "ebit": -451000000,
+        "grossProfit": 7264000000,
+        "incomeBeforeTax": -1253000000,
+        "incomeTaxExpense": -361000000,
+        "interestExpense": 920000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": 901000000,
+        "netIncome": -608000000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": -451000000,
+        "periodEnd": "2023-12-31",
+        "revenue": 29652000000,
+        "year": 2023
+      },
+      {
+        "ebit": 2197000000,
+        "grossProfit": 10309000000,
+        "incomeBeforeTax": 1266000000,
+        "incomeTaxExpense": 227000000,
+        "interestExpense": 931000000,
+        "interestPaid": 920000000,
+        "netIncome": 1104000000,
+        "operatingIncome": 2898000000,
+        "periodEnd": "2022-12-31",
+        "revenue": 30154000000,
+        "year": 2022
+      },
+      {
+        "ebit": 6192000000,
+        "grossProfit": 10842000000,
+        "incomeBeforeTax": 5206000000,
+        "incomeTaxExpense": 646000000,
+        "interestExpense": 986000000,
+        "interestPaid": 970000000,
+        "netIncome": 4543000000,
+        "operatingIncome": 4054000000,
+        "periodEnd": "2021-12-31",
+        "revenue": 28586000000,
+        "year": 2021
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "Paramount Skydance Corporation operates as a media and entertainment company worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media. The company operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIME, Paramount Network, The Smithsonian Channel, BET Media Group, CBS Sports Network, and internationa",
+      "fullTimeEmployees": 17600,
+      "industry": "Entertainment",
+      "sector": "Communication Services"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2024-12-31",
+  "recordedAt": "2026-09-23T19:23:11.838Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "via": "verified-fill"
+      },
+      "promotedYears": [
+        2024,
+        2023
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "PSKY"
+}

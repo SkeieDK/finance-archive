@@ -1,0 +1,264 @@
+{
+  "contentHash": "4c9385876d2c8d05",
+  "notes": {
+    "cvrPromotionRefused": null,
+    "revenueBasis": {
+      "restatedFrom": null,
+      "seams": []
+    },
+    "revenueConcept": {
+      "via": "verified-fill"
+    },
+    "secFieldsRefused": [],
+    "secPromotedYears": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  "payload": {
+    "balanceHistory": [
+      {
+        "capitalLeaseObligations": 1838000000,
+        "cash": 251000000,
+        "cashAndShortTerm": 251000000,
+        "currentAssets": 1506000000,
+        "currentLeasePrincipal": 172000000,
+        "debtWithLeases": 6365000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 220000000,
+        "inventory": null,
+        "longTermDebt": 4484000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 5000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2026-05-31",
+        "sharesOutstanding": 149505248,
+        "shortTermDebt": 43000000,
+        "totalAssets": 6884000000,
+        "totalCurrentLiabilities": 993000000,
+        "totalDebt": 6365000000,
+        "totalEquity": -497000000,
+        "year": 2026
+      },
+      {
+        "capitalLeaseObligations": 1360000000,
+        "cash": 109000000,
+        "cashAndShortTerm": 109000000,
+        "currentAssets": 284000000,
+        "currentLeasePrincipal": 172000000,
+        "debtWithLeases": 1433000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 235000000,
+        "inventory": 21000000,
+        "longTermDebt": 66000000,
+        "longTermProvisions": null,
+        "officialFields": [
+          "totalAssets",
+          "currentAssets",
+          "totalCurrentLiabilities",
+          "totalEquity"
+        ],
+        "otherNonCurrentLiab": 52000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2025-05-31",
+        "sharesOutstanding": 149505248,
+        "shortTermDebt": 7000000,
+        "totalAssets": 5022000000,
+        "totalCurrentLiabilities": 773000000,
+        "totalDebt": 1433000000,
+        "totalEquity": 2393000000,
+        "year": 2025
+      },
+      {
+        "capitalLeaseObligations": 1451000000,
+        "cash": 106000000,
+        "cashAndShortTerm": 106000000,
+        "currentAssets": 305000000,
+        "currentLeasePrincipal": 167000000,
+        "debtWithLeases": 1451000000,
+        "deferredRevenueNonCurrent": null,
+        "deferredTaxNonCurrent": 250000000,
+        "inventory": 25000000,
+        "longTermDebt": null,
+        "longTermProvisions": null,
+        "otherNonCurrentLiab": 46000000,
+        "payablesNonCurrent": null,
+        "pensionObligations": null,
+        "periodEnd": "2024-05-31",
+        "sharesOutstanding": 149505248,
+        "shortTermDebt": null,
+        "totalAssets": 5048000000,
+        "totalCurrentLiabilities": 1049000000,
+        "totalDebt": 1451000000,
+        "totalEquity": 2124000000,
+        "year": 2024
+      }
+    ],
+    "cashflowHistory": [
+      {
+        "buyback": null,
+        "capitalExpenditures": -379000000,
+        "depreciation": 449000000,
+        "dividendsPaid": null,
+        "freeCashFlow": -212000000,
+        "operatingCashFlow": 167000000,
+        "stockBasedCompensation": 13000000,
+        "year": 2026
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -437000000,
+        "depreciation": 416000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1094000000,
+        "operatingCashFlow": 1531000000,
+        "stockBasedCompensation": 10000000,
+        "year": 2025
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -461000000,
+        "depreciation": 404000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1080000000,
+        "operatingCashFlow": 1541000000,
+        "stockBasedCompensation": 12000000,
+        "year": 2024
+      },
+      {
+        "buyback": null,
+        "capitalExpenditures": -558000000,
+        "depreciation": 387000000,
+        "dividendsPaid": null,
+        "freeCashFlow": 1194000000,
+        "operatingCashFlow": 1752000000,
+        "stockBasedCompensation": 13000000,
+        "year": 2023
+      }
+    ],
+    "cvrFilings": null,
+    "financialCurrency": "USD",
+    "incomeHistory": [
+      {
+        "ebit": 540000000,
+        "grossProfit": 2549000000,
+        "incomeBeforeTax": 884000000,
+        "incomeTaxExpense": 229000000,
+        "interestExpense": 57000000,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 655000000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 540000000,
+        "periodEnd": "2026-05-31",
+        "revenue": 8795000000,
+        "year": 2026
+      },
+      {
+        "ebit": 1404000000,
+        "grossProfit": 2800000000,
+        "incomeBeforeTax": 1802000000,
+        "incomeTaxExpense": 456000000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1346000000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1404000000,
+        "periodEnd": "2025-05-31",
+        "revenue": 8892000000,
+        "year": 2025
+      },
+      {
+        "ebit": 1753000000,
+        "grossProfit": 3274000000,
+        "incomeBeforeTax": 2079000000,
+        "incomeTaxExpense": 505000000,
+        "interestExpense": null,
+        "interestExpenseSource": "yahoo_interestExpense",
+        "interestPaid": null,
+        "netIncome": 1574000000,
+        "officialFields": [
+          "revenue",
+          "operatingIncome",
+          "ebit",
+          "incomeBeforeTax",
+          "incomeTaxExpense",
+          "netIncome"
+        ],
+        "operatingIncome": 1753000000,
+        "periodEnd": "2024-05-31",
+        "revenue": 9424000000,
+        "year": 2024
+      },
+      {
+        "ebit": 1894000000,
+        "grossProfit": 3636000000,
+        "incomeBeforeTax": 2090000000,
+        "incomeTaxExpense": 509000000,
+        "interestExpense": null,
+        "interestPaid": null,
+        "netIncome": 1581000000,
+        "operatingIncome": 1894000000,
+        "periodEnd": "2023-05-31",
+        "revenue": 10084000000,
+        "year": 2023
+      }
+    ],
+    "profile": {
+      "country": "United States",
+      "description": "FedEx Freight Holding Company, Inc. provides less-than-truckload freight transportation services in the United States and internationally. The company offers FedEx Freight Priority services, including next-business-day service for shipments traveling up to 600 miles and second-business-day service for shipments traveling up to 1,600 miles and backed by a money-back service guarantee if published delivery commitments are not met; and FedEx Freight Economy. It also provides surface expedite and white glove services; and LTL Select, a cloud-based transportation management system. In addition, the",
+      "fullTimeEmployees": 40000,
+      "industry": "Integrated Freight & Logistics",
+      "sector": "Industrials"
+    },
+    "tradingCurrency": "USD"
+  },
+  "periodEnd": "2026-05-31",
+  "recordedAt": "2026-09-23T19:07:38.577Z",
+  "source": "finans/fetchDeepData",
+  "sourceVersion": "4.0.2",
+  "sources": {
+    "sec": {
+      "concept": {
+        "via": "verified-fill"
+      },
+      "promotedYears": [
+        2026,
+        2025,
+        2024
+      ]
+    },
+    "virk": null,
+    "yahoo": true
+  },
+  "stamp": {
+    "extractVersion": 4,
+    "finansCommit": "6c67f766693adc03bd541a845c7b58b5adf2ec17",
+    "uncommittedChanges": false
+  },
+  "ticker": "FDXF"
+}
