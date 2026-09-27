@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:07:54.297Z		200	148501	4af4ce9d3ec6f81caafe88efe8f0859593d70d4e8d4b54218761f3adc121afe6	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FISV?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:07:54.777Z		200	169790	f5b613d2107c40c393a3a2d91aceebc15a43dc064df76324c0fabbdf811a1058	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FISV?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:04:32.203Z		200	148501	4af4ce9d3ec6f81caafe88efe8f0859593d70d4e8d4b54218761f3adc121afe6	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FISV?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:04:32.622Z		200	169790	f5b613d2107c40c393a3a2d91aceebc15a43dc064df76324c0fabbdf811a1058	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FISV?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

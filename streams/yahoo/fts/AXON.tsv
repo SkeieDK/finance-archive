@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T18:58:10.056Z		200	146639	d1ebc5e6fa87154f3d97fa22fa06cb24ace4234000392389027d965c84c0d30c	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AXON?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T18:58:10.509Z		200	166062	3689a51e439add829bed376ea2dbac39694800fb5d177138f12ece73d15d5e9f	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AXON?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T07:45:39.927Z		200	146639	d1ebc5e6fa87154f3d97fa22fa06cb24ace4234000392389027d965c84c0d30c	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AXON?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T07:45:40.321Z		200	166062	3689a51e439add829bed376ea2dbac39694800fb5d177138f12ece73d15d5e9f	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AXON?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

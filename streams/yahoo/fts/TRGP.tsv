@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T20:03:46.637Z		200	150184	d8383cf59aa311b4fe70dfba3a1d651d8e0d1335d0e3d96ffe97bc6c35dbff15	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TRGP?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T20:03:57.026Z		200	166516	8cf9950d53e95edecac9827ccfc6fd6a35b80aacd3a9007ed7f8b31c0b35f4f4	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TRGP?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:34:22.764Z		200	150184	d8383cf59aa311b4fe70dfba3a1d651d8e0d1335d0e3d96ffe97bc6c35dbff15	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TRGP?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:34:23.105Z		200	166516	8cf9950d53e95edecac9827ccfc6fd6a35b80aacd3a9007ed7f8b31c0b35f4f4	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TRGP?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

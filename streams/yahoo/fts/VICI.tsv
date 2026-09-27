@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T20:05:53.322Z		200	140924	0444104756076bc9cc090efd8f80884d25a372c3ce43b2375497ee7294d847b2	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/VICI?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T20:05:54.070Z		200	155858	0de92690adea538ae24e38f15e4c59e4d4fbc1f16aeabc66b6d91854e6d1b6ed	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/VICI?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:37:50.020Z		200	140924	0444104756076bc9cc090efd8f80884d25a372c3ce43b2375497ee7294d847b2	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/VICI?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:37:50.545Z		200	155858	0de92690adea538ae24e38f15e4c59e4d4fbc1f16aeabc66b6d91854e6d1b6ed	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/VICI?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

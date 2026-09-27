@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T18:58:56.151Z		200	142867	f1a1dd36bae4cb913527a9e9e6df449bd9fd65da30d381d3bbf6aebe75907a6b	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BDX?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T18:58:56.618Z		200	144087	47eb88353a62df18f2ec886d00a48a774c1ce3314915a034b00f3133db277436	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BDX?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T07:47:27.285Z		200	142867	f1a1dd36bae4cb913527a9e9e6df449bd9fd65da30d381d3bbf6aebe75907a6b	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BDX?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T07:47:27.648Z		200	144087	47eb88353a62df18f2ec886d00a48a774c1ce3314915a034b00f3133db277436	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BDX?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

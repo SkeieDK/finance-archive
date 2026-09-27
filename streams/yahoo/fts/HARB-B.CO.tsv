@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:10:27.502Z		200	131364	3e69738afc9111622256690c6957ac97464b474f05e4b2150f6ab1bda0172e03	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HARB-B.CO?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:10:27.953Z		200	126578	77ec23d4033382b098739284fa01c914dd137fd83d101091c25e1508b362f42e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HARB-B.CO?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:08:16.990Z		200	131364	3e69738afc9111622256690c6957ac97464b474f05e4b2150f6ab1bda0172e03	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HARB-B.CO?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:08:17.385Z		200	127058	d204f8ba55fd40b903715999ab296a2d0413df507c5fa7ab3f3019fe53936ea9	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HARB-B.CO?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

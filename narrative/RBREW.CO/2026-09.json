@@ -1,7 +1,7 @@
 {
-  "contentHash": "00480b2f537e0986",
+  "contentHash": "bd4b8f39ed621581",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "Royal Unibrew oplyste i selskabsmeddelelse nr. 48/2026 at aktietilbagekøbsprogrammet ventes gennemført i perioden 18. august til 8. december 2026, og at den samlede transaktionsværdi i perioden ikke vil overstige DKK 300m.",
@@ -29,12 +29,30 @@
         "source": "Royal Unibrew A/S, selskabsmeddelelse; kontaktperson Flemming Ole Nielsen, Head of Investor Relations",
         "url": "https://www.globenewswire.com/news-release/2026/09/14/3361129/0/en/share-buy-back-program.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Royal Unibrew oplyste i sin ugentlige meddelelse om aktietilbagekoebsprogrammet at der blev koebt 43.000 egne aktier i perioden 14.-18. september, at akkumuleret koeb under programmet udgoer 215.848 aktier, og at selskabets samlede beholdning af egne aktier derefter svarer til 4,1 procent af aktiekapitalen.",
+        "key": "1d45f0a895f0e47a",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-24T06:22:29Z",
+        "source": "Royal UNIBREW A/S, selskabsmeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365442/0/en/share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Royal Unibrew gentog at tilbagekoebsprogrammet forventes gennemfoert i perioden 18. august til 8. december 2026 med en maksimal transaktionsvaerdi paa 300 mio. DKK.",
+        "key": "7de9909c78145c8e",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-24T06:22:29Z",
+        "source": "Royal UNIBREW A/S, selskabsmeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365442/0/en/share-buy-back-program.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-20T06:20:37Z",
+  "recordedAt": "2026-09-24T06:22:29Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "RBREW.CO"

@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:03:24.218Z		200	144743	08729da8dc38f27294aa4215ef717b2bc1e7718b0ccb425d99c0e6ec505d2c01	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CTAS?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:03:24.694Z		200	156886	442be4fa425ce70a6bb51c7fdbfa5b5d640f4083e258b59b6b7cc379b51372df	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CTAS?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T07:55:59.226Z		200	144743	08729da8dc38f27294aa4215ef717b2bc1e7718b0ccb425d99c0e6ec505d2c01	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CTAS?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T07:55:59.622Z		200	156886	442be4fa425ce70a6bb51c7fdbfa5b5d640f4083e258b59b6b7cc379b51372df	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CTAS?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

@@ -1,7 +1,7 @@
 {
-  "contentHash": "48a752b69f7bf078",
+  "contentHash": "502e71a11d306fdb",
   "payload": {
-    "count": 3,
+    "count": 9,
     "items": [
       {
         "claim": "Coloplast oplyste, at Finanstilsynet har givet dispensation fra pligten til at fremsætte et pligtmæssigt overtagelsestilbud, så en kontrollerende indirekte ejerandel kan overdrages fra NPLH Holding ApS til en almennyttig fond.",
@@ -29,12 +29,66 @@
         "source": "Niels Peter Louis-Hansen, gengivet i Coloplasts selskabsmeddelelse",
         "url": "https://www.globenewswire.com/news-release/2026/09/04/3356429/0/en/supporting-the-continued-long-term-and-stable-ownership-of-coloplast.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Coloplast A/S published its Financial Calendar for the 2026/27 financial year, referring readers to an attached PDF and to its investor relations financial-calendar page.",
+        "key": "847b4efa6cc0257c",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Coloplast A/S, company announcement; contacts named as Anders Lonning-Skovgaard (EVP and CFO), Kristine Husted Munk and Nicklas Overgaard (Investor Relations) and Peter Monster (Media Relations)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/24/3368071/0/en/coloplast-a-s-financial-calendar-2026-27.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Coloplast A/S issued the same announcement in Danish as \"Finanskalender 2026/27\", again pointing to the enclosed PDF and its investor relations site.",
+        "key": "2bb9265d5d75c0ed",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Coloplast A/S",
+        "url": "https://www.globenewswire.com/news-release/2026/09/24/3368071/0/da/coloplast-a-s-finanskalender-2026-27.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "MarketScreener carried Coloplast's Financial Calendar 2026/27 release and described the company as employing roughly 17,213 people across ostomy care, continence care, voice and respiratory care, wound care and interventional urology.",
+        "key": "07a1646347ae6f3c",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "MarketScreener, carrying the GlobeNewswire release from Coloplast A/S",
+        "url": "https://www.marketscreener.com/news/coloplast-a-s-financial-calendar-2026-27-ce785adedd80f227",
+        "verifiedAs": null
+      },
+      {
+        "claim": "The Manila Times republished Coloplast's Financial Calendar 2026/27 announcement, which describes the group's five business areas as Ostomy Care, Continence Care, Voice & Respiratory Care, Wound & Tissue Repair and Interventional Urology.",
+        "key": "2bdcb213668c3b4b",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "The Manila Times, via GlobeNewswire, from Coloplast A/S",
+        "url": "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/coloplast-as-financial-calendar-202627/2431999",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AD HOC NEWS reported that Coloplast delivered 6% organic growth in Q3 2025/26 and 5% EBIT growth in constant currencies, with nine-month EBIT of DKK 5,599m and a 26% EBIT margin against 27% a year earlier.",
+        "key": "b62f63aec30b838c",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "AD HOC NEWS, citing Trivano and Investing.com summaries; editorial responsibility Rafael Muller",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/coloplast-stock-reports-6-percent-organic-growth-in-q3/70179548",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AD HOC NEWS, in its German edition, reported that Coloplast confirmed organic revenue guidance of 5-6% for the 2025/26 financial year and that Q3 2025/26 organic growth was likewise 6%.",
+        "key": "7a91ec6c83214bd7",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "AD HOC NEWS, editorial responsibility Rafael Muller",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/die-coloplast-aktie-meldet-6-prozent-wachstum-im-9m-bericht/70178651",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-07T06:14:11Z",
+  "recordedAt": "2026-09-27T06:23:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "COLO-B.CO"

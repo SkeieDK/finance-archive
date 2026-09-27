@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:01:00.061Z		200	150612	9b2ba7fd759dd53c4d126c8fb0129bedef977a63638e2a7582308eac5dff82e6	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CDNS?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:01:00.622Z		200	162706	613b4778f5d1ea28fb8fd0a89c1ae1625d47a722e3050144b4fcfafa097fced7	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CDNS?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T07:51:24.283Z		200	150612	9b2ba7fd759dd53c4d126c8fb0129bedef977a63638e2a7582308eac5dff82e6	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CDNS?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T07:51:24.737Z		200	162706	613b4778f5d1ea28fb8fd0a89c1ae1625d47a722e3050144b4fcfafa097fced7	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CDNS?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

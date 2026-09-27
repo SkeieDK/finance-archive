@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T20:05:11.117Z		200	159947	ba1b4aba26cfbec378c5a18ec63b47d9c02d45fa3a0053007803956cbef42f1f	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/UBER?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T20:05:11.732Z		200	172664	e2fb7213770ea1480feb261852b56d552f4da42def75c351b3cfcb6ccaddcc54	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/UBER?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:36:30.044Z		200	159947	ba1b4aba26cfbec378c5a18ec63b47d9c02d45fa3a0053007803956cbef42f1f	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/UBER?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:36:30.552Z		200	172664	e2fb7213770ea1480feb261852b56d552f4da42def75c351b3cfcb6ccaddcc54	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/UBER?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

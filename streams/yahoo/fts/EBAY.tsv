@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:05:54.513Z		200	154499	57935ab69007cf0e02b1a9b99ac996b11501987a8614c7f56aec1ed4c5625992	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EBAY?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:05:55.120Z		200	165988	903931fbcd007fecb6044ed346e66b944d0c800f32339a2b7543d7e3300b809e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EBAY?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:01:28.634Z		200	154499	57935ab69007cf0e02b1a9b99ac996b11501987a8614c7f56aec1ed4c5625992	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EBAY?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:01:29.122Z		200	165988	903931fbcd007fecb6044ed346e66b944d0c800f32339a2b7543d7e3300b809e	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EBAY?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

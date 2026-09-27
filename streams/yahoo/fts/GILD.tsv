@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:08:53.766Z		200	152055	049e31f2be4bd447dd654eaa4d96f413b8606da1fe13b2e237db6812383b312b	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/GILD?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:08:54.149Z		200	167424	0134ea3875c11bd9a12bb4b4bb9546d2406428aa270a4b621c2300d9ef1fb93e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/GILD?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:05:43.874Z		200	152055	049e31f2be4bd447dd654eaa4d96f413b8606da1fe13b2e237db6812383b312b	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/GILD?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:05:44.206Z		200	167424	0134ea3875c11bd9a12bb4b4bb9546d2406428aa270a4b621c2300d9ef1fb93e	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/GILD?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

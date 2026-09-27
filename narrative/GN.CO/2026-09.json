@@ -1,7 +1,7 @@
 {
-  "contentHash": "004504e7ff106ed4",
+  "contentHash": "109f05894b66794d",
   "payload": {
-    "count": 4,
+    "count": 12,
     "items": [
       {
         "claim": "GN lancerede Jabra Reach, en BYOD-løsning der samler video, lyd, USB og valgfri strøm i ét USB-C-kabel og forlænger forbindelsen op til 100 meter; produktet er annonceret til tilgængelighed 5. oktober 2026.",
@@ -38,12 +38,84 @@
         "source": "GN Store Nord / SteelSeries, nyhedsmeddelelse paa gn.com (ingen navngiven talsperson citeret)",
         "url": "https://www.gn.com/Newsroom/News/2026/September/SteelSeries-introduces-the-Aeon-Pro",
         "verifiedAs": null
+      },
+      {
+        "claim": "Amplifon S.p.A. announced that its Board of Directors had resolved to convene a shareholders' meeting to approve the issuance of 56,000,000 new ordinary shares reserved for subscription by GN Store Nord A/S in connection with the GN Hearing acquisition.",
+        "key": "74b43a92df85cc23",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Amplifon S.p.A., Board of Directors",
+        "url": "https://corporate.amplifon.com/en/investors/press-releases/c-pr-extraordinary-BoD-17-09-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Amplifon said the shareholders' meeting will also be asked to appoint Scott Davis as GN's representative on the Amplifon board, subject to closing of the acquisition.",
+        "key": "3b4e4b7dabef9f68",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Amplifon S.p.A.",
+        "url": "https://corporate.amplifon.com/en/investors/press-releases/c-pr-extraordinary-BoD-17-09-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "The Hearing Review reported that on completion GN Store Nord will hold 17.09% of Amplifon's share capital, representing 9.13% of voting rights, and that closing of the GN Hearing acquisition is currently expected by the end of 2026 subject to conditions precedent.",
+        "key": "02c0ccc833b13653",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "The Hearing Review",
+        "url": "https://hearingreview.com/inside-hearing/industry-news/amplifon-calls-shareholders-meeting-to-advance-gn-hearing-acquisition",
+        "verifiedAs": null
+      },
+      {
+        "claim": "GN Group VP for Software Solutions Rajat Mehta said the expanded Tieto partnership is about building the capabilities and global delivery model needed to support GN's software ambitions over the long term.",
+        "key": "90411d9c03bfdb89",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Rajat Mehta, VP for Software Solutions, GN Group",
+        "url": "https://www.pulpapernews.com/20260917/18181/tieto-and-gn-expand-collaboration-global-software-engineering-partnership",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tieto announced it is expanding its collaboration with GN into a global software engineering partnership starting with a Software Centre of Excellence in China, on a five-year horizon with a minimum 3.5-year commitment, with Patrik Strandeus saying Tieto is very pleased to expand its relationship with GN and take the collaboration to a global level.",
+        "key": "01b23f453517588f",
+        "publishedAt": "2026-09-18",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Patrik Strandeus, Head of R&D Accounts & Sales, Tieto Tech Consulting, in a Tieto press release",
+        "url": "https://www.webwire.com/ViewPressRel.asp?aId=360666",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Webull reported that Tieto will collaborate with GN to form a Software Centre of Excellence in China under an expected five-year deal aimed at boosting GN's engineering capacity and portfolio.",
+        "key": "42d7f5fb72c3827d",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Webull",
+        "url": "https://www.webull.com/news/15592550675334144",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Okonomisk Ugebrev wrote that GN's management clearly indicated Q3 would also show growth, while questioning whether the remaining business can sustain growth into 2027.",
+        "key": "71a178d6ffeea403",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Okonomisk Ugebrev Life Science",
+        "url": "https://ugebrev.dk/life-science/vil-gn-store-nords-vaekst-i-2-halvaar-fortsatte-i-2027/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Okonomisk Ugebrev restated GN's own earlier communication that it expects one-off cash costs of around DKK 750m across 2026 and 2027 to drive the carve-out and improve cost and productivity, of which around 75% is expected in 2026.",
+        "key": "9ba3f30df37451e1",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "GN Store Nord management, as quoted by Okonomisk Ugebrev",
+        "url": "https://ugebrev.dk/life-science/vil-gn-store-nords-vaekst-i-2-halvaar-fortsatte-i-2027/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-15T06:13:15Z",
+  "recordedAt": "2026-09-27T06:23:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GN.CO"

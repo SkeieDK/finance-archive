@@ -1,7 +1,7 @@
 {
-  "contentHash": "717b32a38fe24ede",
+  "contentHash": "8f37fff3e939c9af",
   "payload": {
-    "count": 8,
+    "count": 13,
     "items": [
       {
         "claim": "Genmab meddelte at Rodrigo Fernandez-Baca er udnævnt til General Manager for Italien og Spanien.",
@@ -74,12 +74,57 @@
         "source": "Genmabs Chief Development Officer (i referatet omtalt som Judith), gengivet i Investing.coms konferencereferat",
         "url": "https://www.investing.com/news/transcripts/genmab-at-wells-fargo-healthcare-conference-pipeline-nears-key-readouts-93CH-4894434",
         "verifiedAs": null
+      },
+      {
+        "claim": "Genmab announced that its Board of Directors had decided to grant 13,794 restricted stock units and 13,331 warrants to employees of the company and its subsidiaries, vesting three years after the grant date.",
+        "key": "97c859a534fe369f",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Genmab A/S, company announcement",
+        "url": "https://www.globenewswire.com/news-release/2026/09/24/3368684/0/en/grant-of-restricted-stock-units-and-warrants-to-employees-in-genmab.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Genmab published the same restricted stock unit and warrant grant announcement on its own investor relations site.",
+        "key": "8478bcf8c30fa57c",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Genmab A/S investor relations",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/grant-restricted-stock-units-and-warrants-employees-genmab-24",
+        "verifiedAs": null
+      },
+      {
+        "claim": "At the Bank of America Global Healthcare Conference a Genmab executive said the company is essentially building a standalone growth oncology franchise on three late-stage assets while retaining its royalty portfolio.",
+        "key": "3ddaba2bc6cca5a9",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Genmab executive, left unidentified in the transcript, published by Investing.com",
+        "url": "https://www.investing.com/news/transcripts/genmab-at-bank-of-america-global-healthcare-conference-latestage-push-93CH-4911331",
+        "verifiedAs": null
+      },
+      {
+        "claim": "At the same conference the Genmab executive said the company is now ready for 100% wholly owned launches if the data support approval, and argued Phase II data retain value even after Phase III reads out.",
+        "key": "7205b62982f2fec8",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Genmab executive, left unidentified in the transcript, published by Investing.com India",
+        "url": "https://in.investing.com/news/stock-market-news/genmab-at-bank-of-america-global-healthcare-conference-latestage-push-93CH-5601644",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Ad-hoc-news, citing Newsquawk and Genmab's appearance at the Bank of America Global Healthcare Conference, reported that three crucial clinical readouts remain on track for the fourth quarter of 2026.",
+        "key": "aef91174db6bf0ca",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Newsquawk, as relayed by ad-hoc-news",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/genmab-stock-advances-as-q4-readouts-stay-on-track/70156393",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-15T06:13:15Z",
+  "recordedAt": "2026-09-27T06:23:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GMAB.CO"

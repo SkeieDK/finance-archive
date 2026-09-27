@@ -1,7 +1,7 @@
 {
-  "contentHash": "4eb8d91269c858e6",
+  "contentHash": "fb70b3fc18a497ad",
   "payload": {
-    "count": 5,
+    "count": 14,
     "items": [
       {
         "claim": "Zealand Pharma oplyste i selskabsmeddelelse nr. 46/2026 at selskabet i uge 36 købte 183.000 egne aktier, og at det derefter besidder i alt 3.916.842 egne aktier svarende til ca. 5,47 pct. af aktiekapitalen.",
@@ -47,12 +47,93 @@
         "source": "Zealand Pharma A/S, selskabsmeddelelse via GlobeNewswire; investorkontakter Eric Rojas (VP, Head of Investor Relations) og Neshat Anis Ahmadi (Investor Relations Manager)",
         "url": "https://www.globenewswire.com/news-release/2026/09/14/3361304/0/en/zealand-pharma-transactions-related-to-share-buy-back-program-week-37-2026.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma announced it had initiated the registrational global Phase 3 ZUPREME programme (ZUPREME-3, -4 and -5, around 7,000 participants) of petrelintide for chronic weight management in people with overweight or obesity.",
+        "key": "1caf328e4801263e",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Zealand Pharma A/S, company announcement",
+        "url": "https://www.globenewswire.com/news-release/2026/09/22/3366613/0/en/zealand-pharma-announces-initiation-of-the-registrational-phase-3-zupreme-program-of-petrelintide-in-people-with-overweight-or-obesity.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Chief Medical Officer David Kendall said the Phase 3a programme is designed to confirm petrelintide's \"first-choice potential\", supported by clinically meaningful double-digit weight reduction and a tolerability profile that supports long-term adherence.",
+        "key": "e60e1b6411a36bce",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "David Kendall, MD, Chief Medical Officer, Zealand Pharma",
+        "url": "https://www.globenewswire.com/news-release/2026/09/22/3366613/0/en/zealand-pharma-announces-initiation-of-the-registrational-phase-3-zupreme-program-of-petrelintide-in-people-with-overweight-or-obesity.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma said the Phase 3a programme's three trials are designed to support marketing applications for petrelintide monotherapy, with percentage change in body weight to week 64 as the primary endpoint, run in partnership with Roche.",
+        "key": "59e67c9639b82013",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Zealand Pharma A/S, release text as carried by BioSpace",
+        "url": "https://www.biospace.com/press-releases/zealand-pharma-announces-initiation-of-the-registrational-phase-3-zupreme-program-of-petrelintide-in-people-with-overweight-or-obesity",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma reported weekly transactions under its ongoing share buy-back programme for week 38 2026 (company announcement no. 49/2026) and stated a treasury holding of 4,495,842 shares, around 6.28% of the share capital.",
+        "key": "1833dd34b7a319ae",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Zealand Pharma A/S, stock-exchange announcement no. 49/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365645/0/en/zealand-pharma-transactions-related-to-share-buy-back-program-week-38-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Reuters, in syndication, reported that Zealand Pharma's short bowel syndrome drug won backing from the EU panel, with a European Commission decision expected in roughly 67 days.",
+        "key": "1e3f22d2cece2e7a",
+        "publishedAt": "2026-09-18",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Thomson Reuters, carried by KELO",
+        "url": "https://kelo.com/2026/09/18/zealand-pharmas-short-bowel-syndrome-drug-wins-backing-from-eu-panel/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "RTTNews reported that the CHMP recommended marketing authorisation for Zeydovio in adults with short bowel syndrome on the basis of Phase 3 EASE-1 data, with the matter now going to the European Commission.",
+        "key": "f7482abccfce3a22",
+        "publishedAt": "2026-09-18",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "RTTNews",
+        "url": "https://www.rttnews.com/3692251/zealand-pharma-gets-positive-eu-opinion-for-zeydovio-in-short-bowel-syndrome.aspx",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Investing.com reported that Zealand Pharma gained EU panel backing for its short bowel syndrome drug on the basis of Phase 3 EASE-1 data versus placebo.",
+        "key": "37b25b040142253e",
+        "publishedAt": "2026-09-18",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/company-news/zealand-pharma-gets-eu-panel-backing-for-bowel-syndrome-drug-93CH-4906990",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Investing.com reported that Zealand Pharma launched its Phase 3 obesity trials for petrelintide, spanning three studies and around 7,000 participants.",
+        "key": "de889e1c957678be",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/company-news/zealand-pharma-launches-phase-3-obesity-drug-trials-93CH-4911220",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AllSci reported that Zealand launched the ZUPREME Phase III programme for the amylin analogue petrelintide in overweight and obesity, highlighting discontinuation rates said to be comparable to placebo.",
+        "key": "33295101e9801345",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "AllSci",
+        "url": "https://allsci.com/news/clinical-trials/petrelintide-phase-iii-obesity-zealand-pharma/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-21T07:00:00Z",
+  "recordedAt": "2026-09-27T06:23:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ZEAL.CO"

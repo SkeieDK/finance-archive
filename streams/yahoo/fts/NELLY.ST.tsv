@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:17:57.764Z		200	122357	54b9ccb7cc32fa05f8496f5c40cac9eb26da6347f35d6759b788d02d92aeb6fe	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NELLY.ST?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:17:58.321Z		200	110786	7c241346e5eb534b6ed6e386f563a71d5b88b6dbd9cb0a4e15b9a9c3c8f33e39	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NELLY.ST?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:18:57.766Z		200	122357	54b9ccb7cc32fa05f8496f5c40cac9eb26da6347f35d6759b788d02d92aeb6fe	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NELLY.ST?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:18:58.156Z		200	110786	7c241346e5eb534b6ed6e386f563a71d5b88b6dbd9cb0a4e15b9a9c3c8f33e39	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NELLY.ST?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

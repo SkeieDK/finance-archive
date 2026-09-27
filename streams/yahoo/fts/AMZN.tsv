@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T18:57:08.701Z		200	138998	059431dc0e99235277c2bc6edeac6d746cf9b10fb31b61c8c222ecf61f105518	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AMZN?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T18:57:09.263Z		200	152091	3c5c8bd73068a187692e2b57755cbf60b913dd69e9fd45014db89b411ccae46e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AMZN?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T07:44:15.979Z		200	138998	059431dc0e99235277c2bc6edeac6d746cf9b10fb31b61c8c222ecf61f105518	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AMZN?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T07:44:16.551Z		200	152091	3c5c8bd73068a187692e2b57755cbf60b913dd69e9fd45014db89b411ccae46e	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AMZN?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

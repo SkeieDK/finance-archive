@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:14:54.105Z		200	147834	78d86183202a73eb8a5f5d4f20fd8b81c5fba05b1ba350849afd7b0fcaea1acb	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LULU?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:14:54.601Z		200	151254	e0c5c20ea1577cd9aeb99e071fa7bbeb291b82a68d2a56aeca93bbf89cf519c1	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LULU?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:14:31.276Z		200	147834	78d86183202a73eb8a5f5d4f20fd8b81c5fba05b1ba350849afd7b0fcaea1acb	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LULU?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:14:31.693Z		200	151254	e0c5c20ea1577cd9aeb99e071fa7bbeb291b82a68d2a56aeca93bbf89cf519c1	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LULU?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

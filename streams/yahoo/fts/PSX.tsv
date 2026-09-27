@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:23:13.435Z		200	146095	4933f88059824c07dd1adf11a8b5f81a56ba64e7e03b073ff2ad0b35de637321	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PSX?period1=1600819200&period2=1790121600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-09-23T19:23:14.022Z		200	159851	62a5d01d84d0873a7add650d52a52e56b5147bc3abf73b6e9aea4d5f7725a0c9	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PSX?period1=1695427200&period2=1790121600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-09-27T08:27:33.211Z		200	146095	4933f88059824c07dd1adf11a8b5f81a56ba64e7e03b073ff2ad0b35de637321	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PSX?period1=1601164800&period2=1790467200&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-09-27T08:27:33.597Z		200	159851	62a5d01d84d0873a7add650d52a52e56b5147bc3abf73b6e9aea4d5f7725a0c9	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PSX?period1=1695772800&period2=1790467200&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

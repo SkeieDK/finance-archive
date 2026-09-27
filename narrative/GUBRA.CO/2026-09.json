@@ -1,7 +1,7 @@
 {
-  "contentHash": "380e53a2d7cc4498",
+  "contentHash": "89f4785d1366c682",
   "payload": {
-    "count": 1,
+    "count": 4,
     "items": [
       {
         "claim": "Gubra meddelte, at samarbejdspartneren Hemab har doseret den første deltager i et fase 1-forsøg med HMB-003, og understregede samtidig, at kandidaten blev opdaget på Gubras streaMLine-platform sammen med Hemabs ekspertise, men at «HMB-003 is proprietary to Hemab, and Hemab is solely responsible for its development and commercialization».",
@@ -11,12 +11,39 @@
         "source": "Gubra A/S, selskabsmeddelelse på gubra.dk (ingen navngiven talsperson citeret i meddelelsen)",
         "url": "https://www.gubra.dk/mfn_news/gubra-collaboration-partner-hemab-announces-first-participant-dosed-in-phase-1-clinical-trial-of-hmb-003-an-investigational-therapy-for-the-management-of-heavy-menstrual-bleeding/",
         "verifiedAs": null
+      },
+      {
+        "claim": "In a published transcript from the Morgan Stanley 24th Annual Global Healthcare Conference, CEO Markus Rohrwild said the partnership model is working very well for Gubra and that the company has been able to capture substantial value for its partners' programmes, and that Gubra can take a peptide backbone to a development candidate in roughly 18 months.",
+        "key": "c56b0fbdd70e6811",
+        "publishedAt": "2026-09-16",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Markus Rohrwild, CEO, Gubra, in a conference transcript published by Investing.com",
+        "url": "https://www.investing.com/news/transcripts/gubra-at-morgan-stanley-healthcare-conference-deeper-pipeline-longer-hold-93CH-4904292",
+        "verifiedAs": null
+      },
+      {
+        "claim": "In Hemab Therapeutics' own release on the same first dosing, CEO Benny Sorensen said millions of women and girls live with heavy menstrual bleeding and have no approved non-hormonal, long-acting treatment option; the release does not name Gubra.",
+        "key": "21a3e1cc9f41a754",
+        "publishedAt": "2026-09-17",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Benny Sorensen, MD, PhD, CEO, Hemab Therapeutics",
+        "url": "https://www.globenewswire.com/news-release/2026/09/17/3363905/0/en/hemab-therapeutics-announces-first-participant-dosed-in-phase-1-clinical-trial-of-hmb-003-an-investigational-therapy-for-the-management-of-heavy-menstrual-bleeding.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Inderes analysts wrote up the Hemab dosing in their daily stock commentary, framing it as evidence of Gubra's disease-agnostic discovery platform with milestone and royalty potential, and flagged an ABBV-295 presentation at EASD on 30 September and a Gubra R&D event in late October as the next catalysts.",
+        "key": "8615b96449e0edd7",
+        "publishedAt": "2026-09-18",
+        "recordedAt": "2026-09-27T06:23:34Z",
+        "source": "Michael Friis, with Victor Skriver and Rasmus Kojborg, Inderes",
+        "url": "https://www.inderes.fi/analyst-comments/paivan-osakekatsaus-1892026-gubra-gomspace-ja-flugger",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-21T07:20:00Z",
+  "recordedAt": "2026-09-27T06:23:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GUBRA.CO"
