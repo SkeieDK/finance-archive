@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T16:38:12.009Z		200	24055	a835c26c33abbcd56f0efd34a2fd627bbb9f860acb4c322168634d6bd23ad129	ja	https://query1.finance.yahoo.com/v8/finance/chart/BAKKA.OL?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:38:13.436Z		200	10365	7712aef15e7ebdf111b5b2a5f8a1b7e599fbc6aae07c86d42f34a8e400ce40ee	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAKKA.OL?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722211200&period2=1790467200
+2026-09-27T16:38:13.646Z		200	13082	9b82ed7395b6077373ad7f571616967fa97c2ceedb7d8bca7cf4af97ccd64ad2	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAKKA.OL?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443312000&period2=1790527093

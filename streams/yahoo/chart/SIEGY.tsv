@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-28T18:10:07.826Z		200	28143	59d25414cb0fd8e6b81b0baae361f3d5da3dcfea878ecfb2721ec09b0f440725	ja	https://query1.finance.yahoo.com/v8/finance/chart/SIEGY?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:10:09.907Z		200	13297	741548caccd313c51d0845117cef3658fc4cc298963e7ccfc30eb41441c5e805	ja	https://query2.finance.yahoo.com/v8/finance/chart/SIEGY?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722297600&period2=1790553600
+2026-09-28T18:10:10.011Z		200	15698	dad73dc6038fceabe8443ac035237ce917000823309021c293108b91b9bc264f	ja	https://query2.finance.yahoo.com/v8/finance/chart/SIEGY?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443398400&period2=1790619009

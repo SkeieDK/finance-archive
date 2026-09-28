@@ -1,0 +1,5 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T15:27:19.430Z	archive-check	200	29221	fae98fe4767d11247c52905a0c4fc8a742e5083f46fe7b95878f0931bd02f099	ja	https://query1.finance.yahoo.com/v8/finance/chart/USDEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:37:19.991Z		200	29224	480bee336bed07d2f8aeed74ba24dcbc2bf1aa041598aa6aab210967dbbfd1af	ja	https://query1.finance.yahoo.com/v8/finance/chart/USDEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:10:09.733Z		200	29001	5028bf6954b5c8a311ad1bdbba6d41304bb97d826fa1c3b65759dbedcc2139d6	ja	https://query1.finance.yahoo.com/v8/finance/chart/USDEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:14:28.115Z		200	29004	390670d6a69b56a5de350615667c15bb924bc9826089ae5c27e1c208c3ba7c9e	ja	https://query1.finance.yahoo.com/v8/finance/chart/USDEUR%3DX?interval=1d&range=1y&events=div%7Csplit

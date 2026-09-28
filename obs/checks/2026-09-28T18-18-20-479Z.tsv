@@ -1,0 +1,609 @@
+ticker	status	differences	misses	first
+A	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.98 → 1
+AAB.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.45 → 0.47
+AAPL	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+ABBV	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+ABNB	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.29 → 1.28
+ABT	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+ACGL	forskel	6	0	calculated.cost_of_capital.assumptions.betaRaw: 0.35 → 0.34
+ACN	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 0.77 → 0.76
+ADBE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.02 → 1.01
+ADI	forskel	19	0	calculated.cost_of_capital.assumptions.beta: 1.44 → 1.45
+ADM	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.23 → 0.22
+ADP	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.54 → 0.53
+ADSK	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.83 → 0.82
+AEE	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.2 → 0.19
+AEP	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.33 → 0.32
+AES	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.59 → 0.58
+AFL	forskel	9	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 7.7 → 7.6
+AIG	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 0.62 → 0.61
+AIZ	forskel	11	0	calculated.cost_of_capital.assumptions.beta: 0.77 → 0.76
+AJG	forskel	16	0	calculated.cost_of_capital.assumptions.beta: 0.65 → 0.64
+AKAM	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.72 → 0.73
+ALB	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.56 → 1.55
+ALGN	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.45 → 1.44
+ALL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.64 → 0.63
+ALLE	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+ALMU	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 2.06 → 2.05
+AMAT	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.39 → 1.4
+AMBU-B.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.93 → 0.94
+AMCR	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 0.71 → 0.72
+AMD	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.48 → 1.49
+AME	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 0.88 → 0.89
+AMGN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.62 → 0.63
+AMP	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.03
+AMT	forskel	10	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.35 → 0.34
+AMZN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.31 → 1.3
+ANET	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.99 → 2
+AON	forskel	8	0	calculated.cost_of_capital.assumptions.betaRaw: 0.41 → 0.4
+AOS	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.71 → 0.72
+APA	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.61 → 0.6
+APD	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.83 → 0.82
+APH	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.39 → 1.4
+APO	forskel	15	0	calculated.cost_of_capital.assumptions.beta: 1.47 → 1.46
+APP	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 2.43 → 2.42
+APTV	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.94 → 0.95
+ARE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.86 → 0.85
+ARES	forskel	19	0	calculated.cost_of_capital.assumptions.beta: 1.54 → 1.53
+ASML	forskel	19	0	calculated.cost_of_capital.assumptions.marketEquity: 587523086674 → 588594842390
+ASR	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+ATCO-A.ST	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.15 → 1.16
+ATCO-B.ST	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 1.1 → 1.11
+ATO	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.08 → 0.07
+AVGO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.84 → 1.83
+AVY	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.77 → 0.78
+AWK	forskel	13	0	calculated.cost_of_capital.assumptions.beta: 0.12 → 0.11
+AXON	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.42 → 1.41
+AXP	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+AZO	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BA	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.59 → 1.58
+BABA	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.11 → 1.1
+BAC	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 8.4 → 8.3
+BAKKA.OL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.65 → 0.66
+BALL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.67 → 0.66
+BAVA.CO	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 4.9 → 5
+BAX	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BBY	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.09 → 1.08
+BDX	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BE	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BEN	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 1.06 → 1.05
+BF-B	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BG	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.44 → 0.43
+BIIB	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.69 → 0.7
+BKNG	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.04
+BKR	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BLDR	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 1.19 → 1.2
+BLK	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BMY	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BNOR.OL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.33 → 0.32
+BNY	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.96 → 0.95
+BR	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BRK-B	forskel	16	0	calculated.cost_of_capital.assumptions.beta: 0.62 → 0.61
+BRO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.62 → 0.61
+BSX	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+BWLPG.OL	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 0.97 → 0.96
+BX	forskel	15	0	calculated.cost_of_capital.assumptions.beta: 1.21 → 1.2
+BXP	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 1.07 → 1.06
+C	forskel	18	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 8.4 → 8.3
+CAH	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.57 → 0.56
+CARL-B.CO	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 6.4 → 6.3
+CARR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.12 → 1.13
+CASY	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.6 → 0.59
+CAT	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.08 → 1.07
+CB	forskel	12	0	calculated.cost_of_capital.assumptions.betaRaw: 0.2 → 0.19
+CBOE	forskel	11	0	calculated.cost_of_capital.assumptions.beta: 0.51 → 0.5
+CBRAIN.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.59 → 0.57
+CBRE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.99 → 0.98
+CCI	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.49 → 0.48
+CCJ	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 1.4 → 1.38
+CCL	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+CDNS	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.17 → 1.2
+CDW	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.97 → 0.96
+CEG	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.32 → 1.33
+CF	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.09 → 0.07
+CFG	forskel	6	0	calculated.cost_of_capital.assumptions.betaRaw: 1.14 → 1.13
+CHD	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.13 → 0.14
+CHEMM.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.48 → 1.47
+CHRW	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.96 → 0.95
+CHTR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.02 → 1
+CI	forskel	6	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.49 → 0.48
+CIEN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.41 → 1.4
+CINF	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.66 → 0.65
+CL	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.29 → 0.28
+CLX	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.61 → 0.62
+CMCSA	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 0.63 → 0.62
+CME	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.5 → 0.49
+CMG	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.98 → 0.97
+CMI	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.14 → 1.13
+CMS	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: -0.01 → -0.02
+CNC	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.63 → 0.62
+CNP	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.38 → 0.37
+COF	forskel	6	0	calculated.cost_of_capital.assumptions.betaRaw: 1.45 → 1.44
+COHR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 2.01 → 1.99
+COIN	forskel	8	0	calculated.cost_of_capital.assumptions.beta: 2.09 → 2.08
+COLO-B.CO	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.1
+COO	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+COP	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.46 → 0.45
+COR	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+COST	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.37 → 0.38
+CPA	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+CPAY	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 11 → 10.9
+CPB	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.51 → 0.5
+CPRI	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.62 → 1.63
+CPRT	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.86 → 0.85
+CPT	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+CRCL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.46 → 0.44
+CRH	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.28 → 1.27
+CRL	forskel	15	0	calculated.cost_of_capital.assumptions.beta: 0.94 → 0.95
+CRM	forskel	19	0	calculated.cost_of_capital.assumptions.beta: 1.07 → 1.06
+CRWD	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+CSCO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.93 → 0.92
+CSGP	forskel	11	0	calculated.cost_of_capital.assumptions.beta: 0.83 → 0.82
+CSX	forskel	12	0	calculated.cost_of_capital.assumptions.betaRaw: 0.74 → 0.73
+CTAS	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.83 → 0.84
+CTSH	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.04
+CTVA	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 0.44 → 0.43
+CVNA	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.96 → 1.95
+CVS	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+CVX	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.13 → 0.12
+D	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.46 → 0.45
+DAL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.14 → 1.15
+DASH	forskel	17	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[1]: 12 → 11.9
+DD	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 1.31 → 1.32
+DDOG	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.13 → 1.15
+DE	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.71 → 0.7
+DECK	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+DELL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.59 → 1.58
+DEMANT.CO	forskel	10	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.98 → 0.97
+DG	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+DGX	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.08 → 0.07
+DHI	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+DHR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.96 → 0.97
+DIS	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 1.01 → 1.02
+DLR	forskel	12	0	calculated.cost_of_capital.assumptions.beta: 0.77 → 0.76
+DLTR	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 0.56 → 0.57
+DNA	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 2.4 → 2.45
+DNB.OL	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.2
+DNORD.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.76 → 0.74
+DOC	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+DOV	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+DOW	forskel	6	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.73 → 0.72
+DPZ	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+DRI	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.67 → 0.66
+DSV.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.02 → 1
+DTE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.39 → 0.38
+DUK	forskel	11	0	calculated.cost_of_capital.assumptions.beta: 0.29 → 0.28
+DVA	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.51 → 0.5
+DVN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.44 → 0.43
+DXCM	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.16 → 1.15
+EBAY	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.73 → 0.72
+ECHO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.11 → 1.09
+ECL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.75 → 0.76
+ED	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: -0.19 → -0.2
+EFX	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.13 → 1.12
+EG	forskel	3	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.39 → 0.38
+EIX	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.53 → 0.52
+EKTA-B.ST	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 1.29 → 1.28
+EL	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 1.59 → 1.58
+ELV	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.71 → 0.7
+EMBJ	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.7 → 0.71
+EME	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+EMR	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 1.49 → 1.5
+ENTG	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.97 → 1.98
+EOG	forskel	15	0	calculated.cost_of_capital.assumptions.betaRaw: 0.04 → 0.03
+EQIX	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.69 → 0.68
+EQNR.OL	forskel	7	0	calculated.cost_of_capital.assumptions.beta: -0.16 → -0.17
+EQT	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+ERIE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.6 → 0.59
+ES	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.55 → 0.54
+ESS	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+ETN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.17 → 1.18
+ETR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.53 → 0.52
+ETSY	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.08 → 1.07
+EVRG	forskel	17	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 6.9 → 6.8
+EW	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.48 → 0.47
+EXC	forskel	17	0	calculated.cost_of_capital.assumptions.beta: 0.29 → 0.28
+EXE	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+EXPD	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.69 → 0.68
+EXPE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.12 → 1.11
+EXR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.79 → 0.78
+F	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.98 → 0.97
+FANG	forskel	18	0	calculated.cost_of_capital.assumptions.beta: 0.55 → 0.54
+FAST	forskel	9	0	calculated.cost_of_capital.assumptions.beta: 0.74 → 0.75
+FCX	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.9 → 1.89
+FDS	forskel	18	0	calculated.cost_of_capital.assumptions.beta: 0.72 → 0.71
+FDX	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.04
+FDXF	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+FE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.35 → 0.34
+FERG	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 1.05 → 1.06
+FFIV	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+FICO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.16 → 1.15
+FIS	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+FISV	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+FITB	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 7.8 → 7.7
+FIX	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.5 → 1.49
+FLEX	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.57 → 1.58
+FOBA.CO	ens	0	1	yahoo: quoteSummary FOBA.CO: Quote not found for symbol: FOBA.CO
+FOX	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.71 → 0.7
+FOXA	forskel	20	0	balanceHistory: 9 elementer → 4
+FRT	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.72 → 0.71
+FSLR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.04 → 1.02
+FTNT	forskel	10	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 1.17 → 1.16
+FTV	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.98 → 0.99
+GD	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.77 → 0.76
+GDDY	forskel	17	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[1]: 8.8 → 8.7
+GE	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+GEHC	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.34 → 1.35
+GEN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.03 → 0.99
+GEV	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.21 → 1.2
+GILD	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+GIS	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.43 → 0.42
+GL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.66 → 0.65
+GLW	forskel	8	0	calculated.cost_of_capital.assumptions.beta: 1.18 → 1.19
+GM	forskel	17	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 9.2 → 9.1
+GMAB.CO	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.64 → 0.63
+GN.CO	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 1.22 → 1.23
+GNRC	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 9.7 → 9.6
+GOOG	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.13 → 1.12
+GOOGL	forskel	20	0	balanceHistory: 12 elementer → 4
+GPC	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.74 → 0.75
+GPN	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+GRAB	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.59 → 1.61
+GRMN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.13 → 1.14
+GS	forskel	9	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 11.1 → 11
+GUBRA.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.12 → 1.11
+GWW	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.82 → 0.81
+HAL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.8 → 0.79
+HARB-B.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.53 → 0.51
+HAS	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.82 → 0.81
+HBAN	forskel	3	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 1.19 → 1.18
+HCA	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 0.37 → 0.38
+HD	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.92 → 0.91
+HEXA-B.ST	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.1
+HIG	forskel	16	0	calculated.cost_of_capital.assumptions.beta: 0.65 → 0.64
+HII	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.94 → 0.93
+HLT	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 9 → 9.1
+HNRG	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 1.6 → 1.59
+HON	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+HONA	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+HOOD	forskel	11	0	calculated.cost_of_capital.assumptions.beta: 2.53 → 2.52
+HPE	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+HPQ	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.21 → 1.2
+HRL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.42 → 0.41
+HSIC	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+HST	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.65 → 0.66
+HSY	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0 → -0.01
+HUBB	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.08 → 1.09
+HUM	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 1 → 1.01
+HWM	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+IBKR	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 11.1 → 11
+IBM	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.97 → 0.96
+ICE	forskel	3	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.57 → 0.56
+ICFI	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+IDXX	forskel	17	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 9.1 → 9.2
+IEX	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.99 → 1
+IFF	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.95 → 0.96
+IG.CO	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.1
+ILMN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.07
+INCY	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.52 → 0.51
+INDT.ST	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 0.93 → 0.94
+INTC	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.64 → 1.66
+INTU	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.58 → 0.56
+INVH	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.58 → 0.57
+IP	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 0.95 → 0.96
+IQV	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+IR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.12 → 1.13
+IRM	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 1.02 → 1.01
+ISRG	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 1.19 → 1.2
+IT	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.82 → 0.83
+ITW	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.64 → 0.65
+IVSO.ST	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.1
+IVZ	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 1.26 → 1.25
+J	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.96 → 0.95
+JBHT	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.95 → 0.94
+JBL	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 1.52 → 1.53
+JCI	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.03 → 1.04
+JD	forskel	19	0	calculated.cost_of_capital.assumptions.betaRaw: 0.84 → 0.83
+JKHY	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 0.13 → 0.12
+JMIA	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 11.7 → 11.6
+JNJ	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 0.09 → 0.08
+JPM	forskel	15	0	calculated.cost_of_capital.assumptions.beta: 1.07 → 1.06
+KDP	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.49 → 0.5
+KEY	forskel	6	0	calculated.cost_of_capital.assumptions.betaRaw: 1.14 → 1.13
+KEYS	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.67 → 1.68
+KHC	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.56 → 0.55
+KIM	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+KINS	forskel	15	0	calculated.cost_of_capital.assumptions.beta: 0.73 → 0.72
+KKR	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 1.51 → 1.5
+KLAC	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 1.77 → 1.78
+KMB	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+KMI	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.53 → 0.52
+KNEBV.HE	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.1
+KO	forskel	12	0	calculated.cost_of_capital.assumptions.beta: 0.47 → 0.46
+KOG.OL	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 0.35 → 0.34
+KR	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: -0.23 → -0.24
+KVUE	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+L	forskel	11	0	calculated.cost_of_capital.assumptions.beta: 0.59 → 0.58
+LDOS	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.95 → 0.94
+LEN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.89 → 0.9
+LH	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.62 → 0.61
+LHX	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.53 → 0.52
+LII	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 0.95 → 0.96
+LIN	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.38 → 0.39
+LITE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.77 → 1.76
+LLY	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+LMT	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 7.4 → 7.3
+LNT	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 6.7 → 6.6
+LOW	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.77 → 0.76
+LRCX	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 2.07 → 2.08
+LSG.OL	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.2
+LULU	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.13 → 1.14
+LUV	forskel	9	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 1.22 → 1.23
+LVS	forskel	12	0	calculated.cost_of_capital.assumptions.betaRaw: 0.85 → 0.84
+LYB	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.65 → 0.64
+LYV	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MA	forskel	7	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 9 → 8.9
+MAA	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MAERSK-B.CO	forskel	10	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 1.07 → 1.06
+MAR	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 0.98 → 0.99
+MAS	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MCD	forskel	16	0	calculated.cost_of_capital.assumptions.betaRaw: 0.44 → 0.43
+MCHP	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.81 → 1.82
+MCK	forskel	11	0	calculated.cost_of_capital.assumptions.betaRaw: 0.13 → 0.12
+MCO	forskel	7	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 10.1 → 10
+MDLZ	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MDT	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.62 → 0.61
+MELI	forskel	10	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.93 → 0.92
+MET	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+META	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.4 → 1.41
+METSB.HE	forskel	1	0	dataQuality.quoteAgeDays: 2.1 → 3.1
+MGM	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.03
+MKC	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MLM	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MMM	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MNST	forskel	18	0	calculated.cost_of_capital.assumptions.beta: 0.61 → 0.6
+MO	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: -0.19 → -0.2
+MOS	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.99 → 0.98
+MOWI.OL	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.58 → 0.59
+MP	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MPC	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.68 → 0.66
+MPWR	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.67 → 1.68
+MRK	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MRNA	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.09
+MRSH	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 0.59 → 0.58
+MRVL	forskel	7	0	calculated.cost_of_capital.assumptions.betaRaw: 1.93 → 1.94
+MS	forskel	15	0	calculated.cost_of_capital.assumptions.beta: 1.33 → 1.32
+MSCI	forskel	4	0	calculated.cost_of_capital.assumptions.betaRaw: 0.84 → 0.83
+MSFT	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+MSI	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.54 → 0.53
+MTB	forskel	6	0	calculated.cost_of_capital.assumptions.betaRaw: 0.9 → 0.89
+MTD	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1 → 1.02
+MTN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.82 → 0.81
+MU	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+NA	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 5.2 → 5.3
+NCLH	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+NDA-DK.CO	forskel	12	0	calculated.cost_of_capital.assumptions.betaRaw: 0.69 → 0.68
+NDAQ	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+NDSN	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.06
+NEE	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.32 → 0.31
+NEL.OL	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 5.3 → 5.2
+NELLY.ST	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.89 → 0.87
+NEM	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.21 → 1.2
+NET	forskel	15	0	calculated.cost_of_capital.assumptions.betaRaw: 1.31 → 1.32
+NETC.CO	forskel	14	0	calculated.cost_of_capital.assumptions.beta: 0.76 → 0.75
+NFLX	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 0.93 → 0.92
+NHY.OL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.81 → 0.8
+NI	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.54 → 0.53
+NKE	forskel	17	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 9.6 → 9.7
+NKT.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.77 → 0.76
+NOC	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.6 → 0.59
+NOD.OL	forskel	7	0	calculated.cost_of_capital.assumptions.beta: 0.88 → 0.89
+NOVO-B.CO	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.05 → 1.03
+NOW	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 1.44 → 1.43
+NRG	forskel	15	0	calculated.cost_of_capital.assumptions.betaRaw: 1.4 → 1.38
+NSC	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.84 → 0.83
+NTAP	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].betaRaw: 1.45 → 1.44
+NTRS	forskel	20	0	calculated.cost_of_capital.assumptions.afterTaxCostOfDebtPct: 7.2 → 7.1
+NU	forskel	5	0	calculated.cost_of_capital.assumptions.costOfEquityPoints[1].beta: 1.15 → 1.14
+NUE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.22 → 1.21
+NVDA	forskel	12	0	calculated.cost_of_capital.assumptions.beta: 1.53 → 1.52
+NVR	forskel	20	0	calculated.cost_of_capital.assumptions.betaRaw: 0.43 → 0.44
+NWS	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.84 → 0.83
+NWSA	forskel	20	0	balanceHistory: 14 elementer → 4
+NXPI	forskel	17	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 11.1 → 11.2
+O	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.54 → 0.53
+ODFL	forskel	1	0	dataQuality.quoteAgeDays: 1.9 → 2.9
+OET.OL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.81 → 0.79
+OKE	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 0.57 → 0.56
+OMC	forskel	13	0	calculated.cost_of_capital.assumptions.beta: 0.95 → 0.94
+ON	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.55 → 1.56
+ORCL	forskel	20	0	calculated.cost_of_capital.assumptions.beta: 1.55 → 1.54
+ORLY	forskel	20	0	calculated.cost_of_capital.assumptions.costOfEquityBandPct[0]: 7 → 7.1
+ORSTED.CO	forskel	20	2	balanceHistory: 6 elementer → 13
+OTIS	forskel	20	3	balanceHistory: 0 elementer → 7
+OXY	forskel	20	3	balanceHistory: 0 elementer → 18
+P	forskel	20	9	balanceHistory: 0 elementer → 12
+PANW	forskel	20	3	balanceHistory: 0 elementer → 15
+PARKEN.CO	forskel	20	3	balanceHistory: 0 elementer → 13
+PAYX	forskel	20	0	balanceHistory: 0 elementer → 11
+PCAR	forskel	20	3	balanceHistory: 0 elementer → 18
+PCG	forskel	20	3	balanceHistory: 0 elementer → 18
+PDD	forskel	20	3	balanceHistory: 0 elementer → 4
+PEG	ens	0	0	
+PEP	ens	0	0	
+PFE	ens	0	0	
+PFG	ens	0	0	
+PG	forskel	5	0	dataQuality.checks: 1 elementer → 2
+PGR	forskel	20	3	balanceHistory: 0 elementer → 18
+PH	forskel	20	3	balanceHistory: 0 elementer → 19
+PHM	forskel	20	3	balanceHistory: 0 elementer → 17
+PKG	forskel	20	3	balanceHistory: 0 elementer → 17
+PLD	forskel	20	0	balanceHistory: 0 elementer → 16
+PLTR	forskel	20	3	balanceHistory: 0 elementer → 7
+PM	forskel	20	3	balanceHistory: 0 elementer → 18
+PNC	forskel	20	3	balanceHistory: 0 elementer → 18
+PNDORA.CO	forskel	20	3	balanceHistory: 0 elementer → 13
+PNR	forskel	20	3	balanceHistory: 0 elementer → 17
+PNW	forskel	20	3	balanceHistory: 0 elementer → 17
+PODD	forskel	20	3	balanceHistory: 0 elementer → 16
+PPG	forskel	20	3	balanceHistory: 0 elementer → 18
+PPL	forskel	20	3	balanceHistory: 0 elementer → 18
+PRU	forskel	20	3	balanceHistory: 0 elementer → 18
+PSA	forskel	20	3	balanceHistory: 0 elementer → 18
+PSKY	forskel	20	3	balanceHistory: 0 elementer → 4
+PSX	forskel	20	3	balanceHistory: 0 elementer → 16
+PTC	ens	0	0	
+PWR	ens	0	0	
+PYPL	ens	0	0	
+Q	ens	0	0	
+QCOM	ens	0	0	
+RBREW.CO	ens	0	0	
+RCEL	ens	0	0	
+RCL	ens	0	0	
+RDDT	ens	0	0	
+RDW	ens	0	0	
+RECSI.OL	ens	0	1	yahoo: quoteSummary RECSI.OL: Quote not found for symbol: RECSI.OL
+REG	ens	0	0	
+REGN	ens	0	0	
+RF	ens	0	0	
+RJF	ens	0	0	
+RL	ens	0	0	
+RMD	ens	0	0	
+ROCK-B.CO	ens	0	0	
+ROK	ens	0	0	
+ROL	ens	0	0	
+ROP	ens	0	0	
+ROST	ens	0	0	
+RSG	ens	0	0	
+RTX	ens	0	0	
+RVTY	ens	0	0	
+RXRX	ens	0	0	
+SABR	ens	0	0	
+SALM.OL	ens	0	0	
+SALME.OL	ens	0	0	
+SAND.ST	ens	0	0	
+SBAC	ens	0	0	
+SBUX	ens	0	0	
+SCHW	ens	0	0	
+SE	ens	0	0	
+SHOP	ens	0	0	
+SHW	ens	0	0	
+SIEGY	ens	0	0	
+SJM	ens	0	0	
+SLB	ens	0	0	
+SMCI	ens	0	0	
+SNA	ens	0	0	
+SNDK	ens	0	0	
+SNOW	ens	0	0	
+SNPS	ens	0	0	
+SO	ens	0	0	
+SOLV	ens	0	0	
+SONY	ens	0	0	
+SPG	ens	0	0	
+SPGI	ens	0	0	
+SRE	ens	0	0	
+STE	ens	0	0	
+STLD	ens	0	0	
+STT	ens	0	0	
+STX	ens	0	0	
+STZ	ens	0	0	
+SW	ens	0	0	
+SWK	ens	0	0	
+SWKS	ens	0	0	
+SYF	ens	0	0	
+SYK	ens	0	0	
+SYY	ens	0	0	
+T	ens	0	0	
+TAP	ens	0	0	
+TCOM	ens	0	0	
+TDG	ens	0	0	
+TDY	ens	0	0	
+TECH	ens	0	0	
+TEL	ens	0	0	
+TEL.OL	ens	0	0	
+TER	ens	0	0	
+TFC	ens	0	0	
+TGT	ens	0	0	
+THOR.OL	ens	0	1	yahoo: quoteSummary THOR.OL: Quote not found for symbol: THOR.OL
+TJX	ens	0	0	
+TKO	ens	0	0	
+TMO	ens	0	0	
+TMUS	ens	0	0	
+TOM.OL	ens	0	0	
+TPL	ens	0	0	
+TPR	ens	0	0	
+TREL-B.ST	ens	0	0	
+TRGP	ens	0	0	
+TRMB	ens	0	0	
+TRMD	ens	0	0	
+TRMED.OL	ens	0	0	
+TROW	ens	0	0	
+TRV	ens	0	0	
+TRYG.CO	ens	0	0	
+TSCO	ens	0	0	
+TSLA	ens	0	0	
+TSN	ens	0	0	
+TT	ens	0	0	
+TTD	ens	0	0	
+TTWO	ens	0	0	
+TXN	ens	0	0	
+TXT	ens	0	0	
+TYL	ens	0	0	
+U	ens	0	0	
+UAL	ens	0	0	
+UBER	ens	0	0	
+UDR	ens	0	0	
+UHS	ens	0	0	
+ULTA	ens	0	0	
+UNH	ens	0	0	
+UNP	ens	0	0	
+UPS	ens	0	0	
+URI	ens	0	0	
+USB	ens	0	0	
+V	ens	0	0	
+VALE	ens	0	0	
+VEEV	ens	0	0	
+VICI	ens	0	0	
+VLO	ens	0	0	
+VLTO	ens	0	0	
+VMC	ens	0	0	
+VMRK	ens	0	0	
+VOD	ens	0	0	
+VRSK	ens	0	0	
+VRSN	ens	0	0	
+VRT	ens	0	0	
+VRTX	ens	0	0	
+VST	ens	0	0	
+VTR	ens	0	0	
+VTRS	ens	0	0	
+VWS.CO	ens	0	0	
+VZ	ens	0	0	
+WAB	ens	0	0	
+WAT	ens	0	0	
+WBD	ens	0	0	
+WDAY	ens	0	0	
+WDC	ens	0	0	
+WEC	ens	0	0	
+WELL	ens	0	0	
+WFC	ens	0	0	
+WM	ens	0	0	
+WMB	ens	0	0	
+WMT	ens	0	0	
+WPP	ens	0	0	
+WRB	ens	0	0	
+WSM	ens	0	0	
+WST	ens	0	0	
+WTW	ens	0	0	
+WY	ens	0	0	
+WYNN	ens	0	0	
+XEL	ens	0	0	
+XOM	ens	0	0	
+XYL	ens	0	0	
+XYZ	ens	0	0	
+YUM	ens	0	0	
+YUMC	ens	0	0	
+ZAP.OL	ens	0	0	
+ZBH	ens	0	0	
+ZBRA	ens	0	0	
+ZEAL.CO	ens	0	0	
+ZTS	ens	0	0	

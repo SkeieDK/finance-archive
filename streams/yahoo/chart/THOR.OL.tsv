@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-28T18:12:09.986Z		200	108	f0b5f9feeac9f1fc93c31b1edc03fbc1fda4acb3ec5e233ebb39d6f8b66e1769	ja	https://query1.finance.yahoo.com/v8/finance/chart/THOR.OL?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:12:11.176Z		404	108	f0b5f9feeac9f1fc93c31b1edc03fbc1fda4acb3ec5e233ebb39d6f8b66e1769	nej	https://query2.finance.yahoo.com/v8/finance/chart/THOR.OL?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722297600&period2=1790553600
+2026-09-28T18:12:11.279Z		404	108	f0b5f9feeac9f1fc93c31b1edc03fbc1fda4acb3ec5e233ebb39d6f8b66e1769	nej	https://query2.finance.yahoo.com/v8/finance/chart/THOR.OL?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443398400&period2=1790619131

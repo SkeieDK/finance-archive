@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-23T19:12:28.711Z		200	2140	0d65d3848d1d7f5414be33ab711cff6a9130d3a810ac958f5f0082ba3bc79016	ja	https://query2.finance.yahoo.com/v7/finance/quote?symbols=IG.CO
 2026-09-27T08:11:12.031Z		200	2240	4176ab1fc8d71135f825b0c56dac600f7bd7fad3e004b6d619656d8eb2f69412	ja	https://query2.finance.yahoo.com/v7/finance/quote?symbols=IG.CO
+2026-09-27T15:28:00.842Z	archive-check	200	2243	edae5b85ecc99cb3a3dd6622e6416b4ff8cc778e2b4043cf981778f63e704906	ja	https://query2.finance.yahoo.com/v7/finance/quote?symbols=IG.CO
+2026-09-27T16:54:41.186Z		200	2243	1eece6eea164657dbf78963f8147f32a73c1474b2ea6df6ae8da4639dc745656	ja	https://query2.finance.yahoo.com/v7/finance/quote?symbols=IG.CO

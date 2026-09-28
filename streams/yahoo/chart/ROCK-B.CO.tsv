@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-28T18:08:42.777Z		200	25290	cb9455b27c5dc6cad973edb317bcd01ed15fe43e0bac6425480f2afd664a6813	ja	https://query1.finance.yahoo.com/v8/finance/chart/ROCK-B.CO?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:08:51.702Z		200	12771	d645a594cf3cc8470dcf6136d73e0f9e33b9e8d9d6ddcff69a058d668cd49ec8	ja	https://query2.finance.yahoo.com/v8/finance/chart/ROCK-B.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722297600&period2=1790553600
+2026-09-28T18:08:51.874Z		200	14790	c42e5c54934e10acf48921e3d8e941c19aba5fb9e96734f7da297ba40d4affd1	ja	https://query2.finance.yahoo.com/v8/finance/chart/ROCK-B.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443398400&period2=1790618931

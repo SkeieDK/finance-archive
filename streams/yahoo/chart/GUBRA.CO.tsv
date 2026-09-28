@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T16:52:09.255Z		200	22731	fca56ed6e3cd59cc5ce8905c6cb615885007637a1cd7d37cda0e42562efd6efb	ja	https://query1.finance.yahoo.com/v8/finance/chart/GUBRA.CO?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:52:12.318Z		200	9921	75c01f6f49d842dd88255d0a6082106be318097571cad126285cf88b296f80c9	ja	https://query2.finance.yahoo.com/v8/finance/chart/GUBRA.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722211200&period2=1790467200
+2026-09-27T16:52:12.433Z		200	4549	ac4391c7375f8d89c78d794a68bf9782ac14a5806b32324a759d03a2aa5bd03b	ja	https://query2.finance.yahoo.com/v8/finance/chart/GUBRA.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443312000&period2=1790527932

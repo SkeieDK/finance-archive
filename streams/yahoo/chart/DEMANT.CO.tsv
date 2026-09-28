@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T16:44:56.578Z		200	24626	bc625e9abc050e33e152b1c15d87b11224aa250e87e1c4680edf2d3e79800da6	ja	https://query1.finance.yahoo.com/v8/finance/chart/DEMANT.CO?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:44:59.744Z		200	12008	2e8847632c7635e5e9885a9d88490f3b166d0d4807b3e400a9b2d9603e1c83d8	ja	https://query2.finance.yahoo.com/v8/finance/chart/DEMANT.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722211200&period2=1790467200
+2026-09-27T16:44:59.857Z		200	13806	287b039712e3b961aeb9582d7d5fe1322f73bfae5cfbb7b3c6929873ad077f83	ja	https://query2.finance.yahoo.com/v8/finance/chart/DEMANT.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443312000&period2=1790527499

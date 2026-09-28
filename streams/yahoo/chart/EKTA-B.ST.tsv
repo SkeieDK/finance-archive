@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T16:46:58.989Z		200	26445	0130873f824eb1ee348581941217a79dbc315df261fa2221adb8a192436b3255	ja	https://query1.finance.yahoo.com/v8/finance/chart/EKTA-B.ST?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:47:00.054Z		200	12943	cdae90cbb1595b707ad57cea42d12f866177b8f6ff69dc782034ace1ae2e6b45	ja	https://query2.finance.yahoo.com/v8/finance/chart/EKTA-B.ST?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722211200&period2=1790467200
+2026-09-27T16:47:00.253Z		200	15552	0f0cb2b8e640e356521960dadf0b3eb1d254330e946f3c7ace0ae18d1d8b3401	ja	https://query2.finance.yahoo.com/v8/finance/chart/EKTA-B.ST?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443312000&period2=1790527620

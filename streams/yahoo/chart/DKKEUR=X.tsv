@@ -1,0 +1,9 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T15:23:44.380Z	archive-check	200	30331	07d3a5ee60af36ad11717245fdb5ae87b9b360181c2c2107a58d6a664f5c92cc	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T15:24:21.502Z	archive-check	200	30331	455df9dfbd2071113d49e18a09a43fae6a3fb790b4809049d918b6ec271b5cd8	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T15:28:40.832Z	archive-check	200	30331	3ad448af5c7168d11809913fc6c0fcbc8cc05cd6d6253fba273c81ba7fdf0d06	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T15:29:39.186Z	archive-check	200	30331	1340ce3d5b52857d35a0428ba1f721bb05a9b66e308e09fcbd3e81bce4d093d9	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T17:01:50.729Z		200	30331	8c66c97e80c335e0bfbfd05f173c0cce133aac584469e6431db256b57f6c39a8	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T17:02:44.789Z		200	30331	3aee0204bdcade4cf2fd1106b7808bcce3c80e2fbbe7fbcfeed2930ab23d341a	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:08:51.282Z		200	30110	436a66bc0f08b28aeb528872f94a4d394422b48815aa2b0ea7153cb7eb271d85	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:14:52.015Z		200	30110	338cb0b662df44c0fda37d0a123a7a7acc4dbb277d920e56d66009d3d99969d7	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKEUR%3DX?interval=1d&range=1y&events=div%7Csplit

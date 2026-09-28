@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T16:40:36.339Z		200	28701	633a2b3b6db10fb33cfd152d55bf5da6aec5c38e0de01eaa147b192d2cad7254	ja	https://query1.finance.yahoo.com/v8/finance/chart/CBRE?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:40:39.180Z		200	13651	1f11036c05e365f2097cb96b58d1259fafda692bc52f2e071f0ab07c42314237	ja	https://query2.finance.yahoo.com/v8/finance/chart/CBRE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722211200&period2=1790467200
+2026-09-27T16:40:39.306Z		200	15629	80ad4223a3ea6c7dc99d360aa18a2931eb49802cd17c12ecc1f71fb9ceb668a8	ja	https://query2.finance.yahoo.com/v8/finance/chart/CBRE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443312000&period2=1790527239

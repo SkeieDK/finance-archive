@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-28T18:08:02.857Z		200	20639	b60eea34d59fb059c9fc5e1734809d8f0f0432bcfd0833ba8c85094471590853	ja	https://query1.finance.yahoo.com/v8/finance/chart/RBREW.CO?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:08:06.029Z		200	9587	bd752edc10e87d0bfd7b402f6909f45556f16e8854783312fc4d34c0b6f32eee	ja	https://query2.finance.yahoo.com/v8/finance/chart/RBREW.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722297600&period2=1790553600
+2026-09-28T18:08:06.301Z		200	13348	24ccfe1217247d37555870917c3a7bde0833308eaade1712d195971992d983c9	ja	https://query2.finance.yahoo.com/v8/finance/chart/RBREW.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443398400&period2=1790618886

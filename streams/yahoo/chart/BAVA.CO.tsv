@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T16:38:19.336Z		200	24355	4b5f1067d3cda5a9ed8e4c312bae42f8941e9fa3f48bc1769bcfff8ecf9a2ed8	ja	https://query1.finance.yahoo.com/v8/finance/chart/BAVA.CO?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:38:22.113Z		200	11822	4a1bc18dfd8325fd27042dbc4439f090827eba24cae80f18ecd3e5a441902d1e	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAVA.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722211200&period2=1790467200
+2026-09-27T16:38:22.213Z		200	14476	223924573e833f5f0870299eca2915bc3592134266a0ab4ae472fab1190098e4	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAVA.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443312000&period2=1790527102

@@ -1,0 +1,504 @@
+date	event	ticker	name	cik	subIndustry
+2026-09-27	til stede	A	Agilent Technologies	0001090872	Life Sciences Tools & Services
+2026-09-27	til stede	AAPL	Apple Inc.	0000320193	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	ABBV	AbbVie	0001551152	Biotechnology
+2026-09-27	til stede	ABNB	Airbnb	0001559720	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	ABT	Abbott Laboratories	0000001800	Health Care Equipment
+2026-09-27	til stede	ACGL	Arch Capital Group	0000947484	Property & Casualty Insurance
+2026-09-27	til stede	ACN	Accenture	0001467373	IT Consulting & Other Services
+2026-09-27	til stede	ADBE	Adobe Inc.	0000796343	Application Software
+2026-09-27	til stede	ADI	Analog Devices	0000006281	Semiconductors
+2026-09-27	til stede	ADM	Archer Daniels Midland	0000007084	Agricultural Products & Services
+2026-09-27	til stede	ADP	Automatic Data Processing	0000008670	Human Resource & Employment Services
+2026-09-27	til stede	ADSK	Autodesk	0000769397	Application Software
+2026-09-27	til stede	AEE	Ameren	0001002910	Multi-Utilities
+2026-09-27	til stede	AEP	American Electric Power	0000004904	Electric Utilities
+2026-09-27	til stede	AES	AES Corporation	0000874761	Independent Power Producers & Energy Traders
+2026-09-27	til stede	AFL	Aflac	0000004977	Life & Health Insurance
+2026-09-27	til stede	AIG	American International Group	0000005272	Multi-line Insurance
+2026-09-27	til stede	AIZ	Assurant	0001267238	Multi-line Insurance
+2026-09-27	til stede	AJG	Arthur J. Gallagher & Co.	0000354190	Insurance Brokers
+2026-09-27	til stede	AKAM	Akamai Technologies	0001086222	Internet Services & Infrastructure
+2026-09-27	til stede	ALB	Albemarle Corporation	0000915913	Specialty Chemicals
+2026-09-27	til stede	ALGN	Align Technology	0001097149	Health Care Supplies
+2026-09-27	til stede	ALL	Allstate	0000899051	Property & Casualty Insurance
+2026-09-27	til stede	ALLE	Allegion	0001579241	Building Products
+2026-09-27	til stede	AMAT	Applied Materials	0000006951	Semiconductor Materials & Equipment
+2026-09-27	til stede	AMCR	Amcor	0001748790	Paper & Plastic Packaging Products & Materials
+2026-09-27	til stede	AMD	Advanced Micro Devices	0000002488	Semiconductors
+2026-09-27	til stede	AME	Ametek	0001037868	Electrical Components & Equipment
+2026-09-27	til stede	AMGN	Amgen	0000318154	Biotechnology
+2026-09-27	til stede	AMP	Ameriprise Financial	0000820027	Asset Management & Custody Banks
+2026-09-27	til stede	AMT	American Tower	0001053507	Telecom Tower REITs
+2026-09-27	til stede	AMZN	Amazon	0001018724	Broadline Retail
+2026-09-27	til stede	ANET	Arista Networks	0001596532	Communications Equipment
+2026-09-27	til stede	AON	Aon plc	0000315293	Insurance Brokers
+2026-09-27	til stede	AOS	A. O. Smith	0000091142	Building Products
+2026-09-27	til stede	APA	APA Corporation	0001841666	Oil & Gas Exploration & Production
+2026-09-27	til stede	APD	Air Products	0000002969	Industrial Gases
+2026-09-27	til stede	APH	Amphenol	0000820313	Electronic Components
+2026-09-27	til stede	APO	Apollo Global Management	0001858681	Asset Management & Custody Banks
+2026-09-27	til stede	APP	AppLovin	0001751008	Advertising
+2026-09-27	til stede	APTV	Aptiv	0001521332	Automotive Parts & Equipment
+2026-09-27	til stede	ARE	Alexandria Real Estate Equities	0001035443	Office REITs
+2026-09-27	til stede	ARES	Ares Management	0001176948	Asset Management & Custody Banks
+2026-09-27	til stede	ATO	Atmos Energy	0000731802	Gas Utilities
+2026-09-27	til stede	AVGO	Broadcom	0001730168	Semiconductors
+2026-09-27	til stede	AVY	Avery Dennison	0000008818	Paper & Plastic Packaging Products & Materials
+2026-09-27	til stede	AWK	American Water Works	0001410636	Water Utilities
+2026-09-27	til stede	AXON	Axon Enterprise	0001069183	Aerospace & Defense
+2026-09-27	til stede	AXP	American Express	0000004962	Consumer Finance
+2026-09-27	til stede	AZO	AutoZone	0000866787	Automotive Retail
+2026-09-27	til stede	BA	Boeing	0000012927	Aerospace & Defense
+2026-09-27	til stede	BAC	Bank of America	0000070858	Diversified Banks
+2026-09-27	til stede	BALL	Ball Corporation	0000009389	Metal, Glass & Plastic Containers
+2026-09-27	til stede	BAX	Baxter International	0000010456	Health Care Equipment
+2026-09-27	til stede	BBY	Best Buy	0000764478	Computer & Electronics Retail
+2026-09-27	til stede	BDX	Becton Dickinson	0000010795	Health Care Equipment
+2026-09-27	til stede	BE	Bloom Energy	0001664703	Electrical Components & Equipment
+2026-09-27	til stede	BEN	Franklin Resources	0000038777	Asset Management & Custody Banks
+2026-09-27	til stede	BF-B	Brown–Forman	0000014693	Distillers & Vintners
+2026-09-27	til stede	BG	Bunge Global	0001996862	Agricultural Products & Services
+2026-09-27	til stede	BIIB	Biogen	0000875045	Biotechnology
+2026-09-27	til stede	BKNG	Booking Holdings	0001075531	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	BKR	Baker Hughes	0001701605	Oil & Gas Equipment & Services
+2026-09-27	til stede	BLK	BlackRock	0002012383	Asset Management & Custody Banks
+2026-09-27	til stede	BMY	Bristol Myers Squibb	0000014272	Pharmaceuticals
+2026-09-27	til stede	BNY	BNY Mellon	0001390777	Asset Management & Custody Banks
+2026-09-27	til stede	BR	Broadridge Financial Solutions	0001383312	Data Processing & Outsourced Services
+2026-09-27	til stede	BRK-B	Berkshire Hathaway	0001067983	Multi-Sector Holdings
+2026-09-27	til stede	BRO	Brown & Brown	0000079282	Insurance Brokers
+2026-09-27	til stede	BSX	Boston Scientific	0000885725	Health Care Equipment
+2026-09-27	til stede	BX	Blackstone Inc.	0001393818	Asset Management & Custody Banks
+2026-09-27	til stede	BXP	BXP, Inc.	0001037540	Office REITs
+2026-09-27	til stede	C	Citigroup	0000831001	Diversified Banks
+2026-09-27	til stede	CAH	Cardinal Health	0000721371	Health Care Distributors
+2026-09-27	til stede	CARR	Carrier Global	0001783180	Building Products
+2026-09-27	til stede	CASY	Casey's	0000726958	Food Retail
+2026-09-27	til stede	CAT	Caterpillar Inc.	0000018230	Construction Machinery & Heavy Transportation Equipment
+2026-09-27	til stede	CB	Chubb Limited	0000896159	Property & Casualty Insurance
+2026-09-27	til stede	CBOE	Cboe Global Markets	0001374310	Financial Exchanges & Data
+2026-09-27	til stede	CBRE	CBRE Group	0001138118	Real Estate Services
+2026-09-27	til stede	CCI	Crown Castle	0001051470	Telecom Tower REITs
+2026-09-27	til stede	CCL	Carnival Corporation	0000815097	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	CDNS	Cadence Design Systems	0000813672	Application Software
+2026-09-27	til stede	CDW	CDW Corporation	0001402057	Technology Distributors
+2026-09-27	til stede	CEG	Constellation Energy	0001868275	Electric Utilities
+2026-09-27	til stede	CF	CF Industries	0001324404	Fertilizers & Agricultural Chemicals
+2026-09-27	til stede	CFG	Citizens Financial Group	0000759944	Regional Banks
+2026-09-27	til stede	CHD	Church & Dwight	0000313927	Household Products
+2026-09-27	til stede	CHRW	C.H. Robinson	0001043277	Air Freight & Logistics
+2026-09-27	til stede	CHTR	Charter Communications	0001091667	Cable & Satellite
+2026-09-27	til stede	CI	Cigna	0001739940	Health Care Services
+2026-09-27	til stede	CIEN	Ciena	0000936395	Communications Equipment
+2026-09-27	til stede	CINF	Cincinnati Financial	0000020286	Property & Casualty Insurance
+2026-09-27	til stede	CL	Colgate-Palmolive	0000021665	Household Products
+2026-09-27	til stede	CLX	Clorox	0000021076	Household Products
+2026-09-27	til stede	CMCSA	Comcast	0001166691	Cable & Satellite
+2026-09-27	til stede	CME	CME Group	0001156375	Financial Exchanges & Data
+2026-09-27	til stede	CMG	Chipotle Mexican Grill	0001058090	Restaurants
+2026-09-27	til stede	CMI	Cummins	0000026172	Construction Machinery & Heavy Transportation Equipment
+2026-09-27	til stede	CMS	CMS Energy	0000811156	Multi-Utilities
+2026-09-27	til stede	CNC	Centene Corporation	0001071739	Managed Health Care
+2026-09-27	til stede	CNP	CenterPoint Energy	0001130310	Multi-Utilities
+2026-09-27	til stede	COF	Capital One	0000927628	Consumer Finance
+2026-09-27	til stede	COHR	Coherent Corp.	0000820318	Electronic Components
+2026-09-27	til stede	COIN	Coinbase	0001679788	Financial Exchanges & Data
+2026-09-27	til stede	COO	Cooper Companies (The)	0000711404	Health Care Supplies
+2026-09-27	til stede	COP	ConocoPhillips	0001163165	Oil & Gas Exploration & Production
+2026-09-27	til stede	COR	Cencora	0001140859	Health Care Distributors
+2026-09-27	til stede	COST	Costco	0000909832	Consumer Staples Merchandise Retail
+2026-09-27	til stede	CPAY	Corpay	0001175454	Transaction & Payment Processing Services
+2026-09-27	til stede	CPRT	Copart	0000900075	Diversified Support Services
+2026-09-27	til stede	CPT	Camden Property Trust	0000906345	Multi-Family Residential REITs
+2026-09-27	til stede	CRH	CRH plc	0000849395	Construction Materials
+2026-09-27	til stede	CRL	Charles River Laboratories	0001100682	Life Sciences Tools & Services
+2026-09-27	til stede	CRM	Salesforce	0001108524	Application Software
+2026-09-27	til stede	CRWD	CrowdStrike	0001535527	Systems Software
+2026-09-27	til stede	CSCO	Cisco	0000858877	Communications Equipment
+2026-09-27	til stede	CSGP	CoStar Group	0001057352	Real Estate Services
+2026-09-27	til stede	CSX	CSX Corporation	0000277948	Rail Transportation
+2026-09-27	til stede	CTAS	Cintas	0000723254	Diversified Support Services
+2026-09-27	til stede	CTSH	Cognizant	0001058290	IT Consulting & Other Services
+2026-09-27	til stede	CTVA	Corteva	0001755672	Fertilizers & Agricultural Chemicals
+2026-09-27	til stede	CVNA	Carvana	0001690820	Automotive Retail
+2026-09-27	til stede	CVS	CVS Health	0000064803	Health Care Services
+2026-09-27	til stede	CVX	Chevron Corporation	0000093410	Integrated Oil & Gas
+2026-09-27	til stede	D	Dominion Energy	0000715957	Multi-Utilities
+2026-09-27	til stede	DAL	Delta Air Lines	0000027904	Passenger Airlines
+2026-09-27	til stede	DASH	DoorDash	0001792789	Specialized Consumer Services
+2026-09-27	til stede	DD	DuPont	0001666700	Industrial Conglomerates
+2026-09-27	til stede	DDOG	Datadog	0001561550	Application Software
+2026-09-27	til stede	DE	Deere & Company	0000315189	Agricultural & Farm Machinery
+2026-09-27	til stede	DECK	Deckers Brands	0000910521	Footwear
+2026-09-27	til stede	DELL	Dell Technologies	0001571996	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	DG	Dollar General	0000029534	Consumer Staples Merchandise Retail
+2026-09-27	til stede	DGX	Quest Diagnostics	0001022079	Health Care Services
+2026-09-27	til stede	DHI	D. R. Horton	0000882184	Homebuilding
+2026-09-27	til stede	DHR	Danaher Corporation	0000313616	Life Sciences Tools & Services
+2026-09-27	til stede	DIS	Walt Disney Company (The)	0001744489	Movies & Entertainment
+2026-09-27	til stede	DLR	Digital Realty	0001297996	Data Center REITs
+2026-09-27	til stede	DLTR	Dollar Tree	0000935703	Consumer Staples Merchandise Retail
+2026-09-27	til stede	DOC	Healthpeak Properties	0000765880	Health Care REITs
+2026-09-27	til stede	DOV	Dover Corporation	0000029905	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	DOW	Dow Inc.	0001751788	Commodity Chemicals
+2026-09-27	til stede	DPZ	Domino's	0001286681	Restaurants
+2026-09-27	til stede	DRI	Darden Restaurants	0000940944	Restaurants
+2026-09-27	til stede	DTE	DTE Energy	0000936340	Multi-Utilities
+2026-09-27	til stede	DUK	Duke Energy	0001326160	Electric Utilities
+2026-09-27	til stede	DVA	DaVita	0000927066	Health Care Services
+2026-09-27	til stede	DVN	Devon Energy	0001090012	Oil & Gas Exploration & Production
+2026-09-27	til stede	DXCM	Dexcom	0001093557	Health Care Equipment
+2026-09-27	til stede	EBAY	eBay Inc.	0001065088	Broadline Retail
+2026-09-27	til stede	ECHO	EchoStar	0001415404	Wireless Telecommunication Services
+2026-09-27	til stede	ECL	Ecolab	0000031462	Specialty Chemicals
+2026-09-27	til stede	ED	Consolidated Edison	0001047862	Multi-Utilities
+2026-09-27	til stede	EFX	Equifax	0000033185	Research & Consulting Services
+2026-09-27	til stede	EG	Everest Group	0001095073	Reinsurance
+2026-09-27	til stede	EIX	Edison International	0000827052	Electric Utilities
+2026-09-27	til stede	EL	Estée Lauder Companies (The)	0001001250	Personal Care Products
+2026-09-27	til stede	ELV	Elevance Health	0001156039	Managed Health Care
+2026-09-27	til stede	EME	Emcor	0000105634	Construction & Engineering
+2026-09-27	til stede	EMR	Emerson Electric	0000032604	Electrical Components & Equipment
+2026-09-27	til stede	EOG	EOG Resources	0000821189	Oil & Gas Exploration & Production
+2026-09-27	til stede	EQIX	Equinix	0001101239	Data Center REITs
+2026-09-27	til stede	EQT	EQT Corporation	0000033213	Oil & Gas Exploration & Production
+2026-09-27	til stede	ERIE	Erie Indemnity	0000922621	Insurance Brokers
+2026-09-27	til stede	ES	Eversource Energy	0000072741	Electric Utilities
+2026-09-27	til stede	ESS	Essex Property Trust	0000920522	Multi-Family Residential REITs
+2026-09-27	til stede	ETN	Eaton Corporation	0001551182	Electrical Components & Equipment
+2026-09-27	til stede	ETR	Entergy	0000065984	Electric Utilities
+2026-09-27	til stede	EVRG	Evergy	0001711269	Electric Utilities
+2026-09-27	til stede	EW	Edwards Lifesciences	0001099800	Health Care Equipment
+2026-09-27	til stede	EXC	Exelon	0001109357	Electric Utilities
+2026-09-27	til stede	EXE	Expand Energy	0000895126	Oil & Gas Exploration & Production
+2026-09-27	til stede	EXPD	Expeditors International	0000746515	Air Freight & Logistics
+2026-09-27	til stede	EXPE	Expedia Group	0001324424	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	EXR	Extra Space Storage	0001289490	Self-Storage REITs
+2026-09-27	til stede	F	Ford Motor Company	0000037996	Automobile Manufacturers
+2026-09-27	til stede	FANG	Diamondback Energy	0001539838	Oil & Gas Exploration & Production
+2026-09-27	til stede	FAST	Fastenal	0000815556	Trading Companies & Distributors
+2026-09-27	til stede	FCX	Freeport-McMoRan	0000831259	Copper
+2026-09-27	til stede	FDS	FactSet	0001013237	Financial Exchanges & Data
+2026-09-27	til stede	FDX	FedEx	0001048911	Air Freight & Logistics
+2026-09-27	til stede	FDXF	FedEx Freight	0002082247	Cargo Ground Transportation
+2026-09-27	til stede	FE	FirstEnergy	0001031296	Electric Utilities
+2026-09-27	til stede	FERG	Ferguson Enterprises	0002011641	Trading Companies & Distributors
+2026-09-27	til stede	FFIV	F5, Inc.	0001048695	Communications Equipment
+2026-09-27	til stede	FICO	Fair Isaac	0000814547	Application Software
+2026-09-27	til stede	FIS	Fidelity National Information Services	0001136893	Transaction & Payment Processing Services
+2026-09-27	til stede	FISV	Fiserv	0000798354	Transaction & Payment Processing Services
+2026-09-27	til stede	FITB	Fifth Third Bancorp	0000035527	Regional Banks
+2026-09-27	til stede	FIX	Comfort Systems USA	0001035983	Construction & Engineering
+2026-09-27	til stede	FLEX	Flex Ltd.	0000866374	Electronic Manufacturing Services
+2026-09-27	til stede	FOX	Fox Corporation (Class B)	0001754301	Broadcasting
+2026-09-27	til stede	FOXA	Fox Corporation (Class A)	0001754301	Broadcasting
+2026-09-27	til stede	FRT	Federal Realty Investment Trust	0000034903	Retail REITs
+2026-09-27	til stede	FSLR	First Solar	0001274494	Semiconductors
+2026-09-27	til stede	FTNT	Fortinet	0001262039	Systems Software
+2026-09-27	til stede	FTV	Fortive	0001659166	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	GD	General Dynamics	0000040533	Aerospace & Defense
+2026-09-27	til stede	GDDY	GoDaddy	0001609711	Internet Services & Infrastructure
+2026-09-27	til stede	GE	GE Aerospace	0000040545	Aerospace & Defense
+2026-09-27	til stede	GEHC	GE HealthCare	0001932393	Health Care Equipment
+2026-09-27	til stede	GEN	Gen Digital	0000849399	Systems Software
+2026-09-27	til stede	GEV	GE Vernova	0001996810	Heavy Electrical Equipment
+2026-09-27	til stede	GILD	Gilead Sciences	0000882095	Biotechnology
+2026-09-27	til stede	GIS	General Mills	0000040704	Packaged Foods & Meats
+2026-09-27	til stede	GL	Globe Life	0000320335	Life & Health Insurance
+2026-09-27	til stede	GLW	Corning Inc.	0000024741	Electronic Components
+2026-09-27	til stede	GM	General Motors	0001467858	Automobile Manufacturers
+2026-09-27	til stede	GNRC	Generac	0001474735	Heavy Electrical Equipment
+2026-09-27	til stede	GOOG	Alphabet Inc. (Class C)	0001652044	Interactive Media & Services
+2026-09-27	til stede	GOOGL	Alphabet Inc. (Class A)	0001652044	Interactive Media & Services
+2026-09-27	til stede	GPC	Genuine Parts Company	0000040987	Distributors
+2026-09-27	til stede	GPN	Global Payments	0001123360	Transaction & Payment Processing Services
+2026-09-27	til stede	GRMN	Garmin	0001121788	Consumer Electronics
+2026-09-27	til stede	GS	Goldman Sachs	0000886982	Investment Banking & Brokerage
+2026-09-27	til stede	GWW	W. W. Grainger	0000277135	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	HAL	Halliburton	0000045012	Oil & Gas Equipment & Services
+2026-09-27	til stede	HAS	Hasbro	0000046080	Leisure Products
+2026-09-27	til stede	HBAN	Huntington Bancshares	0000049196	Regional Banks
+2026-09-27	til stede	HCA	HCA Healthcare	0000860730	Health Care Facilities
+2026-09-27	til stede	HD	Home Depot (The)	0000354950	Home Improvement Retail
+2026-09-27	til stede	HIG	Hartford (The)	0000874766	Property & Casualty Insurance
+2026-09-27	til stede	HII	Huntington Ingalls Industries	0001501585	Aerospace & Defense
+2026-09-27	til stede	HLT	Hilton Worldwide	0001585689	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	HON	Honeywell Technologies	0000773840	Industrial Conglomerates
+2026-09-27	til stede	HONA	Honeywell Aerospace	0002089271	Aerospace & Defense
+2026-09-27	til stede	HOOD	Robinhood Markets	0001783879	Investment Banking & Brokerage
+2026-09-27	til stede	HPE	Hewlett Packard Enterprise	0001645590	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	HPQ	HP Inc.	0000047217	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	HRL	Hormel Foods	0000048465	Packaged Foods & Meats
+2026-09-27	til stede	HSIC	Henry Schein	0001000228	Health Care Distributors
+2026-09-27	til stede	HST	Host Hotels & Resorts	0001070750	Hotel & Resort REITs
+2026-09-27	til stede	HSY	Hershey Company (The)	0000047111	Packaged Foods & Meats
+2026-09-27	til stede	HUBB	Hubbell Incorporated	0000048898	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	HUM	Humana	0000049071	Managed Health Care
+2026-09-27	til stede	HWM	Howmet Aerospace	0000004281	Aerospace & Defense
+2026-09-27	til stede	IBKR	Interactive Brokers	0001381197	Investment Banking & Brokerage
+2026-09-27	til stede	IBM	IBM	0000051143	IT Consulting & Other Services
+2026-09-27	til stede	ICE	Intercontinental Exchange	0001571949	Financial Exchanges & Data
+2026-09-27	til stede	IDXX	Idexx Laboratories	0000874716	Health Care Equipment
+2026-09-27	til stede	IEX	IDEX Corporation	0000832101	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	IFF	International Flavors & Fragrances	0000051253	Specialty Chemicals
+2026-09-27	til stede	ILMN	Illumina, Inc.	0001110803	Life Sciences Tools & Services
+2026-09-27	til stede	INCY	Incyte	0000879169	Biotechnology
+2026-09-27	til stede	INTC	Intel	0000050863	Semiconductors
+2026-09-27	til stede	INTU	Intuit	0000896878	Application Software
+2026-09-27	til stede	INVH	Invitation Homes	0001687229	Single-Family Residential REITs
+2026-09-27	til stede	IP	International Paper	0000051434	Paper & Plastic Packaging Products & Materials
+2026-09-27	til stede	IQV	IQVIA	0001478242	Life Sciences Tools & Services
+2026-09-27	til stede	IR	Ingersoll Rand	0001699150	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	IRM	Iron Mountain	0001020569	Other Specialized REITs
+2026-09-27	til stede	ISRG	Intuitive Surgical	0001035267	Health Care Equipment
+2026-09-27	til stede	IT	Gartner	0000749251	IT Consulting & Other Services
+2026-09-27	til stede	ITW	Illinois Tool Works	0000049826	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	IVZ	Invesco	0000914208	Asset Management & Custody Banks
+2026-09-27	til stede	J	Jacobs Solutions	0000052988	Construction & Engineering
+2026-09-27	til stede	JBHT	J.B. Hunt	0000728535	Cargo Ground Transportation
+2026-09-27	til stede	JBL	Jabil	0000898293	Electronic Manufacturing Services
+2026-09-27	til stede	JCI	Johnson Controls	0000833444	Building Products
+2026-09-27	til stede	JKHY	Jack Henry & Associates	0000779152	Transaction & Payment Processing Services
+2026-09-27	til stede	JNJ	Johnson & Johnson	0000200406	Pharmaceuticals
+2026-09-27	til stede	JPM	JPMorgan Chase	0000019617	Diversified Banks
+2026-09-27	til stede	KDP	Keurig Dr Pepper	0001418135	Soft Drinks & Non-alcoholic Beverages
+2026-09-27	til stede	KEY	KeyCorp	0000091576	Regional Banks
+2026-09-27	til stede	KEYS	Keysight Technologies	0001601046	Electronic Equipment & Instruments
+2026-09-27	til stede	KHC	Kraft Heinz	0001637459	Packaged Foods & Meats
+2026-09-27	til stede	KIM	Kimco Realty	0000879101	Retail REITs
+2026-09-27	til stede	KKR	KKR & Co.	0001404912	Asset Management & Custody Banks
+2026-09-27	til stede	KLAC	KLA Corporation	0000319201	Semiconductor Materials & Equipment
+2026-09-27	til stede	KMB	Kimberly-Clark	0000055785	Household Products
+2026-09-27	til stede	KMI	Kinder Morgan	0001506307	Oil & Gas Storage & Transportation
+2026-09-27	til stede	KO	Coca-Cola Company (The)	0000021344	Soft Drinks & Non-alcoholic Beverages
+2026-09-27	til stede	KR	Kroger	0000056873	Food Retail
+2026-09-27	til stede	KVUE	Kenvue	0001944048	Personal Care Products
+2026-09-27	til stede	L	Loews Corporation	0000060086	Multi-line Insurance
+2026-09-27	til stede	LDOS	Leidos	0001336920	Diversified Support Services
+2026-09-27	til stede	LEN	Lennar	0000920760	Homebuilding
+2026-09-27	til stede	LH	Labcorp	0000920148	Health Care Services
+2026-09-27	til stede	LHX	L3Harris	0000202058	Aerospace & Defense
+2026-09-27	til stede	LII	Lennox International	0001069202	Building Products
+2026-09-27	til stede	LIN	Linde plc	0001707925	Industrial Gases
+2026-09-27	til stede	LITE	Lumentum	0001633978	Communications Equipment
+2026-09-27	til stede	LLY	Lilly (Eli)	0000059478	Pharmaceuticals
+2026-09-27	til stede	LMT	Lockheed Martin	0000936468	Aerospace & Defense
+2026-09-27	til stede	LNT	Alliant Energy	0000352541	Electric Utilities
+2026-09-27	til stede	LOW	Lowe's	0000060667	Home Improvement Retail
+2026-09-27	til stede	LRCX	Lam Research	0000707549	Semiconductor Materials & Equipment
+2026-09-27	til stede	LULU	Lululemon Athletica	0001397187	Apparel, Accessories & Luxury Goods
+2026-09-27	til stede	LUV	Southwest Airlines	0000092380	Passenger Airlines
+2026-09-27	til stede	LVS	Las Vegas Sands	0001300514	Casinos & Gaming
+2026-09-27	til stede	LYB	LyondellBasell	0001489393	Specialty Chemicals
+2026-09-27	til stede	LYV	Live Nation Entertainment	0001335258	Movies & Entertainment
+2026-09-27	til stede	MA	Mastercard	0001141391	Transaction & Payment Processing Services
+2026-09-27	til stede	MAA	Mid-America Apartment Communities	0000912595	Multi-Family Residential REITs
+2026-09-27	til stede	MAR	Marriott International	0001048286	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	MAS	Masco	0000062996	Building Products
+2026-09-27	til stede	MCD	McDonald's	0000063908	Restaurants
+2026-09-27	til stede	MCHP	Microchip Technology	0000827054	Semiconductors
+2026-09-27	til stede	MCK	McKesson Corporation	0000927653	Health Care Distributors
+2026-09-27	til stede	MCO	Moody's Corporation	0001059556	Financial Exchanges & Data
+2026-09-27	til stede	MDLZ	Mondelez International	0001103982	Packaged Foods & Meats
+2026-09-27	til stede	MDT	Medtronic	0001613103	Health Care Equipment
+2026-09-27	til stede	MET	MetLife	0001099219	Life & Health Insurance
+2026-09-27	til stede	META	Meta Platforms	0001326801	Interactive Media & Services
+2026-09-27	til stede	MGM	MGM Resorts	0000789570	Casinos & Gaming
+2026-09-27	til stede	MKC	McCormick & Company	0000063754	Packaged Foods & Meats
+2026-09-27	til stede	MLM	Martin Marietta Materials	0000916076	Construction Materials
+2026-09-27	til stede	MMM	3M	0000066740	Industrial Conglomerates
+2026-09-27	til stede	MNST	Monster Beverage	0000865752	Soft Drinks & Non-alcoholic Beverages
+2026-09-27	til stede	MO	Altria	0000764180	Tobacco
+2026-09-27	til stede	MOS	Mosaic Company (The)	0001285785	Fertilizers & Agricultural Chemicals
+2026-09-27	til stede	MPC	Marathon Petroleum	0001510295	Oil & Gas Refining & Marketing
+2026-09-27	til stede	MPWR	Monolithic Power Systems	0001280452	Semiconductors
+2026-09-27	til stede	MRK	Merck & Co.	0000310158	Pharmaceuticals
+2026-09-27	til stede	MRNA	Moderna	0001682852	Biotechnology
+2026-09-27	til stede	MRSH	Marsh McLennan	0000062709	Insurance Brokers
+2026-09-27	til stede	MRVL	Marvell Technology	0001835632	Semiconductors
+2026-09-27	til stede	MS	Morgan Stanley	0000895421	Investment Banking & Brokerage
+2026-09-27	til stede	MSCI	MSCI	0001408198	Financial Exchanges & Data
+2026-09-27	til stede	MSFT	Microsoft	0000789019	Systems Software
+2026-09-27	til stede	MSI	Motorola Solutions	0000068505	Communications Equipment
+2026-09-27	til stede	MTB	M&T Bank	0000036270	Regional Banks
+2026-09-27	til stede	MTD	Mettler Toledo	0001037646	Life Sciences Tools & Services
+2026-09-27	til stede	MU	Micron Technology	0000723125	Semiconductors
+2026-09-27	til stede	NCLH	Norwegian Cruise Line Holdings	0001513761	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	NDAQ	Nasdaq, Inc.	0001120193	Financial Exchanges & Data
+2026-09-27	til stede	NDSN	Nordson Corporation	0000072331	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	NEE	NextEra Energy	0000753308	Multi-Utilities
+2026-09-27	til stede	NEM	Newmont	0001164727	Gold
+2026-09-27	til stede	NFLX	Netflix	0001065280	Movies & Entertainment
+2026-09-27	til stede	NI	NiSource	0001111711	Multi-Utilities
+2026-09-27	til stede	NKE	Nike, Inc.	0000320187	Apparel, Accessories & Luxury Goods
+2026-09-27	til stede	NOC	Northrop Grumman	0001133421	Aerospace & Defense
+2026-09-27	til stede	NOW	ServiceNow	0001373715	Systems Software
+2026-09-27	til stede	NRG	NRG Energy	0001013871	Independent Power Producers & Energy Traders
+2026-09-27	til stede	NSC	Norfolk Southern	0000702165	Rail Transportation
+2026-09-27	til stede	NTAP	NetApp	0001002047	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	NTRS	Northern Trust	0000073124	Asset Management & Custody Banks
+2026-09-27	til stede	NUE	Nucor	0000073309	Steel
+2026-09-27	til stede	NVDA	Nvidia	0001045810	Semiconductors
+2026-09-27	til stede	NVR	NVR, Inc.	0000906163	Homebuilding
+2026-09-27	til stede	NWS	News Corp (Class B)	0001564708	Publishing
+2026-09-27	til stede	NWSA	News Corp (Class A)	0001564708	Publishing
+2026-09-27	til stede	NXPI	NXP Semiconductors	0001413447	Semiconductors
+2026-09-27	til stede	O	Realty Income	0000726728	Retail REITs
+2026-09-27	til stede	ODFL	Old Dominion	0000878927	Cargo Ground Transportation
+2026-09-27	til stede	OKE	Oneok	0001039684	Oil & Gas Storage & Transportation
+2026-09-27	til stede	OMC	Omnicom Group	0000029989	Advertising
+2026-09-27	til stede	ON	ON Semiconductor	0001097864	Semiconductors
+2026-09-27	til stede	ORCL	Oracle Corporation	0001341439	Application Software
+2026-09-27	til stede	ORLY	O'Reilly Automotive	0000898173	Automotive Retail
+2026-09-27	til stede	OTIS	Otis Worldwide	0001781335	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	OXY	Occidental Petroleum	0000797468	Oil & Gas Exploration & Production
+2026-09-27	til stede	P	Everpure	0001474432	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	PANW	Palo Alto Networks	0001327567	Systems Software
+2026-09-27	til stede	PAYX	Paychex	0000723531	Human Resource & Employment Services
+2026-09-27	til stede	PCAR	Paccar	0000075362	Construction Machinery & Heavy Transportation Equipment
+2026-09-27	til stede	PCG	PG&E Corporation	0001004980	Multi-Utilities
+2026-09-27	til stede	PEG	Public Service Enterprise Group	0000788784	Electric Utilities
+2026-09-27	til stede	PEP	PepsiCo	0000077476	Soft Drinks & Non-alcoholic Beverages
+2026-09-27	til stede	PFE	Pfizer	0000078003	Pharmaceuticals
+2026-09-27	til stede	PFG	Principal Financial Group	0001126328	Life & Health Insurance
+2026-09-27	til stede	PG	Procter & Gamble	0000080424	Personal Care Products
+2026-09-27	til stede	PGR	Progressive Corporation	0000080661	Property & Casualty Insurance
+2026-09-27	til stede	PH	Parker Hannifin	0000076334	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	PHM	PulteGroup	0000822416	Homebuilding
+2026-09-27	til stede	PKG	Packaging Corporation of America	0000075677	Paper & Plastic Packaging Products & Materials
+2026-09-27	til stede	PLD	Prologis	0001045609	Industrial REITs
+2026-09-27	til stede	PLTR	Palantir Technologies	0001321655	Application Software
+2026-09-27	til stede	PM	Philip Morris International	0001413329	Tobacco
+2026-09-27	til stede	PNC	PNC Financial Services	0000713676	Diversified Banks
+2026-09-27	til stede	PNR	Pentair	0000077360	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	PNW	Pinnacle West Capital	0000764622	Multi-Utilities
+2026-09-27	til stede	PODD	Insulet Corporation	0001145197	Health Care Equipment
+2026-09-27	til stede	PPG	PPG Industries	0000079879	Specialty Chemicals
+2026-09-27	til stede	PPL	PPL Corporation	0000922224	Electric Utilities
+2026-09-27	til stede	PRU	Prudential Financial	0001137774	Life & Health Insurance
+2026-09-27	til stede	PSA	Public Storage	0001393311	Self-Storage REITs
+2026-09-27	til stede	PSKY	Paramount Skydance Corporation	0002041610	Movies & Entertainment
+2026-09-27	til stede	PSX	Phillips 66	0001534701	Oil & Gas Refining & Marketing
+2026-09-27	til stede	PTC	PTC Inc.	0000857005	Application Software
+2026-09-27	til stede	PWR	Quanta Services	0001050915	Construction & Engineering
+2026-09-27	til stede	PYPL	PayPal	0001633917	Transaction & Payment Processing Services
+2026-09-27	til stede	Q	Qnity Electronics	0002058873	Semiconductor Materials & Equipment
+2026-09-27	til stede	QCOM	Qualcomm	0000804328	Semiconductors
+2026-09-27	til stede	RCL	Royal Caribbean Group	0000884887	Hotels, Resorts & Cruise Lines
+2026-09-27	til stede	RDDT	Reddit	0001713445	Interactive Media & Services
+2026-09-27	til stede	REG	Regency Centers	0000910606	Retail REITs
+2026-09-27	til stede	REGN	Regeneron Pharmaceuticals	0000872589	Biotechnology
+2026-09-27	til stede	RF	Regions Financial Corporation	0001281761	Regional Banks
+2026-09-27	til stede	RJF	Raymond James Financial	0000720005	Investment Banking & Brokerage
+2026-09-27	til stede	RL	Ralph Lauren Corporation	0001037038	Apparel, Accessories & Luxury Goods
+2026-09-27	til stede	RMD	ResMed|	0000943819	Health Care Equipment
+2026-09-27	til stede	ROK	Rockwell Automation	0001024478	Electrical Components & Equipment
+2026-09-27	til stede	ROL	Rollins, Inc.	0000084839	Environmental & Facilities Services
+2026-09-27	til stede	ROP	Roper Technologies	0000882835	Electronic Equipment & Instruments
+2026-09-27	til stede	ROST	Ross Stores	0000745732	Apparel Retail
+2026-09-27	til stede	RSG	Republic Services	0001060391	Environmental & Facilities Services
+2026-09-27	til stede	RTX	RTX Corporation	0000101829	Aerospace & Defense
+2026-09-27	til stede	RVTY	Revvity	0000031791	Health Care Equipment
+2026-09-27	til stede	SBAC	SBA Communications	0001034054	Telecom Tower REITs
+2026-09-27	til stede	SBUX	Starbucks	0000829224	Restaurants
+2026-09-27	til stede	SCHW	Charles Schwab Corporation	0000316709	Investment Banking & Brokerage
+2026-09-27	til stede	SHW	Sherwin-Williams	0000089800	Specialty Chemicals
+2026-09-27	til stede	SJM	J.M. Smucker Company (The)	0000091419	Packaged Foods & Meats
+2026-09-27	til stede	SLB	Schlumberger	0000087347	Oil & Gas Equipment & Services
+2026-09-27	til stede	SMCI	Supermicro	0001375365	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	SNA	Snap-on	0000091440	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	SNDK	Sandisk	0002023554	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	SNPS	Synopsys	0000883241	Application Software
+2026-09-27	til stede	SO	Southern Company	0000092122	Electric Utilities
+2026-09-27	til stede	SOLV	Solventum	0001964738	Health Care Technology
+2026-09-27	til stede	SPG	Simon Property Group	0001063761	Retail REITs
+2026-09-27	til stede	SPGI	S&P Global	0000064040	Financial Exchanges & Data
+2026-09-27	til stede	SRE	Sempra	0001032208	Multi-Utilities
+2026-09-27	til stede	STE	Steris	0001757898	Health Care Equipment
+2026-09-27	til stede	STLD	Steel Dynamics	0001022671	Steel
+2026-09-27	til stede	STT	State Street Corporation	0000093751	Asset Management & Custody Banks
+2026-09-27	til stede	STX	Seagate Technology	0001137789	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	STZ	Constellation Brands	0000016918	Distillers & Vintners
+2026-09-27	til stede	SW	Smurfit Westrock	0002005951	Paper & Plastic Packaging Products & Materials
+2026-09-27	til stede	SWK	Stanley Black & Decker	0000093556	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	SWKS	Skyworks Solutions	0000004127	Semiconductors
+2026-09-27	til stede	SYF	Synchrony Financial	0001601712	Consumer Finance
+2026-09-27	til stede	SYK	Stryker Corporation	0000310764	Health Care Equipment
+2026-09-27	til stede	SYY	Sysco	0000096021	Food Distributors
+2026-09-27	til stede	T	AT&T	0000732717	Integrated Telecommunication Services
+2026-09-27	til stede	TDG	TransDigm Group	0001260221	Aerospace & Defense
+2026-09-27	til stede	TDY	Teledyne Technologies	0001094285	Electronic Equipment & Instruments
+2026-09-27	til stede	TECH	Bio-Techne	0000842023	Life Sciences Tools & Services
+2026-09-27	til stede	TEL	TE Connectivity	0001385157	Electronic Manufacturing Services
+2026-09-27	til stede	TER	Teradyne	0000097210	Semiconductor Materials & Equipment
+2026-09-27	til stede	TFC	Truist Financial	0000092230	Diversified Banks
+2026-09-27	til stede	TGT	Target Corporation	0000027419	Consumer Staples Merchandise Retail
+2026-09-27	til stede	TJX	TJX Companies	0000109198	Apparel Retail
+2026-09-27	til stede	TKO	TKO Group Holdings	0001973266	Movies & Entertainment
+2026-09-27	til stede	TMO	Thermo Fisher Scientific	0000097745	Life Sciences Tools & Services
+2026-09-27	til stede	TMUS	T-Mobile US	0001283699	Wireless Telecommunication Services
+2026-09-27	til stede	TPL	Texas Pacific Land Corporation	0001811074	Oil & Gas Exploration & Production
+2026-09-27	til stede	TPR	Tapestry, Inc.	0001116132	Apparel, Accessories & Luxury Goods
+2026-09-27	til stede	TRGP	Targa Resources	0001389170	Oil & Gas Storage & Transportation
+2026-09-27	til stede	TRMB	Trimble Inc.	0000864749	Application Software
+2026-09-27	til stede	TROW	T. Rowe Price	0001113169	Asset Management & Custody Banks
+2026-09-27	til stede	TRV	Travelers Companies (The)	0000086312	Property & Casualty Insurance
+2026-09-27	til stede	TSCO	Tractor Supply	0000916365	Other Specialty Retail
+2026-09-27	til stede	TSLA	Tesla, Inc.	0001318605	Automobile Manufacturers
+2026-09-27	til stede	TSN	Tyson Foods	0000100493	Packaged Foods & Meats
+2026-09-27	til stede	TT	Trane Technologies	0001466258	Building Products
+2026-09-27	til stede	TTWO	Take-Two Interactive	0000946581	Interactive Home Entertainment
+2026-09-27	til stede	TXN	Texas Instruments	0000097476	Semiconductors
+2026-09-27	til stede	TXT	Textron	0000217346	Aerospace & Defense
+2026-09-27	til stede	TYL	Tyler Technologies	0000860731	Application Software
+2026-09-27	til stede	UAL	United Airlines Holdings	0000100517	Passenger Airlines
+2026-09-27	til stede	UBER	Uber	0001543151	Passenger Ground Transportation
+2026-09-27	til stede	UDR	UDR, Inc.	0000074208	Multi-Family Residential REITs
+2026-09-27	til stede	UHS	Universal Health Services	0000352915	Health Care Facilities
+2026-09-27	til stede	ULTA	Ulta Beauty	0001403568	Other Specialty Retail
+2026-09-27	til stede	UNH	UnitedHealth Group	0000731766	Managed Health Care
+2026-09-27	til stede	UNP	Union Pacific Corporation	0000100885	Rail Transportation
+2026-09-27	til stede	UPS	United Parcel Service	0001090727	Air Freight & Logistics
+2026-09-27	til stede	URI	United Rentals	0001067701	Trading Companies & Distributors
+2026-09-27	til stede	USB	U.S. Bancorp	0000036104	Diversified Banks
+2026-09-27	til stede	V	Visa Inc.	0001403161	Transaction & Payment Processing Services
+2026-09-27	til stede	VEEV	Veeva Systems	0001393052	Health Care Technology
+2026-09-27	til stede	VICI	Vici Properties	0001705696	Hotel & Resort REITs
+2026-09-27	til stede	VLO	Valero Energy	0001035002	Oil & Gas Refining & Marketing
+2026-09-27	til stede	VLTO	Veralto	0001967680	Environmental & Facilities Services
+2026-09-27	til stede	VMC	Vulcan Materials Company	0001396009	Construction Materials
+2026-09-27	til stede	VMRK	Vivmark Residential	0000906107	Multi-Family Residential REITs
+2026-09-27	til stede	VRSK	Verisk Analytics	0001442145	Research & Consulting Services
+2026-09-27	til stede	VRSN	Verisign	0001014473	Internet Services & Infrastructure
+2026-09-27	til stede	VRT	Vertiv	0001674101	Electrical Components & Equipment
+2026-09-27	til stede	VRTX	Vertex Pharmaceuticals	0000875320	Biotechnology
+2026-09-27	til stede	VST	Vistra Corp.	0001692819	Electric Utilities
+2026-09-27	til stede	VTR	Ventas	0000740260	Health Care REITs
+2026-09-27	til stede	VTRS	Viatris	0001792044	Pharmaceuticals
+2026-09-27	til stede	VZ	Verizon	0000732712	Integrated Telecommunication Services
+2026-09-27	til stede	WAB	Wabtec	0000943452	Construction Machinery & Heavy Transportation Equipment
+2026-09-27	til stede	WAT	Waters Corporation	0001000697	Life Sciences Tools & Services
+2026-09-27	til stede	WBD	Warner Bros. Discovery	0001437107	Broadcasting
+2026-09-27	til stede	WDAY	Workday, Inc.	0001327811	Application Software
+2026-09-27	til stede	WDC	Western Digital	0000106040	Technology Hardware, Storage & Peripherals
+2026-09-27	til stede	WEC	WEC Energy Group	0000783325	Electric Utilities
+2026-09-27	til stede	WELL	Welltower	0000766704	Health Care REITs
+2026-09-27	til stede	WFC	Wells Fargo	0000072971	Diversified Banks
+2026-09-27	til stede	WM	Waste Management	0000823768	Environmental & Facilities Services
+2026-09-27	til stede	WMB	Williams Companies	0000107263	Oil & Gas Storage & Transportation
+2026-09-27	til stede	WMT	Walmart	0000104169	Consumer Staples Merchandise Retail
+2026-09-27	til stede	WRB	W. R. Berkley Corporation	0000011544	Property & Casualty Insurance
+2026-09-27	til stede	WSM	Williams-Sonoma, Inc.	0000719955	Homefurnishing Retail
+2026-09-27	til stede	WST	West Pharmaceutical Services	0000105770	Health Care Supplies
+2026-09-27	til stede	WTW	Willis Towers Watson	0001140536	Insurance Brokers
+2026-09-27	til stede	WY	Weyerhaeuser	0000106535	Timber REITs
+2026-09-27	til stede	WYNN	Wynn Resorts	0001174922	Casinos & Gaming
+2026-09-27	til stede	XEL	Xcel Energy	0000072903	Multi-Utilities
+2026-09-27	til stede	XOM	ExxonMobil	0002115436	Integrated Oil & Gas
+2026-09-27	til stede	XYL	Xylem Inc.	0001524472	Industrial Machinery & Supplies & Components
+2026-09-27	til stede	XYZ	Block, Inc.	0001512673	Transaction & Payment Processing Services
+2026-09-27	til stede	YUM	Yum! Brands	0001041061	Restaurants
+2026-09-27	til stede	ZBH	Zimmer Biomet	0001136869	Health Care Equipment
+2026-09-27	til stede	ZBRA	Zebra Technologies	0000877212	Electronic Equipment & Instruments
+2026-09-27	til stede	ZTS	Zoetis	0001555280	Pharmaceuticals

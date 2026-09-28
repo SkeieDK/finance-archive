@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-28T18:08:23.654Z		200	27987	227e8c3f7d568d2279cb80553f0da1a829d039437ae3291b47eb8c7262f00f3a	ja	https://query1.finance.yahoo.com/v8/finance/chart/REG?interval=1d&range=1y&events=div%7Csplit
+2026-09-28T18:08:25.518Z		200	13637	d8c2b89161beeac8064d07a4a731e16c89bec2a86b2aca35fc48ccf944dfd09c	ja	https://query2.finance.yahoo.com/v8/finance/chart/REG?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722297600&period2=1790553600
+2026-09-28T18:08:25.649Z		200	17685	2133422793626b97630639c1c8aada59768c02bd79b3ea63c943707ac89c6da0	ja	https://query2.finance.yahoo.com/v8/finance/chart/REG?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443398400&period2=1790618905

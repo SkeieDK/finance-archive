@@ -1,0 +1,6 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T15:22:48.254Z	archive-check	200	30317	6989df38379022a6a6c9baaaec449bbb5db5aeac034287850736460fb262b5eb	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T15:27:53.193Z	archive-check	200	30317	bf5da0956a4d2a1ede9f705945f023d8a7ceebcfd81aec1651f58aa81076eade	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:45:36.537Z		200	30317	d0362e56ddb74566e3a25ed9e66b0fc81ce122b4f6e8bbc083b9516e34fd7c0c	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:51:25.766Z		200	30317	37d2ebbc9be8d1b32a045ff97dccf59bfc030b5b5de720242c7d154cb471921f	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:58:56.249Z		200	30317	97ed3b3bb40bc5fdad7cc767313fe1b051ea17a17352cc93409af6bef9155fbb	ja	https://query1.finance.yahoo.com/v8/finance/chart/DKKUSD%3DX?interval=1d&range=1y&events=div%7Csplit

@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-27T16:41:32.787Z		200	27028	cebbd86ee56c4587d6f2048526bd9d8f1286e229c62f11fc81d87c7c74878cae	ja	https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&range=1y&events=div%7Csplit
+2026-09-27T16:41:35.134Z		200	13043	d186a350512fdcebcce901994b031b66130df5a4d2efea9c65c2047704788ecf	ja	https://query2.finance.yahoo.com/v8/finance/chart/CIEN?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722211200&period2=1790467200
+2026-09-27T16:41:35.226Z		200	15471	6794bce2252925508136e75d39c8258f3ecd1dc51e131d28f8e6b8c78ebd32c1	ja	https://query2.finance.yahoo.com/v8/finance/chart/CIEN?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443312000&period2=1790527295
