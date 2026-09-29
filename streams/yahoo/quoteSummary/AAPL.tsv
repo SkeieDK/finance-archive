@@ -16,3 +16,7 @@ observedAt	lib	status	bytes	sha256	new	url
 2026-09-28T18:07:10.165Z		200	1010	9a9f88703e55b129ddb4b614843f7b15a847f987ab16c931cc3bfb5344491141	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL?formatted=false&modules=price
 2026-09-28T18:08:21.232Z		200	1012	9afe3bf30a2f216de4ef1cf30ed7c19c1babc8491e53937e5d6f4d89b35ea01a	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL?formatted=false&modules=price
 2026-09-28T18:12:09.676Z		200	1010	33d34ccb683b67be19c3f857d60b54b283656d7af8644b9c6f36d3aa5997696a	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL?formatted=false&modules=price
+2026-09-29T08:35:31.747Z		200	215969	384a11a0348d22d7aadaae09ebd005b24964ee011f87bf62f753a0e5ecd0d249	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL?formatted=false&modules=summaryDetail%2CfinancialData%2CdefaultKeyStatistics%2CsummaryProfile%2CinsiderTransactions%2CinsiderHolders%2CupgradeDowngradeHistory
+2026-09-29T08:45:53.721Z		200	1135	2a51e4dfaa0bf5d343ef67b389311b984ef2c55f60c14295a1cb03e55b6c758c	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL?formatted=false&modules=price
+2026-09-29T08:57:31.029Z		200	1137	2df829a3c90f36d1bd0fa254e9d8d2f8903988b0da218178f4c34191740780b3	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL?formatted=false&modules=price
+2026-09-29T09:00:34.969Z		200	1135	e461e2953195fffe3ff0c8a2e713f1b108a19d9d5bfde0d708b605e4439d6425	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL?formatted=false&modules=price

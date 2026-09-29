@@ -1,7 +1,7 @@
 {
-  "contentHash": "331aa992e0b7892d",
+  "contentHash": "d0d0387557a98462",
   "payload": {
-    "count": 2,
+    "count": 6,
     "items": [
       {
         "claim": "At the inauguration of NKT's expanded medium-voltage cable factory in Asnaes, factory director Rene Olsen said the plant's cables 'may not be something most people think about in their everyday lives. But they are an important part of the infrastructure that keeps homes, businesses and communities connected across Europe', and that the expansion 'marks a new chapter of growth for Asnaes' in which NKT has 'not only invested in buildings and machinery; we have also welcomed many new colleagues, increased our capacity, and created new opportunities'.",
@@ -20,12 +20,48 @@
         "source": "Offshore Energy report on the Asnaes inauguration; quotes attributed to Hanne Pigonska, Mayor of Odsherred Municipality",
         "url": "https://www.offshore-energy.biz/nkt-inaugurates-expanded-power-cable-factory-in-denmark/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Claes Westerlind sagde paa NKT's Investor Day 2026, at selskabet bekraefter den strategiske retning og de mellemfristede ambitioner fra 'Charging Forward', og at fundamentet under elektrificeringen af samfundene fortsat er staerkt.",
+        "key": "4e56e5596ee8c499",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Claes Westerlind, President og CEO, NKT A/S - selskabsmeddelelse nr. 13, Investor Day 2026",
+        "url": "https://www.prnewswire.com/news-releases/nkt-reaffirms-strategic-direction-and-presents-capital-allocation-priorities-at-investor-day-2026-302892442.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Westerlind sagde, at NKT's cash generation ventes at stige i de kommende aar, og at de fremlagte kapitalallokeringsprioriteter giver en klar ramme for at balancere vaekstinvesteringer, finansiel styrke og udlodning til aktionaerer.",
+        "key": "73163adef9024548",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Claes Westerlind, President og CEO, NKT A/S",
+        "url": "https://www.inderes.fi/en/releases/nkt-reaffirms-strategic-direction-and-presents-capital-allocation-priorities-at-investor-day-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "NKT oplyste, at kommerciel drift af Karlskrona-udvidelsen nu forventes i 2. kvartal 2027, en anelse foer den oprindelige tidsplan, og at de mellemfristede finansielle ambitioner fra november 2025 er uaendrede.",
+        "key": "ba0692ccb0a3fce3",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "NKT A/S, selskabsmeddelelse nr. 13 / Investor Day 2026",
+        "url": "https://www.inderes.fi/en/releases/nkt-reaffirms-strategic-direction-and-presents-capital-allocation-priorities-at-investor-day-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "NKT fremlagde fire kapitalallokeringsprioriteter, herunder et udmeldt maal om aarligt at udlodde mindst 20 procent af justeret nettoresultat som udbytte og at returnere overskydende likviditet via aktietilbagekoeb eller ekstraordinaert udbytte.",
+        "key": "a43dd9b77fda2684",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "NKT A/S, Investor Day 2026",
+        "url": "https://www.inderes.fi/en/releases/nkt-reaffirms-strategic-direction-and-presents-capital-allocation-priorities-at-investor-day-2026",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-10T06:25:00Z",
+  "recordedAt": "2026-09-29T06:35:00Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NKT.CO"

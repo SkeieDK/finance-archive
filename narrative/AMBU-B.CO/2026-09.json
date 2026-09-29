@@ -1,7 +1,7 @@
 {
-  "contentHash": "baff5d29b4b119b3",
+  "contentHash": "8db018b2f50ece61",
   "payload": {
-    "count": 7,
+    "count": 10,
     "items": [
       {
         "claim": "Ambu meddelte, at selskabet i perioden 24.-28. august 2026 har foretaget yderligere tilbagekøb af egne aktier under sit igangværende aktietilbagekøbsprogram, og opgjorde den samlede beholdning af egne aktier efter programmet.",
@@ -65,12 +65,39 @@
         "source": "Ambu A/S, selskabsmeddelelse (kontaktpersoner: Tine Bjørn Schmidt, Director of Corporate Communications, og Lisa Bedell Clive, Head of Investor Relations)",
         "url": "https://via.ritzau.dk/announcement/15173333?publisherId=13561943",
         "verifiedAs": null
+      },
+      {
+        "claim": "Ambu meddelte 21. september 2026, at selskabets aktietilbagekoebsprogram er afsluttet, og oplyste at der siden 6. maj 2026 er tilbagekoebt aktier for i alt DKK 300 mio.",
+        "key": "0701de7241e71ed5",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Ambu A/S, selskabsmeddelelse 'Ambu's share buyback program has been finalized' (programmet blev igangsat med meddelelse nr. 12 2025/26)",
+        "url": "https://www.inderes.fi/en/releases/ambus-share-buyback-program-has-been-finalized-1",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Ambu oplyste i samme meddelelse, at selskabet efter programmets afslutning ejer 8.641.687 egne aktier svarende til 3,2 procent af aktiekapitalen.",
+        "key": "481ae6ab65d9db61",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Ambu A/S, selskabsmeddelelse om afsluttet tilbagekoebsprogram",
+        "url": "https://via.ritzau.dk/nyhedsrum/13561943/ambu-as/a",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Programmet blev ifoelge Ambu gennemfoert med det erklaerede formaal at gennemfoere en kapitalnedsaettelse, med en ramme paa op til DKK 300 mio. og hoejst 6.000.000 aktier i perioden 6. maj til senest 30. september 2026.",
+        "key": "72da9d6d2f141ce7",
+        "publishedAt": "2026-05-06",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Ambu A/S, selskabsmeddelelse nr. 12 2025/26 af 6. maj 2026 (baggrund for afslutningsmeddelelsen)",
+        "url": "https://via.ritzau.dk/ir-files/13561943/14914620/19257/Download%20announcement%20as%20PDF.pdf",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-23T06:22:51Z",
+  "recordedAt": "2026-09-29T06:35:00Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "AMBU-B.CO"

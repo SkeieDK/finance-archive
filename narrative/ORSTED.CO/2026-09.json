@@ -1,7 +1,7 @@
 {
-  "contentHash": "39d07de6ef85c776",
+  "contentHash": "1fbce144c2914829",
   "payload": {
-    "count": 4,
+    "count": 7,
     "items": [
       {
         "claim": "Oersted issued a major shareholder announcement stating that Andel, 'which has so far owned 5 % of Oersted's share capital and voting rights, on 9 September 2026 sold 22,800,000 shares', after which Andel 'will hold a total of 43,392,007 shares ... corresponding to 3.28 % of the share capital and voting rights'.",
@@ -38,12 +38,39 @@
         "source": "Andel A.m.b.a., storaktionaermeddelelse offentliggjort af Oersted A/S",
         "url": "https://via.ritzau.dk/announcement/15149012?publisherId=13560592",
         "verifiedAs": null
+      },
+      {
+        "claim": "Ved indvielsen af havvindmoelleparken Borkum Riffgrund 3 sagde Rasmus Errboe, at parken 'shows what offshore wind can deliver for Germany: large-scale, home-grown renewable electricity for industry and households'.",
+        "key": "8e0016869e0c396d",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Rasmus Errboe, CEO, Oersted",
+        "url": "https://orsted.com/en/media/news/2026/09/orsted-and-nuveen-inaugurate-borkum-riffgrund-3-on-15173591",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Josche Muth sagde i samme meddelelse, at 'a clear, CfD-only auction model would reduce complexity and provide greater certainty' i den tyske havvindudbudsmodel.",
+        "key": "2f393523c41747bb",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Josche Muth, Country Manager, Oersted Germany",
+        "url": "https://orsted.com/en/media/news/2026/09/orsted-and-nuveen-inaugurate-borkum-riffgrund-3-on-15173591",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jordi Francesch sagde, at indvielsen markerer 'a proud moment for Nuveen Infrastructure and our long-standing partnership' med Oersted, og Grant Hendrik Tonne sagde, at Borkum Riffgrund 3 illustrerer hvorfor havvind ikke blot er en vaesentlig soejle i energiomstillingen.",
+        "key": "0cdd93a2bb670384",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Jordi Francesch, Global Head of Clean Energy, Nuveen Infrastructure, og Grant Hendrik Tonne, Niedersachsens minister for oekonomi, transport og byggeri",
+        "url": "https://orsted.com/en/media/news/2026/09/orsted-and-nuveen-inaugurate-borkum-riffgrund-3-on-15173591",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-17T06:12:42Z",
+  "recordedAt": "2026-09-29T06:35:00Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ORSTED.CO"

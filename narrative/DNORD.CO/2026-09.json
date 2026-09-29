@@ -1,7 +1,7 @@
 {
-  "contentHash": "79946ab2dca9a969",
+  "contentHash": "df4370f4b2cb9bf5",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "NORDEN indberettede transaktioner med selskabets aktier foretaget af ledende medarbejdere og disses naertstaaende i forbindelse med aktietilbagekoebsprogrammet, og henviste til at A/S Motortramp loebende saelger aktier pro rata.",
@@ -29,12 +29,30 @@
         "source": "Dampskibsselskabet NORDEN A/S; meddelelsen angiver CFO Martin Badsted, og Therese Moellevinge, Head of Investor Relations, som kontakt",
         "url": "https://www.norden.com/notification-of-managers-and-closely-related-parties-transactions-with-dampskibsselskabet-norden-a-s-shares-in-connection-with-share-buy-back-program-1135/",
         "verifiedAs": null
+      },
+      {
+        "claim": "NORDEN oplyste i sin ugentlige tilbagekøbsrapport (meddelelse nr. 225/2026), at selskabet vil købe egne aktier for op til i alt USD 25 mio. (ca. DKK 162 mio.) i perioden 14. august til 22. oktober 2026, og at programmet gennemføres i henhold til forordning nr. 596/2014 og Safe Harbour-reglerne.",
+        "key": "55f6b7e4c6b4f2e1",
+        "publishedAt": "2026-09-25",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "Dampskibsselskabet NORDEN A/S, selskabsmeddelelse nr. 225/2026 (ugentlig rapport om aktietilbagekøb)",
+        "url": "https://www.investegate.co.uk/announcement/mfn/dampskibsselskabet-norden-a-s--0hdp/dampskibsselskabet-norden-a-s-weekly-report-/9791207",
+        "verifiedAs": null
+      },
+      {
+        "claim": "NORDEN oplyste samme dag, at selskabet pr. 24. september 2026 havde tilbagekøbt 240.000 aktier for DKK 88.806.240 under programmet og besad 2.665.936 egne aktier svarende til 8,89 pct. af de udestående aktier.",
+        "key": "da9e0420f55bb240",
+        "publishedAt": "2026-09-25",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "Dampskibsselskabet NORDEN A/S, selskabsmeddelelse nr. 225/2026",
+        "url": "https://www.investegate.co.uk/announcement/mfn/dampskibsselskabet-norden-a-s--0hdp/dampskibsselskabet-norden-a-s-weekly-report-/9791207",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-22T06:20:03Z",
+  "recordedAt": "2026-09-28T06:22:03Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DNORD.CO"

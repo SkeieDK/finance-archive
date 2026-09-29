@@ -1,7 +1,7 @@
 {
-  "contentHash": "cbdf4c59d609eb07",
+  "contentHash": "d696d0bc8e190ee8",
   "payload": {
-    "count": 44,
+    "count": 47,
     "items": [
       {
         "claim": "Novo Nordisk oplyste torsdag, at Kinas laegemiddelmyndighed har accepteret selskabets ansoegning om markedsfoering af den orale version af vaegttabsmidlet Wegovy.",
@@ -398,12 +398,39 @@
         "source": "Novo Nordisk A/S, selskabsmeddelelse om aktietilbagekøbsprogram",
         "url": "https://www.globenewswire.com/news-release/2026/09/21/3365489/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Paa Novo Nordisks Capital Markets Day i London sagde administrerende direktoer Mike Doustdar, at selskabet 'will be more active within business development', og han fremlagde en ambition om at lancere mindst fem multi-blockbuster-laegemidler inden 2030 og investere mere i sygdomsomraader uden for diabetes og fedme.",
+        "key": "1c695d1fb2b55c10",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Maziar Mike Doustdar, President og CEO, Novo Nordisk, refereret af STAT News fra Capital Markets Day",
+        "url": "https://www.statnews.com/2026/09/21/novo-nordisk-capital-markets-day-obesity-strategy/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Om licensaftalen med Hengrui Pharma sagde Martin Holst Lange, at 'Novo has pioneered the field of oral peptides and as leaders, we continuously look to advance our broad and deep oral pipeline across obesity, diabetes and other cardiometabolic diseases', og at selskabet er begejstret for at tilfoeje HRS-1596 til sin pipeline.",
+        "key": "9b472e933ded1339",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Martin Holst Lange, executive vice president, Research & Development og chief scientific officer, Novo Nordisk",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=917052",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Frank Jiang sagde om samme aftale, at 'this collaboration brings together Hengrui's innovation strengths and Novo's global leadership in GLP-1 therapies and obesity care', og at HRS-1596 har potentiale til at tilbyde bekvemmeligheden ved oral dosering en gang om ugen.",
+        "key": "6cb34d941ec5c04d",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Frank Jiang, MD, PhD, executive vice president og chief strategy officer, Hengrui Pharma",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=917052",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-23T06:22:51Z",
+  "recordedAt": "2026-09-29T06:35:00Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

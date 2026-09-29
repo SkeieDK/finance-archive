@@ -1,7 +1,7 @@
 {
-  "contentHash": "1e2a78d2a3909f82",
+  "contentHash": "ccb6a2f88b7754e1",
   "payload": {
-    "count": 5,
+    "count": 8,
     "items": [
       {
         "claim": "In its September Economic Outlook, Nordea Group Chief Economist Helge Pedersen said 'the global economy is demonstrating remarkable resilience in the face of geopolitical conflict, elevated energy prices and trade tensions', and the bank said the Nordic economies continue to outperform other regions while downside risks remain.",
@@ -47,12 +47,39 @@
         "source": "Jyrki Katainen, Chair of the Nordic Compass Board og Head of Group Public and Regulatory Affairs, Nordea",
         "url": "https://www.nordea.com/en/news/why-the-nordics-need-a-stronger-capital-market",
         "verifiedAs": null
+      },
+      {
+        "claim": "Kirsten Renner, Group CIO i Nordea, udtalte: «AI has the potential to make financial services safer, faster and more personal. But the same technology is also making fraud easier to scale and harder to detect.»",
+        "key": "5cbf0f916165288f",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "Kirsten Renner, Group CIO, Nordea",
+        "url": "https://www.nordea.com/en/news/ai-changes-the-game-trust-sets-the-rules",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Kirsten Renner udtalte videre: «In financial services, accountability can never be delegated to an algorithm. AI helps identify risks, but it is humans who make judgements and take decisions» og «The future of financial services will not be defined by who deploys the most AI. It will be defined by who earns the most trust while doing so.»",
+        "key": "b565bb2865a649e3",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "Kirsten Renner, Group CIO, Nordea",
+        "url": "https://www.nordea.com/en/news/ai-changes-the-game-trust-sets-the-rules",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Malthe Falck, Head of Group Digital i Nordea, udtalte om nordisk fintech: «Strong digital infrastructure, high levels of customer adoption and a focus on solving real customer problems have created fertile ground for innovation.»",
+        "key": "47211a86dfacfa18",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "Malthe Falck, Head of Group Digital, Nordea",
+        "url": "https://www.nordea.com/en/news/from-innovation-to-scale-the-next-chapter-of-nordic-fintech",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-16T06:12:54Z",
+  "recordedAt": "2026-09-28T06:22:03Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NDA-DK.CO"

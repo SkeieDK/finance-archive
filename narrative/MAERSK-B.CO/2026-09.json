@@ -1,7 +1,7 @@
 {
-  "contentHash": "f14d68bb001138f5",
+  "contentHash": "dadbba5d894ae63e",
   "payload": {
-    "count": 8,
+    "count": 11,
     "items": [
       {
         "claim": "Maersk said Roberta Duarte will rejoin the company as Chief People Officer from 1 November, succeeding Susana Elvira, with Duarte quoted saying she is 'truly honoured to return to Maersk' and that the company 'feels like home'.",
@@ -74,12 +74,39 @@
         "source": "A.P. Moeller - Maersk A/S, selskabsmeddelelse paa investor.maersk.com; kontaktpersoner Martin Dunwoodie og Jesper Loev",
         "url": "https://investor.maersk.com/news-releases/news-release-details/transactions-connection-share-buy-back-program-330",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Møller - Mærsk oplyste i sin ugentlige tilbagekøbsrapport (uge 38, 2026), at anden fase af aktietilbagekøbsprogrammet på op til DKK 3,15 mia. (ca. USD 500 mio.) løber fra 13. august 2026 til senest 29. januar 2027 inden for et samlet program på op til DKK 6,3 mia. (ca. USD 1 mia.), og at selskabet pr. uge 38 besad egne aktier svarende til 1,95 pct. af aktiekapitalen.",
+        "key": "edb15f523ceebed8",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "A.P. Møller - Mærsk A/S, selskabsmeddelelse om transaktioner i forbindelse med aktietilbagekøbsprogrammet",
+        "url": "https://investor.maersk.com/news-releases/news-release-details/transactions-connection-share-buy-back-program-331",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mærsk varslede et akut brændstoftillæg for Store Door-sendinger i syv nordiske lande med virkning fra 23. september 2026 og begrundede det med, at «we see a high increase on the fuel level due to the blockage of fuel supply in the Middle East»; selskabet tilføjede, at el-lastbil- og baneløsninger ikke er berørt, at satserne opdateres ugentligt, og at oplysningerne kan ændre sig «due to the highly volatile situation».",
+        "key": "360fcd2fd804bedf",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "Maersk, kundemeddelelse om Nordic Emergency Inland Fuel Surcharge",
+        "url": "https://www.maersk.com/news/articles/2026/09/22/emergency-inland-fuel-energy-surcharge-nordic-region",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Ole Trumpfheller, Managing Director for Maersk Area Northern Europe Continent, udtalte om et nyt lager i Herleshausen: «Herleshausen is the ideal location as a central hub for the flow of goods within Germany and into the neighbouring European markets. Within the strong growth of our Contract Logistics Business this is the next addition to our warehouse footprint in Germany and continues to support our Integrator focus.»",
+        "key": "c5c385933451d76b",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-09-28T06:22:03Z",
+        "source": "Ole Trumpfheller, Managing Director, Maersk Area Northern Europe Continent",
+        "url": "https://www.maersk.com/news/articles/2026/09/23/maersk-launches-successfully-warehouse-in-the-heart-of-germany",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-22T06:20:03Z",
+  "recordedAt": "2026-09-28T06:22:03Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-B.CO"

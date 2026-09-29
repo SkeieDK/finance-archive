@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-09-29T08:55:28.259Z		200	27860	9e2d2e1d5ea07654799d25951533bf6fcf47a701ab358242ce68911763466e56	ja	https://query1.finance.yahoo.com/v8/finance/chart/OTIS?interval=1d&range=1y&events=div%7Csplit
+2026-09-29T08:55:29.765Z		200	13769	90bd5ece82d18a1406c00f042a6c37428a1395a909c48744d8e87a7cb9661e51	ja	https://query2.finance.yahoo.com/v8/finance/chart/OTIS?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722384000&period2=1790640000
+2026-09-29T08:55:29.881Z		200	10957	d0dd5b33519a8295482277c3c60b587973015ca6015e3679a6679b0638f4c95e	ja	https://query2.finance.yahoo.com/v8/finance/chart/OTIS?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443484800&period2=1790672129

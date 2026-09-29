@@ -1,7 +1,7 @@
 {
-  "contentHash": "be739d223f02b700",
+  "contentHash": "4f3b2058ee925526",
   "payload": {
-    "count": 13,
+    "count": 16,
     "items": [
       {
         "claim": "Bavarian Nordic meddelte, at selskabet har igangsat første tranche af et nyt aktietilbagekøbsprogram med det formål at tilpasse kapitalstrukturen gennem efterfølgende annullering af de tilbagekøbte aktier, og at Nordea er udpeget som lead manager til at gennemføre købene uafhængigt af selskabet.",
@@ -119,12 +119,39 @@
         "source": "Bavarian Nordic A/S, meddelelse om beholdning af egne aktier",
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7606",
         "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic meddelte 22. september 2026, at selskabets beholdning af egne aktier pr. 21. september 2026 udgjorde 3.965.413 aktier svarende til 5,00 procent af aktiekapitalen.",
+        "key": "7aa4390cf610e9f7",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse 'Notification of Holding of Treasury Shares'",
+        "url": "https://www.bavarian-nordic.com/investor/news/news.aspx?news=7606",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic oplyste, at de tilbagekoebte aktier er tiltaenkt efterfoelgende annullering med henblik paa at tilpasse selskabets kapitalstruktur.",
+        "key": "d3f30a63e1d6e8ce",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse om beholdning af egne aktier",
+        "url": "https://www.bavarian-nordic.com/investor/news/news.aspx?news=7606",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic meddelte 28. september 2026 i selskabsmeddelelse nr. 46/2026, at selskabet under det tilbagekoebsprogram, der blev lanceret 1. september 2026, vil tilbagekoebe aktier for op til DKK 250 mio. i perioden 1. september til 30. oktober 2026.",
+        "key": "cdb773f9f3df736f",
+        "publishedAt": "2026-09-28",
+        "recordedAt": "2026-09-29T06:35:00Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse nr. 46/2026 'Transactions in Connection with Share Buy-Back Program'",
+        "url": "https://www.bavarian-nordic.com/investor/news/news.aspx?news=7608",
+        "verifiedAs": null
       }
     ],
     "month": "2026-09"
   },
   "periodEnd": "2026-09",
-  "recordedAt": "2026-09-23T06:22:51Z",
+  "recordedAt": "2026-09-29T06:35:00Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "BAVA.CO"
