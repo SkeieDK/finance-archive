@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:04:31.446Z		200	25416	57469a2c54bec3af3894eeeebd384d9668bd6d171d44969049a548546face41e	ja	https://query1.finance.yahoo.com/v8/finance/chart/ISS.CO?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:05:04.198Z		200	12478	8deb887147770fb942eaae27b3198fdc665b63772113047ed41788c6b1306a82	ja	https://query2.finance.yahoo.com/v8/finance/chart/ISS.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:05:04.297Z		200	15011	cbf528d20731ce91351d0165df203e21fca2cacb58e8e257a930737714f4af76	ja	https://query2.finance.yahoo.com/v8/finance/chart/ISS.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791018304

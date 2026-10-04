@@ -1,0 +1,41 @@
+{
+  "contentHash": "5047ee132c533c09",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "ChemoMetec meddelte at selskabet har afsluttet det aktietilbagekoebsprogram, der blev annonceret i selskabsmeddelelse nr. 309 den 15. maj 2026, og oplyste at der blev tilbagekoebt 239.950 aktier for i alt DKK 99.998.735, svarende til 1,38 pct. af aktiekapitalen.",
+        "key": "3f937009b939a707",
+        "publishedAt": "2026-10-02",
+        "recordedAt": "2026-10-03T06:20:54Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse; kontaktpersoner Martin Helbo Behrens (CEO) og Phillip Massie Price (CFO)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/02/3373893/0/da/afslutning-af-aktietilbagek%C3%B8bsprogram.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Martin Helbo Behrens sagde i Oekonomisk Ugebrev Life Science at selskabet i praksis ikke har haft forventninger indregnet til samarbejderne med Roche, Tecan og Hamilton, fordi der ikke foreligger tal for dem.",
+        "key": "599afb5acc8808a0",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-03T06:20:54Z",
+        "source": "Martin Helbo Behrens, CEO, ChemoMetec, gengivet i Oekonomisk Ugebrev Life Science (dansk original; gengivet her i parafrase, ikke ordret citat)",
+        "url": "https://ugebrev.dk/life-science/chemometec-paa-vej-mod-vaekstcomeback-efter-reset/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Oekonomisk Ugebrev Life Science skrev at ChemoMetec udfaser celletaelleren NC-200 efter 16 aar og at kunderne derfor skal opgradere til NC-203 over de kommende aar.",
+        "key": "36108c54475ca527",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-03T06:20:54Z",
+        "source": "Oekonomisk Ugebrev Life Science (mediedaekning)",
+        "url": "https://ugebrev.dk/life-science/chemometec-paa-vej-mod-vaekstcomeback-efter-reset/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-03T06:20:54Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "CHEMM.CO"
+}

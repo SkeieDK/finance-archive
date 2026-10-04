@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:26:03.664Z		200	28531	6ed7d344ca5a3643c0c478f9df5ea6fab037a17d051a1d82cfe073f0ae33a3e2	ja	https://query1.finance.yahoo.com/v8/finance/chart/TELIA.ST?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:26:04.631Z		200	14002	f48db97ea0bf6e816b016941e01a08f7390fb76121da67c86c61654e4378db60	ja	https://query2.finance.yahoo.com/v8/finance/chart/TELIA.ST?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:26:04.767Z		200	17280	e3612faa7227bf1f584d5adbde23e79e1d1e06f753f7c78e247406cc59c49d51	ja	https://query2.finance.yahoo.com/v8/finance/chart/TELIA.ST?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791019564

@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:37:47.962Z		200	29309	837670ec1a241b053303f048db185e5d8af7b9aa11c7d2e687cb985425a9436c	ja	https://query1.finance.yahoo.com/v8/finance/chart/BAMI.MI?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:37:49.200Z		200	13930	c89b6d98367a909a9ff1da606726d61752ead42a4767c109534b5cbbaecaa967	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAMI.MI?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:37:49.329Z		200	16638	b0d36eb4be919f15c73af3a163093d590a08b1a470126512fd1648361c9adb4d	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAMI.MI?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791016669

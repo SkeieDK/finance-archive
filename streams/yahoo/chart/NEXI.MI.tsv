@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:13:41.870Z		200	29172	8ce2398c77fe76d76e440ae0e384f86065c5bacfe85ffe108169a3c0348c5ec5	ja	https://query1.finance.yahoo.com/v8/finance/chart/NEXI.MI?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:13:42.913Z		200	13816	103cd568dc5d0f9fd0c334ab4649efc3089046b5d8d2417d9b3d473e8e49efff	ja	https://query2.finance.yahoo.com/v8/finance/chart/NEXI.MI?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:13:43.014Z		200	11441	068824c7ec3945d6054dc7f78c31a2f3205479c4f47a0811fc0d4a0f4270e626	ja	https://query2.finance.yahoo.com/v8/finance/chart/NEXI.MI?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791018822

@@ -1,0 +1,41 @@
+{
+  "contentHash": "59c7e2bf25e3b842",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Gubra announced that its partner AbbVie had presented detailed Phase 1 data for ABBV-295, a long-acting amylin analog, at EASD 2026, the release stating a half-life of 10.7 to 12.3 days, weight reductions of 7.8-9.8% over 12-13 weeks (9.7% on every-other-week dosing, 7.9% monthly), no serious adverse events and 92% of gastrointestinal side effects mild, in 60 participants.",
+        "key": "6165bfb4973934eb",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Gubra A/S press release relaying AbbVie's EASD 2026 presentation",
+        "url": "https://storage.mfn.se/7a346e80-46a1-476b-a0c9-a0b3cd6e0532/gubras-partner-abbvie-presents-detailed-phase-1-data-for-abbv-295-a-long-acting-amylin-analog-demonstrating-favorable-tolerability-and-pharmacokinetic-profile-at-easd-2026.pdf",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Markus Rohrwild said the detailed EASD data \"further highlight the differentiated profile of ABBV-295, including meaningful weight loss, favorable safety and tolerability, and a pharmacokinetic profile supporting the evaluation of dosing intervals beyond weekly administration\", and said Gubra is pleased to see the programme advancing under AbbVie's leadership.",
+        "key": "660bb4fd842f3b55",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Markus Rohrwild, CEO of Gubra",
+        "url": "https://storage.mfn.se/7a346e80-46a1-476b-a0c9-a0b3cd6e0532/gubras-partner-abbvie-presents-detailed-phase-1-data-for-abbv-295-a-long-acting-amylin-analog-demonstrating-favorable-tolerability-and-pharmacokinetic-profile-at-easd-2026.pdf",
+        "verifiedAs": null
+      },
+      {
+        "claim": "The same announcement, redistributed on TradingView via the Modular Finance feed, repeated the CEO quote and stated that a Phase 2 trial of ABBV-295 in adults with overweight and obesity was initiated in August 2026.",
+        "key": "0237d5e64612b3dd",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Gubra A/S press release as redistributed by TradingView / Modular Finance, quoting CEO Markus Rohrwild",
+        "url": "https://www.tradingview.com/news/modular_finance:85bf2bf8bdd47:0-gubra-s-partner-abbvie-presents-detailed-phase-1-data-for-abbv-295-a-long-acting-amylin-analog-demonstrating-favorable-tolerability-and-pharmacokinetic-profile-at-easd-2026/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-01T06:20:53Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "GUBRA.CO"
+}

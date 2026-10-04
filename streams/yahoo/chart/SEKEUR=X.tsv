@@ -1,3 +1,7 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-27T16:52:50.764Z		200	30550	ccdc3ccdb37b4595422d5bf845c32b8627c4714d31b218e8a9974074d1ddf4bb	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
 2026-09-29T08:47:44.164Z		200	30524	9f5622895441a8a7890c2acbd3ab786e986dda61c2bcf7c195c0758a38f70122	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:52:34.575Z		200	30553	cc6d3541d6b19fd852761ba843818cac0d203964a27b7651e7a1b0b9d8e0e4c5	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:53:08.457Z		200	30553	a6c86bcad5adf4d18ec8fc5b9103e834579a061220cc9c20b38c9d1877380aa3	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:00:51.385Z		200	30553	a6c86bcad5adf4d18ec8fc5b9103e834579a061220cc9c20b38c9d1877380aa3	nej	https://query1.finance.yahoo.com/v8/finance/chart/SEKEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:12:50.080Z		200	30553	32a8e63338eac8ec63ee442125345c23e6466f09347ecdc41860ce2f7acb52ea	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKEUR%3DX?interval=1d&range=1y&events=div%7Csplit

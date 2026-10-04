@@ -1,0 +1,32 @@
+{
+  "contentHash": "c2f10d11dadae2f3",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Carlsberg Britvic announced a 10-year partnership with The Rivers Trust to restore rivers, wetlands and floodplains near its Rugby site, stating an aim to replenish 100% of the water consumed there by 2032.",
+        "key": "a20bce046a80be70",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Carlsberg Group newsroom release; Paul Davies, CEO of Carlsberg Britvic, quoted saying \"Water is at the heart of every drink we make, so protecting this precious resource is not only important for our business, it's a responsibility we take seriously.\"",
+        "url": "https://www.carlsberggroup.com/newsroom/carlsberg-britvic-and-the-rivers-trust-launch-10-year-water-replenishment-partnership/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mark Lloyd said the summer was a stark reminder that water cannot be taken for granted, citing record UK temperatures and the impact of pollution and drought on rivers, in the same partnership release.",
+        "key": "eeb8d1e0ea1981fb",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Mark Lloyd, CEO of The Rivers Trust",
+        "url": "https://www.carlsberggroup.com/newsroom/carlsberg-britvic-and-the-rivers-trust-launch-10-year-water-replenishment-partnership/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-01T06:20:53Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "CARL-B.CO"
+}

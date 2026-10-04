@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:06:38.196Z		200	28650	de4842a4b3ebf3975b86a29da33ee69bc06de36e4b1569b4625470bb53c24703	ja	https://query1.finance.yahoo.com/v8/finance/chart/KEMIRA.HE?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:06:39.224Z		200	13846	f12c5fc8beaf284cd6f74be87b2989d98681f3f6fea5ca198c177a6fc7e93085	ja	https://query2.finance.yahoo.com/v8/finance/chart/KEMIRA.HE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:06:39.361Z		200	16426	951dc96a1b0e310eefacd45d13236e418a56aa1b3c2d06a36182dc917f6757bd	ja	https://query2.finance.yahoo.com/v8/finance/chart/KEMIRA.HE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791018399

@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:52:05.422Z		200	29339	42a27bdfea68e7a3b958756447c7a5e499b86c09ff7c2adc0c014d60d50dcb18	ja	https://query1.finance.yahoo.com/v8/finance/chart/ENI.MI?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:52:06.584Z		200	14372	9646759602337783c9b603e6aa191b3c05d768dd2da0766a158532e9294f8063	ja	https://query2.finance.yahoo.com/v8/finance/chart/ENI.MI?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:52:06.703Z		200	17542	9f969dca6fa27f2a3e6cbf3c5514999aab6f8df26a25c52005a05005af257f4c	ja	https://query2.finance.yahoo.com/v8/finance/chart/ENI.MI?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791017526

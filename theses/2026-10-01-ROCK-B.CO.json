@@ -1,0 +1,94 @@
+{
+  "contentHash": "cc4c962d035d1910",
+  "payload": {
+    "claim": "Revisit the BUY under any of these conditions:\n- Rolling-twelve-month EBIT margin falls below 12%.\n- Full-year 2026 EBIT margin guidance is cut below 13%.\n- Management signals that the electrified melting lines are delayed or will not hit cost targets, such as grid-connection slippage or capex overruns beyond €750M without matching capacity.\n- Local-currency revenue growth turns negative for two consecutive quarters on a European new-build relapse.\n- The integrity gate escalates beyond Flag.\nConversely, conviction would rise if TTM EBIT margin recovers above 15% while capex remains at or above €750M, which would show the investment programme earns above its cost of capital.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-06-30",
+      "basis": "ttm",
+      "confidence": 0.72,
+      "metric": "ebit_margin_pct",
+      "op": ">=",
+      "periodEnd": "2026-12-31",
+      "reasoning": "The TTM EBIT margin to June 2026 is 13.97% and already excludes the Russian write-off, and management reaffirmed 13-14% for FY2026. I allow for the Q2 slippage to 12.9% and set the bar just below the guidance floor. This tests the thesis that the FY2025 4.59% was a one-off: it says normalised margins stay roughly three times the depressed level the screen and the 3.2% implied growth are anchored on.",
+      "statedQuartersAhead": 2,
+      "value": 12.8
+    },
+    "references": {
+      "baseRate": {
+        "approximated": "TTM read as 1 year",
+        "fromMedian3": {
+          "own": {
+            "n": 12,
+            "p": 0.83
+          },
+          "peers": {
+            "n": 100,
+            "p": 0.73
+          },
+          "start": 14.67
+        },
+        "horizonYears": 1,
+        "own": {
+          "n": 12,
+          "p": 0
+        },
+        "peers": {
+          "n": 100,
+          "p": 0.08
+        }
+      },
+      "holdsToday": true,
+      "market": {
+        "capped": null,
+        "discountRatePct": 7,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          1.4,
+          3.2
+        ],
+        "impliedGrowthPct": 3.2,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "value": 4.59,
+            "year": 2025
+          },
+          {
+            "value": 17.56,
+            "year": 2024
+          },
+          {
+            "value": 14.67,
+            "year": 2023
+          }
+        ],
+        "ttm": [
+          {
+            "periodEnd": "2026-06-30",
+            "value": 13.97
+          },
+          {
+            "periodEnd": "2026-03-31",
+            "value": 14.22
+          }
+        ]
+      },
+      "statusQuo": {
+        "period": "TTM to 2026-06-30",
+        "value": 13.97
+      }
+    },
+    "resolveBy": "2027-03-31",
+    "ticker": "ROCK-B.CO",
+    "verdict": "BUY"
+  },
+  "periodEnd": "2027-03-31",
+  "recordedAt": "2026-10-01T10:46:46.050Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "ROCK-B.CO"
+}

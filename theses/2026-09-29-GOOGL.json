@@ -1,0 +1,26 @@
+{
+  "contentHash": "4bf0cd4f0b58ba6d",
+  "payload": {
+    "claim": "Any of the following would change my view:\n(1) Capex guidance for 2027 plateaus or falls while quarterly FCF turns durably positive and buybacks resume. That would lift the owner-earnings base toward the ~$8.58/share the price implies and close most of the negative margin of safety.\n(2) Normalized (ex-investment-gain) EPS grows at or above ~25–29% for several quarters, with Cloud operating margin expanding enough to absorb the depreciation wave.\n(3) The downside cases: the Brinkema ad-tech remedy or the search remedy orders AdX divestiture or bans default-placement payments; Search revenue growth decelerates to low single digits; or the integrity gate escalates beyond Flag. Any of these would weaken moat durability and push toward REDUCE.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.65,
+      "fiscalYear": 2027,
+      "metric": "ebit_margin_pct",
+      "op": "<",
+      "reasoning": "Depreciation from a $195–205B capex year (and likely more in 2027) will absorb most of the operating leverage from 20%+ revenue growth and Cloud margin gains. EBIT margin should therefore plateau in the mid-30s rather than expand toward the high-30s that a ~29% owner-earnings growth path would require. This is where I differ from the price: I expect margin stagnation, not margin-driven compounding.",
+      "statedYearsAhead": 2,
+      "value": 36
+    },
+    "resolveBy": "2028-06-30",
+    "ticker": "GOOGL",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2028-06-30",
+  "recordedAt": "2026-09-29T10:47:03.057Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "GOOGL"
+}

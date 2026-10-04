@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:22:38.179Z		200	24237	01e44d6a1f440aa2990686f9b3babb3462498903c4c94844faef21fc3b23a174	ja	https://query1.finance.yahoo.com/v8/finance/chart/SAAB-B.ST?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:22:39.149Z		200	12072	0b7b7f05ea1d77fb85b94cef3990220442c47294f724ade849a080ed8066b00d	ja	https://query2.finance.yahoo.com/v8/finance/chart/SAAB-B.ST?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:22:39.289Z		200	15321	baef2e0440af7efa7b91edeff4953a4747a903193063a27552d7a69e76e70194	ja	https://query2.finance.yahoo.com/v8/finance/chart/SAAB-B.ST?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791019359

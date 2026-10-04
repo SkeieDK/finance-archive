@@ -1,0 +1,3 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:42:21.630Z		200	140132	b8d9d30b1fee2febe4e1e894afe4a07f3aa2dd523e9d0805a2326507dc41d256	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CCC.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-03T08:42:21.946Z		200	55631	8ef71a09a783f2cbb90d746ac2bf370ddd299436ea3cd4c18ee7736a9a1e66e0	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CCC.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:40:36.777Z		200	29202	17e446926be4df10c2022cd41bdccccb399d6d58aceba59e37aaedc38a240137	ja	https://query1.finance.yahoo.com/v8/finance/chart/BVI.PA?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:40:37.744Z		200	13938	e3947b90300e2bc5f20e1602406ae9783b57d0cfe0cbe73ff997077d16dc712f	ja	https://query2.finance.yahoo.com/v8/finance/chart/BVI.PA?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:40:37.872Z		200	16540	9e0772e8d2e5f974548cec700ad67eba61ea5c6af1ab451e10948afa21c9d2df	ja	https://query2.finance.yahoo.com/v8/finance/chart/BVI.PA?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791016837

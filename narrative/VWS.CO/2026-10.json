@@ -1,0 +1,41 @@
+{
+  "contentHash": "d28a126a27008a8b",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Vestas announced the launch of its V182-7.2 MW onshore turbine, saying it can increase capacity factors by as much as 2 percent versus its predecessor and improve electricity capture prices by as much as 3 percent at low- to medium-wind sites.",
+        "key": "9a118ffbf08ee10b",
+        "publishedAt": "2026-09-22",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Vestas Wind Systems A/S company statement, as reported by ad-hoc-news.de; no individual named",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/vestas-wind-stock-gains-as-a-larger-rotor-targets-6-percent-more-output/70153072",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Vestas announced a 48 MW order in Germany for five V162-7.2 MW and two V150-6.0 MW turbines together with a 20-year Active Output Management service agreement, saying the customer and project location were not disclosed.",
+        "key": "f8a7a86bd1917189",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Vestas Wind Systems A/S, as reported by SolarQuarter; no individual named",
+        "url": "https://solarquarter.com/2026/09/23/vestas-secures-48-mw-wind-turbine-order-in-germany-with-20-year-service-agreement/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Media coverage described the 22 September announcements as 246 MW of new orders in total, across Germany and North America.",
+        "key": "4bcbdeca1e7e6703",
+        "publishedAt": "2026-09-28",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "ad-hoc-news.de, reporting on Vestas company announcements; no individual named",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/vestas-wind-stock-draws-support-from-246-mw-of-new-orders/70192543",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-01T06:20:53Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "VWS.CO"
+}

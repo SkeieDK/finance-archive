@@ -1,0 +1,10 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:12:16.365Z		200	29073	fb10e33f507c5bfa4584b65e58b1a8306d9d60e4a3ef2eb1a061beed80114ff7	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:12:29.425Z		200	29073	e2ca4d5165b943f56cea9e247cce63a45ec38ed2cfe1dfc3cc5572b9af62fa75	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:19:28.277Z		200	29073	b484e7aaa26c30ab2af7b5d680b38941096cf85f4d7fa9e5efcfa69ccc9ae79f	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:20:08.566Z		200	29073	7c04e147fcc91816e3fd5b2e01ec63d48e192e778833143c21d7a3bcfce7452c	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:23:34.779Z		200	29073	8cd01f9e4028d83b92cd617dc8ddb3c9a2a5aa4c3b0b7a56fb30527621db1d19	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:25:00.766Z		200	29073	b90376edebc03b1cfd7142fb85f84f8336563adfc21b5372f614c0f7f9446627	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:25:02.720Z		200	29073	b90376edebc03b1cfd7142fb85f84f8336563adfc21b5372f614c0f7f9446627	nej	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:26:06.398Z		200	29073	7c04e147fcc91816e3fd5b2e01ec63d48e192e778833143c21d7a3bcfce7452c	nej	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:27:30.025Z		200	29073	fb10e33f507c5bfa4584b65e58b1a8306d9d60e4a3ef2eb1a061beed80114ff7	nej	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit

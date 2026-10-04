@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:06:26.700Z		200	27552	18e451bc6dd514aa8a7898ca6395a9e60daadf94070f0fea176a4c781b2f37b0	ja	https://query1.finance.yahoo.com/v8/finance/chart/KALMAR.HE?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:06:27.987Z		200	13474	abbc87cb4558ff92daf9e24b4230f0e174aa645e421e4f42e593d739cb05f0fd	ja	https://query2.finance.yahoo.com/v8/finance/chart/KALMAR.HE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:06:28.088Z		200	4382	847f0a73a39c06bb8e59fdedb22f6e7ba7c772745ec33755f92d41be2257f432	ja	https://query2.finance.yahoo.com/v8/finance/chart/KALMAR.HE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791018387

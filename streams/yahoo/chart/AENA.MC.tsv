@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:32:09.120Z		200	29123	fc61ce8dead36f2b884449b4147aa13db60d0d8027bf3163f255b56a9121f7a3	ja	https://query1.finance.yahoo.com/v8/finance/chart/AENA.MC?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:32:10.247Z		200	13981	689655cdc906b8b6726b2b2f6847c886df90f3d61eb0202e5e4ad0b8e040ed81	ja	https://query2.finance.yahoo.com/v8/finance/chart/AENA.MC?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:32:10.349Z		200	16444	210753a69cb951db8641dffd694c0018953b08b60c4c1b790d0f76c327bfc52e	ja	https://query2.finance.yahoo.com/v8/finance/chart/AENA.MC?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791016330

@@ -1,0 +1,32 @@
+{
+  "contentHash": "9c69cc4a61d2c492",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Norden-topchef Jan Rindbo sagde, at \"we think the risk-reward is now more favourable in dry cargo\", og begrundede et skift af kapital fra tank mod tørlast med en voksende ordrebog og geopolitisk usikkerhed i tankmarkedet.",
+        "key": "a1433b4314d7407f",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-02T06:24:56Z",
+        "source": "Jan Rindbo, CEO, Dampskibsselskabet NORDEN, citeret i Splash247",
+        "url": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "NORDEN oplyste i sin ugentlige rapportering, at aktietilbagekøbsprogrammet løber fra 14. august 2026 til og med senest 22. oktober 2026, og at det gennemføres inden for EU-forordningernes safe-harbour-ramme.",
+        "key": "a36b30936cb91bf4",
+        "publishedAt": "2026-09-25",
+        "recordedAt": "2026-10-02T06:24:56Z",
+        "source": "Dampskibsselskabet NORDEN A/S, selskabsmeddelelse nr. 225/2026",
+        "url": "https://www.norden.com/dampskibsselskabet-norden-a-s-weekly-report-on-share-buy-back-364/",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-02T06:24:56Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "DNORD.CO"
+}

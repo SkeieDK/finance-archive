@@ -1,0 +1,3 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:37:48.643Z		200	130738	d932f22b5a3771c383ec4123b63e8bfe27dffeb5d27dd8892ddd7037ad1c06c9	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BAMI.MI?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-03T08:37:49.045Z		200	75562	f4ffeff7e595718a2192f3d3ccbaa7517d9293e6fee576ddb128e91f16409bc5	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BAMI.MI?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

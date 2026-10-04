@@ -1,0 +1,41 @@
+{
+  "contentHash": "f3b5fc35eb30a4ab",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Jyske Bank was reported to have changed its recommendation on GN Store Nord from Hold to Buy.",
+        "key": "8130ce88ad341e19",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Jyske Bank rating action, as reported by ad-hoc-news.de; no individual analyst named",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gn-store-nord-stock-rises-1-54-percent-as-jyske-bank-upgrades/70191947",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Media coverage of the Jyske Bank upgrade restated GN management's own guidance given with the Q2 2026 results: an adjusted EBITA margin for 2026 of 9.00 to 10.00 percent, DKK 100-150 million of tariff refunds expected in H2, and positive group organic revenue growth expected in Q3 2026.",
+        "key": "063d0e1960d737e1",
+        "publishedAt": "2026-09-23",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "GN Store Nord management (Q2 2026 guidance), as restated by ad-hoc-news.de; no individual named. The underlying statement predates the window.",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gn-store-nord-stock-rises-1-54-percent-as-jyske-bank-upgrades/70191947",
+        "verifiedAs": null
+      },
+      {
+        "claim": "A further article on the Jyske Bank upgrade restated management's statements from the 20 August Q2 call that the Evolve3 portfolio expansion should support the Enterprise business in H2, that new September products address 35% of Enterprise revenue, and that the refreshed Evolve3 portfolio covers 50% of that business.",
+        "key": "04665d0a73b6d70b",
+        "publishedAt": "2026-09-25",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "GN Store Nord management via the 20 August Q2 call, and Jyske Bank, as restated by ad-hoc-news.de; no individual named. The underlying statements predate the window.",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gn-store-nord-stock-gets-a-higher-2026-margin-outlook/70198044",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-01T06:20:53Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "GN.CO"
+}

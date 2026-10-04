@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:46:54.414Z		200	25250	7f307a1cdc33df530500860418afce4b14a60910bc1c56e83973fe280b89b398	ja	https://query1.finance.yahoo.com/v8/finance/chart/DANSKE.CO?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:47:06.511Z		200	12658	2d9e897671dcfea877f9161a6ae61a86510673a12b89220fcc3b2a930bbd6ee3	ja	https://query2.finance.yahoo.com/v8/finance/chart/DANSKE.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:47:06.730Z		200	15067	921e3c4f9019cd22c47cf36572be1b5ba4ef7576b8383dd41b27a50da233e1ff	ja	https://query2.finance.yahoo.com/v8/finance/chart/DANSKE.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791017226

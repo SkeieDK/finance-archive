@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:56:03.473Z		200	28381	96a023eecf695ccc8d90efe0ccb7dff7efff28b7e3d60bff2151348387757f51	ja	https://query1.finance.yahoo.com/v8/finance/chart/FORTUM.HE?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:56:04.632Z		200	13624	30bd8f49e68997629fb436aec636132a11946fada218f8c520da8256a769bed4	ja	https://query2.finance.yahoo.com/v8/finance/chart/FORTUM.HE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:56:04.747Z		200	16573	e181a2404d12c567dbc96a3a41ece1c7c271e83a851549d0a1d4e94801a9faa0	ja	https://query2.finance.yahoo.com/v8/finance/chart/FORTUM.HE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791017764

@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:28:59.099Z		200	29054	67688d661c5f2f4b191876cb8c877bbec7aabf3c6f7693ed1beeef1334950b6d	ja	https://query1.finance.yahoo.com/v8/finance/chart/VNA.DE?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:29:00.065Z		200	13878	b1f5ecd0eac3bb9bb853bbb35e92c93ac6f6b1dd4688555f15f239247851af30	ja	https://query2.finance.yahoo.com/v8/finance/chart/VNA.DE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:29:00.162Z		200	16540	b705a38fa07aad63ddbfd69b8a8a5101863d8cc4078891f4ac947d16800489b1	ja	https://query2.finance.yahoo.com/v8/finance/chart/VNA.DE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791019740

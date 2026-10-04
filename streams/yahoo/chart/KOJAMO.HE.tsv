@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:07:33.163Z		200	108	f0b5f9feeac9f1fc93c31b1edc03fbc1fda4acb3ec5e233ebb39d6f8b66e1769	ja	https://query1.finance.yahoo.com/v8/finance/chart/KOJAMO.HE?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:07:34.552Z		404	108	f0b5f9feeac9f1fc93c31b1edc03fbc1fda4acb3ec5e233ebb39d6f8b66e1769	nej	https://query2.finance.yahoo.com/v8/finance/chart/KOJAMO.HE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:07:34.655Z		404	108	f0b5f9feeac9f1fc93c31b1edc03fbc1fda4acb3ec5e233ebb39d6f8b66e1769	nej	https://query2.finance.yahoo.com/v8/finance/chart/KOJAMO.HE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791018454

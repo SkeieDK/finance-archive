@@ -1,0 +1,59 @@
+{
+  "contentHash": "1dbbbd356aa1727d",
+  "payload": {
+    "count": 5,
+    "items": [
+      {
+        "claim": "Tryg oplyser at BlackRock, Inc. har meddelt selskabet, at BlackRock besidder aktier og stemmerettigheder svarende til mere end 5 pct. af Trygs samlede aktiekapital og stemmerettigheder.",
+        "key": "53bc3893687012df",
+        "publishedAt": "2026-09-25",
+        "recordedAt": "2026-09-30T06:20:40Z",
+        "source": "Tryg A/S, storaktionaermeddelelse (videreformidler BlackRock, Inc.s underretning)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/25/3369096/0/en/major-shareholder-announcement.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tryg meddeler at selskabet fra 29. september afholder pre-close-moeder og -opkald med analytikere forud for Q3 2026-regnskabet, der offentliggoeres 9. oktober 2026.",
+        "key": "72cb48ee5781e527",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-30T06:20:40Z",
+        "source": "Tryg A/S, pre-silent newsletter forud for Q3 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/29/3370391/0/en/tryg-a-s-q3-2026-pre-silent-newsletter.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tryg siger at selskabet forventer en omsaetningsvaekst for hele aaret paa omkring 3 pct. i lokal valuta, og begrunder det med at prisstigningerne aftager i takt med lavere inflation.",
+        "key": "382268059792a644",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-30T06:20:40Z",
+        "source": "Tryg A/S, pre-silent newsletter forud for Q3 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/29/3370391/0/en/tryg-a-s-q3-2026-pre-silent-newsletter.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tryg skriver at selskabet driver en stabil forretning, og at de seneste tendenser i den underliggende performance derfor kan betragtes som paalidelige indikatorer for den kortsigtede udvikling.",
+        "key": "f0e68dbe04e8e334",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-30T06:20:40Z",
+        "source": "Tryg A/S, pre-silent newsletter forud for Q3 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/29/3370391/0/en/tryg-a-s-q3-2026-pre-silent-newsletter.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tryg siger at forsikringsresultatet forventes gradvist at stige paa normaliseret basis i resten af strategiperioden.",
+        "key": "e775458c32325a95",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-09-30T06:20:40Z",
+        "source": "Tryg A/S, pre-silent newsletter forud for Q3 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/09/29/3370391/0/en/tryg-a-s-q3-2026-pre-silent-newsletter.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-09"
+  },
+  "periodEnd": "2026-09",
+  "recordedAt": "2026-09-30T06:20:40Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "TRYG.CO"
+}

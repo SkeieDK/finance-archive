@@ -1,0 +1,32 @@
+{
+  "contentHash": "113f2802c09e8f46",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Maersk meddelte at have gennemfoert den foerste kommercielle ship-to-ship-bunkring med ethanol af et deep-sea containerskib i USA, og Ditlev Blicher, Regional President for North America, sagde: \"Achieving lower-emission logistics requires turning new technologies into practical, scalable solutions.\"",
+        "key": "92ec017b2be728b6",
+        "publishedAt": "2026-09-28",
+        "recordedAt": "2026-10-02T06:24:56Z",
+        "source": "Ditlev Blicher, Maersk Regional President North America, i Maersks egen meddelelse",
+        "url": "https://www.maersk.com/news/articles/2026/09/28/maersk-completes-first-us-ethanol-bunkering-of-a-deep-sea-container-vessel",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk meddelte en udvidelse af samarbejdet med PUMA, hvor Maersk overtager driften af PUMAs nordamerikanske distributionsnetvaerk, og Dave Hune, North America Head of Maersk Contract Logistics, sagde: \"This partnership is a great example of how Maersk can combine our operational expertise, technology, and logistics network with a customer's existing assets to improve efficiency.\"",
+        "key": "92fd2c339f8134bd",
+        "publishedAt": "2026-09-24",
+        "recordedAt": "2026-10-02T06:24:56Z",
+        "source": "Dave Hune, North America Head of Maersk Contract Logistics, i Maersks egen meddelelse (PUMAs Helmut Leibbrandt citeres ligeledes)",
+        "url": "https://www.maersk.com/news/articles/2026/09/24/maersk-puma-expand-partnership-us-distribution-network",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-02T06:24:56Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "MAERSK-B.CO"
+}

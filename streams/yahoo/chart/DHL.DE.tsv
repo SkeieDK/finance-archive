@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:48:37.338Z		200	28343	5c65a317c529d9166f335cb4cd0fff7bdeb5bfc0bdd69243567968eaaf9f670f	ja	https://query1.finance.yahoo.com/v8/finance/chart/DHL.DE?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:48:38.696Z		200	13634	9422e06658f5ded5376c6bb186ff7efe9927196a89d416a98d2654935549cad9	ja	https://query2.finance.yahoo.com/v8/finance/chart/DHL.DE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:48:38.842Z		200	16160	88cd7f1354a169110c6f85d77f53f970a63de6623c268a30190b05996f1a9695	ja	https://query2.finance.yahoo.com/v8/finance/chart/DHL.DE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791017318

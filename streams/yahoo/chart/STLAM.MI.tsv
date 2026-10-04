@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:24:52.684Z		200	28909	7ce774b23799522f66b81acee8471efcde387ecbb54661627cbc86956d4b46df	ja	https://query1.finance.yahoo.com/v8/finance/chart/STLAM.MI?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:24:53.808Z		200	13840	0e52eb324b274bbfadbdf66ea190771781d5fdcebf0b8bd831ebb06e5e8c57bf	ja	https://query2.finance.yahoo.com/v8/finance/chart/STLAM.MI?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:24:53.931Z		200	16633	22c333927c2a5f3ef5f014f99a0cf7364b161be8722d1cbf60b5772145995b9c	ja	https://query2.finance.yahoo.com/v8/finance/chart/STLAM.MI?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791019493

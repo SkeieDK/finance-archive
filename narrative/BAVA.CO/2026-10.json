@@ -1,0 +1,32 @@
+{
+  "contentHash": "3024be9a9b12cb9d",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Bavarian Nordic oplyste at der i perioden 21.-25. september 2026 blev tilbagekoebt 57.500 aktier, at det akkumulerede koeb under programmet udgoer 459.322 aktier, og at beholdningen af egne aktier herefter er 4.017.913 stk. svarende til 5,07 pct. af aktiekapitalen.",
+        "key": "6518d8544822ffb5",
+        "publishedAt": "2026-09-28",
+        "recordedAt": "2026-10-03T06:20:54Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7608",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic gentog at selskabet vil tilbagekoebe aktier for op til DKK 250 mio. i perioden 1. september til 30. oktober 2026, og at programmet udfoeres af Nordea paa selskabets vegne.",
+        "key": "316e0ab524e387d1",
+        "publishedAt": "2026-09-28",
+        "recordedAt": "2026-10-03T06:20:54Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bavarian-nordic-transactions-connection-share-064700879.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-03T06:20:54Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "BAVA.CO"
+}

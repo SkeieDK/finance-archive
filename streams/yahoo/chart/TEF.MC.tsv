@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:25:55.226Z		200	29786	9e3ee4e1d66a518ff130fbdf553df5586f9557a2660f4774b17658006a80d290	ja	https://query1.finance.yahoo.com/v8/finance/chart/TEF.MC?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:25:56.284Z		200	13989	283c0a51fe8e8b9d5f086a8e548737a5e8bfdd1d3d942e09bc162665331ac19d	ja	https://query2.finance.yahoo.com/v8/finance/chart/TEF.MC?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:25:56.406Z		200	16948	ef38708b7cb990e9349a7c92c44c0ca526f5561226ea198ab7ae6fd2b9873ee4	ja	https://query2.finance.yahoo.com/v8/finance/chart/TEF.MC?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791019556

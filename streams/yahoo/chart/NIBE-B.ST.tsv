@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:13:54.308Z		200	28196	7991b001bca6fc98c25959bb45dc7acb1b4f05b5f9643757813c7652498d220e	ja	https://query1.finance.yahoo.com/v8/finance/chart/NIBE-B.ST?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:13:55.452Z		200	13532	015784e8da4edf74bb9cf1e7ecd8b21110036e79ee413d20b5d1938e3bf10b7a	ja	https://query2.finance.yahoo.com/v8/finance/chart/NIBE-B.ST?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:13:55.569Z		200	15931	02a411ae98072bcb0368c592ef8fc89165cbe21c8eabec9aff4dfa32fd0d0591	ja	https://query2.finance.yahoo.com/v8/finance/chart/NIBE-B.ST?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791018835

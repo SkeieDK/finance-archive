@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:59:34.789Z		200	25990	717516706afa1b25cbddea56e275bf6608452be3b263b3fcb832403b5cface7d	ja	https://query1.finance.yahoo.com/v8/finance/chart/HAFNI.OL?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:59:36.071Z		200	13197	cc1ecfe78dc3f4449891820181329d5f12d54c2ea23b2c5492e72cd8934c5e0d	ja	https://query2.finance.yahoo.com/v8/finance/chart/HAFNI.OL?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:59:36.197Z		200	10849	5aa06905508b2e97bed9f54c2de484f55c97ba7040bfa6d901f5eb14ae175659	ja	https://query2.finance.yahoo.com/v8/finance/chart/HAFNI.OL?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791017976

@@ -1,0 +1,41 @@
+{
+  "contentHash": "fca84a78cae958dd",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "cBrain announced a strategic partnership with the Danish trade union Djoef to develop integrated digital platforms for unions, describing it as extending its F2 platform into the CRM market with delivery in phases.",
+        "key": "85a6870df511b676",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "cBrain A/S company announcement, signed by Per Tejs Knudsen, CEO",
+        "url": "https://www.globenewswire.com/news-release/2026/09/30/3372118/0/en/cbrain-announces-strategic-partnership-with-djoef-and-upgrades-earnings.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "cBrain said it was raising its expected 2026 EBT margin range to 22-26% from 20-25%, citing \"solid business development in Q3\", while confirming its 10-15% revenue growth expectation for 2026.",
+        "key": "2978ed25a31ebda5",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "cBrain A/S company announcement, signed by Per Tejs Knudsen, CEO; inquiries directed to Lars Moller Christiansen, CFO & Head of IR",
+        "url": "https://www.globenewswire.com/news-release/2026/09/30/3372118/0/en/cbrain-announces-strategic-partnership-with-djoef-and-upgrades-earnings.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Investing.com reported the Djoef partnership and the raised 2026 EBT margin guidance, with an editor's note stating the article was generated with AI support and reviewed by an editor.",
+        "key": "e52baf2dc22f5523",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-01T06:20:53Z",
+        "source": "Investing.com, referring to cBrain CEO Per Tejs Knudsen; no direct quotes carried",
+        "url": "https://www.investing.com/news/company-news/cbrain-partners-with-djoef-raises-2026-profit-margin-outlook-93CH-4925459",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-01T06:20:53Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "CBRAIN.CO"
+}

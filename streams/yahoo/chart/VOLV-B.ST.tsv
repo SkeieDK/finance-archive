@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:29:05.180Z		200	25515	04318c88b94e31d2d728783c327cb72c0ef1c2a7618c55f4ab3e2961315dbce7	ja	https://query1.finance.yahoo.com/v8/finance/chart/VOLV-B.ST?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T09:29:06.324Z		200	12702	d564077cfb9df5b393ba0d2cff9b1b3e906b14462531dc9918f7c5743fcc1bdd	ja	https://query2.finance.yahoo.com/v8/finance/chart/VOLV-B.ST?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T09:29:06.471Z		200	14987	6be0eb0010772f58229248438f4dab9028bd8e3e5def67e56a57627d4f1596b3	ja	https://query2.finance.yahoo.com/v8/finance/chart/VOLV-B.ST?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791019746

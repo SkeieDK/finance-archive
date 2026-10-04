@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:38:34.369Z		200	29477	42f9776c31054d240a1fdd069d00c8ae4c45fd627106c3841be71f39c4f4d223	ja	https://query1.finance.yahoo.com/v8/finance/chart/BBVA.MC?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:38:35.530Z		200	14084	921c3c65783bf960b03b10245642e08a9c2e55688efd8c7e5edf1ea77cd6c0f8	ja	https://query2.finance.yahoo.com/v8/finance/chart/BBVA.MC?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:38:35.661Z		200	17113	00210700d1b0cd9f6b863e0a0d2d07a0a40475867ad46d9986222df9006fefa1	ja	https://query2.finance.yahoo.com/v8/finance/chart/BBVA.MC?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791016715

@@ -1,0 +1,3 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T09:03:59.524Z		200	116995	ed52ce7d384bb4d458f935c14254fe523b3f758d1f40931bc8be5868776320a7	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/INVE-B.ST?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-03T09:04:00.059Z		200	102061	868cd21fa1a9c064531ae206618fb7b05f5a9caa848b3dd9cdb84ffd38c2e5d2	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/INVE-B.ST?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

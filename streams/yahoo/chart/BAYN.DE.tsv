@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-03T08:38:29.564Z		200	28558	66b30ba017ac5a57c4e5e22aa971ab0f2e7201321118970318fc84b0d61961f3	ja	https://query1.finance.yahoo.com/v8/finance/chart/BAYN.DE?interval=1d&range=1y&events=div%7Csplit
+2026-10-03T08:38:30.655Z		200	13748	6c25e43d3bfa604a897ff5f1fecc4261ea91921db5daab6ed6f42f5edc27dc28	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAYN.DE?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1722729600&period2=1790985600
+2026-10-03T08:38:30.800Z		200	16232	3245fe8987a1166a89a672518312cdf6418e0346af66fa502a14355ae281eb70	ja	https://query2.finance.yahoo.com/v8/finance/chart/BAYN.DE?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1443830400&period2=1791016710
