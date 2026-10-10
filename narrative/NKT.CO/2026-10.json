@@ -1,7 +1,7 @@
 {
-  "contentHash": "69a6a93bb89c72c3",
+  "contentHash": "5381236223599fc2",
   "payload": {
-    "count": 3,
+    "count": 4,
     "items": [
       {
         "claim": "NKT meddelte paa Investor Day 2026 i Karlskrona at selskabet fastholder sin strategiske retning under 'Charging Forward'-strategien, at de mellemfristede finansielle ambitioner er uaendrede, og at kommerciel drift af den udvidede offshore-kabelfabrik i Karlskrona ventes i 2. kvartal 2027, en smule foer plan.",
@@ -29,12 +29,21 @@
         "source": "NKT A/S, pressemeddelelse via Cision",
         "url": "https://news.cision.com/nkt/r/nkt-reaffirms-strategic-direction-and-presents-capital-allocation-priorities-at-investor-day-2026,c4401571",
         "verifiedAs": null
+      },
+      {
+        "claim": "BofA Global Research indledte dækning af NKT med købsanbefaling og beskrev selskabet som \"one of only three major suppliers with the technology and expertise to meet rising demand for high-voltage direct current (HVDC) cables\" og som \"a relatively direct way to benefit from Europe's spending on grid upgrades and electrification, alongside peers Prysmian and Nexans\"; banken fremhævede at \"NKT has almost full exposure to XLPE\", mens konkurrenter som Nexans har større andel masse-imprægneret kapacitet og langsommere udvidelsesplaner.",
+        "key": "86abbfff0a46f0ff",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "BofA Global Research (analytikere ikke navngivet i artiklen), refereret af Investing.com",
+        "url": "https://investing.com/news/stock-market-news/bofa-starts-bullish-coverage-on-nkt-on-rising-hvdc-cable-demand-4931926",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-03T06:20:54Z",
+  "recordedAt": "2026-10-07T06:20:31Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NKT.CO"

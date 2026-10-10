@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:17:58.702Z		200	91316	085e07cc28c3bc1e43dc9b34b577a4cec5b56d85e9d6501aa5e33b07605c1fc2	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PCT.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:17:59.148Z		200	50318	31fd517e23357f5c463dc483af8cc45c59f4a0ee9f9cf2bc24e7d93b42eeed22	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PCT.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:41:12.494Z		200	91316	085e07cc28c3bc1e43dc9b34b577a4cec5b56d85e9d6501aa5e33b07605c1fc2	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PCT.L?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:41:12.852Z		200	50318	31fd517e23357f5c463dc483af8cc45c59f4a0ee9f9cf2bc24e7d93b42eeed22	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PCT.L?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

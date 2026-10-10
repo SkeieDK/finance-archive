@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:52:37.991Z		200	158301	91e8acb84bc3df66066e90ef816a73d6a33bc7d08ec7f25a699442ef9f9c6fc0	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ERIC-B.ST?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:52:38.548Z		200	163048	83588ebae664887a80abe920efd6eee626f25f39a61c4664bc0a498b32fec12b	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ERIC-B.ST?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:18:26.690Z		200	158301	91e8acb84bc3df66066e90ef816a73d6a33bc7d08ec7f25a699442ef9f9c6fc0	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ERIC-B.ST?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:18:27.126Z		200	163048	83588ebae664887a80abe920efd6eee626f25f39a61c4664bc0a498b32fec12b	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ERIC-B.ST?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

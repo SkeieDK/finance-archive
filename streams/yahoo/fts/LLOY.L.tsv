@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:08:31.389Z		200	134643	a15272d1e559f5aadb4a6749a0d9be91a9c6b090d3a934ebc5a119e283c3027e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LLOY.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:08:32.015Z		200	89757	724fe704ceae1be88a8cd5d4c737e889cea810bed81d02c503962a6dffadfd35	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LLOY.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:31:01.047Z		200	134643	a15272d1e559f5aadb4a6749a0d9be91a9c6b090d3a934ebc5a119e283c3027e	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LLOY.L?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:31:01.457Z		200	89757	724fe704ceae1be88a8cd5d4c737e889cea810bed81d02c503962a6dffadfd35	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LLOY.L?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

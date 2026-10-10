@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:27:29.532Z		200	158809	edf07cdff4225b19b42da81bcea0bbdb106c0af1c47e232353ca49b2243d6a1c	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TTE.PA?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:27:29.905Z		200	149942	3a8d47e83309a321c2936463ea87e72458aeb912d1dd5c3482b907dd60740924	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TTE.PA?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T09:23:53.533Z		200	158809	edf07cdff4225b19b42da81bcea0bbdb106c0af1c47e232353ca49b2243d6a1c	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TTE.PA?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T09:23:53.910Z		200	149942	3a8d47e83309a321c2936463ea87e72458aeb912d1dd5c3482b907dd60740924	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TTE.PA?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

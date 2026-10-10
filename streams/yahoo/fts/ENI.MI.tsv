@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:52:05.937Z		200	176278	25eea66e3091c5b11cdaffcb7190b27d5588958cdd1469466377e4c42f15a012	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ENI.MI?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:52:06.401Z		200	178963	efea3f5896e7bb1beff5182726e62d7428fbf327822d5a28fa5a2e94fe80985b	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ENI.MI?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:17:57.593Z		200	176278	25eea66e3091c5b11cdaffcb7190b27d5588958cdd1469466377e4c42f15a012	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ENI.MI?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:17:58.067Z		200	178963	efea3f5896e7bb1beff5182726e62d7428fbf327822d5a28fa5a2e94fe80985b	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ENI.MI?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

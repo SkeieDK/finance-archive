@@ -1,0 +1,4904 @@
+{
+  "contentHash": "b56a795e313b0b97",
+  "payload": {
+    "count": 978,
+    "members": [
+      {
+        "name": "Agilent Technologies",
+        "region": null,
+        "ticker": "A"
+      },
+      {
+        "name": "A2A",
+        "region": null,
+        "ticker": "A2A.MI"
+      },
+      {
+        "name": "Aalborg BK",
+        "region": null,
+        "ticker": "AAB.CO"
+      },
+      {
+        "name": "Airtel Africa",
+        "region": null,
+        "ticker": "AAF.L"
+      },
+      {
+        "name": "Anglo American plc",
+        "region": null,
+        "ticker": "AAL.L"
+      },
+      {
+        "name": "Apple Inc.",
+        "region": null,
+        "ticker": "AAPL"
+      },
+      {
+        "name": "ABB Ltd",
+        "region": null,
+        "ticker": "ABB.ST"
+      },
+      {
+        "name": "AbbVie",
+        "region": null,
+        "ticker": "ABBV"
+      },
+      {
+        "name": "Aberdeen Group",
+        "region": null,
+        "ticker": "ABDN.L"
+      },
+      {
+        "name": "Associated British Foods",
+        "region": null,
+        "ticker": "ABF.L"
+      },
+      {
+        "name": "ABN AMRO",
+        "region": null,
+        "ticker": "ABN.AS"
+      },
+      {
+        "name": "Airbnb",
+        "region": null,
+        "ticker": "ABNB"
+      },
+      {
+        "name": "Abbott Laboratories",
+        "region": null,
+        "ticker": "ABT"
+      },
+      {
+        "name": "Accor",
+        "region": null,
+        "ticker": "AC.PA"
+      },
+      {
+        "name": "Crédit Agricole",
+        "region": null,
+        "ticker": "ACA.PA"
+      },
+      {
+        "name": "Arch Capital Group",
+        "region": null,
+        "ticker": "ACGL"
+      },
+      {
+        "name": "Accenture",
+        "region": null,
+        "ticker": "ACN"
+      },
+      {
+        "name": "ACS",
+        "region": null,
+        "ticker": "ACS.MC"
+      },
+      {
+        "name": "Acerinox",
+        "region": null,
+        "ticker": "ACX.MC"
+      },
+      {
+        "name": "Ahold Delhaize",
+        "region": null,
+        "ticker": "AD.AS"
+      },
+      {
+        "name": "Adobe Inc.",
+        "region": null,
+        "ticker": "ADBE"
+      },
+      {
+        "name": "Addtech B",
+        "region": null,
+        "ticker": "ADDT-B.ST"
+      },
+      {
+        "name": "Analog Devices",
+        "region": null,
+        "ticker": "ADI"
+      },
+      {
+        "name": "Archer Daniels Midland",
+        "region": null,
+        "ticker": "ADM"
+      },
+      {
+        "name": "Admiral Group",
+        "region": null,
+        "ticker": "ADM.L"
+      },
+      {
+        "name": "Automatic Data Processing",
+        "region": null,
+        "ticker": "ADP"
+      },
+      {
+        "name": "Adidas",
+        "region": null,
+        "ticker": "ADS.DE"
+      },
+      {
+        "name": "Autodesk",
+        "region": null,
+        "ticker": "ADSK"
+      },
+      {
+        "name": "Adyen",
+        "region": null,
+        "ticker": "ADYEN.AS"
+      },
+      {
+        "name": "Ameren",
+        "region": null,
+        "ticker": "AEE"
+      },
+      {
+        "name": "AENA",
+        "region": null,
+        "ticker": "AENA.MC"
+      },
+      {
+        "name": "American Electric Power",
+        "region": null,
+        "ticker": "AEP"
+      },
+      {
+        "name": "AES Corporation",
+        "region": null,
+        "ticker": "AES"
+      },
+      {
+        "name": "Aflac",
+        "region": null,
+        "ticker": "AFL"
+      },
+      {
+        "name": "Aegon",
+        "region": null,
+        "ticker": "AGN.AS"
+      },
+      {
+        "name": "Air Liquide",
+        "region": null,
+        "ticker": "AI.PA"
+      },
+      {
+        "name": "American International Group",
+        "region": null,
+        "ticker": "AIG"
+      },
+      {
+        "name": "Airbus",
+        "region": null,
+        "ticker": "AIR.PA"
+      },
+      {
+        "name": "Assurant",
+        "region": null,
+        "ticker": "AIZ"
+      },
+      {
+        "name": "Arthur J. Gallagher & Co.",
+        "region": null,
+        "ticker": "AJG"
+      },
+      {
+        "name": "Akamai Technologies",
+        "region": null,
+        "ticker": "AKAM"
+      },
+      {
+        "name": "Aker BP",
+        "region": null,
+        "ticker": "AKRBP.OL"
+      },
+      {
+        "name": "AkzoNobel",
+        "region": null,
+        "ticker": "AKZA.AS"
+      },
+      {
+        "name": "Albemarle Corporation",
+        "region": null,
+        "ticker": "ALB"
+      },
+      {
+        "name": "Alfa Laval",
+        "region": null,
+        "ticker": "ALFA.ST"
+      },
+      {
+        "name": "Alfen",
+        "region": null,
+        "ticker": "ALFEN.AS"
+      },
+      {
+        "name": "Align Technology",
+        "region": null,
+        "ticker": "ALGN"
+      },
+      {
+        "name": "Allstate",
+        "region": null,
+        "ticker": "ALL"
+      },
+      {
+        "name": "Allegion",
+        "region": null,
+        "ticker": "ALLE"
+      },
+      {
+        "name": "Aeluma",
+        "region": null,
+        "ticker": "ALMU"
+      },
+      {
+        "name": "Alstom",
+        "region": null,
+        "ticker": "ALO.PA"
+      },
+      {
+        "name": "AL Sydbank",
+        "region": null,
+        "ticker": "ALSYDB.CO"
+      },
+      {
+        "name": "Allianz",
+        "region": null,
+        "ticker": "ALV.DE"
+      },
+      {
+        "name": "Alliance Witan",
+        "region": null,
+        "ticker": "ALW.L"
+      },
+      {
+        "name": "Applied Materials",
+        "region": null,
+        "ticker": "AMAT"
+      },
+      {
+        "name": "Ambu",
+        "region": null,
+        "ticker": "AMBU-B.CO"
+      },
+      {
+        "name": "Amcor",
+        "region": null,
+        "ticker": "AMCR"
+      },
+      {
+        "name": "Advanced Micro Devices",
+        "region": null,
+        "ticker": "AMD"
+      },
+      {
+        "name": "Ametek",
+        "region": null,
+        "ticker": "AME"
+      },
+      {
+        "name": "Amgen",
+        "region": null,
+        "ticker": "AMGN"
+      },
+      {
+        "name": "Ameriprise Financial",
+        "region": null,
+        "ticker": "AMP"
+      },
+      {
+        "name": "Amplifon",
+        "region": null,
+        "ticker": "AMP.MI"
+      },
+      {
+        "name": "Amadeus IT Group",
+        "region": null,
+        "ticker": "AMS.MC"
+      },
+      {
+        "name": "American Tower",
+        "region": null,
+        "ticker": "AMT"
+      },
+      {
+        "name": "Amazon",
+        "region": null,
+        "ticker": "AMZN"
+      },
+      {
+        "name": "Acciona",
+        "region": null,
+        "ticker": "ANA.MC"
+      },
+      {
+        "name": "Acciona Energía",
+        "region": null,
+        "ticker": "ANE.MC"
+      },
+      {
+        "name": "Arista Networks",
+        "region": null,
+        "ticker": "ANET"
+      },
+      {
+        "name": "Antofagasta plc",
+        "region": null,
+        "ticker": "ANTO.L"
+      },
+      {
+        "name": "Aon plc",
+        "region": null,
+        "ticker": "AON"
+      },
+      {
+        "name": "A. O. Smith",
+        "region": null,
+        "ticker": "AOS"
+      },
+      {
+        "name": "APA Corporation",
+        "region": null,
+        "ticker": "APA"
+      },
+      {
+        "name": "Air Products",
+        "region": null,
+        "ticker": "APD"
+      },
+      {
+        "name": "Amphenol",
+        "region": null,
+        "ticker": "APH"
+      },
+      {
+        "name": "Apollo Global Management",
+        "region": null,
+        "ticker": "APO"
+      },
+      {
+        "name": "AppLovin",
+        "region": null,
+        "ticker": "APP"
+      },
+      {
+        "name": "Aptiv",
+        "region": null,
+        "ticker": "APTV"
+      },
+      {
+        "name": "Alexandria Real Estate Equities",
+        "region": null,
+        "ticker": "ARE"
+      },
+      {
+        "name": "Ares Management",
+        "region": null,
+        "ticker": "ARES"
+      },
+      {
+        "name": "ASM International",
+        "region": null,
+        "ticker": "ASM.AS"
+      },
+      {
+        "name": "ASML",
+        "region": null,
+        "ticker": "ASML"
+      },
+      {
+        "name": "ASML Holding",
+        "region": null,
+        "ticker": "ASML.AS"
+      },
+      {
+        "name": "Grupo Aeroportuario Sureste",
+        "region": null,
+        "ticker": "ASR"
+      },
+      {
+        "name": "ASR Nederland",
+        "region": null,
+        "ticker": "ASRNL.AS"
+      },
+      {
+        "name": "Assa Abloy B",
+        "region": null,
+        "ticker": "ASSA-B.ST"
+      },
+      {
+        "name": "Atlas Copco A",
+        "region": null,
+        "ticker": "ATCO-A.ST"
+      },
+      {
+        "name": "Atlas Copco B",
+        "region": null,
+        "ticker": "ATCO-B.ST"
+      },
+      {
+        "name": "Atmos Energy",
+        "region": null,
+        "ticker": "ATO"
+      },
+      {
+        "name": "Autotrader Group",
+        "region": null,
+        "ticker": "AUTO.L"
+      },
+      {
+        "name": "Aviva",
+        "region": null,
+        "ticker": "AV.L"
+      },
+      {
+        "name": "Broadcom",
+        "region": null,
+        "ticker": "AVGO"
+      },
+      {
+        "name": "Avio",
+        "region": null,
+        "ticker": "AVIO.MI"
+      },
+      {
+        "name": "Avery Dennison",
+        "region": null,
+        "ticker": "AVY"
+      },
+      {
+        "name": "American Water Works",
+        "region": null,
+        "ticker": "AWK"
+      },
+      {
+        "name": "Axon Enterprise",
+        "region": null,
+        "ticker": "AXON"
+      },
+      {
+        "name": "American Express",
+        "region": null,
+        "ticker": "AXP"
+      },
+      {
+        "name": "Azimut",
+        "region": null,
+        "ticker": "AZM.MI"
+      },
+      {
+        "name": "AstraZeneca",
+        "region": null,
+        "ticker": "AZN.L"
+      },
+      {
+        "name": "AstraZeneca",
+        "region": null,
+        "ticker": "AZN.ST"
+      },
+      {
+        "name": "AutoZone",
+        "region": null,
+        "ticker": "AZO"
+      },
+      {
+        "name": "Boeing",
+        "region": null,
+        "ticker": "BA"
+      },
+      {
+        "name": "BAE Systems",
+        "region": null,
+        "ticker": "BA.L"
+      },
+      {
+        "name": "Babcock International",
+        "region": null,
+        "ticker": "BAB.L"
+      },
+      {
+        "name": "Alibaba ADR",
+        "region": null,
+        "ticker": "BABA"
+      },
+      {
+        "name": "Bank of America",
+        "region": null,
+        "ticker": "BAC"
+      },
+      {
+        "name": "Bakkafrost",
+        "region": null,
+        "ticker": "BAKKA.OL"
+      },
+      {
+        "name": "Ball Corporation",
+        "region": null,
+        "ticker": "BALL"
+      },
+      {
+        "name": "Banco BPM",
+        "region": null,
+        "ticker": "BAMI.MI"
+      },
+      {
+        "name": "Barclays",
+        "region": null,
+        "ticker": "BARC.L"
+      },
+      {
+        "name": "BASF",
+        "region": null,
+        "ticker": "BAS.DE"
+      },
+      {
+        "name": "British American Tobacco",
+        "region": null,
+        "ticker": "BATS.L"
+      },
+      {
+        "name": "Bavarian Nordic",
+        "region": null,
+        "ticker": "BAVA.CO"
+      },
+      {
+        "name": "Baxter International",
+        "region": null,
+        "ticker": "BAX"
+      },
+      {
+        "name": "Bayer",
+        "region": null,
+        "ticker": "BAYN.DE"
+      },
+      {
+        "name": "Tritax Big Box REIT",
+        "region": null,
+        "ticker": "BBOX.L"
+      },
+      {
+        "name": "BBVA",
+        "region": null,
+        "ticker": "BBVA.MC"
+      },
+      {
+        "name": "Best Buy",
+        "region": null,
+        "ticker": "BBY"
+      },
+      {
+        "name": "Balfour Beatty",
+        "region": null,
+        "ticker": "BBY.L"
+      },
+      {
+        "name": "Brunello Cucinelli",
+        "region": null,
+        "ticker": "BC.MI"
+      },
+      {
+        "name": "Becton Dickinson",
+        "region": null,
+        "ticker": "BDX"
+      },
+      {
+        "name": "Bloom Energy",
+        "region": null,
+        "ticker": "BE"
+      },
+      {
+        "name": "Beiersdorf",
+        "region": null,
+        "ticker": "BEI.DE"
+      },
+      {
+        "name": "Franklin Resources",
+        "region": null,
+        "ticker": "BEN"
+      },
+      {
+        "name": "BE Semiconductors",
+        "region": null,
+        "ticker": "BESI.AS"
+      },
+      {
+        "name": "Brown–Forman",
+        "region": null,
+        "ticker": "BF-B"
+      },
+      {
+        "name": "Bunge Global",
+        "region": null,
+        "ticker": "BG"
+      },
+      {
+        "name": "Lion Finance Group",
+        "region": null,
+        "ticker": "BGEO.L"
+      },
+      {
+        "name": "Biogen",
+        "region": null,
+        "ticker": "BIIB"
+      },
+      {
+        "name": "Booking Holdings",
+        "region": null,
+        "ticker": "BKNG"
+      },
+      {
+        "name": "Baker Hughes",
+        "region": null,
+        "ticker": "BKR"
+      },
+      {
+        "name": "Bankinter",
+        "region": null,
+        "ticker": "BKT.MC"
+      },
+      {
+        "name": "BLDR",
+        "region": null,
+        "ticker": "BLDR"
+      },
+      {
+        "name": "BlackRock",
+        "region": null,
+        "ticker": "BLK"
+      },
+      {
+        "name": "British Land",
+        "region": null,
+        "ticker": "BLND.L"
+      },
+      {
+        "name": "Banca Mediolanum",
+        "region": null,
+        "ticker": "BMED.MI"
+      },
+      {
+        "name": "Banca Monte dei Paschi di Siena",
+        "region": null,
+        "ticker": "BMPS.MI"
+      },
+      {
+        "name": "BMW",
+        "region": null,
+        "ticker": "BMW.DE"
+      },
+      {
+        "name": "Bristol Myers Squibb",
+        "region": null,
+        "ticker": "BMY"
+      },
+      {
+        "name": "Danone",
+        "region": null,
+        "ticker": "BN.PA"
+      },
+      {
+        "name": "BlueNord",
+        "region": null,
+        "ticker": "BNOR.OL"
+      },
+      {
+        "name": "BNP Paribas",
+        "region": null,
+        "ticker": "BNP.PA"
+      },
+      {
+        "name": "Brenntag",
+        "region": null,
+        "ticker": "BNR.DE"
+      },
+      {
+        "name": "BNY Mellon",
+        "region": null,
+        "ticker": "BNY"
+      },
+      {
+        "name": "Bunzl",
+        "region": null,
+        "ticker": "BNZL.L"
+      },
+      {
+        "name": "Boliden",
+        "region": null,
+        "ticker": "BOL.ST"
+      },
+      {
+        "name": "Hugo Boss",
+        "region": null,
+        "ticker": "BOSS.DE"
+      },
+      {
+        "name": "BP",
+        "region": null,
+        "ticker": "BP.L"
+      },
+      {
+        "name": "BPER Banca",
+        "region": null,
+        "ticker": "BPE.MI"
+      },
+      {
+        "name": "Broadridge Financial Solutions",
+        "region": null,
+        "ticker": "BR"
+      },
+      {
+        "name": "Burberry Group",
+        "region": null,
+        "ticker": "BRBY.L"
+      },
+      {
+        "name": "Berkshire Hathaway",
+        "region": null,
+        "ticker": "BRK-B"
+      },
+      {
+        "name": "Brown & Brown",
+        "region": null,
+        "ticker": "BRO"
+      },
+      {
+        "name": "Boston Scientific",
+        "region": null,
+        "ticker": "BSX"
+      },
+      {
+        "name": "BT Group",
+        "region": null,
+        "ticker": "BT-A.L"
+      },
+      {
+        "name": "iShares Nasdaq Biotech UCITS ETF",
+        "region": null,
+        "ticker": "BTEC.L"
+      },
+      {
+        "name": "Barratt Redrow",
+        "region": null,
+        "ticker": "BTRW.L"
+      },
+      {
+        "name": "Bureau Veritas",
+        "region": null,
+        "ticker": "BVI.PA"
+      },
+      {
+        "name": "BW LPG",
+        "region": null,
+        "ticker": "BWLPG.OL"
+      },
+      {
+        "name": "Blackstone Inc.",
+        "region": null,
+        "ticker": "BX"
+      },
+      {
+        "name": "BXP, Inc.",
+        "region": null,
+        "ticker": "BXP"
+      },
+      {
+        "name": "Buzzi",
+        "region": null,
+        "ticker": "BZU.MI"
+      },
+      {
+        "name": "Citigroup",
+        "region": null,
+        "ticker": "C"
+      },
+      {
+        "name": "Carrefour",
+        "region": null,
+        "ticker": "CA.PA"
+      },
+      {
+        "name": "CaixaBank",
+        "region": null,
+        "ticker": "CABK.MC"
+      },
+      {
+        "name": "Cardinal Health",
+        "region": null,
+        "ticker": "CAH"
+      },
+      {
+        "name": "Capgemini",
+        "region": null,
+        "ticker": "CAP.PA"
+      },
+      {
+        "name": "Carlsberg Group",
+        "region": null,
+        "ticker": "CARL-B.CO"
+      },
+      {
+        "name": "Carrier Global",
+        "region": null,
+        "ticker": "CARR"
+      },
+      {
+        "name": "Casey's",
+        "region": null,
+        "ticker": "CASY"
+      },
+      {
+        "name": "Caterpillar Inc.",
+        "region": null,
+        "ticker": "CAT"
+      },
+      {
+        "name": "Chubb Limited",
+        "region": null,
+        "ticker": "CB"
+      },
+      {
+        "name": "Commerzbank",
+        "region": null,
+        "ticker": "CBK.DE"
+      },
+      {
+        "name": "Cboe Global Markets",
+        "region": null,
+        "ticker": "CBOE"
+      },
+      {
+        "name": "cBrain",
+        "region": null,
+        "ticker": "CBRAIN.CO"
+      },
+      {
+        "name": "CBRE Group",
+        "region": null,
+        "ticker": "CBRE"
+      },
+      {
+        "name": "Computacenter",
+        "region": null,
+        "ticker": "CCC.L"
+      },
+      {
+        "name": "Coca-Cola Europacific Partners",
+        "region": null,
+        "ticker": "CCEP.L"
+      },
+      {
+        "name": "Coca-Cola HBC",
+        "region": null,
+        "ticker": "CCH.L"
+      },
+      {
+        "name": "Crown Castle",
+        "region": null,
+        "ticker": "CCI"
+      },
+      {
+        "name": "Cameco",
+        "region": null,
+        "ticker": "CCJ"
+      },
+      {
+        "name": "Carnival Corporation",
+        "region": null,
+        "ticker": "CCL"
+      },
+      {
+        "name": "Cadence Design Systems",
+        "region": null,
+        "ticker": "CDNS"
+      },
+      {
+        "name": "CDW Corporation",
+        "region": null,
+        "ticker": "CDW"
+      },
+      {
+        "name": "Constellation Energy",
+        "region": null,
+        "ticker": "CEG"
+      },
+      {
+        "name": "CF Industries",
+        "region": null,
+        "ticker": "CF"
+      },
+      {
+        "name": "Citizens Financial Group",
+        "region": null,
+        "ticker": "CFG"
+      },
+      {
+        "name": "Church & Dwight",
+        "region": null,
+        "ticker": "CHD"
+      },
+      {
+        "name": "ChemoMetec",
+        "region": null,
+        "ticker": "CHEMM.CO"
+      },
+      {
+        "name": "C.H. Robinson",
+        "region": null,
+        "ticker": "CHRW"
+      },
+      {
+        "name": "Charter Communications",
+        "region": null,
+        "ticker": "CHTR"
+      },
+      {
+        "name": "Cigna",
+        "region": null,
+        "ticker": "CI"
+      },
+      {
+        "name": "Ciena",
+        "region": null,
+        "ticker": "CIEN"
+      },
+      {
+        "name": "Cincinnati Financial",
+        "region": null,
+        "ticker": "CINF"
+      },
+      {
+        "name": "Colgate-Palmolive",
+        "region": null,
+        "ticker": "CL"
+      },
+      {
+        "name": "Cellnex Telecom",
+        "region": null,
+        "ticker": "CLNX.MC"
+      },
+      {
+        "name": "Clorox",
+        "region": null,
+        "ticker": "CLX"
+      },
+      {
+        "name": "Comcast",
+        "region": null,
+        "ticker": "CMCSA"
+      },
+      {
+        "name": "CME Group",
+        "region": null,
+        "ticker": "CME"
+      },
+      {
+        "name": "Chipotle Mexican Grill",
+        "region": null,
+        "ticker": "CMG"
+      },
+      {
+        "name": "Cummins",
+        "region": null,
+        "ticker": "CMI"
+      },
+      {
+        "name": "CMS Energy",
+        "region": null,
+        "ticker": "CMS"
+      },
+      {
+        "name": "Centrica",
+        "region": null,
+        "ticker": "CNA.L"
+      },
+      {
+        "name": "Centene Corporation",
+        "region": null,
+        "ticker": "CNC"
+      },
+      {
+        "name": "iShares NASDAQ 100 UCITS ETF",
+        "region": null,
+        "ticker": "CNDX.L"
+      },
+      {
+        "name": "CenterPoint Energy",
+        "region": null,
+        "ticker": "CNP"
+      },
+      {
+        "name": "Capital One",
+        "region": null,
+        "ticker": "COF"
+      },
+      {
+        "name": "Coherent Corp.",
+        "region": null,
+        "ticker": "COHR"
+      },
+      {
+        "name": "Coinbase",
+        "region": null,
+        "ticker": "COIN"
+      },
+      {
+        "name": "Inmobiliaria Colonial",
+        "region": null,
+        "ticker": "COL.MC"
+      },
+      {
+        "name": "Coloplast",
+        "region": null,
+        "ticker": "COLO-B.CO"
+      },
+      {
+        "name": "Continental",
+        "region": null,
+        "ticker": "CON.DE"
+      },
+      {
+        "name": "Cooper Companies (The)",
+        "region": null,
+        "ticker": "COO"
+      },
+      {
+        "name": "ConocoPhillips",
+        "region": null,
+        "ticker": "COP"
+      },
+      {
+        "name": "Cencora",
+        "region": null,
+        "ticker": "COR"
+      },
+      {
+        "name": "Costco",
+        "region": null,
+        "ticker": "COST"
+      },
+      {
+        "name": "Copa Holdings",
+        "region": null,
+        "ticker": "CPA"
+      },
+      {
+        "name": "Corpay",
+        "region": null,
+        "ticker": "CPAY"
+      },
+      {
+        "name": "Campbells Company",
+        "region": null,
+        "ticker": "CPB"
+      },
+      {
+        "name": "Compass Group",
+        "region": null,
+        "ticker": "CPG.L"
+      },
+      {
+        "name": "Campari",
+        "region": null,
+        "ticker": "CPR.MI"
+      },
+      {
+        "name": "Capri Holdings",
+        "region": null,
+        "ticker": "CPRI"
+      },
+      {
+        "name": "Copart",
+        "region": null,
+        "ticker": "CPRT"
+      },
+      {
+        "name": "Camden Property Trust",
+        "region": null,
+        "ticker": "CPT"
+      },
+      {
+        "name": "Circle Internet Group",
+        "region": null,
+        "ticker": "CRCL"
+      },
+      {
+        "name": "Croda International",
+        "region": null,
+        "ticker": "CRDA.L"
+      },
+      {
+        "name": "CRH plc",
+        "region": null,
+        "ticker": "CRH"
+      },
+      {
+        "name": "Charles River Laboratories",
+        "region": null,
+        "ticker": "CRL"
+      },
+      {
+        "name": "Salesforce",
+        "region": null,
+        "ticker": "CRM"
+      },
+      {
+        "name": "CrowdStrike",
+        "region": null,
+        "ticker": "CRWD"
+      },
+      {
+        "name": "Axa",
+        "region": null,
+        "ticker": "CS.PA"
+      },
+      {
+        "name": "Cisco",
+        "region": null,
+        "ticker": "CSCO"
+      },
+      {
+        "name": "CoStar Group",
+        "region": null,
+        "ticker": "CSGP"
+      },
+      {
+        "name": "CSX Corporation",
+        "region": null,
+        "ticker": "CSX"
+      },
+      {
+        "name": "Cintas",
+        "region": null,
+        "ticker": "CTAS"
+      },
+      {
+        "name": "Convatec",
+        "region": null,
+        "ticker": "CTEC.L"
+      },
+      {
+        "name": "Cognizant",
+        "region": null,
+        "ticker": "CTSH"
+      },
+      {
+        "name": "CTVA",
+        "region": null,
+        "ticker": "CTVA"
+      },
+      {
+        "name": "Carvana",
+        "region": null,
+        "ticker": "CVNA"
+      },
+      {
+        "name": "CVS Health",
+        "region": null,
+        "ticker": "CVS"
+      },
+      {
+        "name": "Chevron Corporation",
+        "region": null,
+        "ticker": "CVX"
+      },
+      {
+        "name": "Dominion Energy",
+        "region": null,
+        "ticker": "D"
+      },
+      {
+        "name": "Delta Air Lines",
+        "region": null,
+        "ticker": "DAL"
+      },
+      {
+        "name": "Danske Bank",
+        "region": null,
+        "ticker": "DANSKE.CO"
+      },
+      {
+        "name": "DoorDash",
+        "region": null,
+        "ticker": "DASH"
+      },
+      {
+        "name": "Deutsche Börse",
+        "region": null,
+        "ticker": "DB1.DE"
+      },
+      {
+        "name": "Deutsche Bank",
+        "region": null,
+        "ticker": "DBK.DE"
+      },
+      {
+        "name": "DCC Energy",
+        "region": null,
+        "ticker": "DCC.L"
+      },
+      {
+        "name": "DuPont",
+        "region": null,
+        "ticker": "DD"
+      },
+      {
+        "name": "Datadog",
+        "region": null,
+        "ticker": "DDOG"
+      },
+      {
+        "name": "Deere & Company",
+        "region": null,
+        "ticker": "DE"
+      },
+      {
+        "name": "Deckers Brands",
+        "region": null,
+        "ticker": "DECK"
+      },
+      {
+        "name": "Dell Technologies",
+        "region": null,
+        "ticker": "DELL"
+      },
+      {
+        "name": "Demant",
+        "region": null,
+        "ticker": "DEMANT.CO"
+      },
+      {
+        "name": "Dollar General",
+        "region": null,
+        "ticker": "DG"
+      },
+      {
+        "name": "Vinci",
+        "region": null,
+        "ticker": "DG.PA"
+      },
+      {
+        "name": "Diageo",
+        "region": null,
+        "ticker": "DGE.L"
+      },
+      {
+        "name": "Quest Diagnostics",
+        "region": null,
+        "ticker": "DGX"
+      },
+      {
+        "name": "D. R. Horton",
+        "region": null,
+        "ticker": "DHI"
+      },
+      {
+        "name": "Deutsche Post",
+        "region": null,
+        "ticker": "DHL.DE"
+      },
+      {
+        "name": "Danaher Corporation",
+        "region": null,
+        "ticker": "DHR"
+      },
+      {
+        "name": "Diasorin",
+        "region": null,
+        "ticker": "DIA.MI"
+      },
+      {
+        "name": "Walt Disney Company (The)",
+        "region": null,
+        "ticker": "DIS"
+      },
+      {
+        "name": "Digital Realty",
+        "region": null,
+        "ticker": "DLR"
+      },
+      {
+        "name": "Dollar Tree",
+        "region": null,
+        "ticker": "DLTR"
+      },
+      {
+        "name": "Ginkgo Bioworks",
+        "region": null,
+        "ticker": "DNA"
+      },
+      {
+        "name": "DNB Bank",
+        "region": null,
+        "ticker": "DNB.OL"
+      },
+      {
+        "name": "D/S Norden",
+        "region": null,
+        "ticker": "DNORD.CO"
+      },
+      {
+        "name": "Healthpeak Properties",
+        "region": null,
+        "ticker": "DOC"
+      },
+      {
+        "name": "Dover Corporation",
+        "region": null,
+        "ticker": "DOV"
+      },
+      {
+        "name": "Dow Inc.",
+        "region": null,
+        "ticker": "DOW"
+      },
+      {
+        "name": "Diploma",
+        "region": null,
+        "ticker": "DPLM.L"
+      },
+      {
+        "name": "Domino's",
+        "region": null,
+        "ticker": "DPZ"
+      },
+      {
+        "name": "Darden Restaurants",
+        "region": null,
+        "ticker": "DRI"
+      },
+      {
+        "name": "DSM Firmenich AG",
+        "region": null,
+        "ticker": "DSFIR.AS"
+      },
+      {
+        "name": "DSV",
+        "region": null,
+        "ticker": "DSV.CO"
+      },
+      {
+        "name": "Dassault Systèmes",
+        "region": null,
+        "ticker": "DSY.PA"
+      },
+      {
+        "name": "DTE Energy",
+        "region": null,
+        "ticker": "DTE"
+      },
+      {
+        "name": "Deutsche Telekom",
+        "region": null,
+        "ticker": "DTE.DE"
+      },
+      {
+        "name": "Daimler Truck",
+        "region": null,
+        "ticker": "DTG.DE"
+      },
+      {
+        "name": "Duke Energy",
+        "region": null,
+        "ticker": "DUK"
+      },
+      {
+        "name": "DaVita",
+        "region": null,
+        "ticker": "DVA"
+      },
+      {
+        "name": "Devon Energy",
+        "region": null,
+        "ticker": "DVN"
+      },
+      {
+        "name": "Dexcom",
+        "region": null,
+        "ticker": "DXCM"
+      },
+      {
+        "name": "eBay Inc.",
+        "region": null,
+        "ticker": "EBAY"
+      },
+      {
+        "name": "EchoStar",
+        "region": null,
+        "ticker": "ECHO"
+      },
+      {
+        "name": "Ecolab",
+        "region": null,
+        "ticker": "ECL"
+      },
+      {
+        "name": "Consolidated Edison",
+        "region": null,
+        "ticker": "ED"
+      },
+      {
+        "name": "EDEN.PA",
+        "region": null,
+        "ticker": "EDEN.PA"
+      },
+      {
+        "name": "Endeavour Mining",
+        "region": null,
+        "ticker": "EDV.L"
+      },
+      {
+        "name": "Equifax",
+        "region": null,
+        "ticker": "EFX"
+      },
+      {
+        "name": "Everest Group",
+        "region": null,
+        "ticker": "EG"
+      },
+      {
+        "name": "Edison International",
+        "region": null,
+        "ticker": "EIX"
+      },
+      {
+        "name": "Elekta B",
+        "region": null,
+        "ticker": "EKTA-B.ST"
+      },
+      {
+        "name": "Estée Lauder Companies (The)",
+        "region": null,
+        "ticker": "EL"
+      },
+      {
+        "name": "EssilorLuxottica",
+        "region": null,
+        "ticker": "EL.PA"
+      },
+      {
+        "name": "Endesa",
+        "region": null,
+        "ticker": "ELE.MC"
+      },
+      {
+        "name": "Elisa",
+        "region": null,
+        "ticker": "ELISA.HE"
+      },
+      {
+        "name": "Elevance Health",
+        "region": null,
+        "ticker": "ELV"
+      },
+      {
+        "name": "Embraer",
+        "region": null,
+        "ticker": "EMBJ"
+      },
+      {
+        "name": "Emcor",
+        "region": null,
+        "ticker": "EME"
+      },
+      {
+        "name": "iShares Core MSCI EM IMI UCITS ETF",
+        "region": null,
+        "ticker": "EMIM.L"
+      },
+      {
+        "name": "Emerson Electric",
+        "region": null,
+        "ticker": "EMR"
+      },
+      {
+        "name": "Bouygues",
+        "region": null,
+        "ticker": "EN.PA"
+      },
+      {
+        "name": "Enel",
+        "region": null,
+        "ticker": "ENEL.MI"
+      },
+      {
+        "name": "Enagás",
+        "region": null,
+        "ticker": "ENG.MC"
+      },
+      {
+        "name": "Engie",
+        "region": null,
+        "ticker": "ENGI.PA"
+      },
+      {
+        "name": "Eni",
+        "region": null,
+        "ticker": "ENI.MI"
+      },
+      {
+        "name": "Siemens Energy",
+        "region": null,
+        "ticker": "ENR.DE"
+      },
+      {
+        "name": "Entegris",
+        "region": null,
+        "ticker": "ENTG"
+      },
+      {
+        "name": "Euronext",
+        "region": null,
+        "ticker": "ENX.PA"
+      },
+      {
+        "name": "E.ON",
+        "region": null,
+        "ticker": "EOAN.DE"
+      },
+      {
+        "name": "EOG Resources",
+        "region": null,
+        "ticker": "EOG"
+      },
+      {
+        "name": "Epiroc A",
+        "region": null,
+        "ticker": "EPI-A.ST"
+      },
+      {
+        "name": "Equinix",
+        "region": null,
+        "ticker": "EQIX"
+      },
+      {
+        "name": "Equinor",
+        "region": null,
+        "ticker": "EQNR.OL"
+      },
+      {
+        "name": "EQT Corporation",
+        "region": null,
+        "ticker": "EQT"
+      },
+      {
+        "name": "EQT",
+        "region": null,
+        "ticker": "EQT.ST"
+      },
+      {
+        "name": "Eurofins Scientific",
+        "region": null,
+        "ticker": "ERF.PA"
+      },
+      {
+        "name": "Ericsson B",
+        "region": null,
+        "ticker": "ERIC-B.ST"
+      },
+      {
+        "name": "Erie Indemnity",
+        "region": null,
+        "ticker": "ERIE"
+      },
+      {
+        "name": "Eversource Energy",
+        "region": null,
+        "ticker": "ES"
+      },
+      {
+        "name": "Essex Property Trust",
+        "region": null,
+        "ticker": "ESS"
+      },
+      {
+        "name": "Essity B",
+        "region": null,
+        "ticker": "ESSITY-B.ST"
+      },
+      {
+        "name": "Eaton Corporation",
+        "region": null,
+        "ticker": "ETN"
+      },
+      {
+        "name": "Entergy",
+        "region": null,
+        "ticker": "ETR"
+      },
+      {
+        "name": "Etsy",
+        "region": null,
+        "ticker": "ETSY"
+      },
+      {
+        "name": "CTS Eventim",
+        "region": null,
+        "ticker": "EVD.DE"
+      },
+      {
+        "name": "Evolution",
+        "region": null,
+        "ticker": "EVO.ST"
+      },
+      {
+        "name": "Evergy",
+        "region": null,
+        "ticker": "EVRG"
+      },
+      {
+        "name": "Edwards Lifesciences",
+        "region": null,
+        "ticker": "EW"
+      },
+      {
+        "name": "Exelon",
+        "region": null,
+        "ticker": "EXC"
+      },
+      {
+        "name": "Expand Energy",
+        "region": null,
+        "ticker": "EXE"
+      },
+      {
+        "name": "Exor",
+        "region": null,
+        "ticker": "EXO.AS"
+      },
+      {
+        "name": "Expeditors International",
+        "region": null,
+        "ticker": "EXPD"
+      },
+      {
+        "name": "Expedia Group",
+        "region": null,
+        "ticker": "EXPE"
+      },
+      {
+        "name": "Experian",
+        "region": null,
+        "ticker": "EXPN.L"
+      },
+      {
+        "name": "Extra Space Storage",
+        "region": null,
+        "ticker": "EXR"
+      },
+      {
+        "name": "EasyJet",
+        "region": null,
+        "ticker": "EZJ.L"
+      },
+      {
+        "name": "Ford Motor Company",
+        "region": null,
+        "ticker": "F"
+      },
+      {
+        "name": "Diamondback Energy",
+        "region": null,
+        "ticker": "FANG"
+      },
+      {
+        "name": "Fastenal",
+        "region": null,
+        "ticker": "FAST"
+      },
+      {
+        "name": "FinecoBank",
+        "region": null,
+        "ticker": "FBK.MI"
+      },
+      {
+        "name": "F & C Investment Trust",
+        "region": null,
+        "ticker": "FCIT.L"
+      },
+      {
+        "name": "Fincantieri",
+        "region": null,
+        "ticker": "FCT.MI"
+      },
+      {
+        "name": "Freeport-McMoRan",
+        "region": null,
+        "ticker": "FCX"
+      },
+      {
+        "name": "Fluidra",
+        "region": null,
+        "ticker": "FDR.MC"
+      },
+      {
+        "name": "FactSet",
+        "region": null,
+        "ticker": "FDS"
+      },
+      {
+        "name": "FedEx",
+        "region": null,
+        "ticker": "FDX"
+      },
+      {
+        "name": "FedEx Freight",
+        "region": null,
+        "ticker": "FDXF"
+      },
+      {
+        "name": "FirstEnergy",
+        "region": null,
+        "ticker": "FE"
+      },
+      {
+        "name": "Ferrovial",
+        "region": null,
+        "ticker": "FER.MC"
+      },
+      {
+        "name": "Ferguson Enterprises",
+        "region": null,
+        "ticker": "FERG"
+      },
+      {
+        "name": "F5, Inc.",
+        "region": null,
+        "ticker": "FFIV"
+      },
+      {
+        "name": "Eiffage",
+        "region": null,
+        "ticker": "FGR.PA"
+      },
+      {
+        "name": "Fair Isaac",
+        "region": null,
+        "ticker": "FICO"
+      },
+      {
+        "name": "Fidelity National Information Services",
+        "region": null,
+        "ticker": "FIS"
+      },
+      {
+        "name": "Fiserv",
+        "region": null,
+        "ticker": "FISV"
+      },
+      {
+        "name": "Fifth Third Bancorp",
+        "region": null,
+        "ticker": "FITB"
+      },
+      {
+        "name": "Comfort Systems USA",
+        "region": null,
+        "ticker": "FIX"
+      },
+      {
+        "name": "Flex Ltd.",
+        "region": null,
+        "ticker": "FLEX"
+      },
+      {
+        "name": "FLSmidth & Co.",
+        "region": null,
+        "ticker": "FLS.CO"
+      },
+      {
+        "name": "Fresenius Medical Care",
+        "region": null,
+        "ticker": "FME.DE"
+      },
+      {
+        "name": "FOBANK.CO",
+        "region": null,
+        "ticker": "FOBANK.CO"
+      },
+      {
+        "name": "Fortum",
+        "region": null,
+        "ticker": "FORTUM.HE"
+      },
+      {
+        "name": "Fox Corporation (Class B)",
+        "region": null,
+        "ticker": "FOX"
+      },
+      {
+        "name": "Fox Corporation (Class A)",
+        "region": null,
+        "ticker": "FOXA"
+      },
+      {
+        "name": "Fresenius",
+        "region": null,
+        "ticker": "FRE.DE"
+      },
+      {
+        "name": "Fresnillo plc",
+        "region": null,
+        "ticker": "FRES.L"
+      },
+      {
+        "name": "Frontline",
+        "region": null,
+        "ticker": "FRO.OL"
+      },
+      {
+        "name": "Federal Realty Investment Trust",
+        "region": null,
+        "ticker": "FRT"
+      },
+      {
+        "name": "First Solar",
+        "region": null,
+        "ticker": "FSLR"
+      },
+      {
+        "name": "Fortinet",
+        "region": null,
+        "ticker": "FTNT"
+      },
+      {
+        "name": "Fortive",
+        "region": null,
+        "ticker": "FTV"
+      },
+      {
+        "name": "Generali",
+        "region": null,
+        "ticker": "G.MI"
+      },
+      {
+        "name": "GEA Group",
+        "region": null,
+        "ticker": "G1A.DE"
+      },
+      {
+        "name": "Scout24",
+        "region": null,
+        "ticker": "G24.DE"
+      },
+      {
+        "name": "Games Workshop",
+        "region": null,
+        "ticker": "GAW.L"
+      },
+      {
+        "name": "General Dynamics",
+        "region": null,
+        "ticker": "GD"
+      },
+      {
+        "name": "GoDaddy",
+        "region": null,
+        "ticker": "GDDY"
+      },
+      {
+        "name": "GE Aerospace",
+        "region": null,
+        "ticker": "GE"
+      },
+      {
+        "name": "GE HealthCare",
+        "region": null,
+        "ticker": "GEHC"
+      },
+      {
+        "name": "Gen Digital",
+        "region": null,
+        "ticker": "GEN"
+      },
+      {
+        "name": "GE Vernova",
+        "region": null,
+        "ticker": "GEV"
+      },
+      {
+        "name": "Gilead Sciences",
+        "region": null,
+        "ticker": "GILD"
+      },
+      {
+        "name": "General Mills",
+        "region": null,
+        "ticker": "GIS"
+      },
+      {
+        "name": "Gjensidige Forsikring",
+        "region": null,
+        "ticker": "GJF.OL"
+      },
+      {
+        "name": "Globe Life",
+        "region": null,
+        "ticker": "GL"
+      },
+      {
+        "name": "Société Générale",
+        "region": null,
+        "ticker": "GLE.PA"
+      },
+      {
+        "name": "Glencore",
+        "region": null,
+        "ticker": "GLEN.L"
+      },
+      {
+        "name": "Corning Inc.",
+        "region": null,
+        "ticker": "GLW"
+      },
+      {
+        "name": "General Motors",
+        "region": null,
+        "ticker": "GM"
+      },
+      {
+        "name": "Genmab",
+        "region": null,
+        "ticker": "GMAB.CO"
+      },
+      {
+        "name": "GN Store Nord",
+        "region": null,
+        "ticker": "GN.CO"
+      },
+      {
+        "name": "Generac",
+        "region": null,
+        "ticker": "GNRC"
+      },
+      {
+        "name": "Golden Ocean Group",
+        "region": null,
+        "ticker": "GOGL.OL"
+      },
+      {
+        "name": "Alphabet Inc. (Class C)",
+        "region": null,
+        "ticker": "GOOG"
+      },
+      {
+        "name": "Alphabet Inc. (Class A)",
+        "region": null,
+        "ticker": "GOOGL"
+      },
+      {
+        "name": "Genuine Parts Company",
+        "region": null,
+        "ticker": "GPC"
+      },
+      {
+        "name": "Global Payments",
+        "region": null,
+        "ticker": "GPN"
+      },
+      {
+        "name": "Grab Holdings",
+        "region": null,
+        "ticker": "GRAB"
+      },
+      {
+        "name": "Grifols",
+        "region": null,
+        "ticker": "GRF.MC"
+      },
+      {
+        "name": "Garmin",
+        "region": null,
+        "ticker": "GRMN"
+      },
+      {
+        "name": "Goldman Sachs",
+        "region": null,
+        "ticker": "GS"
+      },
+      {
+        "name": "GSK plc",
+        "region": null,
+        "ticker": "GSK.L"
+      },
+      {
+        "name": "Gubra",
+        "region": null,
+        "ticker": "GUBRA.CO"
+      },
+      {
+        "name": "W. W. Grainger",
+        "region": null,
+        "ticker": "GWW"
+      },
+      {
+        "name": "Hafnia Limited",
+        "region": null,
+        "ticker": "HAFNI.OL"
+      },
+      {
+        "name": "Halliburton",
+        "region": null,
+        "ticker": "HAL"
+      },
+      {
+        "name": "Harboes Bryggeri B",
+        "region": null,
+        "ticker": "HARB-B.CO"
+      },
+      {
+        "name": "Hasbro",
+        "region": null,
+        "ticker": "HAS"
+      },
+      {
+        "name": "Höegh Autoliners ASA",
+        "region": null,
+        "ticker": "HAUTO.OL"
+      },
+      {
+        "name": "Huntington Bancshares",
+        "region": null,
+        "ticker": "HBAN"
+      },
+      {
+        "name": "HCA Healthcare",
+        "region": null,
+        "ticker": "HCA"
+      },
+      {
+        "name": "Home Depot (The)",
+        "region": null,
+        "ticker": "HD"
+      },
+      {
+        "name": "Heidelberg Materials",
+        "region": null,
+        "ticker": "HEI.DE"
+      },
+      {
+        "name": "Heineken",
+        "region": null,
+        "ticker": "HEIA.AS"
+      },
+      {
+        "name": "Henkel",
+        "region": null,
+        "ticker": "HEN3.DE"
+      },
+      {
+        "name": "Hera",
+        "region": null,
+        "ticker": "HER.MI"
+      },
+      {
+        "name": "Hexagon B",
+        "region": null,
+        "ticker": "HEXA-B.ST"
+      },
+      {
+        "name": "Hiab",
+        "region": null,
+        "ticker": "HIAB.HE"
+      },
+      {
+        "name": "Hartford (The)",
+        "region": null,
+        "ticker": "HIG"
+      },
+      {
+        "name": "Huntington Ingalls Industries",
+        "region": null,
+        "ticker": "HII"
+      },
+      {
+        "name": "Halma plc",
+        "region": null,
+        "ticker": "HLMA.L"
+      },
+      {
+        "name": "Haleon",
+        "region": null,
+        "ticker": "HLN.L"
+      },
+      {
+        "name": "Hilton Worldwide",
+        "region": null,
+        "ticker": "HLT"
+      },
+      {
+        "name": "Hennes & Mauritz B",
+        "region": null,
+        "ticker": "HM-B.ST"
+      },
+      {
+        "name": "Hannover Re",
+        "region": null,
+        "ticker": "HNR1.DE"
+      },
+      {
+        "name": "Hallador Energy",
+        "region": null,
+        "ticker": "HNRG"
+      },
+      {
+        "name": "Thales",
+        "region": null,
+        "ticker": "HO.PA"
+      },
+      {
+        "name": "Honeywell Technologies",
+        "region": null,
+        "ticker": "HON"
+      },
+      {
+        "name": "Honeywell Aerospace",
+        "region": null,
+        "ticker": "HONA"
+      },
+      {
+        "name": "Robinhood Markets",
+        "region": null,
+        "ticker": "HOOD"
+      },
+      {
+        "name": "Hewlett Packard Enterprise",
+        "region": null,
+        "ticker": "HPE"
+      },
+      {
+        "name": "HP Inc.",
+        "region": null,
+        "ticker": "HPQ"
+      },
+      {
+        "name": "Hormel Foods",
+        "region": null,
+        "ticker": "HRL"
+      },
+      {
+        "name": "HSBC",
+        "region": null,
+        "ticker": "HSBA.L"
+      },
+      {
+        "name": "Henry Schein",
+        "region": null,
+        "ticker": "HSIC"
+      },
+      {
+        "name": "Host Hotels & Resorts",
+        "region": null,
+        "ticker": "HST"
+      },
+      {
+        "name": "Hiscox",
+        "region": null,
+        "ticker": "HSX.L"
+      },
+      {
+        "name": "Hershey Company (The)",
+        "region": null,
+        "ticker": "HSY"
+      },
+      {
+        "name": "Hubbell Incorporated",
+        "region": null,
+        "ticker": "HUBB"
+      },
+      {
+        "name": "Huhtamäki",
+        "region": null,
+        "ticker": "HUH1V.HE"
+      },
+      {
+        "name": "Humana",
+        "region": null,
+        "ticker": "HUM"
+      },
+      {
+        "name": "Howdens Joinery",
+        "region": null,
+        "ticker": "HWDN.L"
+      },
+      {
+        "name": "Howmet Aerospace",
+        "region": null,
+        "ticker": "HWM"
+      },
+      {
+        "name": "International Airlines Group",
+        "region": null,
+        "ticker": "IAG.L"
+      },
+      {
+        "name": "International Airlines Group",
+        "region": null,
+        "ticker": "IAG.MC"
+      },
+      {
+        "name": "Iberdrola",
+        "region": null,
+        "ticker": "IBE.MC"
+      },
+      {
+        "name": "Interactive Brokers",
+        "region": null,
+        "ticker": "IBKR"
+      },
+      {
+        "name": "IBM",
+        "region": null,
+        "ticker": "IBM"
+      },
+      {
+        "name": "Intercontinental Exchange",
+        "region": null,
+        "ticker": "ICE"
+      },
+      {
+        "name": "ICF International",
+        "region": null,
+        "ticker": "ICFI"
+      },
+      {
+        "name": "ICG",
+        "region": null,
+        "ticker": "ICG.L"
+      },
+      {
+        "name": "Indra",
+        "region": null,
+        "ticker": "IDR.MC"
+      },
+      {
+        "name": "Idexx Laboratories",
+        "region": null,
+        "ticker": "IDXX"
+      },
+      {
+        "name": "IDEX Corporation",
+        "region": null,
+        "ticker": "IEX"
+      },
+      {
+        "name": "International Flavors & Fragrances",
+        "region": null,
+        "ticker": "IFF"
+      },
+      {
+        "name": "Infineon Technologies",
+        "region": null,
+        "ticker": "IFX.DE"
+      },
+      {
+        "name": "InstallatørGruppen",
+        "region": null,
+        "ticker": "IG.CO"
+      },
+      {
+        "name": "Italgas",
+        "region": null,
+        "ticker": "IG.MI"
+      },
+      {
+        "name": "IG Group",
+        "region": null,
+        "ticker": "IGG.L"
+      },
+      {
+        "name": "IHG Hotels & Resorts",
+        "region": null,
+        "ticker": "IHG.L"
+      },
+      {
+        "name": "3i",
+        "region": null,
+        "ticker": "III.L"
+      },
+      {
+        "name": "Illumina, Inc.",
+        "region": null,
+        "ticker": "ILMN"
+      },
+      {
+        "name": "Imperial Brands",
+        "region": null,
+        "ticker": "IMB.L"
+      },
+      {
+        "name": "IMCD",
+        "region": null,
+        "ticker": "IMCD.AS"
+      },
+      {
+        "name": "iShares Core MSCI Europe UCITS ETF",
+        "region": null,
+        "ticker": "IMEU.L"
+      },
+      {
+        "name": "IMI",
+        "region": null,
+        "ticker": "IMI.L"
+      },
+      {
+        "name": "Incyte",
+        "region": null,
+        "ticker": "INCY"
+      },
+      {
+        "name": "Indutrade",
+        "region": null,
+        "ticker": "INDT.ST"
+      },
+      {
+        "name": "Industrivärden C",
+        "region": null,
+        "ticker": "INDU-C.ST"
+      },
+      {
+        "name": "Informa",
+        "region": null,
+        "ticker": "INF.L"
+      },
+      {
+        "name": "ING Group",
+        "region": null,
+        "ticker": "INGA.AS"
+      },
+      {
+        "name": "Intel",
+        "region": null,
+        "ticker": "INTC"
+      },
+      {
+        "name": "Intuit",
+        "region": null,
+        "ticker": "INTU"
+      },
+      {
+        "name": "Investor B",
+        "region": null,
+        "ticker": "INVE-B.ST"
+      },
+      {
+        "name": "Invitation Homes",
+        "region": null,
+        "ticker": "INVH"
+      },
+      {
+        "name": "Investec",
+        "region": null,
+        "ticker": "INVP.L"
+      },
+      {
+        "name": "INWIT",
+        "region": null,
+        "ticker": "INW.MI"
+      },
+      {
+        "name": "International Paper",
+        "region": null,
+        "ticker": "IP"
+      },
+      {
+        "name": "IQVIA",
+        "region": null,
+        "ticker": "IQV"
+      },
+      {
+        "name": "Ingersoll Rand",
+        "region": null,
+        "ticker": "IR"
+      },
+      {
+        "name": "Iron Mountain",
+        "region": null,
+        "ticker": "IRM"
+      },
+      {
+        "name": "Intesa Sanpaolo",
+        "region": null,
+        "ticker": "ISP.MI"
+      },
+      {
+        "name": "Intuitive Surgical",
+        "region": null,
+        "ticker": "ISRG"
+      },
+      {
+        "name": "ISS",
+        "region": null,
+        "ticker": "ISS.CO"
+      },
+      {
+        "name": "Gartner",
+        "region": null,
+        "ticker": "IT"
+      },
+      {
+        "name": "Ithaca Energy",
+        "region": null,
+        "ticker": "ITH.L"
+      },
+      {
+        "name": "Intertek",
+        "region": null,
+        "ticker": "ITRK.L"
+      },
+      {
+        "name": "Illinois Tool Works",
+        "region": null,
+        "ticker": "ITW"
+      },
+      {
+        "name": "Inditex",
+        "region": null,
+        "ticker": "ITX.MC"
+      },
+      {
+        "name": "Iveco",
+        "region": null,
+        "ticker": "IVG.MI"
+      },
+      {
+        "name": "INVISIO",
+        "region": null,
+        "ticker": "IVSO.ST"
+      },
+      {
+        "name": "Invesco",
+        "region": null,
+        "ticker": "IVZ"
+      },
+      {
+        "name": "Jacobs Solutions",
+        "region": null,
+        "ticker": "J"
+      },
+      {
+        "name": "J.B. Hunt",
+        "region": null,
+        "ticker": "JBHT"
+      },
+      {
+        "name": "Jabil",
+        "region": null,
+        "ticker": "JBL"
+      },
+      {
+        "name": "Johnson Controls",
+        "region": null,
+        "ticker": "JCI"
+      },
+      {
+        "name": "JD.com ADR",
+        "region": null,
+        "ticker": "JD"
+      },
+      {
+        "name": "JD Sports",
+        "region": null,
+        "ticker": "JD.L"
+      },
+      {
+        "name": "Jack Henry & Associates",
+        "region": null,
+        "ticker": "JKHY"
+      },
+      {
+        "name": "Jumia Technologies",
+        "region": null,
+        "ticker": "JMIA"
+      },
+      {
+        "name": "Johnson & Johnson",
+        "region": null,
+        "ticker": "JNJ"
+      },
+      {
+        "name": "JPMorgan Chase",
+        "region": null,
+        "ticker": "JPM"
+      },
+      {
+        "name": "Jyske Bank",
+        "region": null,
+        "ticker": "JYSK.CO"
+      },
+      {
+        "name": "Kalmar [fi] B",
+        "region": null,
+        "ticker": "KALMAR.HE"
+      },
+      {
+        "name": "Knorr-Bremse",
+        "region": null,
+        "ticker": "KBX.DE"
+      },
+      {
+        "name": "Konecranes",
+        "region": null,
+        "ticker": "KCR.HE"
+      },
+      {
+        "name": "Keurig Dr Pepper",
+        "region": null,
+        "ticker": "KDP"
+      },
+      {
+        "name": "Kemira",
+        "region": null,
+        "ticker": "KEMIRA.HE"
+      },
+      {
+        "name": "Kering",
+        "region": null,
+        "ticker": "KER.PA"
+      },
+      {
+        "name": "Kesko B",
+        "region": null,
+        "ticker": "KESKOB.HE"
+      },
+      {
+        "name": "KeyCorp",
+        "region": null,
+        "ticker": "KEY"
+      },
+      {
+        "name": "Keysight Technologies",
+        "region": null,
+        "ticker": "KEYS"
+      },
+      {
+        "name": "Kingfisher plc",
+        "region": null,
+        "ticker": "KGF.L"
+      },
+      {
+        "name": "Kraft Heinz",
+        "region": null,
+        "ticker": "KHC"
+      },
+      {
+        "name": "Kimco Realty",
+        "region": null,
+        "ticker": "KIM"
+      },
+      {
+        "name": "Kingstone Companies",
+        "region": null,
+        "ticker": "KINS"
+      },
+      {
+        "name": "KKR & Co.",
+        "region": null,
+        "ticker": "KKR"
+      },
+      {
+        "name": "KLA Corporation",
+        "region": null,
+        "ticker": "KLAC"
+      },
+      {
+        "name": "Kimberly-Clark",
+        "region": null,
+        "ticker": "KMB"
+      },
+      {
+        "name": "Kinder Morgan",
+        "region": null,
+        "ticker": "KMI"
+      },
+      {
+        "name": "KONE",
+        "region": null,
+        "ticker": "KNEBV.HE"
+      },
+      {
+        "name": "Coca-Cola Company (The)",
+        "region": null,
+        "ticker": "KO"
+      },
+      {
+        "name": "Kongsberg Gruppen",
+        "region": null,
+        "ticker": "KOG.OL"
+      },
+      {
+        "name": "KPN",
+        "region": null,
+        "ticker": "KPN.AS"
+      },
+      {
+        "name": "Kroger",
+        "region": null,
+        "ticker": "KR"
+      },
+      {
+        "name": "Amundi MSCI Korea UCITS ETF",
+        "region": null,
+        "ticker": "KRW.PA"
+      },
+      {
+        "name": "Kenvue",
+        "region": null,
+        "ticker": "KVUE"
+      },
+      {
+        "name": "Loews Corporation",
+        "region": null,
+        "ticker": "L"
+      },
+      {
+        "name": "Land Securities",
+        "region": null,
+        "ticker": "LAND.L"
+      },
+      {
+        "name": "Amundi Core S&P 500 Swap UCITS ETF",
+        "region": null,
+        "ticker": "LCUS.PA"
+      },
+      {
+        "name": "Leonardo",
+        "region": null,
+        "ticker": "LDO.MI"
+      },
+      {
+        "name": "Leidos",
+        "region": null,
+        "ticker": "LDOS"
+      },
+      {
+        "name": "Lennar",
+        "region": null,
+        "ticker": "LEN"
+      },
+      {
+        "name": "Legal & General",
+        "region": null,
+        "ticker": "LGEN.L"
+      },
+      {
+        "name": "Labcorp",
+        "region": null,
+        "ticker": "LH"
+      },
+      {
+        "name": "L3Harris",
+        "region": null,
+        "ticker": "LHX"
+      },
+      {
+        "name": "Lifco B",
+        "region": null,
+        "ticker": "LIFCO-B.ST"
+      },
+      {
+        "name": "Lennox International",
+        "region": null,
+        "ticker": "LII"
+      },
+      {
+        "name": "Linde plc",
+        "region": null,
+        "ticker": "LIN"
+      },
+      {
+        "name": "Lumentum",
+        "region": null,
+        "ticker": "LITE"
+      },
+      {
+        "name": "Lloyds Banking Group",
+        "region": null,
+        "ticker": "LLOY.L"
+      },
+      {
+        "name": "Lilly (Eli)",
+        "region": null,
+        "ticker": "LLY"
+      },
+      {
+        "name": "LondonMetric Property",
+        "region": null,
+        "ticker": "LMP.L"
+      },
+      {
+        "name": "Lockheed Martin",
+        "region": null,
+        "ticker": "LMT"
+      },
+      {
+        "name": "Alliant Energy",
+        "region": null,
+        "ticker": "LNT"
+      },
+      {
+        "name": "Logista",
+        "region": null,
+        "ticker": "LOG.MC"
+      },
+      {
+        "name": "Lowe's",
+        "region": null,
+        "ticker": "LOW"
+      },
+      {
+        "name": "Legrand",
+        "region": null,
+        "ticker": "LR.PA"
+      },
+      {
+        "name": "Lam Research",
+        "region": null,
+        "ticker": "LRCX"
+      },
+      {
+        "name": "London Stock Exchange Group",
+        "region": null,
+        "ticker": "LSEG.L"
+      },
+      {
+        "name": "Lerøy Seafood Group",
+        "region": null,
+        "ticker": "LSG.OL"
+      },
+      {
+        "name": "Lottomatica Group",
+        "region": null,
+        "ticker": "LTMC.MI"
+      },
+      {
+        "name": "Lululemon Athletica",
+        "region": null,
+        "ticker": "LULU"
+      },
+      {
+        "name": "LUMO.HE",
+        "region": null,
+        "ticker": "LUMO.HE"
+      },
+      {
+        "name": "Southwest Airlines",
+        "region": null,
+        "ticker": "LUV"
+      },
+      {
+        "name": "Las Vegas Sands",
+        "region": null,
+        "ticker": "LVS"
+      },
+      {
+        "name": "LyondellBasell",
+        "region": null,
+        "ticker": "LYB"
+      },
+      {
+        "name": "Live Nation Entertainment",
+        "region": null,
+        "ticker": "LYV"
+      },
+      {
+        "name": "Mastercard",
+        "region": null,
+        "ticker": "MA"
+      },
+      {
+        "name": "Mid-America Apartment Communities",
+        "region": null,
+        "ticker": "MAA"
+      },
+      {
+        "name": "A.P. Møller-Mærsk (class A)",
+        "region": null,
+        "ticker": "MAERSK-A.CO"
+      },
+      {
+        "name": "A.P. Møller-Mærsk (class B)",
+        "region": null,
+        "ticker": "MAERSK-B.CO"
+      },
+      {
+        "name": "Mandatum [fi]",
+        "region": null,
+        "ticker": "MANTA.HE"
+      },
+      {
+        "name": "Mapfre",
+        "region": null,
+        "ticker": "MAP.MC"
+      },
+      {
+        "name": "Marriott International",
+        "region": null,
+        "ticker": "MAR"
+      },
+      {
+        "name": "Masco",
+        "region": null,
+        "ticker": "MAS"
+      },
+      {
+        "name": "Mediobanca",
+        "region": null,
+        "ticker": "MB.MI"
+      },
+      {
+        "name": "Mercedes-Benz Group",
+        "region": null,
+        "ticker": "MBG.DE"
+      },
+      {
+        "name": "LVMH",
+        "region": null,
+        "ticker": "MC.PA"
+      },
+      {
+        "name": "McDonald's",
+        "region": null,
+        "ticker": "MCD"
+      },
+      {
+        "name": "Microchip Technology",
+        "region": null,
+        "ticker": "MCHP"
+      },
+      {
+        "name": "McKesson Corporation",
+        "region": null,
+        "ticker": "MCK"
+      },
+      {
+        "name": "Moody's Corporation",
+        "region": null,
+        "ticker": "MCO"
+      },
+      {
+        "name": "Mondelez International",
+        "region": null,
+        "ticker": "MDLZ"
+      },
+      {
+        "name": "Medtronic",
+        "region": null,
+        "ticker": "MDT"
+      },
+      {
+        "name": "MercadoLibre",
+        "region": null,
+        "ticker": "MELI"
+      },
+      {
+        "name": "MetLife",
+        "region": null,
+        "ticker": "MET"
+      },
+      {
+        "name": "Meta Platforms",
+        "region": null,
+        "ticker": "META"
+      },
+      {
+        "name": "Metsä Board B",
+        "region": null,
+        "ticker": "METSB.HE"
+      },
+      {
+        "name": "Metso",
+        "region": null,
+        "ticker": "METSO.HE"
+      },
+      {
+        "name": "MGM Resorts",
+        "region": null,
+        "ticker": "MGM"
+      },
+      {
+        "name": "McCormick & Company",
+        "region": null,
+        "ticker": "MKC"
+      },
+      {
+        "name": "Marks & Spencer",
+        "region": null,
+        "ticker": "MKS.L"
+      },
+      {
+        "name": "Michelin",
+        "region": null,
+        "ticker": "ML.PA"
+      },
+      {
+        "name": "Martin Marietta Materials",
+        "region": null,
+        "ticker": "MLM"
+      },
+      {
+        "name": "3M",
+        "region": null,
+        "ticker": "MMM"
+      },
+      {
+        "name": "M&G",
+        "region": null,
+        "ticker": "MNG.L"
+      },
+      {
+        "name": "Monster Beverage",
+        "region": null,
+        "ticker": "MNST"
+      },
+      {
+        "name": "Altria",
+        "region": null,
+        "ticker": "MO"
+      },
+      {
+        "name": "Moncler",
+        "region": null,
+        "ticker": "MONC.MI"
+      },
+      {
+        "name": "Mosaic Company (The)",
+        "region": null,
+        "ticker": "MOS"
+      },
+      {
+        "name": "Mowi",
+        "region": null,
+        "ticker": "MOWI.OL"
+      },
+      {
+        "name": "MP Materials",
+        "region": null,
+        "ticker": "MP"
+      },
+      {
+        "name": "Marathon Petroleum",
+        "region": null,
+        "ticker": "MPC"
+      },
+      {
+        "name": "MPC Container Ships",
+        "region": null,
+        "ticker": "MPCC.OL"
+      },
+      {
+        "name": "Monolithic Power Systems",
+        "region": null,
+        "ticker": "MPWR"
+      },
+      {
+        "name": "Merck & Co.",
+        "region": null,
+        "ticker": "MRK"
+      },
+      {
+        "name": "Merck",
+        "region": null,
+        "ticker": "MRK.DE"
+      },
+      {
+        "name": "Merlin Properties",
+        "region": null,
+        "ticker": "MRL.MC"
+      },
+      {
+        "name": "Moderna",
+        "region": null,
+        "ticker": "MRNA"
+      },
+      {
+        "name": "Melrose Industries",
+        "region": null,
+        "ticker": "MRO.L"
+      },
+      {
+        "name": "Marsh McLennan",
+        "region": null,
+        "ticker": "MRSH"
+      },
+      {
+        "name": "Marvell Technology",
+        "region": null,
+        "ticker": "MRVL"
+      },
+      {
+        "name": "Morgan Stanley",
+        "region": null,
+        "ticker": "MS"
+      },
+      {
+        "name": "MSCI",
+        "region": null,
+        "ticker": "MSCI"
+      },
+      {
+        "name": "Microsoft",
+        "region": null,
+        "ticker": "MSFT"
+      },
+      {
+        "name": "Motorola Solutions",
+        "region": null,
+        "ticker": "MSI"
+      },
+      {
+        "name": "ArcelorMittal",
+        "region": null,
+        "ticker": "MT.AS"
+      },
+      {
+        "name": "M&T Bank",
+        "region": null,
+        "ticker": "MTB"
+      },
+      {
+        "name": "Mettler Toledo",
+        "region": null,
+        "ticker": "MTD"
+      },
+      {
+        "name": "Metlen Energy & Metals",
+        "region": null,
+        "ticker": "MTLN.L"
+      },
+      {
+        "name": "Vail Resorts",
+        "region": null,
+        "ticker": "MTN"
+      },
+      {
+        "name": "ArcelorMittal",
+        "region": null,
+        "ticker": "MTS.MC"
+      },
+      {
+        "name": "MTU Aero Engines",
+        "region": null,
+        "ticker": "MTX.DE"
+      },
+      {
+        "name": "Micron Technology",
+        "region": null,
+        "ticker": "MU"
+      },
+      {
+        "name": "Munich Re",
+        "region": null,
+        "ticker": "MUV2.DE"
+      },
+      {
+        "name": "Nano Labs",
+        "region": null,
+        "ticker": "NA"
+      },
+      {
+        "name": "Norwegian Air Shuttle",
+        "region": null,
+        "ticker": "NAS.OL"
+      },
+      {
+        "name": "Norwegian Cruise Line Holdings",
+        "region": null,
+        "ticker": "NCLH"
+      },
+      {
+        "name": "Nordea Bank Abp",
+        "region": null,
+        "ticker": "NDA-DK.CO"
+      },
+      {
+        "name": "Nordea",
+        "region": null,
+        "ticker": "NDA-FI.HE"
+      },
+      {
+        "name": "Nordea Bank Abp",
+        "region": null,
+        "ticker": "NDA-SE.ST"
+      },
+      {
+        "name": "Nasdaq, Inc.",
+        "region": null,
+        "ticker": "NDAQ"
+      },
+      {
+        "name": "Nordson Corporation",
+        "region": null,
+        "ticker": "NDSN"
+      },
+      {
+        "name": "NextEra Energy",
+        "region": null,
+        "ticker": "NEE"
+      },
+      {
+        "name": "NEL",
+        "region": null,
+        "ticker": "NEL.OL"
+      },
+      {
+        "name": "Nelly Group",
+        "region": null,
+        "ticker": "NELLY.ST"
+      },
+      {
+        "name": "Newmont",
+        "region": null,
+        "ticker": "NEM"
+      },
+      {
+        "name": "Neste",
+        "region": null,
+        "ticker": "NESTE.HE"
+      },
+      {
+        "name": "Cloudflare",
+        "region": null,
+        "ticker": "NET"
+      },
+      {
+        "name": "Netcompany",
+        "region": null,
+        "ticker": "NETC.CO"
+      },
+      {
+        "name": "Nexi",
+        "region": null,
+        "ticker": "NEXI.MI"
+      },
+      {
+        "name": "Netflix",
+        "region": null,
+        "ticker": "NFLX"
+      },
+      {
+        "name": "National Grid plc",
+        "region": null,
+        "ticker": "NG.L"
+      },
+      {
+        "name": "Norsk Hydro",
+        "region": null,
+        "ticker": "NHY.OL"
+      },
+      {
+        "name": "NiSource",
+        "region": null,
+        "ticker": "NI"
+      },
+      {
+        "name": "Nibe Industrier B",
+        "region": null,
+        "ticker": "NIBE-B.ST"
+      },
+      {
+        "name": "Nike, Inc.",
+        "region": null,
+        "ticker": "NKE"
+      },
+      {
+        "name": "NKT",
+        "region": null,
+        "ticker": "NKT.CO"
+      },
+      {
+        "name": "NN Group",
+        "region": null,
+        "ticker": "NN.AS"
+      },
+      {
+        "name": "Northrop Grumman",
+        "region": null,
+        "ticker": "NOC"
+      },
+      {
+        "name": "Nordic Semiconductor",
+        "region": null,
+        "ticker": "NOD.OL"
+      },
+      {
+        "name": "Nokia",
+        "region": null,
+        "ticker": "NOKIA.HE"
+      },
+      {
+        "name": "Novo Nordisk",
+        "region": null,
+        "ticker": "NOVO-B.CO"
+      },
+      {
+        "name": "ServiceNow",
+        "region": null,
+        "ticker": "NOW"
+      },
+      {
+        "name": "NRG Energy",
+        "region": null,
+        "ticker": "NRG"
+      },
+      {
+        "name": "Norfolk Southern",
+        "region": null,
+        "ticker": "NSC"
+      },
+      {
+        "name": "Novonesis",
+        "region": null,
+        "ticker": "NSIS-B.CO"
+      },
+      {
+        "name": "NetApp",
+        "region": null,
+        "ticker": "NTAP"
+      },
+      {
+        "name": "Naturgy",
+        "region": null,
+        "ticker": "NTGY.MC"
+      },
+      {
+        "name": "Northern Trust",
+        "region": null,
+        "ticker": "NTRS"
+      },
+      {
+        "name": "Nu Holdings",
+        "region": null,
+        "ticker": "NU"
+      },
+      {
+        "name": "Nucor",
+        "region": null,
+        "ticker": "NUE"
+      },
+      {
+        "name": "Nvidia",
+        "region": null,
+        "ticker": "NVDA"
+      },
+      {
+        "name": "NVR, Inc.",
+        "region": null,
+        "ticker": "NVR"
+      },
+      {
+        "name": "NatWest Group",
+        "region": null,
+        "ticker": "NWG.L"
+      },
+      {
+        "name": "News Corp (Class B)",
+        "region": null,
+        "ticker": "NWS"
+      },
+      {
+        "name": "News Corp (Class A)",
+        "region": null,
+        "ticker": "NWSA"
+      },
+      {
+        "name": "NXP Semiconductors",
+        "region": null,
+        "ticker": "NXPI"
+      },
+      {
+        "name": "Next plc",
+        "region": null,
+        "ticker": "NXT.L"
+      },
+      {
+        "name": "Realty Income",
+        "region": null,
+        "ticker": "O"
+      },
+      {
+        "name": "Old Dominion",
+        "region": null,
+        "ticker": "ODFL"
+      },
+      {
+        "name": "Okeanis Eco Tankers",
+        "region": null,
+        "ticker": "OET.OL"
+      },
+      {
+        "name": "Oneok",
+        "region": null,
+        "ticker": "OKE"
+      },
+      {
+        "name": "Omnicom Group",
+        "region": null,
+        "ticker": "OMC"
+      },
+      {
+        "name": "ON Semiconductor",
+        "region": null,
+        "ticker": "ON"
+      },
+      {
+        "name": "L'Oréal",
+        "region": null,
+        "ticker": "OR.PA"
+      },
+      {
+        "name": "Orange",
+        "region": null,
+        "ticker": "ORA.PA"
+      },
+      {
+        "name": "Oracle Corporation",
+        "region": null,
+        "ticker": "ORCL"
+      },
+      {
+        "name": "Orkla",
+        "region": null,
+        "ticker": "ORK.OL"
+      },
+      {
+        "name": "O'Reilly Automotive",
+        "region": null,
+        "ticker": "ORLY"
+      },
+      {
+        "name": "Orion",
+        "region": null,
+        "ticker": "ORNBV.HE"
+      },
+      {
+        "name": "Ørsted",
+        "region": null,
+        "ticker": "ORSTED.CO"
+      },
+      {
+        "name": "Otis Worldwide",
+        "region": null,
+        "ticker": "OTIS"
+      },
+      {
+        "name": "Outokumpu",
+        "region": null,
+        "ticker": "OUT1V.HE"
+      },
+      {
+        "name": "Occidental Petroleum",
+        "region": null,
+        "ticker": "OXY"
+      },
+      {
+        "name": "Everpure",
+        "region": null,
+        "ticker": "P"
+      },
+      {
+        "name": "Amundi Core MSCI EM Swap UCITS ETF",
+        "region": null,
+        "ticker": "PAEEM.PA"
+      },
+      {
+        "name": "Porsche SE",
+        "region": null,
+        "ticker": "PAH3.DE"
+      },
+      {
+        "name": "Palo Alto Networks",
+        "region": null,
+        "ticker": "PANW"
+      },
+      {
+        "name": "PARKEN",
+        "region": null,
+        "ticker": "PARKEN.CO"
+      },
+      {
+        "name": "Paychex",
+        "region": null,
+        "ticker": "PAYX"
+      },
+      {
+        "name": "Paccar",
+        "region": null,
+        "ticker": "PCAR"
+      },
+      {
+        "name": "PG&E Corporation",
+        "region": null,
+        "ticker": "PCG"
+      },
+      {
+        "name": "Polar Capital Technology Trust",
+        "region": null,
+        "ticker": "PCT.L"
+      },
+      {
+        "name": "PDD Holdings",
+        "region": null,
+        "ticker": "PDD"
+      },
+      {
+        "name": "Public Service Enterprise Group",
+        "region": null,
+        "ticker": "PEG"
+      },
+      {
+        "name": "PepsiCo",
+        "region": null,
+        "ticker": "PEP"
+      },
+      {
+        "name": "Pfizer",
+        "region": null,
+        "ticker": "PFE"
+      },
+      {
+        "name": "Principal Financial Group",
+        "region": null,
+        "ticker": "PFG"
+      },
+      {
+        "name": "Procter & Gamble",
+        "region": null,
+        "ticker": "PG"
+      },
+      {
+        "name": "Progressive Corporation",
+        "region": null,
+        "ticker": "PGR"
+      },
+      {
+        "name": "Parker Hannifin",
+        "region": null,
+        "ticker": "PH"
+      },
+      {
+        "name": "Philips",
+        "region": null,
+        "ticker": "PHIA.AS"
+      },
+      {
+        "name": "PulteGroup",
+        "region": null,
+        "ticker": "PHM"
+      },
+      {
+        "name": "Packaging Corporation of America",
+        "region": null,
+        "ticker": "PKG"
+      },
+      {
+        "name": "Prologis",
+        "region": null,
+        "ticker": "PLD"
+      },
+      {
+        "name": "Palantir Technologies",
+        "region": null,
+        "ticker": "PLTR"
+      },
+      {
+        "name": "Philip Morris International",
+        "region": null,
+        "ticker": "PM"
+      },
+      {
+        "name": "PNC Financial Services",
+        "region": null,
+        "ticker": "PNC"
+      },
+      {
+        "name": "Pandora",
+        "region": null,
+        "ticker": "PNDORA.CO"
+      },
+      {
+        "name": "Pentair",
+        "region": null,
+        "ticker": "PNR"
+      },
+      {
+        "name": "Pinnacle West Capital",
+        "region": null,
+        "ticker": "PNW"
+      },
+      {
+        "name": "Insulet Corporation",
+        "region": null,
+        "ticker": "PODD"
+      },
+      {
+        "name": "PPG Industries",
+        "region": null,
+        "ticker": "PPG"
+      },
+      {
+        "name": "PPL Corporation",
+        "region": null,
+        "ticker": "PPL"
+      },
+      {
+        "name": "Prudential Financial",
+        "region": null,
+        "ticker": "PRU"
+      },
+      {
+        "name": "Prudential plc",
+        "region": null,
+        "ticker": "PRU.L"
+      },
+      {
+        "name": "Prosus",
+        "region": null,
+        "ticker": "PRX.AS"
+      },
+      {
+        "name": "Prysmian",
+        "region": null,
+        "ticker": "PRY.MI"
+      },
+      {
+        "name": "Public Storage",
+        "region": null,
+        "ticker": "PSA"
+      },
+      {
+        "name": "Pershing Square Holdings",
+        "region": null,
+        "ticker": "PSH.L"
+      },
+      {
+        "name": "PSKY",
+        "region": null,
+        "ticker": "PSKY"
+      },
+      {
+        "name": "Pearson plc",
+        "region": null,
+        "ticker": "PSON.L"
+      },
+      {
+        "name": "Poste italiane",
+        "region": null,
+        "ticker": "PST.MI"
+      },
+      {
+        "name": "Phillips 66",
+        "region": null,
+        "ticker": "PSX"
+      },
+      {
+        "name": "PTC Inc.",
+        "region": null,
+        "ticker": "PTC"
+      },
+      {
+        "name": "Publicis",
+        "region": null,
+        "ticker": "PUB.PA"
+      },
+      {
+        "name": "Puig",
+        "region": null,
+        "ticker": "PUIG.MC"
+      },
+      {
+        "name": "Quanta Services",
+        "region": null,
+        "ticker": "PWR"
+      },
+      {
+        "name": "PayPal",
+        "region": null,
+        "ticker": "PYPL"
+      },
+      {
+        "name": "Qnity Electronics",
+        "region": null,
+        "ticker": "Q"
+      },
+      {
+        "name": "Qualcomm",
+        "region": null,
+        "ticker": "QCOM"
+      },
+      {
+        "name": "Qiagen",
+        "region": null,
+        "ticker": "QIA.DE"
+      },
+      {
+        "name": "Qt Group",
+        "region": null,
+        "ticker": "QTCOM.HE"
+      },
+      {
+        "name": "Ferrari",
+        "region": null,
+        "ticker": "RACE.MI"
+      },
+      {
+        "name": "Randstad",
+        "region": null,
+        "ticker": "RAND.AS"
+      },
+      {
+        "name": "Royal Unibrew",
+        "region": null,
+        "ticker": "RBREW.CO"
+      },
+      {
+        "name": "AVITA Medical",
+        "region": null,
+        "ticker": "RCEL"
+      },
+      {
+        "name": "Royal Caribbean Group",
+        "region": null,
+        "ticker": "RCL"
+      },
+      {
+        "name": "Reddit",
+        "region": null,
+        "ticker": "RDDT"
+      },
+      {
+        "name": "Redwire",
+        "region": null,
+        "ticker": "RDW"
+      },
+      {
+        "name": "Recordati",
+        "region": null,
+        "ticker": "REC.MI"
+      },
+      {
+        "name": "RECSI.OL",
+        "region": null,
+        "ticker": "RECSI.OL"
+      },
+      {
+        "name": "Redeia Corporación",
+        "region": null,
+        "ticker": "RED.MC"
+      },
+      {
+        "name": "Regency Centers",
+        "region": null,
+        "ticker": "REG"
+      },
+      {
+        "name": "Regeneron Pharmaceuticals",
+        "region": null,
+        "ticker": "REGN"
+      },
+      {
+        "name": "RELX",
+        "region": null,
+        "ticker": "REL.L"
+      },
+      {
+        "name": "RELX",
+        "region": null,
+        "ticker": "REN.AS"
+      },
+      {
+        "name": "Repsol",
+        "region": null,
+        "ticker": "REP.MC"
+      },
+      {
+        "name": "Regions Financial Corporation",
+        "region": null,
+        "ticker": "RF"
+      },
+      {
+        "name": "Rheinmetall",
+        "region": null,
+        "ticker": "RHM.DE"
+      },
+      {
+        "name": "Pernod Ricard",
+        "region": null,
+        "ticker": "RI.PA"
+      },
+      {
+        "name": "Rio Tinto",
+        "region": null,
+        "ticker": "RIO.L"
+      },
+      {
+        "name": "Raymond James Financial",
+        "region": null,
+        "ticker": "RJF"
+      },
+      {
+        "name": "Reckitt",
+        "region": null,
+        "ticker": "RKT.L"
+      },
+      {
+        "name": "Ralph Lauren Corporation",
+        "region": null,
+        "ticker": "RL"
+      },
+      {
+        "name": "ResMed|",
+        "region": null,
+        "ticker": "RMD"
+      },
+      {
+        "name": "Hermès",
+        "region": null,
+        "ticker": "RMS.PA"
+      },
+      {
+        "name": "Renault",
+        "region": null,
+        "ticker": "RNO.PA"
+      },
+      {
+        "name": "Rockwool International",
+        "region": null,
+        "ticker": "ROCK-B.CO"
+      },
+      {
+        "name": "Rockwell Automation",
+        "region": null,
+        "ticker": "ROK"
+      },
+      {
+        "name": "Rollins, Inc.",
+        "region": null,
+        "ticker": "ROL"
+      },
+      {
+        "name": "Roper Technologies",
+        "region": null,
+        "ticker": "ROP"
+      },
+      {
+        "name": "Ross Stores",
+        "region": null,
+        "ticker": "ROST"
+      },
+      {
+        "name": "Laboratorios Rovi [es]",
+        "region": null,
+        "ticker": "ROVI.MC"
+      },
+      {
+        "name": "Rolls-Royce Holdings",
+        "region": null,
+        "ticker": "RR.L"
+      },
+      {
+        "name": "Republic Services",
+        "region": null,
+        "ticker": "RSG"
+      },
+      {
+        "name": "Rentokil Initial",
+        "region": null,
+        "ticker": "RTO.L"
+      },
+      {
+        "name": "RTX Corporation",
+        "region": null,
+        "ticker": "RTX"
+      },
+      {
+        "name": "Revvity",
+        "region": null,
+        "ticker": "RVTY"
+      },
+      {
+        "name": "RWE",
+        "region": null,
+        "ticker": "RWE.DE"
+      },
+      {
+        "name": "Recursion Pharma",
+        "region": null,
+        "ticker": "RXRX"
+      },
+      {
+        "name": "Saab B",
+        "region": null,
+        "ticker": "SAAB-B.ST"
+      },
+      {
+        "name": "Banco Sabadell",
+        "region": null,
+        "ticker": "SAB.MC"
+      },
+      {
+        "name": "Sabre",
+        "region": null,
+        "ticker": "SABR"
+      },
+      {
+        "name": "Safran",
+        "region": null,
+        "ticker": "SAF.PA"
+      },
+      {
+        "name": "SalMar",
+        "region": null,
+        "ticker": "SALM.OL"
+      },
+      {
+        "name": "Salmon Evolution",
+        "region": null,
+        "ticker": "SALME.OL"
+      },
+      {
+        "name": "Sampo A",
+        "region": null,
+        "ticker": "SAMPO.HE"
+      },
+      {
+        "name": "Santander",
+        "region": null,
+        "ticker": "SAN.MC"
+      },
+      {
+        "name": "Sanofi",
+        "region": null,
+        "ticker": "SAN.PA"
+      },
+      {
+        "name": "Sandvik",
+        "region": null,
+        "ticker": "SAND.ST"
+      },
+      {
+        "name": "SAP",
+        "region": null,
+        "ticker": "SAP.DE"
+      },
+      {
+        "name": "SBA Communications",
+        "region": null,
+        "ticker": "SBAC"
+      },
+      {
+        "name": "Sainsbury's",
+        "region": null,
+        "ticker": "SBRY.L"
+      },
+      {
+        "name": "Starbucks",
+        "region": null,
+        "ticker": "SBUX"
+      },
+      {
+        "name": "SCA B",
+        "region": null,
+        "ticker": "SCA-B.ST"
+      },
+      {
+        "name": "Charles Schwab Corporation",
+        "region": null,
+        "ticker": "SCHW"
+      },
+      {
+        "name": "Sacyr",
+        "region": null,
+        "ticker": "SCYR.MC"
+      },
+      {
+        "name": "Standard Life",
+        "region": null,
+        "ticker": "SDLF.L"
+      },
+      {
+        "name": "Sea Limited",
+        "region": null,
+        "ticker": "SE"
+      },
+      {
+        "name": "SEB A",
+        "region": null,
+        "ticker": "SEB-A.ST"
+      },
+      {
+        "name": "Sage Group",
+        "region": null,
+        "ticker": "SGE.L"
+      },
+      {
+        "name": "Saint-Gobain",
+        "region": null,
+        "ticker": "SGO.PA"
+      },
+      {
+        "name": "Segro",
+        "region": null,
+        "ticker": "SGRO.L"
+      },
+      {
+        "name": "Handelsbanken A",
+        "region": null,
+        "ticker": "SHB-A.ST"
+      },
+      {
+        "name": "Shell plc",
+        "region": null,
+        "ticker": "SHEL.L"
+      },
+      {
+        "name": "Shell plc",
+        "region": null,
+        "ticker": "SHELL.AS"
+      },
+      {
+        "name": "Siemens Healthineers",
+        "region": null,
+        "ticker": "SHL.DE"
+      },
+      {
+        "name": "Shopify",
+        "region": null,
+        "ticker": "SHOP"
+      },
+      {
+        "name": "Sherwin-Williams",
+        "region": null,
+        "ticker": "SHW"
+      },
+      {
+        "name": "Siemens",
+        "region": null,
+        "ticker": "SIE.DE"
+      },
+      {
+        "name": "Siemens",
+        "region": null,
+        "ticker": "SIEGY"
+      },
+      {
+        "name": "J.M. Smucker Company (The)",
+        "region": null,
+        "ticker": "SJM"
+      },
+      {
+        "name": "Skanska B",
+        "region": null,
+        "ticker": "SKA-B.ST"
+      },
+      {
+        "name": "SKF B",
+        "region": null,
+        "ticker": "SKF-B.ST"
+      },
+      {
+        "name": "Skydance Corporation",
+        "region": null,
+        "ticker": "SKYD"
+      },
+      {
+        "name": "Schlumberger",
+        "region": null,
+        "ticker": "SLB"
+      },
+      {
+        "name": "Solaria",
+        "region": null,
+        "ticker": "SLR.MC"
+      },
+      {
+        "name": "Supermicro",
+        "region": null,
+        "ticker": "SMCI"
+      },
+      {
+        "name": "Smiths Group",
+        "region": null,
+        "ticker": "SMIN.L"
+      },
+      {
+        "name": "Scottish Mortgage Investment Trust",
+        "region": null,
+        "ticker": "SMT.L"
+      },
+      {
+        "name": "Smith & Nephew",
+        "region": null,
+        "ticker": "SN.L"
+      },
+      {
+        "name": "Snap-on",
+        "region": null,
+        "ticker": "SNA"
+      },
+      {
+        "name": "Sandisk",
+        "region": null,
+        "ticker": "SNDK"
+      },
+      {
+        "name": "Snowflake",
+        "region": null,
+        "ticker": "SNOW"
+      },
+      {
+        "name": "Synopsys",
+        "region": null,
+        "ticker": "SNPS"
+      },
+      {
+        "name": "Southern Company",
+        "region": null,
+        "ticker": "SO"
+      },
+      {
+        "name": "Solventum",
+        "region": null,
+        "ticker": "SOLV"
+      },
+      {
+        "name": "Sony ADR",
+        "region": null,
+        "ticker": "SONY"
+      },
+      {
+        "name": "Simon Property Group",
+        "region": null,
+        "ticker": "SPG"
+      },
+      {
+        "name": "S&P Global",
+        "region": null,
+        "ticker": "SPGI"
+      },
+      {
+        "name": "Saipem",
+        "region": null,
+        "ticker": "SPM.MI"
+      },
+      {
+        "name": "Spirax Group",
+        "region": null,
+        "ticker": "SPX.L"
+      },
+      {
+        "name": "Sempra",
+        "region": null,
+        "ticker": "SRE"
+      },
+      {
+        "name": "Snam",
+        "region": null,
+        "ticker": "SRG.MI"
+      },
+      {
+        "name": "SSE plc",
+        "region": null,
+        "ticker": "SSE.L"
+      },
+      {
+        "name": "Standard Chartered",
+        "region": null,
+        "ticker": "STAN.L"
+      },
+      {
+        "name": "Storebrand",
+        "region": null,
+        "ticker": "STB.OL"
+      },
+      {
+        "name": "Steris",
+        "region": null,
+        "ticker": "STE"
+      },
+      {
+        "name": "Stora Enso R",
+        "region": null,
+        "ticker": "STERV.HE"
+      },
+      {
+        "name": "St. James's Place",
+        "region": null,
+        "ticker": "STJ.L"
+      },
+      {
+        "name": "Stellantis",
+        "region": null,
+        "ticker": "STLAM.MI"
+      },
+      {
+        "name": "Stellantis",
+        "region": null,
+        "ticker": "STLAP.PA"
+      },
+      {
+        "name": "Steel Dynamics",
+        "region": null,
+        "ticker": "STLD"
+      },
+      {
+        "name": "STMicroelectronics",
+        "region": null,
+        "ticker": "STMMI.MI"
+      },
+      {
+        "name": "STMicroelectronics",
+        "region": null,
+        "ticker": "STMPA.PA"
+      },
+      {
+        "name": "State Street Corporation",
+        "region": null,
+        "ticker": "STT"
+      },
+      {
+        "name": "Seagate Technology",
+        "region": null,
+        "ticker": "STX"
+      },
+      {
+        "name": "Constellation Brands",
+        "region": null,
+        "ticker": "STZ"
+      },
+      {
+        "name": "Schneider Electric",
+        "region": null,
+        "ticker": "SU.PA"
+      },
+      {
+        "name": "Subsea 7",
+        "region": null,
+        "ticker": "SUBC.OL"
+      },
+      {
+        "name": "Severn Trent",
+        "region": null,
+        "ticker": "SVT.L"
+      },
+      {
+        "name": "Smurfit Westrock",
+        "region": null,
+        "ticker": "SW"
+      },
+      {
+        "name": "Swedbank A",
+        "region": null,
+        "ticker": "SWED-A.ST"
+      },
+      {
+        "name": "Stanley Black & Decker",
+        "region": null,
+        "ticker": "SWK"
+      },
+      {
+        "name": "Skyworks Solutions",
+        "region": null,
+        "ticker": "SWKS"
+      },
+      {
+        "name": "Symrise",
+        "region": null,
+        "ticker": "SY1.DE"
+      },
+      {
+        "name": "Synchrony Financial",
+        "region": null,
+        "ticker": "SYF"
+      },
+      {
+        "name": "Stryker Corporation",
+        "region": null,
+        "ticker": "SYK"
+      },
+      {
+        "name": "Sysco",
+        "region": null,
+        "ticker": "SYY"
+      },
+      {
+        "name": "AT&T",
+        "region": null,
+        "ticker": "T"
+      },
+      {
+        "name": "TAP",
+        "region": null,
+        "ticker": "TAP"
+      },
+      {
+        "name": "Trip.com ADR",
+        "region": null,
+        "ticker": "TCOM"
+      },
+      {
+        "name": "TransDigm Group",
+        "region": null,
+        "ticker": "TDG"
+      },
+      {
+        "name": "Teledyne Technologies",
+        "region": null,
+        "ticker": "TDY"
+      },
+      {
+        "name": "Bio-Techne",
+        "region": null,
+        "ticker": "TECH"
+      },
+      {
+        "name": "Telefónica",
+        "region": null,
+        "ticker": "TEF.MC"
+      },
+      {
+        "name": "TE Connectivity",
+        "region": null,
+        "ticker": "TEL"
+      },
+      {
+        "name": "Telenor",
+        "region": null,
+        "ticker": "TEL.OL"
+      },
+      {
+        "name": "Tele2 B",
+        "region": null,
+        "ticker": "TEL2-B.ST"
+      },
+      {
+        "name": "Telia Company",
+        "region": null,
+        "ticker": "TELIA.ST"
+      },
+      {
+        "name": "Tenaris",
+        "region": null,
+        "ticker": "TEN.MI"
+      },
+      {
+        "name": "TEP.PA",
+        "region": null,
+        "ticker": "TEP.PA"
+      },
+      {
+        "name": "Teradyne",
+        "region": null,
+        "ticker": "TER"
+      },
+      {
+        "name": "Truist Financial",
+        "region": null,
+        "ticker": "TFC"
+      },
+      {
+        "name": "TGS ASA",
+        "region": null,
+        "ticker": "TGS.OL"
+      },
+      {
+        "name": "Target Corporation",
+        "region": null,
+        "ticker": "TGT"
+      },
+      {
+        "name": "TietoEVRY",
+        "region": null,
+        "ticker": "TIETO.HE"
+      },
+      {
+        "name": "Telecom Italia",
+        "region": null,
+        "ticker": "TIT.MI"
+      },
+      {
+        "name": "TJX Companies",
+        "region": null,
+        "ticker": "TJX"
+      },
+      {
+        "name": "TKO Group Holdings",
+        "region": null,
+        "ticker": "TKO"
+      },
+      {
+        "name": "Thermo Fisher Scientific",
+        "region": null,
+        "ticker": "TMO"
+      },
+      {
+        "name": "T-Mobile US",
+        "region": null,
+        "ticker": "TMUS"
+      },
+      {
+        "name": "Tomra Systems",
+        "region": null,
+        "ticker": "TOM.OL"
+      },
+      {
+        "name": "Texas Pacific Land Corporation",
+        "region": null,
+        "ticker": "TPL"
+      },
+      {
+        "name": "Tapestry, Inc.",
+        "region": null,
+        "ticker": "TPR"
+      },
+      {
+        "name": "Trelleborg B",
+        "region": null,
+        "ticker": "TREL-B.ST"
+      },
+      {
+        "name": "Targa Resources",
+        "region": null,
+        "ticker": "TRGP"
+      },
+      {
+        "name": "Trimble Inc.",
+        "region": null,
+        "ticker": "TRMB"
+      },
+      {
+        "name": "TORM A",
+        "region": null,
+        "ticker": "TRMD"
+      },
+      {
+        "name": "Thor Medical",
+        "region": null,
+        "ticker": "TRMED.OL"
+      },
+      {
+        "name": "Terna",
+        "region": null,
+        "ticker": "TRN.MI"
+      },
+      {
+        "name": "T. Rowe Price",
+        "region": null,
+        "ticker": "TROW"
+      },
+      {
+        "name": "Travelers Companies (The)",
+        "region": null,
+        "ticker": "TRV"
+      },
+      {
+        "name": "Tryg",
+        "region": null,
+        "ticker": "TRYG.CO"
+      },
+      {
+        "name": "Tractor Supply",
+        "region": null,
+        "ticker": "TSCO"
+      },
+      {
+        "name": "Tesco",
+        "region": null,
+        "ticker": "TSCO.L"
+      },
+      {
+        "name": "Tesla, Inc.",
+        "region": null,
+        "ticker": "TSLA"
+      },
+      {
+        "name": "Tyson Foods",
+        "region": null,
+        "ticker": "TSN"
+      },
+      {
+        "name": "Trane Technologies",
+        "region": null,
+        "ticker": "TT"
+      },
+      {
+        "name": "TTD",
+        "region": null,
+        "ticker": "TTD"
+      },
+      {
+        "name": "TotalEnergies",
+        "region": null,
+        "ticker": "TTE.PA"
+      },
+      {
+        "name": "Take-Two Interactive",
+        "region": null,
+        "ticker": "TTWO"
+      },
+      {
+        "name": "Twilio",
+        "region": null,
+        "ticker": "TWLO"
+      },
+      {
+        "name": "Texas Instruments",
+        "region": null,
+        "ticker": "TXN"
+      },
+      {
+        "name": "Textron",
+        "region": null,
+        "ticker": "TXT"
+      },
+      {
+        "name": "Tyler Technologies",
+        "region": null,
+        "ticker": "TYL"
+      },
+      {
+        "name": "Nokian Tyres",
+        "region": null,
+        "ticker": "TYRES.HE"
+      },
+      {
+        "name": "Unity Software",
+        "region": null,
+        "ticker": "U"
+      },
+      {
+        "name": "United Airlines Holdings",
+        "region": null,
+        "ticker": "UAL"
+      },
+      {
+        "name": "Uber",
+        "region": null,
+        "ticker": "UBER"
+      },
+      {
+        "name": "UniCredit",
+        "region": null,
+        "ticker": "UCG.MI"
+      },
+      {
+        "name": "UDR, Inc.",
+        "region": null,
+        "ticker": "UDR"
+      },
+      {
+        "name": "Universal Health Services",
+        "region": null,
+        "ticker": "UHS"
+      },
+      {
+        "name": "Ulta Beauty",
+        "region": null,
+        "ticker": "ULTA"
+      },
+      {
+        "name": "Unilever",
+        "region": null,
+        "ticker": "ULVR.L"
+      },
+      {
+        "name": "Universal Music Group",
+        "region": null,
+        "ticker": "UMG.AS"
+      },
+      {
+        "name": "Unilever",
+        "region": null,
+        "ticker": "UNA.AS"
+      },
+      {
+        "name": "UnitedHealth Group",
+        "region": null,
+        "ticker": "UNH"
+      },
+      {
+        "name": "Unicaja",
+        "region": null,
+        "ticker": "UNI.MC"
+      },
+      {
+        "name": "Unipol",
+        "region": null,
+        "ticker": "UNI.MI"
+      },
+      {
+        "name": "Union Pacific Corporation",
+        "region": null,
+        "ticker": "UNP"
+      },
+      {
+        "name": "UPM-Kymmene",
+        "region": null,
+        "ticker": "UPM.HE"
+      },
+      {
+        "name": "United Parcel Service",
+        "region": null,
+        "ticker": "UPS"
+      },
+      {
+        "name": "United Rentals",
+        "region": null,
+        "ticker": "URI"
+      },
+      {
+        "name": "Unibail-Rodamco-Westfield",
+        "region": null,
+        "ticker": "URW.PA"
+      },
+      {
+        "name": "U.S. Bancorp",
+        "region": null,
+        "ticker": "USB"
+      },
+      {
+        "name": "United Utilities",
+        "region": null,
+        "ticker": "UU.L"
+      },
+      {
+        "name": "Visa Inc.",
+        "region": null,
+        "ticker": "V"
+      },
+      {
+        "name": "Vale",
+        "region": null,
+        "ticker": "VALE"
+      },
+      {
+        "name": "Valmet",
+        "region": null,
+        "ticker": "VALMT.HE"
+      },
+      {
+        "name": "Vår Energi ASA",
+        "region": null,
+        "ticker": "VAR.OL"
+      },
+      {
+        "name": "Veeva Systems",
+        "region": null,
+        "ticker": "VEEV"
+      },
+      {
+        "name": "Vici Properties",
+        "region": null,
+        "ticker": "VICI"
+      },
+      {
+        "name": "Veolia",
+        "region": null,
+        "ticker": "VIE.PA"
+      },
+      {
+        "name": "Valero Energy",
+        "region": null,
+        "ticker": "VLO"
+      },
+      {
+        "name": "Veralto",
+        "region": null,
+        "ticker": "VLTO"
+      },
+      {
+        "name": "Vulcan Materials Company",
+        "region": null,
+        "ticker": "VMC"
+      },
+      {
+        "name": "Vivmark Residential",
+        "region": null,
+        "ticker": "VMRK"
+      },
+      {
+        "name": "Vonovia",
+        "region": null,
+        "ticker": "VNA.DE"
+      },
+      {
+        "name": "Vodafone ADR",
+        "region": null,
+        "ticker": "VOD"
+      },
+      {
+        "name": "Vodafone Group",
+        "region": null,
+        "ticker": "VOD.L"
+      },
+      {
+        "name": "Volvo B",
+        "region": null,
+        "ticker": "VOLV-B.ST"
+      },
+      {
+        "name": "Volkswagen Group",
+        "region": null,
+        "ticker": "VOW3.DE"
+      },
+      {
+        "name": "Verisk Analytics",
+        "region": null,
+        "ticker": "VRSK"
+      },
+      {
+        "name": "Verisign",
+        "region": null,
+        "ticker": "VRSN"
+      },
+      {
+        "name": "Vertiv",
+        "region": null,
+        "ticker": "VRT"
+      },
+      {
+        "name": "Vertex Pharmaceuticals",
+        "region": null,
+        "ticker": "VRTX"
+      },
+      {
+        "name": "Vistra Corp.",
+        "region": null,
+        "ticker": "VST"
+      },
+      {
+        "name": "Ventas",
+        "region": null,
+        "ticker": "VTR"
+      },
+      {
+        "name": "Viatris",
+        "region": null,
+        "ticker": "VTRS"
+      },
+      {
+        "name": "Vanguard S&P 500 UCITS ETF",
+        "region": null,
+        "ticker": "VUSA.L"
+      },
+      {
+        "name": "Vanguard FTSE All-World UCITS ETF",
+        "region": null,
+        "ticker": "VWRA.L"
+      },
+      {
+        "name": "Vestas Wind Systems",
+        "region": null,
+        "ticker": "VWS.CO"
+      },
+      {
+        "name": "Vylor",
+        "region": null,
+        "ticker": "VYLR"
+      },
+      {
+        "name": "Verizon",
+        "region": null,
+        "ticker": "VZ"
+      },
+      {
+        "name": "Wabtec",
+        "region": null,
+        "ticker": "WAB"
+      },
+      {
+        "name": "Waters Corporation",
+        "region": null,
+        "ticker": "WAT"
+      },
+      {
+        "name": "Wallenius Wilhelmsen",
+        "region": null,
+        "ticker": "WAWI.OL"
+      },
+      {
+        "name": "Warner Bros. Discovery",
+        "region": null,
+        "ticker": "WBD"
+      },
+      {
+        "name": "Workday, Inc.",
+        "region": null,
+        "ticker": "WDAY"
+      },
+      {
+        "name": "Western Digital",
+        "region": null,
+        "ticker": "WDC"
+      },
+      {
+        "name": "WEC Energy Group",
+        "region": null,
+        "ticker": "WEC"
+      },
+      {
+        "name": "Weir",
+        "region": null,
+        "ticker": "WEIR.L"
+      },
+      {
+        "name": "Welltower",
+        "region": null,
+        "ticker": "WELL"
+      },
+      {
+        "name": "Wells Fargo",
+        "region": null,
+        "ticker": "WFC"
+      },
+      {
+        "name": "Wolters Kluwer",
+        "region": null,
+        "ticker": "WKL.AS"
+      },
+      {
+        "name": "Waste Management",
+        "region": null,
+        "ticker": "WM"
+      },
+      {
+        "name": "Williams Companies",
+        "region": null,
+        "ticker": "WMB"
+      },
+      {
+        "name": "Walmart",
+        "region": null,
+        "ticker": "WMT"
+      },
+      {
+        "name": "WPP ADR",
+        "region": null,
+        "ticker": "WPP"
+      },
+      {
+        "name": "WPP",
+        "region": null,
+        "ticker": "WPP.L"
+      },
+      {
+        "name": "W. R. Berkley Corporation",
+        "region": null,
+        "ticker": "WRB"
+      },
+      {
+        "name": "Wärtsilä",
+        "region": null,
+        "ticker": "WRT1V.HE"
+      },
+      {
+        "name": "Williams-Sonoma, Inc.",
+        "region": null,
+        "ticker": "WSM"
+      },
+      {
+        "name": "West Pharmaceutical Services",
+        "region": null,
+        "ticker": "WST"
+      },
+      {
+        "name": "Whitbread",
+        "region": null,
+        "ticker": "WTB.L"
+      },
+      {
+        "name": "Willis Towers Watson",
+        "region": null,
+        "ticker": "WTW"
+      },
+      {
+        "name": "Weyerhaeuser",
+        "region": null,
+        "ticker": "WY"
+      },
+      {
+        "name": "Wynn Resorts",
+        "region": null,
+        "ticker": "WYNN"
+      },
+      {
+        "name": "Xcel Energy",
+        "region": null,
+        "ticker": "XEL"
+      },
+      {
+        "name": "Xtrackers Euro Stoxx 50 UCITS ETF",
+        "region": null,
+        "ticker": "XESC.L"
+      },
+      {
+        "name": "ExxonMobil",
+        "region": null,
+        "ticker": "XOM"
+      },
+      {
+        "name": "Xylem Inc.",
+        "region": null,
+        "ticker": "XYL"
+      },
+      {
+        "name": "Block, Inc.",
+        "region": null,
+        "ticker": "XYZ"
+      },
+      {
+        "name": "Yara International",
+        "region": null,
+        "ticker": "YAR.OL"
+      },
+      {
+        "name": "Yum! Brands",
+        "region": null,
+        "ticker": "YUM"
+      },
+      {
+        "name": "Yum China",
+        "region": null,
+        "ticker": "YUMC"
+      },
+      {
+        "name": "Zalando",
+        "region": null,
+        "ticker": "ZAL.DE"
+      },
+      {
+        "name": "Zaptec",
+        "region": null,
+        "ticker": "ZAP.OL"
+      },
+      {
+        "name": "Zimmer Biomet",
+        "region": null,
+        "ticker": "ZBH"
+      },
+      {
+        "name": "Zebra Technologies",
+        "region": null,
+        "ticker": "ZBRA"
+      },
+      {
+        "name": "Zealand Pharma",
+        "region": null,
+        "ticker": "ZEAL.CO"
+      },
+      {
+        "name": "Zoetis",
+        "region": null,
+        "ticker": "ZTS"
+      }
+    ],
+    "week": "2026-W41"
+  },
+  "periodEnd": "2026-W41",
+  "recordedAt": "2026-10-10T09:29:24.942Z",
+  "source": "universe",
+  "sourceVersion": null,
+  "ticker": null
+}

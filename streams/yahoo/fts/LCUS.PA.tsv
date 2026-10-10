@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:08:01.445Z		200	35471	1755ec179f2e18674b6d56032d44d89d154a8dd43f9dc7fc2f7a6e30b45a7834	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LCUS.PA?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:08:01.836Z		200	36914	e50475c08f035a35735818da81777c0268bbdf3b58047e7582d8b504569d7293	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LCUS.PA?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:30:28.509Z		200	35471	1755ec179f2e18674b6d56032d44d89d154a8dd43f9dc7fc2f7a6e30b45a7834	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LCUS.PA?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:30:28.826Z		200	36914	e50475c08f035a35735818da81777c0268bbdf3b58047e7582d8b504569d7293	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/LCUS.PA?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

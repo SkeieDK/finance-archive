@@ -1,7 +1,7 @@
 {
-  "contentHash": "43e2f5b31e20cf83",
+  "contentHash": "bb419144e7ed3e34",
   "payload": {
-    "count": 1,
+    "count": 3,
     "items": [
       {
         "claim": "Netcompany Group oplyste i sin ugentlige meddelelse om aktietilbagekoeb, at programmet blev indledt i februar 2026 og har til formaal \"to adjust Netcompany's capital structure and meeting its obligations relating to share-based incentive programmes\", og at det senest afsluttes 29. januar 2027.",
@@ -11,12 +11,30 @@
         "source": "Netcompany Group A/S, selskabsmeddelelse om transaktioner under aktietilbagekoebsprogrammet",
         "url": "https://www.globenewswire.com/news-release/2026/09/28/3369706/0/en/transactions-in-connection-with-share-buyback-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany meddelte at The Goldman Sachs Group, Inc. den 25. september 2026 direkte og indirekte kontrollerede 2.618.706 stemmerettigheder svarende til 5,70 % af de samlede stemmerettigheder, op fra tidligere 3,47 %.",
+        "key": "eec022954c2651ee",
+        "publishedAt": "2026-10-02",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "Netcompany Group A/S, storaktionærmeddelelse (notifikation modtaget 1. oktober 2026)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/02/3373898/0/en/major-shareholder-announcement.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany oplyste at selskabet i perioden 28. september - 2. oktober 2026 købte 48.246 egne aktier under det aktietilbagekøbsprogram på op til DKK 750 mio., som blev annonceret 3. februar 2026 og løber til senest 29. januar 2027, og at formålet er at justere kapitalstrukturen og opfylde forpligtelser knyttet til aktiebaserede incitamentsprogrammer.",
+        "key": "4bbc08f6867670e6",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "Netcompany Group A/S, ugentlig meddelelse om transaktioner i forbindelse med aktietilbagekøbsprogram",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374237/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-02T06:24:56Z",
+  "recordedAt": "2026-10-07T06:20:31Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NETC.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "2fa1a4b46fbf94bd",
+  "contentHash": "4dc18337f6ed11b5",
   "payload": {
-    "count": 1,
+    "count": 4,
     "items": [
       {
         "claim": "Genmab filed a Form 6-K setting out its Articles of Association as of 24 September 2026, which per the filing state a share capital of DKK 62,405,855 and a board authorisation running through 12 March 2029 to issue new shares, warrants and convertible debt up to specified nominal limits, with or without pre-emption rights.",
@@ -11,12 +11,39 @@
         "source": "Genmab A/S Form 6-K filing, as summarised by TipRanks",
         "url": "https://www.tipranks.com/news/company-announcements/genmab-updates-capital-structure-and-articles-of-association-in-september-2026-sec-filing",
         "verifiedAs": null
+      },
+      {
+        "claim": "Tahamtan Ahmadi, Executive Vice President og Chief Medical Officer i Genmab, sagde om fase 2-resultaterne for rinatabart sesutecan (Rina-S) i RAINFOL-01: 'The late-breaking results presented today add an important layer of evidence to the growing clinical experience with Rina-S in patients with platinum-resistant ovarian cancer.'",
+        "key": "1484fbcd319eb0e5",
+        "publishedAt": "2026-10-03",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Tahamtan Ahmadi, EVP og Chief Medical Officer, Head of Experimental Medicines, Genmab, i selskabets meddelelse",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/genmab-announces-rinatabart-sesutecan-rina-sr-phase-2-rainfoltm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Studieinvestigator Elizabeth K. Lee, onkolog ved Dana-Farber Cancer Institute, udtalte i Genmabs meddelelse: 'The antitumor activity and durability observed with Rina-S in this heavily pretreated population are encouraging and suggest the potential to meaningfully impact outcomes for patients facing a particularly challenging stage of disease.'",
+        "key": "5bb6d08ff1bcb09a",
+        "publishedAt": "2026-10-03",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Elizabeth K. Lee, M.D., studieinvestigator, Dana-Farber Cancer Institute, citeret i Genmabs meddelelse",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/genmab-announces-rinatabart-sesutecan-rina-sr-phase-2-rainfoltm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Genmab offentliggjorde en storaktionaermeddelelse om, at Darwin Global Management Limited har oplyst at kontrollere aktier svarende til mere end 5 pct. af stemmerettighederne i Genmab gennem fonde og porteføljer under forvaltning, opgjort pr. 2026-09-28.",
+        "key": "536c54e7261ae341",
+        "publishedAt": "2026-10-02",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Genmab A/S, storaktionaermeddelelse efter kapitalmarkedslovens paragraf 30, baseret paa indberetning fra Darwin Global Management Limited",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/major-shareholder-announcement-60",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-01T06:20:53Z",
+  "recordedAt": "2026-10-05T06:20:53Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GMAB.CO"

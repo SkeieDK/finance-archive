@@ -1,7 +1,7 @@
 {
-  "contentHash": "9c69cc4a61d2c492",
+  "contentHash": "afab832d30010f7e",
   "payload": {
-    "count": 2,
+    "count": 4,
     "items": [
       {
         "claim": "Norden-topchef Jan Rindbo sagde, at \"we think the risk-reward is now more favourable in dry cargo\", og begrundede et skift af kapital fra tank mod tørlast med en voksende ordrebog og geopolitisk usikkerhed i tankmarkedet.",
@@ -20,12 +20,30 @@
         "source": "Dampskibsselskabet NORDEN A/S, selskabsmeddelelse nr. 225/2026",
         "url": "https://www.norden.com/dampskibsselskabet-norden-a-s-weekly-report-on-share-buy-back-364/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Dampskibsselskabet NORDEN A/S reported, in company announcement no. 231/2026, on the progress of its share buy-back programme and said the programme runs from 14 August 2026 up to and including no later than 22 October 2026.",
+        "key": "4cab640d2461743c",
+        "publishedAt": "2026-10-02",
+        "recordedAt": "2026-10-06T06:21:36Z",
+        "source": "Dampskibsselskabet NORDEN A/S company announcement no. 231/2026; contact given as Therese Mollevinge, Head of Investor Relations",
+        "url": "https://www.investegate.co.uk/announcement/mfn/dampskibsselskabet-norden-a-s--0hdp/dampskibsselskabet-norden-a-s-weekly-report-/9804095",
+        "verifiedAs": null
+      },
+      {
+        "claim": "NORDEN disclosed in the same weekly report that major shareholder Motortramp A/S sold shares during the reporting period 25 September - 1 October 2026.",
+        "key": "36c2bd23f8be72f9",
+        "publishedAt": "2026-10-02",
+        "recordedAt": "2026-10-06T06:21:36Z",
+        "source": "Dampskibsselskabet NORDEN A/S company announcement no. 231/2026",
+        "url": "https://www.investegate.co.uk/announcement/mfn/dampskibsselskabet-norden-a-s--0hdp/dampskibsselskabet-norden-a-s-weekly-report-/9804095",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-02T06:24:56Z",
+  "recordedAt": "2026-10-06T06:21:36Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DNORD.CO"

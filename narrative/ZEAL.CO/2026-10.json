@@ -1,7 +1,7 @@
 {
-  "contentHash": "93e2540b2cdc0038",
+  "contentHash": "0aa2c5d06992fc57",
   "payload": {
-    "count": 3,
+    "count": 13,
     "items": [
       {
         "claim": "Zealand Pharma announced that Phase 2 ZUPREME-1 results for petrelintide had been published in The Lancet Diabetes & Endocrinology and that additional data would be presented at EASD 2026 on 30 September, reporting weight reduction of up to 10.7% versus 1.7% for placebo, gastrointestinal tolerability comparable to placebo with no vomiting at the maximum effective dose, and reductions in waist circumference, hsCRP, triglycerides and pulse rate.",
@@ -29,12 +29,102 @@
         "source": "Zealand Pharma A/S company announcement under section 32 of the Danish Capital Markets Act",
         "url": "https://www.globenewswire.com/news-release/2026/09/30/3372364/0/en/total-number-of-shares-and-voting-rights-in-zealand-pharma-as-of-september-30-2026.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "H1 2026: Total revenue for H1 2026 was DKK 4,525 million (down from DKK 9,096 million in H1 2025 due to prior Roche upfront milestones), with operating profit at DKK 3,321 million and net profit at DKK 3,524 million. Cash and marketable securities stood at DKK 14,457 million as of June 30, 2026.",
+        "key": "b66fd82ddc554747",
+        "publishedAt": null,
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "zealandpharma.com",
+        "url": "https://www.zealandpharma.com/investors/financial-reports/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "H1 2026: It updates the financial position with H1 2026 revenue of DKK 4,525 million, operating profit of DKK 3,321 million, and cash reserves of DKK 14,457 million.",
+        "key": "41bcd9201f6a492c",
+        "publishedAt": "2026-08-13",
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "zealandpharma.com",
+        "url": "https://www.zealandpharma.com/investors/financial-reports/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danish FSA administrative fine for failing to report major shareholder holding changes within mandatory statutory deadlines",
+        "key": "e4b3d5110b056cf8",
+        "publishedAt": "2024-09-24",
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "finanstilsynet.dk",
+        "url": "https://www.finanstilsynet.dk/Nyheder-og-Presse/Pressemeddelelser/2024/administrativt-boedeforelaeg-zealand-pharma",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danish FSA reprimand for untimely inside information classification regarding Novo Nordisk negotiations",
+        "key": "69aa3b49dbb5bd2e",
+        "publishedAt": "2023-06-01",
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "finanstilsynet.dk",
+        "url": "https://www.finanstilsynet.dk/Nyheder-og-Presse/Pressemeddelelser/2023/paatale-til-zealand-pharma-a-s-for-ikke-at-have-klassificeret-intern-viden-korrekt",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danish FSA administrative fine for failure to promptly disclose major shareholder information",
+        "key": "e202cf41a30a8c0e",
+        "publishedAt": "2022-07-08",
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "finanstilsynet.dk",
+        "url": "https://www.finanstilsynet.dk/Nyheder-og-Presse/Pressemeddelelser/2022/25-og-30-i-lov-om-kapitalmarkeder-administrativt-boedeforelaeg-zealand-pharma-as",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Commercial contract dispute settlement with MannKind Corporation regarding the V-Go asset purchase agreement",
+        "key": "023c616652929812",
+        "publishedAt": "2025-12-31",
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "zealandpharma.com",
+        "url": "https://www.zealandpharma.com/investors/financial-reports",
+        "verifiedAs": null
+      },
+      {
+        "claim": "U.S. and Danish trade-secret and breach-of-contract litigation brought by Amyndas Pharmaceuticals regarding C3-complement inhibitor peptide technology",
+        "key": "3ee85110971ee087",
+        "publishedAt": "2022-09-02",
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "law.justia.com",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/ca1/21-1781/21-1781-2022-09-02.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ICC arbitration initiated by Protagonist Therapeutics concerning intellectual property payment entitlements for rusfertide, resolved via settlement",
+        "key": "4cb4296b3611c6f2",
+        "publishedAt": "2021-08-04",
+        "recordedAt": "2026-10-08T19:40:13.776Z",
+        "source": "prnewswire.com",
+        "url": "https://www.prnewswire.com/news-releases/protagonist-therapeutics-announces-resolution-of-contract-dispute-with-zealand-pharma-301351659.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Adam Steensberg, President og CEO i Zealand Pharma, sagde ved aabningen af selskabets nye forskningshub i Cambridge, Massachusetts: 'Today, this research hub goes from vision to reality. This research hub is a commitment to achieve that ambition.'",
+        "key": "f49f4735d7242d3c",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Adam Steensberg, President og CEO, Zealand Pharma, i selskabets meddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/10/01/3373018/0/en/zealand-pharma-announces-opening-of-new-research-hub-in-cambridge-massachusetts.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Utpal Singh, Executive Vice President og Chief Scientific Officer i Zealand Pharma, sagde om den nye forskningshub: 'The Cambridge hub will expand our platform and the biology we can modulate. With automation and advanced modeling methodologies complemented with human intuition as the foundation of how we work here, we expect to move faster from idea to clinic.'",
+        "key": "547cf4d4d73e60b2",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Utpal Singh, EVP og Chief Scientific Officer, Zealand Pharma, i selskabets meddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/10/01/3373018/0/en/zealand-pharma-announces-opening-of-new-research-hub-in-cambridge-massachusetts.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-01T06:20:53Z",
+  "recordedAt": "2026-10-05T06:20:53Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ZEAL.CO"

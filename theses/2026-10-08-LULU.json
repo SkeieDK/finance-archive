@@ -1,0 +1,85 @@
+{
+  "contentHash": "4e8c46fdc30270d2",
+  "payload": {
+    "claim": "Upgrade case: two consecutive quarters of Americas comparable sales returning to flat-or-positive, with gross margin holding at or above 56% without tariff-refund help. That would be evidence the new CEO and CPO have stabilised the brand, and it would widen the margin of safety on a stable earnings base. Downgrade case: another guidance cut below $10.35B revenue, or underlying EBIT margin (ex tariff refund) falling below 15% on a TTM basis. Either would show the decline running through the fixed-cost base faster than the price implies. Escalation of the integrity gate from Flag would also trigger review.",
+    "conviction": "Low",
+    "prediction": {
+      "anchorFiscalYear": 2026,
+      "basis": "annual",
+      "confidence": 0.75,
+      "fiscalYear": 2027,
+      "metric": "revenue_growth_pct",
+      "op": "<",
+      "reasoning": "Lowered guidance of $10.35-10.5B against roughly $11.1B in the last fiscal year implies a 5-7% decline. Q2 revenue was already -4.3% with comps at -9%, so a decline worse than -3% leaves room for a modest beat. This departs sharply from the +2.8% annual growth the price requires and from the archive median of about +5%. The departure is justified by the guidance cut and share loss to Alo and Vuori.",
+      "statedYearsAhead": 1,
+      "value": -3
+    },
+    "references": {
+      "baseRate": {
+        "approximated": null,
+        "fromMedian3": {
+          "own": {
+            "n": 16,
+            "p": 0.13
+          },
+          "peers": {
+            "n": 100,
+            "p": 0.09
+          },
+          "start": 10.07
+        },
+        "horizonYears": 1,
+        "own": {
+          "n": 16,
+          "p": 0.38
+        },
+        "peers": {
+          "n": 100,
+          "p": 0.11
+        }
+      },
+      "holdsToday": false,
+      "market": {
+        "capped": null,
+        "discountRatePct": 9.8,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          2.2,
+          2.8
+        ],
+        "impliedGrowthPct": 2.8,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "value": 4.86,
+            "year": 2026
+          },
+          {
+            "value": 10.07,
+            "year": 2025
+          },
+          {
+            "value": 18.6,
+            "year": 2024
+          }
+        ],
+        "ttm": []
+      },
+      "statusQuo": {
+        "period": "FY2026",
+        "value": 4.86
+      }
+    },
+    "resolveBy": "2028-06-30",
+    "ticker": "LULU",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2028-06-30",
+  "recordedAt": "2026-10-08T19:45:49.817Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "LULU"
+}

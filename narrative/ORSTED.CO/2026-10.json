@@ -1,7 +1,7 @@
 {
-  "contentHash": "cc11fdf28411d120",
+  "contentHash": "03dcab12a3163553",
   "payload": {
-    "count": 4,
+    "count": 6,
     "items": [
       {
         "claim": "Anders Hylleberg sagde: 'We've had great discussions with our suppliers about how we can help drive more predictability for our industry to make the right decisions and investments to bring down the cost of offshore wind by 30 % over the next 10 years.'",
@@ -38,12 +38,30 @@
         "source": "Godson Njoku, Chief Generation Officer, Oersted",
         "url": "https://www.offshorewind.biz/2026/09/30/orsteds-first-uk-offshore-wind-farm-marks-20-years-of-operation",
         "verifiedAs": null
+      },
+      {
+        "claim": "Efter det andet møllevingesvigt på to måneder på Greater Changhua 4 (583 MW) i Taiwan bekræftede Ørsted at hændelsen indtraf \"around noon on Friday\", og at \"no personnel were working on the turbine at the time\"; en talsperson for Ørsted udtalte at \"blade failures of this nature are highly unusual across our offshore fleet\" og at det var \"premature to draw conclusions\" før den tekniske analyse er færdig, og selskabet oplyste at det undersøger årsagen sammen med møllefabrikanten Siemens Gamesa Renewable Energy.",
+        "key": "7004faf8c2ebd369",
+        "publishedAt": "2026-10-06",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "Talsperson for Ørsted, citeret af RenewEconomy",
+        "url": "https://reneweconomy.com.au/taiwanese-wind-farm-suffers-second-turbine-blade-failure-in-two-months/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ad-hoc-news refererede Ørsteds meddelelse af 22. september 2026 om Borkum Riffgrund 3, hvor selskabet oplyste at anlægget \"can produce enough renewable electricity for close to one million German households\", at det er Ørsteds sjette havvindmøllepark i drift i Tyskland, og at det bringer Ørsteds installerede tyske havvindkapacitet til 2,50 GW.",
+        "key": "6621ef0bbe7d25d1",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "Ørsted A/S, refereret af ad-hoc-news.de (mediedækning)",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/orsted-opens-913-mw-wind-farm-and-orsted-stock-falls-4-04-percent/70232445",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-03T06:20:54Z",
+  "recordedAt": "2026-10-07T06:20:31Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ORSTED.CO"

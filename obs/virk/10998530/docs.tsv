@@ -99,3 +99,7 @@ firstSeen	indlaesningsId	dokumentType	mime	url	sha256	bytes	gemt
 2026-09-27T11:48:51.977Z	83a57da9d50cd19a4107	AARSRAPPORT	image/tiff	http://regnskaber.virk.dk/03589901/Y3ZyLmRrOi8vcGRmcy8xMDk5ODUzMDtBL1MxNjIyMTU7MTk5NzAxMDE7MTk5NzEyMzE7UjtS.tif			nej
 2026-09-27T11:48:51.977Z	21d75174c6a083551f07	AARSRAPPORT	image/tiff	http://regnskaber.virk.dk/03589901/Y3ZyLmRrOi8vcGRmcy8xMDk5ODUzMDtBL1MxNjIyMTU7MTk5NjAxMDE7MTk5NjEyMzE7UjtS.tif			nej
 2026-09-27T11:48:51.977Z	b4f6db3e927332886892	AARSRAPPORT	image/tiff	http://regnskaber.virk.dk/03589901/Y3ZyLmRrOi8vcGRmcy8xMDk5ODUzMDtBL1MxNjIyMTU7MTk5NTAxMDE7MTk5NTEyMzE7UjtS.tif			nej
+2026-10-10T09:31:15.350Z	AaERNmx7ntWaBrQWjqwf	ESEF_EXTENSION	application/zip	http://regnskaber.virk.dk/03589901/amNsb3VkczovLzAzLzY5L2JhL2M2LzhiL2M3YzMtNDNiZC1iZjJiLWVkYWQ4Y2Y2Nzc4Yg.zip			nej
+2026-10-10T09:31:15.350Z	AaERNmx7ntWaBrQWjqwf	HALVAARSRAPPORT	application/xhtml+xml	http://regnskaber.virk.dk/03589901/amNsb3VkczovLzAzL2FmL2I3LzUzLzYyLzcwMjItNDVhYi1hNTU2LWVkYzBjOTEzYzYzMg.xhtml			nej
+2026-10-10T09:31:15.350Z	AaERNmx7ntWaBrQWjqwf	HALVAARSRAPPORT	application/xml	http://regnskaber.virk.dk/03589901/amNsb3VkczovLzAzLzM5L2Y4LzgzLzVmL2M3NDMtNDAzMS04N2YwLTliOGE3NjljNzUyZg.xml	c83dcc4b50bcf87ec9c3eb5ad1dc69f0222a65ffff9f1992ddf9e883f798228f	14646	ja
+2026-10-10T09:31:15.350Z	AaERNmx7ntWaBrQWjqwf	HALVAARSRAPPORT_ESEF	application/xml	http://regnskaber.virk.dk/03589901/amNsb3VkczovLzAzLzZhLzBjL2RiLzY1LzI3NDktNDNmNi1hYWI2LTFiYTU3YTg2ZTYyYQ.xml	aad37b273419f6590b8acee397f5f57bff001ed96ff08ba3dec99d20eb4db1c8	41565	ja

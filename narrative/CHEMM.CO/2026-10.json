@@ -1,7 +1,7 @@
 {
-  "contentHash": "5047ee132c533c09",
+  "contentHash": "f3c9f6582f266455",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "ChemoMetec meddelte at selskabet har afsluttet det aktietilbagekoebsprogram, der blev annonceret i selskabsmeddelelse nr. 309 den 15. maj 2026, og oplyste at der blev tilbagekoebt 239.950 aktier for i alt DKK 99.998.735, svarende til 1,38 pct. af aktiekapitalen.",
@@ -29,12 +29,30 @@
         "source": "Oekonomisk Ugebrev Life Science (mediedaekning)",
         "url": "https://ugebrev.dk/life-science/chemometec-paa-vej-mod-vaekstcomeback-efter-reset/",
         "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec opjusterede forventningerne til omsætning og EBITDA for regnskabsåret 2026/27 og begrundede det med at selskabet \"i første kvartal af regnskabsåret 2026/27 fastholdt den positive udvikling, understøttet af en større end forventet efterspørgsel efter vores instrumenter, særligt drevet af NC-203, samt et lavere omkostningsniveau\"; omsætningsforventningen blev hævet til DKK 560-590 mio. fra DKK 545-575 mio. og EBITDA til DKK 330-345 mio. fra DKK 300-315 mio.",
+        "key": "d4267e5cdbffba87",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse \"Opjustering af omsætning og driftsresultat\" (kontaktpersoner angivet: CEO Martin Helbo Behrens og CFO Phillip Massie Price)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374234/0/da/opjustering-af-oms%C3%A6tning-og-driftsresultat.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec videregav en storaktionærmeddelelse om at \"BlackRock, Inc. den 29. september 2026 har øget sine stemmerettigheder knyttet til aktier i ChemoMetec til 15,08 % og dermed overskredet 15 %-grænsen\" efter kapitalmarkedslovens § 38.",
+        "key": "40d611ab3d7cb8c8",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "ChemoMetec A/S, storaktionærmeddelelse - BlackRock, Inc.",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374971/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-03T06:20:54Z",
+  "recordedAt": "2026-10-07T06:20:31Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CHEMM.CO"

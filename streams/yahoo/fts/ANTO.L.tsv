@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:35:34.966Z		200	151985	872fa0bb2c632f590fdb01d30a7a6be7e364466786ed0dcedf22a8734cfcf22d	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ANTO.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:35:35.674Z		200	65710	c409fa683d435d65a2b37bb6ec9d61b78a7e927a0375c4015af4d108a1af5509	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ANTO.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:04:20.404Z		200	151985	872fa0bb2c632f590fdb01d30a7a6be7e364466786ed0dcedf22a8734cfcf22d	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ANTO.L?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:04:20.803Z		200	65710	c409fa683d435d65a2b37bb6ec9d61b78a7e927a0375c4015af4d108a1af5509	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ANTO.L?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

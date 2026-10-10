@@ -1,7 +1,7 @@
 {
-  "contentHash": "113f2802c09e8f46",
+  "contentHash": "191dc73431b6f7a0",
   "payload": {
-    "count": 2,
+    "count": 5,
     "items": [
       {
         "claim": "Maersk meddelte at have gennemfoert den foerste kommercielle ship-to-ship-bunkring med ethanol af et deep-sea containerskib i USA, og Ditlev Blicher, Regional President for North America, sagde: \"Achieving lower-emission logistics requires turning new technologies into practical, scalable solutions.\"",
@@ -20,12 +20,39 @@
         "source": "Dave Hune, North America Head of Maersk Contract Logistics, i Maersks egen meddelelse (PUMAs Helmut Leibbrandt citeres ligeledes)",
         "url": "https://www.maersk.com/news/articles/2026/09/24/maersk-puma-expand-partnership-us-distribution-network",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Moller - Maersk A/S reported its share buy-back transactions for the period 28 September to 2 October 2026 and restated that the second phase of the programme runs from 13 August 2026 up to and including 29 January 2027.",
+        "key": "e2ad2c1f7c56a65d",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-06T06:21:36Z",
+        "source": "A.P. Moller - Maersk A/S company announcement, Copenhagen; contacts given as Martin Dunwoodie, Head of Investor Relations, and Jesper Lov, Head of Media Relations",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374218/0/en/transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk said it would introduce and revise its Peak Season Surcharge on container shipments from the East Coast of South America to several European markets, with effect from a Price Calculation Date of 1 November 2026.",
+        "key": "444c34561e188dd0",
+        "publishedAt": "2026-10-02",
+        "recordedAt": "2026-10-06T06:21:36Z",
+        "source": "Maersk customer advisory, as reported by Container News",
+        "url": "https://container-news.com/maersk-announces-new-pss-from-south-america-to-europe/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk announced adjustments to its Peak Season Surcharges on three trades - China/Hong Kong to Kenya from 19 October 2026, Asia to Oceania from 1 November 2026, and Indian Subcontinent/Middle East to North America from 2 October 2026 - and said of the Kenya route that the surcharge will remain in effect until further notice and applies to non-SPOT bookings based on the Price Calculation Date.",
+        "key": "73312766178e2040",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-06T06:21:36Z",
+        "source": "Maersk customer advisories, as reported by Container News",
+        "url": "https://container-news.com/maersk-updates-pss-across-three-major-trades/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-02T06:24:56Z",
+  "recordedAt": "2026-10-06T06:21:36Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-B.CO"

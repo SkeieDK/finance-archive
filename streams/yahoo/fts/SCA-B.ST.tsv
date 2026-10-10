@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:23:07.758Z		200	140435	40654d79d8b1250c9d0e90604770fd05ccf22b7f946cc243e617b5d781b094de	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SCA-B.ST?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:23:08.261Z		200	130672	83639d57804c94797e3f4a68203a80eedbde398b609bebf8e6d9ec19b40d9738	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SCA-B.ST?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:46:46.190Z		200	140435	40654d79d8b1250c9d0e90604770fd05ccf22b7f946cc243e617b5d781b094de	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SCA-B.ST?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:46:46.797Z		200	130672	83639d57804c94797e3f4a68203a80eedbde398b609bebf8e6d9ec19b40d9738	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SCA-B.ST?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

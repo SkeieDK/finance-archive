@@ -1,0 +1,91 @@
+{
+  "contentHash": "a931e22ace25c064",
+  "payload": {
+    "claim": "Upgrade case: FY2026 EBIT margin lands in the upper half of the 7–9% guidance, rolling gross margin holds above ~15%, and warranty provisions do not step up with the V236 offshore ramp. Those three together would show the recovery is structural rather than cyclical, and would let normalized earnings carry a higher discount rate while still leaving a margin of safety. Downgrade case: a guidance cut, a quarter with a material special warranty or cost charge, firm order intake falling below ~2.5 GW per quarter for two consecutive quarters, or evidence of Chinese OEMs winning European tenders on price.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.72,
+      "fiscalYear": 2026,
+      "metric": "ebit_margin_pct",
+      "op": ">=",
+      "reasoning": "Several facts point above the archive median of ~5.6%: rolling EBIT margin is already 7.72%, Q2 was 9.4%, guidance was raised to 7–9%, and Vestas' seasonally strongest quarter (Q4) is still to come. The risk is special items or warranty charges dragging the reported figure below the guidance basis. Hitting this margin would still fall far short of the sustained 14.9% owner-earnings growth the price requires.",
+      "statedYearsAhead": 1,
+      "value": 7
+    },
+    "references": {
+      "baseRate": {
+        "approximated": null,
+        "fromMedian3": {
+          "own": {
+            "n": 3,
+            "p": null
+          },
+          "peers": {
+            "n": 100,
+            "p": 0.2
+          },
+          "start": 4.59
+        },
+        "horizonYears": 1,
+        "own": {
+          "n": 3,
+          "p": null
+        },
+        "peers": {
+          "n": 100,
+          "p": 0.26
+        }
+      },
+      "holdsToday": false,
+      "market": {
+        "capped": null,
+        "discountRatePct": 6,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": null,
+        "impliedGrowthPct": 14.9,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "value": 5.39,
+            "year": 2025
+          },
+          {
+            "value": 4.59,
+            "year": 2024
+          },
+          {
+            "value": 0.23,
+            "year": 2023
+          }
+        ],
+        "ttm": [
+          {
+            "periodEnd": "2026-06-30",
+            "value": 7.72
+          },
+          {
+            "periodEnd": "2026-03-31",
+            "value": 6.11
+          }
+        ]
+      },
+      "statusQuo": {
+        "period": "FY2025",
+        "value": 5.39
+      }
+    },
+    "resolveBy": "2027-06-30",
+    "ticker": "VWS.CO",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-06-30",
+  "recordedAt": "2026-10-08T19:38:58.044Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "VWS.CO"
+}

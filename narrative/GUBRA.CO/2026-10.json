@@ -1,7 +1,7 @@
 {
-  "contentHash": "59c7e2bf25e3b842",
+  "contentHash": "d109d6343329f3cb",
   "payload": {
-    "count": 3,
+    "count": 4,
     "items": [
       {
         "claim": "Gubra announced that its partner AbbVie had presented detailed Phase 1 data for ABBV-295, a long-acting amylin analog, at EASD 2026, the release stating a half-life of 10.7 to 12.3 days, weight reductions of 7.8-9.8% over 12-13 weeks (9.7% on every-other-week dosing, 7.9% monthly), no serious adverse events and 92% of gastrointestinal side effects mild, in 60 participants.",
@@ -29,12 +29,21 @@
         "source": "Gubra A/S press release as redistributed by TradingView / Modular Finance, quoting CEO Markus Rohrwild",
         "url": "https://www.tradingview.com/news/modular_finance:85bf2bf8bdd47:0-gubra-s-partner-abbvie-presents-detailed-phase-1-data-for-abbv-295-a-long-acting-amylin-analog-demonstrating-favorable-tolerability-and-pharmacokinetic-profile-at-easd-2026/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Gubras adm. direktoer Markus Rohrwild sagde om partneren AbbVies fase 1-data for ABBV-295, fremlagt paa EASD 2026 i Milano: 'The detailed data presented at EASD further highlight the differentiated profile of ABBV-295, including meaningful weight loss, favorable safety and tolerability, and a pharmacokinetic profile supporting the evaluation of dosing intervals beyond weekly administration. We are pleased to see the program advancing under AbbVie's leadership.'",
+        "key": "cafad2ffb97f54bf",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Markus Rohrwild, adm. direktoer i Gubra A/S, i selskabets meddelelse",
+        "url": "https://www.gubra.dk/mfn_news/gubras-partner-abbvie-presents-detailed-phase-1-data-for-abbv-295-a-long-acting-amylin-analog-demonstrating-favorable-tolerability-and-pharmacokinetic-profile-at-easd-2026/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-01T06:20:53Z",
+  "recordedAt": "2026-10-05T06:20:53Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GUBRA.CO"

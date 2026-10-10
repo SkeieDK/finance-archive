@@ -1,7 +1,7 @@
 {
-  "contentHash": "d28a126a27008a8b",
+  "contentHash": "25edbecb4504f30b",
   "payload": {
-    "count": 3,
+    "count": 17,
     "items": [
       {
         "claim": "Vestas announced the launch of its V182-7.2 MW onshore turbine, saying it can increase capacity factors by as much as 2 percent versus its predecessor and improve electricity capture prices by as much as 3 percent at low- to medium-wind sites.",
@@ -29,12 +29,138 @@
         "source": "ad-hoc-news.de, reporting on Vestas company announcements; no individual named",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/vestas-wind-stock-draws-support-from-246-mw-of-new-orders/70192543",
         "verifiedAs": null
+      },
+      {
+        "claim": "Q2 2026: Revenue reached €4,720 million, up 26% YoY. Operating profit (EBIT before special items) was €446 million with a 9.4% margin. Firm turbine order intake was 3,300 MW (€3.4 billion) and combined backlog reached €76.9 billion. Published on August 12, 2026.",
+        "key": "67904c70d5462fe5",
+        "publishedAt": null,
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "vestas.com",
+        "url": "https://www.vestas.com/en/investor/reports-and-presentations",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Q1 2026 and Q2 2026: The interim reports show accelerating profitability and revenue growth following the 2025 Annual Report.",
+        "key": "69541ca53bc19ade",
+        "publishedAt": "2026-08-12",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "vestas.com",
+        "url": "https://www.vestas.com/en/investor/reports-and-presentations",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ICC Stockholm Commercial Arbitration with Fortum Oyj over terminated Russian contracts resulting in confidential settlement.",
+        "key": "4d5f1622a607d782",
+        "publishedAt": "2024-10-10",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "vestas.com",
+        "url": "https://www.vestas.com/en/media/company-news/2024/vestas-and-fortum-reach-settlement-on-arbitration-relate-c3938479",
+        "verifiedAs": null
+      },
+      {
+        "claim": "U.S. OSHA workplace safety citations resulting in $25,500 penalties.",
+        "key": "d33332ef07dc9e8f",
+        "publishedAt": "2023",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "violationtracker.goodjobsfirst.org",
+        "url": "https://violationtracker.goodjobsfirst.org/parent/vestas",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Environment and Land Court of Kenya ruling on Lake Turkana wind power land titles finding land allocation irregular.",
+        "key": "bd973746489210a5",
+        "publishedAt": "2021-10-19",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "cambridge.org",
+        "url": "https://www.cambridge.org/core/journals/business-and-human-rights-journal/article/indigenous-peoples-business-and-the-struggles-for-justice-in-the-green-transition-towards-a-rightsbased-approach-to-just-transitions/F21FBEB2C4F00EBA711204BDEDF95FE6",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Supreme Court of Norway Grand Chamber judgment invalidating Fosen wind complex concessions for impacting reindeer grazing.",
+        "key": "5285a72374efa4f4",
+        "publishedAt": "2021-10-11",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "nordiclabourjournal.org",
+        "url": "https://www.nordiclabourjournal.org/i-fokus/in-focus-2022/article.2022-03-25.7533810141",
+        "verifiedAs": null
+      },
+      {
+        "claim": "U.S. OSHA standard violation citations resulting in civil penalties totaling $27,147.",
+        "key": "747e54e85ae422ff",
+        "publishedAt": "2021",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "violationtracker.goodjobsfirst.org",
+        "url": "https://violationtracker.goodjobsfirst.org/parent/vestas",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Multi-patent infringement litigation settlement with General Electric Renewable Energy.",
+        "key": "b066675d0489a1ad",
+        "publishedAt": "2019-06-25",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "vestas.com",
+        "url": "https://www.vestas.com/en/media/company-news/2019/vestas-and-ge-renewable-energy-settle-multi-patent-dispute-c2250165",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Global civil litigation settlement in Denmark and India concerning unauthorized transactions.",
+        "key": "e2d010ac0d37314f",
+        "publishedAt": "2016-02-25",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "vestas.com",
+        "url": "https://www.vestas.com/en/media/company-news/2016/settlement-of-legal-proceedings-in-denmark-and-india-con-c1391781",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danish Serious Economic Crime Prosecutor (SØIK) criminal fraud investigation closed without charges.",
+        "key": "1eeafdca7ccb6a72",
+        "publishedAt": "2015-06-23",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "eqs-news.com",
+        "url": "https://www.eqs-news.com/news/corporate/vestas-wind-systems-a-s-decision-regarding-criminal-charges-against-former-chief-financial-officer/2015-06-24-0737-0-1634597/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "U.S. Federal securities class action settlement over IFRIC 15 accounting for $5.0 million.",
+        "key": "c202a7a00be390c6",
+        "publishedAt": "2014-06-26",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "vestas.com",
+        "url": "https://www.vestas.com/en/media/company-news/2014/conditional-settlement-of-us-class-action-c1167440",
+        "verifiedAs": null
+      },
+      {
+        "claim": "OSHA willful and serious safety violations at Pueblo facility resulting in $164,000 in penalties.",
+        "key": "8336f5905799d681",
+        "publishedAt": "2011-05-21",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "violationtracker.goodjobsfirst.org",
+        "url": "https://violationtracker.goodjobsfirst.org/parent/vestas",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Nasdaq OMX Copenhagen / Danish FSA regulatory reprimand for order disclosure timing.",
+        "key": "7d6d1e85f347cc22",
+        "publishedAt": "2010",
+        "recordedAt": "2026-10-08T19:37:06.778Z",
+        "source": "nasdaqomxnordic.com",
+        "url": "https://www.nasdaqomxnordic.com/digitalAssets/72/72851_afgorelserogudtalelseri2010.pdf",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Purvin Patel, Regional President Asia Pacific i Vestas, sagde om to nye vestaustralske ordrer, at projekterne er taenkt til ikke blot at bidrage med yderligere kapacitet fra vedvarende energi, men ogsaa til udviklingen af 'an energy system that is secure, affordable and sustainable over the long term', og at ordrerne viser, hvordan EnVentus-platformen kan tilpasses kundernes krav og lokale forhold.",
+        "key": "c39dbcdbafdb6fe8",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Purvin Patel, Regional President Asia Pacific, Vestas, i selskabets ordremeddelelse (kunder anfoert som Atmos Renewables og Foresight Group)",
+        "url": "https://news.europawire.eu/vestas-secures-614-mw-of-new-wind-turbine-orders-in-western-australia-for-parron-maam-marang-and-kondinin-projects/eu-press-release/2026/09/30/15/01/52/181554/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-01T06:20:53Z",
+  "recordedAt": "2026-10-05T06:20:53Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "VWS.CO"

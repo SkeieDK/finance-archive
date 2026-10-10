@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:17:27.482Z		200	35952	1b3991a110f773db155028e6ababe92f4e7cd1c058e50268dc1805ad09e09e18	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PAEEM.PA?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:17:27.945Z		200	37395	b88aa66b692d0464307bedc9971bd58430d38b601a90677e2c20d91ec4f2bdd4	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PAEEM.PA?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:40:37.028Z		200	35952	1b3991a110f773db155028e6ababe92f4e7cd1c058e50268dc1805ad09e09e18	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PAEEM.PA?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:40:37.331Z		200	37395	b88aa66b692d0464307bedc9971bd58430d38b601a90677e2c20d91ec4f2bdd4	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/PAEEM.PA?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

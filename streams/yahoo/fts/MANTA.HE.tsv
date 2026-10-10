@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:10:11.088Z		200	109729	fb911bfb49d6afec2e80121dade9601ece93e218ccd6bb09f3891b7b7efa6212	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/MANTA.HE?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:10:11.513Z		200	108929	7e61cf41ad63652200ad18e2fa485881280b17f48eee0cf4987f30f968acbd39	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/MANTA.HE?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:32:48.083Z		200	109729	fb911bfb49d6afec2e80121dade9601ece93e218ccd6bb09f3891b7b7efa6212	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/MANTA.HE?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:32:48.476Z		200	108929	7e61cf41ad63652200ad18e2fa485881280b17f48eee0cf4987f30f968acbd39	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/MANTA.HE?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

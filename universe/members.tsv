@@ -1,0 +1,985 @@
+recordedAt	ticker	event	source	detail
+2026-10-04T17:31:56.399Z	NOVO-B.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	DSV.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	PNDORA.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	ROCK-B.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	COLO-B.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	GN.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	DEMANT.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	CARL-B.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	ORSTED.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	VWS.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	MAERSK-B.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	NKT.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	RBREW.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	ZEAL.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	CHEMM.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	NETC.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	GUBRA.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	BAVA.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	DNORD.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	AAB.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	TRYG.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	PARKEN.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	AMBU-B.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	FOBA.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	CBRAIN.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	GMAB.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	HARB-B.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	IG.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	EQNR.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	KOG.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	SALM.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	MOWI.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	DNB.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	TEL.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	NHY.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	NOD.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	TOM.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	NEL.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	RECSI.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	ZAP.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	SALME.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	THOR.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	OET.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	LSG.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	BAKKA.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	BWLPG.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	BNOR.OL	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	INDT.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	ATCO-A.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	NDA-DK.CO	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	SAND.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	HEXA-B.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	TREL-B.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	EKTA-B.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	IVSO.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	NELLY.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	ATCO-B.ST	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	KNEBV.HE	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	METSB.HE	added	seed: universe/2026-W34.json	
+2026-10-04T17:31:56.399Z	TRMED.OL	added	seed: universe/2026-W36.json	
+2026-10-04T17:31:56.399Z	A	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AAPL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ABBV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ABNB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ABT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ACGL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ACN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ADBE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ADI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ADM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ADP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ADSK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AEE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AEP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AES	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AFL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AIG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AIZ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AJG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AKAM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ALB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ALGN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ALL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ALLE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ALMU	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AMAT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AMCR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AMD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AME	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AMGN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AMP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AMT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AMZN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ANET	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AON	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AOS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	APA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	APD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	APH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	APO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	APP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	APTV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ARE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ARES	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ASML	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ASR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ATO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AVGO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AVY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AWK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AXON	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AXP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	AZO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BABA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BAC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BALL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BAX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BBY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BDX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BEN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BF-B	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BIIB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BKNG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BKR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BLDR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BLK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BMY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BNY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BRK-B	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BRO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BSX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BXP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	C	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CAH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CARR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CASY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CAT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CBOE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CBRE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CCI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CCJ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CCL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CDNS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CDW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CEG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CFG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CHD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CHRW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CHTR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CIEN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CINF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CLX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CMCSA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CME	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CMG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CMI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CMS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CNC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CNP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	COF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	COHR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	COIN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	COO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	COP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	COR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	COST	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CPA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CPAY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CPB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CPRI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CPRT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CPT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CRCL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CRH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CRL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CRM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CRWD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CSCO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CSGP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CSX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CTAS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CTSH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CTVA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CVNA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CVS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	CVX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	D	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DAL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DASH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DDOG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DECK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DELL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DGX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DHI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DHR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DIS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DLR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DLTR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DNA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DOC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DOV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DOW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DPZ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DRI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DTE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DUK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DVA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DVN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	DXCM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EBAY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ECHO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ECL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ED	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EFX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EIX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ELV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EMBJ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EME	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EMR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ENTG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EOG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EQIX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EQT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ERIE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ES	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ESS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ETN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ETR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ETSY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EVRG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EXC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EXE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EXPD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EXPE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	EXR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	F	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FANG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FAST	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FCX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FDS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FDX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FDXF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FERG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FFIV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FICO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FIS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FISV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FITB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FIX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FLEX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FOX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FOXA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FRT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FSLR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FTNT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	FTV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GDDY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GEHC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GEN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GEV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GILD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GIS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GLW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GNRC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GOOG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GOOGL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GPC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GPN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GRAB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GRMN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	GWW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HAL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HAS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HBAN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HCA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HIG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HII	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HLT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HNRG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HON	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HONA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HOOD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HPE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HPQ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HRL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HSIC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HST	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HSY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HUBB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HUM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	HWM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IBKR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IBM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ICE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ICFI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IDXX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IEX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IFF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	INCY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	INTC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	INTU	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	INVH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IQV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IRM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ISRG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ITW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	IVZ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	J	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JBHT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JBL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JCI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JKHY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JMIA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JNJ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	JPM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KDP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KEY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KEYS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KHC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KIM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KINS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KKR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KLAC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KMB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KMI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	KVUE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	L	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LDOS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LEN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LHX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LII	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LIN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LITE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LLY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LMT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LNT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LOW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LRCX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LULU	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LUV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LVS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LYB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	LYV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MAA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MAR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MAS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MCD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MCHP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MCK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MCO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MDLZ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MDT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MELI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MET	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	META	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MGM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MKC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MLM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MMM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MNST	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MOS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MPC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MPWR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MRK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MRNA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MRSH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MRVL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MSCI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MSFT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MSI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MTB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MTD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MTN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	MU	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NCLH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NDAQ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NDSN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NEE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NEM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NET	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NFLX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NKE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NOC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NOW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NRG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NSC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NTAP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NTRS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NU	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NUE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NVDA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NVR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NWS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NWSA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	NXPI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	O	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ODFL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	OKE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	OMC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ON	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ORCL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ORLY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	OTIS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	OXY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PANW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PAYX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PCAR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PCG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PDD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PEG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PEP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PFE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PFG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PGR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PHM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PKG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PLD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PLTR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PNC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PNR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PNW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PODD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PPG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PPL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PRU	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PSA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PSKY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PSX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PTC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PWR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	PYPL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	Q	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	QCOM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RCEL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RCL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RDDT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RDW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	REG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	REGN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RJF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RMD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ROK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ROL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ROP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ROST	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RSG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RTX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RVTY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	RXRX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SABR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SBAC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SBUX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SCHW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SHOP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SHW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SIEGY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SJM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SLB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SMCI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SNA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SNDK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SNOW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SNPS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SOLV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SONY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SPG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SPGI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SRE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	STE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	STLD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	STT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	STX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	STZ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SWK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SWKS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SYF	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SYK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	SYY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	T	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TAP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TCOM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TDG	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TDY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TECH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TEL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TER	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TFC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TGT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TJX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TKO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TMO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TMUS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TPL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TPR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TRGP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TRMB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TRMD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TROW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TRV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TSCO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TSLA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TSN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TTD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TTWO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TXN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TXT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	TYL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	U	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	UAL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	UBER	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	UDR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	UHS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ULTA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	UNH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	UNP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	UPS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	URI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	USB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	V	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VALE	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VEEV	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VICI	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VLO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VLTO	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VMC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VMRK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VOD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VRSK	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VRSN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VRT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VRTX	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VST	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VTR	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VTRS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	VZ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WAB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WAT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WBD	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WDAY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WDC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WEC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WELL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WFC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WMB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WMT	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WPP	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WRB	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WSM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WST	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WTW	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WY	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	WYNN	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	XEL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	XOM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	XYL	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	XYZ	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	YUM	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	YUMC	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ZBH	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ZBRA	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	ZTS	added	seed: universe/2026-W38.json	
+2026-10-04T17:31:56.399Z	BE	added	seed: universe/2026-W40.json	
+2026-10-04T17:31:56.399Z	ILMN	added	seed: universe/2026-W40.json	
+2026-10-04T17:31:56.399Z	P	added	seed: universe/2026-W40.json	
+2026-10-04T17:31:56.399Z	ABN.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	AD.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	ADYEN.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	AGN.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	AKZA.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	ASM.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	ASML.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	ASRNL.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	BESI.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	DSFIR.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	EXO.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	HEIA.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	IMCD.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	INGA.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	KPN.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	MT.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	NN.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	PHIA.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	PRX.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	RAND.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	REN.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	SHELL.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	UMG.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	UNA.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	WKL.AS	added	seed: index aex (2026-10-03T08:29:30.387Z)	
+2026-10-04T17:31:56.399Z	AC.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	ACA.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	AI.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	AIR.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	BN.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	BNP.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	BVI.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	CA.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	CAP.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	CS.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	DG.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	DSY.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	EDEN.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	EL.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	EN.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	ENGI.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	ERF.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	GLE.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	HO.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	KER.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	LR.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	MC.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	ML.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	OR.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	ORA.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	PUB.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	RI.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	RMS.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	RNO.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	SAF.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	SAN.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	SGO.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	STLAP.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	STMPA.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	SU.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	TEP.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	TTE.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	URW.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	VIE.PA	added	seed: index cac40 (2026-10-03T08:29:30.161Z)	
+2026-10-04T17:31:56.399Z	ADS.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	ALV.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	BAS.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	BAYN.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	BEI.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	BMW.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	BNR.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	CBK.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	CON.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	DB1.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	DBK.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	DHL.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	DTE.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	DTG.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	ENR.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	EOAN.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	FME.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	FRE.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	G1A.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	G24.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	HEI.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	HEN3.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	HNR1.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	IFX.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	MBG.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	MRK.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	MTX.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	MUV2.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	PAH3.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	QIA.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	RHM.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	RWE.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	SAP.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	SHL.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	SIE.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	SY1.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	VNA.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	VOW3.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	ZAL.DE	added	seed: index dax (2026-10-03T08:29:30.076Z)	
+2026-10-04T17:31:56.399Z	AAF.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	AAL.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ABDN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ABF.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ADM.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ALW.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ANTO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	AUTO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	AV.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	AZN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BA.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BAB.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BARC.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BATS.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BBOX.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BBY.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BGEO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BLND.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BNZL.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BP.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BRBY.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BT-A.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	BTRW.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	CCC.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	CCEP.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	CCH.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	CNA.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	CPG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	CRDA.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	CTEC.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	DCC.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	DGE.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	DPLM.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	EDV.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	EXPN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	EZJ.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	FCIT.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	FRES.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	GAW.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	GLEN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	GSK.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	HLMA.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	HLN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	HSBA.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	HSX.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	HWDN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	IAG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ICG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	IGG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	IHG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	III.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	IMB.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	IMI.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	INF.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	INVP.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ITH.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ITRK.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	JD.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	KGF.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	LAND.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	LGEN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	LLOY.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	LMP.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	LSEG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	MKS.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	MNG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	MRO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	MTLN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	NG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	NWG.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	NXT.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	PCT.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	PRU.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	PSH.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	PSON.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	REL.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	RIO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	RKT.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	RR.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	RTO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SBRY.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SDLF.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SGE.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SGRO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SHEL.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SMIN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SMT.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SPX.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SSE.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	STAN.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	STJ.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	SVT.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	TSCO.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	ULVR.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	UU.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	VOD.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	WEIR.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	WPP.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	WTB.L	added	seed: index ftse100 (2026-10-03T08:29:31.679Z)	
+2026-10-04T17:31:56.399Z	A2A.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	AMP.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	AVIO.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	AZM.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	BAMI.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	BC.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	BMED.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	BMPS.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	BPE.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	BZU.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	CPR.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	DIA.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	ENEL.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	ENI.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	FBK.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	FCT.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	G.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	HER.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	IG.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	INW.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	ISP.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	IVG.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	LDO.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	LTMC.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	MB.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	MONC.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	NEXI.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	PRY.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	PST.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	RACE.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	REC.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	SPM.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	SRG.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	STLAM.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	STMMI.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	TEN.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	TIT.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	TRN.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	UCG.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	UNI.MI	added	seed: index ftsemib (2026-10-03T08:29:31.130Z)	
+2026-10-04T17:31:56.399Z	ACS.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	ACX.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	AENA.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	AMS.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	ANA.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	ANE.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	BBVA.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	BKT.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	CABK.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	CLNX.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	COL.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	ELE.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	ENG.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	FDR.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	FER.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	GRF.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	IAG.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	IBE.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	IDR.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	ITX.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	LOG.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	MAP.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	MRL.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	MTS.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	NTGY.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	PUIG.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	RED.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	REP.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	ROVI.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	SAB.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	SAN.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	SCYR.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	SLR.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	TEF.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	UNI.MC	added	seed: index ibex35 (2026-10-03T08:29:30.992Z)	
+2026-10-04T17:31:56.399Z	AKRBP.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	FRO.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	GJF.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	GOGL.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	HAFNI.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	HAUTO.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	MPCC.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	NAS.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	ORK.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	STB.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	SUBC.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	TGS.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	VAR.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	WAWI.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	YAR.OL	added	seed: index obx (2026-10-03T08:29:29.932Z)	
+2026-10-04T17:31:56.399Z	ALSYDB.CO	added	seed: index omxc25 (2026-10-03T08:29:29.816Z)	
+2026-10-04T17:31:56.399Z	DANSKE.CO	added	seed: index omxc25 (2026-10-03T08:29:29.816Z)	
+2026-10-04T17:31:56.399Z	FLS.CO	added	seed: index omxc25 (2026-10-03T08:29:29.816Z)	
+2026-10-04T17:31:56.399Z	ISS.CO	added	seed: index omxc25 (2026-10-03T08:29:29.816Z)	
+2026-10-04T17:31:56.399Z	JYSK.CO	added	seed: index omxc25 (2026-10-03T08:29:29.816Z)	
+2026-10-04T17:31:56.399Z	MAERSK-A.CO	added	seed: index omxc25 (2026-10-03T08:29:29.816Z)	
+2026-10-04T17:31:56.399Z	NSIS-B.CO	added	seed: index omxc25 (2026-10-03T08:29:29.816Z)	
+2026-10-04T17:31:56.399Z	ELISA.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	FORTUM.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	HIAB.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	HUH1V.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	KALMAR.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	KCR.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	KEMIRA.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	KESKOB.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	KOJAMO.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	MANTA.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	METSO.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	NDA-FI.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	NESTE.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	NOKIA.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	ORNBV.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	OUT1V.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	QTCOM.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	SAMPO.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	STERV.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	TIETO.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	TYRES.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	UPM.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	VALMT.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	WRT1V.HE	added	seed: index omxh25 (2026-10-03T08:29:29.999Z)	
+2026-10-04T17:31:56.399Z	ABB.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	ADDT-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	ALFA.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	ASSA-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	AZN.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	BOL.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	EPI-A.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	EQT.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	ERIC-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	ESSITY-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	EVO.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	HM-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	INDU-C.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	INVE-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	LIFCO-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	NDA-SE.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	NIBE-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	SAAB-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	SCA-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	SEB-A.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	SHB-A.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	SKA-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	SKF-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	SWED-A.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	TEL2-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	TELIA.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:56.399Z	VOLV-B.ST	added	seed: index omxs30 (2026-10-03T08:29:29.875Z)	
+2026-10-04T17:31:58.025Z	THOR.OL	corrected	manual	ticker never existed at Yahoo (404); the company is Thor Medical — replaced by TRMED.OL
+2026-10-04T17:37:15.834Z	KOJAMO.HE	corrected	manual	Kojamo Oyj renamed Lumo Kodit Oyj; Yahoo answers 404 for KOJAMO.HE, LUMO.HE quotes on Helsinki (verified 2026-10-04) — replaced by LUMO.HE
+2026-10-04T17:37:15.834Z	LUMO.HE	added	replaces KOJAMO.HE	Kojamo Oyj renamed Lumo Kodit Oyj; Yahoo answers 404 for KOJAMO.HE, LUMO.HE quotes on Helsinki (verified 2026-10-04)
+2026-10-04T17:37:16.553Z	FOBA.CO	corrected	manual	Føroya Banki trades as FOBANK.CO; Yahoo answers 404 for FOBA.CO, FOBANK.CO quotes on Copenhagen (verified 2026-10-04) — replaced by FOBANK.CO
+2026-10-04T17:37:16.553Z	FOBANK.CO	added	replaces FOBA.CO	Føroya Banki trades as FOBANK.CO; Yahoo answers 404 for FOBA.CO, FOBANK.CO quotes on Copenhagen (verified 2026-10-04)
+2026-10-10T08:00:04.373Z	ALFEN.AS	added	watchlist	
+2026-10-10T08:00:04.373Z	ALO.PA	added	watchlist	
+2026-10-10T08:00:04.373Z	BOSS.DE	added	watchlist	
+2026-10-10T08:00:04.373Z	BTEC.L	added	watchlist	
+2026-10-10T08:00:04.373Z	CNDX.L	added	watchlist	
+2026-10-10T08:00:04.373Z	EMIM.L	added	watchlist	
+2026-10-10T08:00:04.373Z	ENX.PA	added	index: cac40	
+2026-10-10T08:00:04.373Z	EVD.DE	added	watchlist	
+2026-10-10T08:00:04.373Z	FGR.PA	added	index: cac40	
+2026-10-10T08:00:04.373Z	IMEU.L	added	watchlist	
+2026-10-10T08:00:04.373Z	KBX.DE	added	watchlist	
+2026-10-10T08:00:04.373Z	KRW.PA	added	watchlist	
+2026-10-10T08:00:04.373Z	LCUS.PA	added	watchlist	
+2026-10-10T08:00:04.373Z	PAEEM.PA	added	watchlist	
+2026-10-10T08:00:04.373Z	SKYD	added	index: sp500	
+2026-10-10T08:00:04.373Z	TWLO	added	index: sp500	
+2026-10-10T08:00:04.373Z	VUSA.L	added	watchlist	
+2026-10-10T08:00:04.373Z	VWRA.L	added	watchlist	
+2026-10-10T08:00:04.373Z	VYLR	added	index: sp500	
+2026-10-10T08:00:04.373Z	XESC.L	added	watchlist	

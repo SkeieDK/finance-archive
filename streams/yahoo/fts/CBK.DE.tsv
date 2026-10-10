@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:41:45.265Z		200	127798	c13d31b47a92a3a4b8d007d9a997a879865d348b62e29abc5f107fa3b72b5367	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CBK.DE?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:41:45.715Z		200	100498	1bf88492cb76325c9a2aa14de0c46fbf29066ad8661e86911fa29aa0f2455e1d	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CBK.DE?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:09:24.498Z		200	127798	c13d31b47a92a3a4b8d007d9a997a879865d348b62e29abc5f107fa3b72b5367	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CBK.DE?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:09:24.827Z		200	100498	1bf88492cb76325c9a2aa14de0c46fbf29066ad8661e86911fa29aa0f2455e1d	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CBK.DE?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

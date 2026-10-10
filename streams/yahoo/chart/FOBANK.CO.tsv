@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-10-10T08:21:04.690Z		200	14201	1e89fbaeab17154335097dfa4cd431ec0d615a7d060214042aea36a3b326fbca	ja	https://query1.finance.yahoo.com/v8/finance/chart/FOBANK.CO?interval=1d&range=1y&events=div%7Csplit
+2026-10-10T08:21:06.604Z		200	7687	e87f9a3b2495e855215a017b507be8b5a665b0f4e35a12a6cd7e9a05493b0ce6	ja	https://query2.finance.yahoo.com/v8/finance/chart/FOBANK.CO?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1723334400&period2=1791590400
+2026-10-10T08:21:06.868Z		200	9622	616114cd678715881ef5d024b87e76cd5842323311e07dd0f3e69e6853419b69	ja	https://query2.finance.yahoo.com/v8/finance/chart/FOBANK.CO?useYfid=true&interval=1mo&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1444435200&period2=1791620466

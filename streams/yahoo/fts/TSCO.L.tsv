@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:27:15.712Z		200	151017	7449bd1e9cb2d468c70ffeddf7d1991ac3de048b76c43d92f964ed6e2ad400cf	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TSCO.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:27:16.145Z		200	59306	e9b696e3e7e9c34dae66c961fb72d0b9e0cc550f817a356713e7d75b454654d2	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TSCO.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T09:23:38.303Z		200	151017	7449bd1e9cb2d468c70ffeddf7d1991ac3de048b76c43d92f964ed6e2ad400cf	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TSCO.L?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T09:23:38.723Z		200	59306	e9b696e3e7e9c34dae66c961fb72d0b9e0cc550f817a356713e7d75b454654d2	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TSCO.L?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

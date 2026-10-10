@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:41:05.721Z		200	142420	4be37112415d85dac5c0c2dff4ab9a91e817a59e831e0fb7b8d23b00c4c9294b	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CAP.PA?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:41:06.171Z		200	69190	4f11d4f283db37ca224c7a7158da21a9a653d4ac1a5b91fcd436d163fa6e0f77	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CAP.PA?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:08:48.803Z		200	142420	4be37112415d85dac5c0c2dff4ab9a91e817a59e831e0fb7b8d23b00c4c9294b	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CAP.PA?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:08:49.145Z		200	69190	4f11d4f283db37ca224c7a7158da21a9a653d4ac1a5b91fcd436d163fa6e0f77	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CAP.PA?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

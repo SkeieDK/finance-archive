@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:39:41.046Z		200	146184	30500c3b336af58c0d028289928b44e3f875ec1c9b8135f731a7a78861ab4a4c	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BMW.DE?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:39:41.403Z		200	128249	5bc751aa0211d7d357b49d2b5488ae8dfc8f6fe47f534b66246f1c9b7f597678	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BMW.DE?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:07:38.116Z		200	146184	30500c3b336af58c0d028289928b44e3f875ec1c9b8135f731a7a78861ab4a4c	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BMW.DE?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:07:38.509Z		200	128249	5bc751aa0211d7d357b49d2b5488ae8dfc8f6fe47f534b66246f1c9b7f597678	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/BMW.DE?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:30:46.827Z		200	116532	67b6191bcbd0441305863b14a5e2ecb8963892a0d86b4c61f9ca7497f4a5b72e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ABDN.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:30:47.136Z		200	56859	9397153b9e56312b27c1b81d744a1f6971d09648a444a9ac067d7331db96b5ae	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ABDN.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:00:51.034Z		200	116532	67b6191bcbd0441305863b14a5e2ecb8963892a0d86b4c61f9ca7497f4a5b72e	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ABDN.L?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:00:51.504Z		200	56859	9397153b9e56312b27c1b81d744a1f6971d09648a444a9ac067d7331db96b5ae	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ABDN.L?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

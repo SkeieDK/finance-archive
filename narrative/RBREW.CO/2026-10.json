@@ -1,0 +1,23 @@
+{
+  "contentHash": "44b0b8698825cf3b",
+  "payload": {
+    "count": 1,
+    "items": [
+      {
+        "claim": "Royal Unibrew oplyste i sin ugentlige meddelelse om aktietilbagekoebsprogrammet, at programmet ventes gennemfoert i perioden fra 18. august 2026 til 8. december 2026 inden for en ramme paa op til 300 mio. kr., og redegjorde for koeb foretaget i ugen 21.-25. september.",
+        "key": "ce34b2cdec10a3ae",
+        "publishedAt": "2026-09-29",
+        "recordedAt": "2026-10-04T06:20:22Z",
+        "source": "Royal UNIBREW A/S, selskabsmeddelelse (IR-kontakt Flemming Ole Nielsen)",
+        "url": "https://www.globenewswire.com/news-release/2026/09/29/3370403/0/en/share-buy-back-program.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-04T06:20:22Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "RBREW.CO"
+}

@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:56:04.012Z		200	152567	508e13ec41eabed4bd566bcb7e942ac7fc8818218330a383d7cfc81932a9771a	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FORTUM.HE?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:56:04.383Z		200	154200	3714637090dcb980e3aa1158870910c4e8035cbd14bb553b8d7d52e52844a7cb	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FORTUM.HE?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:21:08.502Z		200	152567	508e13ec41eabed4bd566bcb7e942ac7fc8818218330a383d7cfc81932a9771a	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FORTUM.HE?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:21:08.912Z		200	154200	3714637090dcb980e3aa1158870910c4e8035cbd14bb553b8d7d52e52844a7cb	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/FORTUM.HE?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

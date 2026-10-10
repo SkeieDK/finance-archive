@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:22:58.470Z		200	157467	0b2777a92f6a9c3162a3d9c55de415b24436578533a1e8ad979b58edd8d7388a	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SAP.DE?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:22:58.936Z		200	157075	7186248b10d4651646583bbca655d5b44dc19a9b34e11954301927e6195cb968	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SAP.DE?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:46:35.866Z		200	157467	0b2777a92f6a9c3162a3d9c55de415b24436578533a1e8ad979b58edd8d7388a	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SAP.DE?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:46:36.255Z		200	157075	7186248b10d4651646583bbca655d5b44dc19a9b34e11954301927e6195cb968	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SAP.DE?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

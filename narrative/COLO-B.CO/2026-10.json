@@ -1,0 +1,32 @@
+{
+  "contentHash": "647c203463356e2c",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Coloplast offentliggjorde en storaktionaermeddelelse om, at Niels Peter Louis-Hansens selskab NPLH Holding ApS har gaveoverdraget samtlige sine aktier i Coloplast Holding ApS til Coloplast Fonden, saaledes at fonden via datterselskabet CF Holding af 2026 ApS nu er anfoert som indehaver af stemmeflertallet, mens Niels Peter Louis-Hansens egen direkte og indirekte andel er reduceret.",
+        "key": "6c7cc80a724e4e72",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Coloplast A/S, storaktionaermeddelelse (generationsskifte af ejerskabet til Coloplast Fonden)",
+        "url": "https://mfn.se/one/a/coloplast/coloplast-a-s-storaktionaermeddelelse-66d21052",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Coloplast offentliggjorde en meddelelse om ledelsens og naerstaaende personers handel med Coloplast-aktier, hvor selskabet henviser til et vedhaeftet dokument om Coloplast Fonden i stedet for at gengive indholdet i selve meddelelsen.",
+        "key": "c0aeb3a3b176a16e",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "Coloplast A/S, selskabsmeddelelse 'Trading in Coloplast shares by board members, executives or associated persons'",
+        "url": "https://www.globenewswire.com/news-release/2026/10/01/3373329/0/en/coloplast-a-s-trading-in-coloplast-shares-by-board-members-executives-or-associated-persons.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-05T06:20:53Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "COLO-B.CO"
+}

@@ -1,7 +1,7 @@
 {
-  "contentHash": "b23d2c3650f7edca",
+  "contentHash": "7004a09c5e6d9c84",
   "payload": {
-    "count": 5,
+    "count": 7,
     "items": [
       {
         "claim": "Ambu meddelte at aScope Gastro og aScope Gastro Large har opnaaet FDA 510(k)-clearance og CE-maerkning til fleksibel sigmoidoskopi, og at selskabet dermed som det foerste tilbyder single-use GI-endoskoper til baade oevre og nedre GI-procedurer med kommerciel lancering planlagt til tidligt 2027.",
@@ -47,12 +47,30 @@
         "source": "Ambu A/S, selskabsmeddelelse (gengivet af Inderes)",
         "url": "https://www.inderes.fi/en/releases/financial-calendar-202627-2",
         "verifiedAs": null
+      },
+      {
+        "claim": "Ambu offentliggjorde finanskalenderen for 2026/27 med forventede offentliggørelsesdatoer for kvartalsmeddelelser (28. januar 2027, 5. maj 2027, 25. august 2027), årsrapport 10. november 2027 samt generalforsamlinger 2. december 2026 og 8. december 2027, og oplyste at frist for optagelse af punkter på dagsordenen til generalforsamlingen 2026 er 20. oktober 2026.",
+        "key": "e4121f15b81c8e18",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "Ambu A/S, selskabsmeddelelse nr. 19 2025/26",
+        "url": "https://via.ritzau.dk/announcement/15195787?publisherId=13561943",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ad-hoc-news refererede at Ambu har fået Nacho Abia - nuværende CEO i Grifols og tidligere COO i Olympus samt CEO for Olympus Americas - ind som board observer, og at han indstilles til valg til bestyrelsen på generalforsamlingen 2. december 2026; mediet beskrev udnævnelsen som noget der tilfører brancheerfaring på et tidspunkt hvor Ambu udvider single-use endoskopi.",
+        "key": "464f27475c82b42c",
+        "publishedAt": "2026-10-04",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "ad-hoc-news.de (mediedækning, refererer Ambus meddelelse af 28. september 2026)",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ambu-stock-gets-a-new-board-observer-with-olympus-experience/70228220",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-03T06:20:54Z",
+  "recordedAt": "2026-10-07T06:20:31Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "AMBU-B.CO"

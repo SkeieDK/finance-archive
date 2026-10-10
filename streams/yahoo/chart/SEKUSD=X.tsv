@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:30:38.074Z		200	30562	313453979bf1aae4044d344a92ed6d1f2160138914537bfe478202059f9c2202	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKUSD%3DX?interval=1d&range=1y&events=div%7Csplit
 2026-10-03T08:37:16.042Z		200	30562	ee68ac69237eafe4897c10656ac6d00aade98bf27b472083443d071f36a96712	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-10T08:00:45.415Z		200	30554	5c34c22a98af9f772c7a5940c2829fce8f37ef2556f4e330fd68de24566864dd	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-10T08:05:43.689Z		200	30554	04ccc3bd357176a67ef5457485be87ce66226670f0b1817bf5d3891cc6fc28cf	ja	https://query1.finance.yahoo.com/v8/finance/chart/SEKUSD%3DX?interval=1d&range=1y&events=div%7Csplit

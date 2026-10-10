@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:52:21.117Z		200	160031	5a25874ddd7b9769c3dae902e343c120ffe583db2c44c2e1c4820062bde84c7d	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EPI-A.ST?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:52:21.914Z		200	130549	0613cad021e0c72409432ee06511e8b1bfe14889d8d5f96f43e680a47721e708	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EPI-A.ST?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:18:11.978Z		200	160031	5a25874ddd7b9769c3dae902e343c120ffe583db2c44c2e1c4820062bde84c7d	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EPI-A.ST?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:18:12.314Z		200	130549	0613cad021e0c72409432ee06511e8b1bfe14889d8d5f96f43e680a47721e708	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/EPI-A.ST?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

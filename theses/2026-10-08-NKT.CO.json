@@ -1,0 +1,94 @@
+{
+  "contentHash": "94ec2042816afdf3",
+  "payload": {
+    "claim": "Any one of the following would change the view:\n- Upgrade case: FCF turns sustainably positive as the Karlskrona expansion completes, while gross margin holds above 33% and annual share dilution stops. Together these would turn scarcity returns into owner earnings and widen the margin of safety.\n- Downgrade case, margins: TTM gross margin falls back below 32%.\n- Downgrade case, pricing and execution: a material project loss or cable-fault provision, or evidence of HV pricing pressure in new awards (falling backlog margins, competitors' capacity coming online, offshore wind auction cancellations).\n- Downgrade case, integrity: any escalation of the integrity gate beyond Flag.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorPeriodEnd": "2026-06-30",
+      "basis": "ttm",
+      "confidence": 0.7,
+      "metric": "gross_margin_pct",
+      "op": ">=",
+      "periodEnd": "2026-12-31",
+      "reasoning": "TTM gross margin has stepped up from 33.16% to 33.96% to 34.42% as scarcity-priced HV backlog is executed. That should keep the rolling margin above 33.5% for at least two more quarters, before any capacity-cycle normalisation shows up. My disagreement with the price lies further out, on whether these margins persist for a decade, not on whether they hold in the next two quarters.",
+      "statedQuartersAhead": 2,
+      "value": 33.5
+    },
+    "references": {
+      "baseRate": {
+        "approximated": "TTM read as 1 year",
+        "fromMedian3": {
+          "own": {
+            "n": 3,
+            "p": null
+          },
+          "peers": {
+            "n": 100,
+            "p": 0.2
+          },
+          "start": 31.94
+        },
+        "horizonYears": 1,
+        "own": {
+          "n": 3,
+          "p": null
+        },
+        "peers": {
+          "n": 100,
+          "p": 0.46
+        }
+      },
+      "holdsToday": true,
+      "market": {
+        "capped": null,
+        "discountRatePct": 6.2,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          6.1,
+          6.8
+        ],
+        "impliedGrowthPct": 6.1,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "value": 33.16,
+            "year": 2025
+          },
+          {
+            "value": 31.89,
+            "year": 2024
+          },
+          {
+            "value": 31.94,
+            "year": 2023
+          }
+        ],
+        "ttm": [
+          {
+            "periodEnd": "2026-06-30",
+            "value": 34.42
+          },
+          {
+            "periodEnd": "2026-03-31",
+            "value": 33.96
+          }
+        ]
+      },
+      "statusQuo": {
+        "period": "TTM to 2026-06-30",
+        "value": 34.42
+      }
+    },
+    "resolveBy": "2027-03-31",
+    "ticker": "NKT.CO",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-03-31",
+  "recordedAt": "2026-10-08T19:35:24.500Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "NKT.CO"
+}

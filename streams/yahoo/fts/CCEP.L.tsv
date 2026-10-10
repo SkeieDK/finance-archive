@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T08:42:23.344Z		200	156316	163fc03faaab6fb0a06e99eb4196afe81a1fbbd5500a34c6bc0d80f738416a5e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CCEP.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T08:42:23.679Z		200	59527	90156b63f8a6b5d0cd6fd582537bba7ec3820fa911ec3d6fc8085a60937dc5e6	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CCEP.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:09:50.246Z		200	156316	163fc03faaab6fb0a06e99eb4196afe81a1fbbd5500a34c6bc0d80f738416a5e	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CCEP.L?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:09:50.596Z		200	59527	90156b63f8a6b5d0cd6fd582537bba7ec3820fa911ec3d6fc8085a60937dc5e6	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/CCEP.L?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

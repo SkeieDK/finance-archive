@@ -1,7 +1,7 @@
 {
-  "contentHash": "56e3e2a947e29059",
+  "contentHash": "371ce7f89cefaddd",
   "payload": {
-    "count": 18,
+    "count": 19,
     "items": [
       {
         "claim": "PARKEN Sport & Entertainment udsendte en storaktionaermeddelelse om at Karl Peter Korsgaard Soerensen under henvisning til kapitalmarkedslovens § 38 har sendt vedhaeftede meddelelse til selskabet.",
@@ -164,12 +164,21 @@
         "source": "information.dk",
         "url": "https://www.information.dk/telegram/2013/12/parken-sport-entertainment-betaler-boede",
         "verifiedAs": null
+      },
+      {
+        "claim": "Tipsbladet skriver, at anmeldelsen indsendt via Korsgaard Sørensens advokat beskriver overdragelsen af holdingselskabet KPS Care 2 ApS til \"nærtstående fysiske personer som led i et familiært generationsskifte\", og at selskabet fortsat står anført for 10,3 pct. af aktierne i Parken Sport & Entertainment.",
+        "key": "3d664804759653ec",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-08T06:21:38Z",
+        "source": "Tipsbladet, der citerer ordlyden i storaktionærmeddelelsen",
+        "url": "https://www.tipsbladet.dk/nyhed/superliga/storaktioner-overdrager-sine-fck-andele",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-03T09:24:04.409Z",
+  "recordedAt": "2026-10-08T06:21:38Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "PARKEN.CO"

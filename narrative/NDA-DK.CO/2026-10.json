@@ -1,0 +1,23 @@
+{
+  "contentHash": "e3e474f3c776aaa4",
+  "payload": {
+    "count": 1,
+    "items": [
+      {
+        "claim": "Nordea said its third-quarter 2026 report will be published at approximately 07:30 EET (06:30 CET) on Thursday 15 October 2026, with a webcast at 11:00 EET and a Q&A session.",
+        "key": "efb37422a370c597",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-06T06:21:36Z",
+        "source": "Nordea Bank press release; President and Group CEO Frank Vang-Jensen named as presenting, alongside the Chief Financial Officer and Head of Investor Relations",
+        "url": "https://www.nordea.com/en/press/2026-10-01/nordea-to-present-its-third-quarter-results-2026-on-15-october",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-06T06:21:36Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NDA-DK.CO"
+}

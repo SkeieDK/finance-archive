@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:31:22.496Z		200	34990	bbe216844d694086a1f67544d4540808bc01b8b81e76c51a775fd402eecc7ac3	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/XESC.L?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:31:22.831Z		200	36433	6200d4d7bcc3c9f5273f9ee7ae4bbe4b8baa9d3e4af4e847299057d563997366	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/XESC.L?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T09:28:29.563Z		200	34990	bbe216844d694086a1f67544d4540808bc01b8b81e76c51a775fd402eecc7ac3	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/XESC.L?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T09:28:29.936Z		200	36433	6200d4d7bcc3c9f5273f9ee7ae4bbe4b8baa9d3e4af4e847299057d563997366	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/XESC.L?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

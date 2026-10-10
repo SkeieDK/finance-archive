@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:07:42.766Z		200	34990	96a8cd9694cfc635d862fc74a9f70907bb0d1ff5a32164eb7e6498453e1e1462	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/KRW.PA?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:07:43.391Z		200	36433	5b049ecc7495cd6cfccee60fafb2f9deca9e079f261d4a419d733aca551d5e85	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/KRW.PA?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:30:17.227Z		200	34990	96a8cd9694cfc635d862fc74a9f70907bb0d1ff5a32164eb7e6498453e1e1462	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/KRW.PA?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:30:17.538Z		200	36433	5b049ecc7495cd6cfccee60fafb2f9deca9e079f261d4a419d733aca551d5e85	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/KRW.PA?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

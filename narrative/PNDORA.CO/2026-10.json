@@ -1,0 +1,32 @@
+{
+  "contentHash": "ac5519fde2f0a644",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Pandora meddelte aabningen af sit nye smykkeanlaeg i Vietnam, som selskabet i meddelelsen betegner som verdens stoerste finsmykke-produktionsanlaeg.",
+        "key": "77693f0651704f63",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-04T06:20:22Z",
+        "source": "Pandora A/S, pressemeddelelse",
+        "url": "https://www.pandoragroup.com/media/press-releases/Pandora-opens-worlds-largest-fine-jewellery-crafting-facility",
+        "verifiedAs": null
+      },
+      {
+        "claim": "'With the opening of our Vietnam facility, we begin an important new chapter for Pandora ... This investment gives us the capacity, flexibility and innovation to support our future growth while continuing to deliver the craftsmanship excellence Pandora is known for.'",
+        "key": "4fe8cd8e1b85b8f9",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-10-04T06:20:22Z",
+        "source": "Berta de Pablos-Barbier, CEO, Pandora",
+        "url": "https://www.pandoragroup.com/media/press-releases/Pandora-opens-worlds-largest-fine-jewellery-crafting-facility",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-04T06:20:22Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "PNDORA.CO"
+}

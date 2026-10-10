@@ -1,7 +1,7 @@
 {
-  "contentHash": "fca84a78cae958dd",
+  "contentHash": "f7aaacf4b4e1cfab",
   "payload": {
-    "count": 3,
+    "count": 4,
     "items": [
       {
         "claim": "cBrain announced a strategic partnership with the Danish trade union Djoef to develop integrated digital platforms for unions, describing it as extending its F2 platform into the CRM market with delivery in phases.",
@@ -29,12 +29,21 @@
         "source": "Investing.com, referring to cBrain CEO Per Tejs Knudsen; no direct quotes carried",
         "url": "https://www.investing.com/news/company-news/cbrain-partners-with-djoef-raises-2026-profit-margin-outlook-93CH-4925459",
         "verifiedAs": null
+      },
+      {
+        "claim": "cBrain meddelte, at selskabet har indgaaet et strategisk partnerskab med fagforeningen Djoef om at udvikle en samlet digital platform til fagforeninger, og at selskabet samtidig opjusterer sin forventede resultatmargin foer skat for 2026, mens vaekstforventningen fastholdes.",
+        "key": "951046475599430a",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-10-05T06:20:53Z",
+        "source": "cBrain A/S' selskabsmeddelelse, underskrevet af adm. direktoer Per Tejs Knudsen (CFO og IR-ansvarlig Lars Moeller Christiansen anfoert som kontakt)",
+        "url": "https://www.cbrain.com/post/cbrain-announces-strategic-partnership-with-djoef-and-upgrades-earnings",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-01T06:20:53Z",
+  "recordedAt": "2026-10-05T06:20:53Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CBRAIN.CO"

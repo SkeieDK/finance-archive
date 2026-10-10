@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:26:04.066Z		200	154026	18cd765815723599128f9a8ccf000441e3094009343ee6ccdac6191329579ab8	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TELIA.ST?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:26:04.469Z		200	126808	e786ccf736ead20ea2472a4b3c3c40dca85bb224cc40b8b63301868ede5f7b3e	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TELIA.ST?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T09:22:25.714Z		200	154026	18cd765815723599128f9a8ccf000441e3094009343ee6ccdac6191329579ab8	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TELIA.ST?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T09:22:26.107Z		200	126808	e786ccf736ead20ea2472a4b3c3c40dca85bb224cc40b8b63301868ede5f7b3e	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/TELIA.ST?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

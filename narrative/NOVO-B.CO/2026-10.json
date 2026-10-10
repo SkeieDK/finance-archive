@@ -1,7 +1,7 @@
 {
-  "contentHash": "effdc7e5851f5c8f",
+  "contentHash": "01c8f4259a14580f",
   "payload": {
-    "count": 6,
+    "count": 8,
     "items": [
       {
         "claim": "Nanexa og Novo meddelte at de har indgaaet en global eksklusiv licens- og samarbejdsaftale om langtidsvirkende injektionsmidler til fedme og type 2-diabetes med en samlet vaerdi paa op til EUR 1,165 mia.",
@@ -56,12 +56,30 @@
         "source": "Mike Doustdar, President og CEO, Novo",
         "url": "https://securities.io/novo-says-fda-extends-denecimig-bla-review-over-facility-remediation",
         "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk oplyste i sin ugentlige meddelelse at selskabet i perioden 28. september - 2. oktober 2026 købte 1.225.000 B-aktier under aktietilbagekøbsprogrammet på op til DKK 15 mia., der løber i en 12-måneders periode fra 4. februar 2026, og at selskabet \"has since 4 February 2026 repurchased a total 36,604,179 B shares\"; efter transaktionerne ejer selskabet 50.644.876 egne B-aktier svarende til 1,1 % af aktiekapitalen.",
+        "key": "92a0feafec58dd6d",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse om aktietilbagekøbsprogram",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374555/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ad-hoc-news refererede at FDA den 2. oktober 2026 forlængede sin gennemgang af denecimig (hæmofili A) på grund af udestående udbedringsarbejde på et produktionsanlæg, og at Novo Nordisk oplyste at \"The FDA has not set a new regulatory decision timeline for denecimig\", at myndighedens tilbagemelding handlede om produktionsforhold og ikke om \"clinical efficacy or safety data from the FRONTIER program\", og at den forlængede gennemgang ikke ændrer selskabets finansielle forventninger til 2026.",
+        "key": "c7c9ac852a441672",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-07T06:20:31Z",
+        "source": "Novo Nordisk A/S, citeret af ad-hoc-news.de (mediedækning)",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fda-extends-denecimig-review-what-it-means-for-novo-nordisk-stock/70233269",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-03T06:20:54Z",
+  "recordedAt": "2026-10-07T06:20:31Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

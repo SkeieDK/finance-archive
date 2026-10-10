@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:00:44.191Z		200	142745	2fa459453542fdedeebe390d212e8877094264f3b954ae5a48c3d316fabafce1	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HEIA.AS?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:00:44.830Z		200	64489	7147dba58c230f71a4fbca79cbf5031a156f954be94674130ad21420adbba3c2	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HEIA.AS?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:24:37.648Z		200	142745	2fa459453542fdedeebe390d212e8877094264f3b954ae5a48c3d316fabafce1	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HEIA.AS?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:24:38.027Z		200	64489	7147dba58c230f71a4fbca79cbf5031a156f954be94674130ad21420adbba3c2	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/HEIA.AS?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

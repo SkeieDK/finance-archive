@@ -1,7 +1,7 @@
 {
-  "contentHash": "ce49caabd708aa80",
+  "contentHash": "9ddfc7ece6c358f1",
   "payload": {
-    "count": 11,
+    "count": 12,
     "items": [
       {
         "claim": "Government of the Russian Federation / Decree of the President - Political expropriation and state administration order placed on all four Russian production facilities.",
@@ -101,12 +101,21 @@
         "source": "studocu.com",
         "url": "https://www.studocu.com/da/document/kobenhavns-universitet/miljoret/noter-til-amerikansk-miljoret/1310125",
         "verifiedAs": null
+      },
+      {
+        "claim": "ROCKWOOL A/S stated that it had converted 451,329 A shares into the same number of B shares at a shareholder's request under its articles of association, with total share capital unchanged.",
+        "key": "c134f855dd80f846",
+        "publishedAt": "2026-10-03",
+        "recordedAt": "2026-10-06T06:21:36Z",
+        "source": "ROCKWOOL A/S company announcement, as relayed by ad-hoc-news corporate news desk (no company spokesperson named)",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/rockwool-completes-a-share-conversion-and-rockwool-stock-costs-eur-25-43/70220740",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-01T10:44:26.800Z",
+  "recordedAt": "2026-10-06T06:21:36Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ROCK-B.CO"

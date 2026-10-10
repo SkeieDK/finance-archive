@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:15:01.869Z		200	145460	15b85fb22f6be7d31d4bcb3e147e307220303024232c7f2b272b10e62c116e12	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NSIS-B.CO?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:15:02.375Z		200	136210	00f8c7938c2aa61acd9149c22ae42dc0df2acc28a15fc6f1484250907eaf46d0	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NSIS-B.CO?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:38:02.315Z		200	145460	15b85fb22f6be7d31d4bcb3e147e307220303024232c7f2b272b10e62c116e12	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NSIS-B.CO?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:38:02.752Z		200	136210	00f8c7938c2aa61acd9149c22ae42dc0df2acc28a15fc6f1484250907eaf46d0	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/NSIS-B.CO?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

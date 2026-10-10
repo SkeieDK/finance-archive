@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:22:19.370Z		200	149809	ed601ce38f0c2ef378d91e8790aab1bb0313b95b26c04f0cfc0a3070fb26d1cb	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ROVI.MC?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:22:19.841Z		200	145070	f518d074ba34c405a7df631a4ec36ef2ff7f41010072774ab9ddcea2dfa6f6cb	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ROVI.MC?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:45:52.746Z		200	149809	ed601ce38f0c2ef378d91e8790aab1bb0313b95b26c04f0cfc0a3070fb26d1cb	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ROVI.MC?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:45:53.189Z		200	145070	f518d074ba34c405a7df631a4ec36ef2ff7f41010072774ab9ddcea2dfa6f6cb	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/ROVI.MC?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

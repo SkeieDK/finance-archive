@@ -1,3 +1,5 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-03T09:23:52.425Z		200	143705	422f267e2c98f26fd471121fed00456ec6e73a107b01c3c4558f3956a5ec4f20	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SKF-B.ST?period1=1601683200&period2=1790985600&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
 2026-10-03T09:23:52.786Z		200	128440	aa7747c269e16ef6cd51940539634de468bce4775a4d7ea33118e19d713ad16d	ja	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SKF-B.ST?period1=1696291200&period2=1790985600&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E
+2026-10-10T08:47:31.965Z		200	143705	422f267e2c98f26fd471121fed00456ec6e73a107b01c3c4558f3956a5ec4f20	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SKF-B.ST?period1=1602288000&period2=1791590400&type=%3C484+typer%2C+sha256%3A7bdcc00b2b74%3E
+2026-10-10T08:47:33.057Z		200	128440	aa7747c269e16ef6cd51940539634de468bce4775a4d7ea33118e19d713ad16d	nej	https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/SKF-B.ST?period1=1696896000&period2=1791590400&type=%3C484+typer%2C+sha256%3Ae0d71eaec25c%3E

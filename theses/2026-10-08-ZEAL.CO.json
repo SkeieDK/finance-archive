@@ -1,0 +1,85 @@
+{
+  "contentHash": "6baf3587266ca746",
+  "payload": {
+    "claim": "Upgrade would require either positive survodutide Phase 3 data with Boehringer moving to regulatory filing, which triggers milestone income, or petrelintide Phase 2b/3 data confirming materially lower GI discontinuation than GLP-1s, keeping Roche committed to a full Phase 3 programme. Downgrade would follow any of these: net opex guidance raised above DKK 3.3bn; cash falling below roughly DKK 12bn without offsetting milestones; a partner deprioritising or returning either asset; or the Amyndas trade-secret case escalating into a gate change.",
+    "conviction": "Low",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.8,
+      "fiscalYear": 2026,
+      "metric": "revenue_growth_pct",
+      "op": "<",
+      "reasoning": "Implied FY2025 revenue is about DKK 9.2bn (net income of 6,455m at a 70.05% margin). Management has held FY2026 collaboration revenue guidance at about DKK 4.5bn, and H1 2026 already booked 4,525m, so the year should land near -50%. Only an unguided H2 milestone above about DKK 1bn would break this. That is far below both the 3.5% annual growth the price implies and the archive median.",
+      "statedYearsAhead": 1,
+      "value": -40
+    },
+    "references": {
+      "baseRate": {
+        "approximated": null,
+        "fromMedian3": {
+          "own": {
+            "n": 11,
+            "p": 0.27
+          },
+          "peers": {
+            "n": 100,
+            "p": 0.03
+          },
+          "start": 229.65
+        },
+        "horizonYears": 1,
+        "own": {
+          "n": 11,
+          "p": 0
+        },
+        "peers": {
+          "n": 100,
+          "p": 0.05
+        }
+      },
+      "holdsToday": false,
+      "market": {
+        "capped": null,
+        "discountRatePct": 9,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          2.2,
+          3.5
+        ],
+        "impliedGrowthPct": 3.5,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "value": 14598.86,
+            "year": 2025
+          },
+          {
+            "value": -81.71,
+            "year": 2024
+          },
+          {
+            "value": 229.65,
+            "year": 2023
+          }
+        ],
+        "ttm": []
+      },
+      "statusQuo": {
+        "period": "FY2025",
+        "value": 14598.86
+      }
+    },
+    "resolveBy": "2027-06-30",
+    "ticker": "ZEAL.CO",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2027-06-30",
+  "recordedAt": "2026-10-08T19:42:12.850Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "ZEAL.CO"
+}
