@@ -1,7 +1,7 @@
 {
-  "contentHash": "afab832d30010f7e",
+  "contentHash": "b65ac1a5d3963085",
   "payload": {
-    "count": 4,
+    "count": 7,
     "items": [
       {
         "claim": "Norden-topchef Jan Rindbo sagde, at \"we think the risk-reward is now more favourable in dry cargo\", og begrundede et skift af kapital fra tank mod tørlast med en voksende ordrebog og geopolitisk usikkerhed i tankmarkedet.",
@@ -38,12 +38,39 @@
         "source": "Dampskibsselskabet NORDEN A/S company announcement no. 231/2026",
         "url": "https://www.investegate.co.uk/announcement/mfn/dampskibsselskabet-norden-a-s--0hdp/dampskibsselskabet-norden-a-s-weekly-report-/9804095",
         "verifiedAs": null
+      },
+      {
+        "claim": "Vi er glade for at kunne opjustere vores indtjeningsforventninger for aaret, og den nye guidance kommer ikke alene paa baggrund af hoejere rater, isaer i tanksegmentet.",
+        "key": "fa6fe58b7624c12f",
+        "publishedAt": "2026-10-06",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "Jan Rindbo, adm. direktoer i NORDEN, i selskabsmeddelelse nr. 235/2026",
+        "url": "https://www.inderes.fi/en/releases/norden-raises-full-year-guidance-2",
+        "verifiedAs": null
+      },
+      {
+        "claim": "NORDEN oplyser at forvente et nettoresultat for 2026 paa USD 180-230 mio. mod tidligere USD 140-190 mio., mens de forventede salgsgevinster fra allerede indgaaede transaktioner er uaendrede paa USD 79 mio.",
+        "key": "13a1fb442f7b55c1",
+        "publishedAt": "2026-10-06",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "Dampskibsselskabet NORDEN A/S, selskabsmeddelelse nr. 235/2026 af 6. oktober 2026 kl. 16.15 CEST",
+        "url": "https://www.inderes.fi/en/releases/norden-raises-full-year-guidance-2",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Opjusteringen blev gengivet i shippingmedierne som en hoejning af helaarsforventningerne baaret af staerkere markeder, med Rindbos udsagn om hoejere rater i tanksegmentet.",
+        "key": "9b3d5237e3d4730f",
+        "publishedAt": "2026-10-09",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "Cyprus Shipping News, referat af NORDENs meddelelse",
+        "url": "https://cyprusshippingnews.com/2026/10/09/norden-raises-full-year-guidance-3",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-06T06:21:36Z",
+  "recordedAt": "2026-10-13T06:21:29Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DNORD.CO"

@@ -1,0 +1,41 @@
+{
+  "contentHash": "3393482a659821e6",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "A.P. Moller - Maersk oplyser at selskabet i perioden 28. september til 2. oktober 2026 gennemforte transaktioner under tilbagekobsprogrammet pa op til 6,3 mia. kr., der blev annonceret 5. februar 2026 og hvis anden fase pa op til 3,15 mia. kr. lober fra 13. august 2026 til 29. januar 2027, at selskabet herefter ejer 47.948 A-aktier og 251.378 B-aktier som egne aktier svarende til ca. 2,04% af aktiekapitalen, og at Fonden (A.P. Moller og Hustru Chastine Mc-Kinney Mollers Familiefond) deltager pro rata efter saeraftale.",
+        "key": "bf31e295fd6f165a",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "A.P. Moller - Maersk A/S; kontakter Martin Dunwoodie, Head of Investor Relations, og Jesper Lov, Head of Media Relations",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374218/0/en/transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk skriver i sin Asia Pacific Market Update for oktober 2026 at forsyningskaederne i Asien-Stillehavsomradet \"continue to adapt to shifting demand\" ved indgangen til fjerde kvartal, og gennemgar udviklingen inden for soe- og luftfragt efter Golden Week, udvidet indlandsforbindelse i Mekong-regionen og Malaysia samt nye handelsregler, der pavirker virksomheder i Kina.",
+        "key": "de175425a9a5981c",
+        "publishedAt": "2026-10-07",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "A.P. Moller - Maersk A/S, \"Maersk Asia Pacific Market Update - October 2026\", gengivet af MarketScreener via Public Technologies",
+        "url": "https://www.marketscreener.com/news/ap-moller-maersk-maersk-asia-pacific-market-update-a-october-2026-ce785dd9de8bf220",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk oplyser at selskabet haever sit emergency fuel surcharge pa indlandstransport i Storbritannien og Irland til 20% med virkning fra 12. oktober 2026, begrunder det med kraftigt stigende braendstofpriser og at selskabet ikke laengere kan operere pa de tidligere niveauer, og henviser til stigende energipriser som folge af konflikten mellem USA og Iran i Golfen samt krigen mellem Ukraine og Rusland.",
+        "key": "28fb9ec9d5ae4977",
+        "publishedAt": "2026-10-09",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "Maersk-kundeadvisering, gengivet af Marine Insight (ingen navngivet talsperson)",
+        "url": "https://marineinsight.com/maersk-raises-uk-ireland-inland-fuel-surcharges-amid-middle-east-conflict",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-11T06:20:57Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "MAERSK-A.CO"
+}

@@ -1,7 +1,7 @@
 {
-  "contentHash": "f3c9f6582f266455",
+  "contentHash": "9d514ef3ee808098",
   "payload": {
-    "count": 5,
+    "count": 8,
     "items": [
       {
         "claim": "ChemoMetec meddelte at selskabet har afsluttet det aktietilbagekoebsprogram, der blev annonceret i selskabsmeddelelse nr. 309 den 15. maj 2026, og oplyste at der blev tilbagekoebt 239.950 aktier for i alt DKK 99.998.735, svarende til 1,38 pct. af aktiekapitalen.",
@@ -47,12 +47,39 @@
         "source": "ChemoMetec A/S, storaktionærmeddelelse - BlackRock, Inc.",
         "url": "https://www.globenewswire.com/news-release/2026/10/05/3374971/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec refererede fra den ordinære generalforsamling den 8. oktober, at årsrapporten for 2025/26 blev godkendt, at der ikke udbetales udbytte for 2025/26, at de fem bestyrelsesmedlemmer blev genvalgt, og at bestyrelsen blev bemyndiget til at tilbagekøbe egne aktier; Niels Thestrup blev efterfølgende genvalgt som formand og Martin Glensbjerg valgt som næstformand.",
+        "key": "31e6a2cb2f6c312f",
+        "publishedAt": "2026-10-08",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse nr. 319 «Forløb af ordinær generalforsamling»",
+        "url": "https://www.globenewswire.com/news-release/2026/10/08/3377616/0/da/forl%C3%B8b-af-ordin%C3%A6r-generalforsamling.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec meddelte, at bestyrelsen iværksætter et aktietilbagekøbsprogram fra 12. oktober 2026 til 5. marts 2027 med Danske Bank som lead manager, med en grænse på højst 500.000 aktier (ca. 2,9 pct. af aktiekapitalen) og højst DKK 100 mio., og at formålet er at tilpasse selskabets kapitalstruktur.",
+        "key": "d04fd4975c89ec98",
+        "publishedAt": "2026-10-08",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse nr. 320 «Iværksættelse af aktietilbagekøbsprogram»",
+        "url": "https://www.globenewswire.com/news-release/2026/10/08/3377710/0/da/iv%C3%A6rks%C3%A6ttelse-af-aktietilbagek%C3%B8bsprogram.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Oscar M. Stefansen skrev i Økonomisk Ugebrevs flashnews, at ChemoMetec opjusterer forventningerne til både omsætning og EBITDA, og at selskabet tilskriver første kvartal højere efterspørgsel efter instrumenter, særligt NC-203, samt lavere omkostninger.",
+        "key": "946bbb8ceb6be385",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Oscar M. Stefansen, Økonomisk Ugebrev (flashnews), med Nasdaq som angivet kilde",
+        "url": "https://ugebrev.dk/flashnews/chemometec-opjusterer-forventninger-til-omsaetning-og-ebitda/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-07T06:20:31Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CHEMM.CO"

@@ -1,0 +1,32 @@
+{
+  "contentHash": "1d214433c10f79e8",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "AL Sydbank oplyser at banken i uge 40 kobte 34.000 egne aktier for 24.441.420 kr. under tilbagekobsprogrammet pa 1.100 mio. kr., der blev annonceret 25. februar 2026 og lober til senest 31. januar 2027 med det formal at nedsaette aktiekapitalen.",
+        "key": "68589eeda55d1466",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 55/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374196/0/da/aktietilbagek%C3%B8b-i-al-sydbank-a-s-transaktioner-i-uge-40.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank skriver at banken \"offentliggor i henhold til markedsmisbrugsforordningens artikel 19\" transaktioner med bankens aktier foretaget af ledende medarbejdere og naertstaende, med indberetninger vedlagt for Mark Luscombe, Jorn Adam Moller og Stig Westergaard.",
+        "key": "ec178936897afcbb",
+        "publishedAt": "2026-10-07",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 56/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/07/3376200/0/da/ledende-medarbejdere-og-n%C3%A6rtst%C3%A5endes-transaktioner-med-aktier-i-al-sydbank.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-11T06:20:57Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "ALSYDB.CO"
+}

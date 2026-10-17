@@ -1,7 +1,7 @@
 {
-  "contentHash": "c737003003a3e1f2",
+  "contentHash": "a7e63cd84c2a6e19",
   "payload": {
-    "count": 3,
+    "count": 6,
     "items": [
       {
         "claim": "Bavarian Nordic oplyste at der i perioden 21.-25. september 2026 blev tilbagekoebt 57.500 aktier, at det akkumulerede koeb under programmet udgoer 459.322 aktier, og at beholdningen af egne aktier herefter er 4.017.913 stk. svarende til 5,07 pct. af aktiekapitalen.",
@@ -29,12 +29,39 @@
         "source": "Bavarian Nordic A/S, selskabsmeddelelse om transaktioner i forbindelse med aktietilbagekøbsprogram",
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7610",
         "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic oplyste, at selskabet opjusterer sine finansielle forventninger til hele 2026, fordi Travel Health sælger mere end ventet, drevet af højere salg af rabiesvacciner primært i USA.",
+        "key": "06c3326b5bd49ca0",
+        "publishedAt": "2026-10-08",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse nr. 48/2026",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7611",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet forklarede opjusteringen med, at øget rabiesaktivitet blandt dyr i USA har hævet den menneskelige eksponering og dermed efterspørgslen efter både præ- og posteksponeringsvaccination, og at forventningerne til Public Preparedness og øvrig omsætning er uændrede.",
+        "key": "a81db407f01e8fcf",
+        "publishedAt": "2026-10-08",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse nr. 48/2026",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7611",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bavarian Nordic oplyste om transaktioner under sit aktietilbagekøbsprogram og gentog, at programmet blev iværksat 1. september 2026 og løber til 30. oktober 2026 med Nordea som udførende bank under EU-markedsmisbrugsforordningens safe harbour-regler.",
+        "key": "fc04942ca9766b74",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Bavarian Nordic A/S, selskabsmeddelelse nr. 49/2026",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7612",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-07T06:20:31Z",
+  "recordedAt": "2026-10-14T06:22:39Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "BAVA.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "25edbecb4504f30b",
+  "contentHash": "eb9d07dbb90be599",
   "payload": {
-    "count": 17,
+    "count": 19,
     "items": [
       {
         "claim": "Vestas announced the launch of its V182-7.2 MW onshore turbine, saying it can increase capacity factors by as much as 2 percent versus its predecessor and improve electricity capture prices by as much as 3 percent at low- to medium-wind sites.",
@@ -155,12 +155,30 @@
         "source": "Purvin Patel, Regional President Asia Pacific, Vestas, i selskabets ordremeddelelse (kunder anfoert som Atmos Renewables og Foresight Group)",
         "url": "https://news.europawire.eu/vestas-secures-614-mw-of-new-wind-turbine-orders-in-western-australia-for-parron-maam-marang-and-kondinin-projects/eu-press-release/2026/09/30/15/01/52/181554/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Vestas og Neretek oplyste, at de har indgået et memorandum of understanding om at undersøge kombineret udrulning af Nereteks BC90-fundamentkoncept og Vestas' havvindmøller til havvindprojekter på større vanddybder, og at der ikke er annonceret konkrete projekter eller udrulningsplaner.",
+        "key": "b2d58f1cc4c86c05",
+        "publishedAt": "2026-10-07",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "offshoreWIND.biz, der refererer Vestas' og Nereteks aftale (ingen navngivne citater i artiklen)",
+        "url": "https://offshorewind.biz/2026/10/07/vestas-partners-with-deepwater-wind-technology-developer",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Windtech International citerede aftalen for, at parterne vil «explore the combined deployment of foundation and turbine technologies for deeper-water offshore wind projects», og anførte, at Neretek er stiftet af Wood Thilsted og COP Frontier, og at BC90-konceptet er designet til transitionelle vanddybder.",
+        "key": "0eb1ac91f5e553ec",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Windtech International, der gengiver ordlyden i Nereteks og Vestas' memorandum of understanding",
+        "url": "https://windtech-international.com/product-news/neretek-and-vestas-explore-deeper-water-offshore-wind-solutions",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-05T06:20:53Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "VWS.CO"

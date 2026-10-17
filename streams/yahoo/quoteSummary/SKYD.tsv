@@ -1,2 +1,4 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-10-10T08:47:33.947Z		200	37548	9628acc04c1a34024231936289c139cbc7ca0f89572bc2a4090b5e8055733c44	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/SKYD?formatted=false&modules=summaryDetail%2CfinancialData%2CdefaultKeyStatistics%2CsummaryProfile%2CinsiderTransactions%2CinsiderHolders%2CupgradeDowngradeHistory
+2026-10-17T10:10:28.556Z		200	37964	68c8326a53dd3c4c77ec5be0db26c1b19a03f3d50cff373cf74d50d346866e2c	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/SKYD?formatted=false&modules=summaryDetail%2CfinancialData%2CdefaultKeyStatistics%2CsummaryProfile%2CinsiderTransactions%2CinsiderHolders%2CupgradeDowngradeHistory
+2026-10-17T10:10:31.342Z		200	6795	3e79ae83a36daab14a61148c550df0d468e94af159ed90dd6fe92958518d7b4c	ja	https://query2.finance.yahoo.com/v10/finance/quoteSummary/SKYD?formatted=false&modules=earningsTrend%2CrecommendationTrend%2CearningsHistory

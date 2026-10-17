@@ -1,7 +1,7 @@
 {
-  "contentHash": "5381236223599fc2",
+  "contentHash": "9e7bf0a80d045818",
   "payload": {
-    "count": 4,
+    "count": 5,
     "items": [
       {
         "claim": "NKT meddelte paa Investor Day 2026 i Karlskrona at selskabet fastholder sin strategiske retning under 'Charging Forward'-strategien, at de mellemfristede finansielle ambitioner er uaendrede, og at kommerciel drift af den udvidede offshore-kabelfabrik i Karlskrona ventes i 2. kvartal 2027, en smule foer plan.",
@@ -38,12 +38,21 @@
         "source": "BofA Global Research (analytikere ikke navngivet i artiklen), refereret af Investing.com",
         "url": "https://investing.com/news/stock-market-news/bofa-starts-bullish-coverage-on-nkt-on-rising-hvdc-cable-demand-4931926",
         "verifiedAs": null
+      },
+      {
+        "claim": "NKT oplyste, at selskabet har modtaget en storaktionærmeddelelse fra BlackRock, Inc., der angiver, at BlackRocks samlede andel af NKT's aktiekapital og stemmerettigheder er steget fra 5,94 pct. til 8,46 pct. (8,00 pct. i aktier og 0,46 pct. gennem finansielle instrumenter), og at BlackRock Investment Management (UK) Limited har passeret 5-pct.-grænsen med 5,02 pct.",
+        "key": "b1258e9594413c8d",
+        "publishedAt": "2026-10-09",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "NKT A/S, selskabsmeddelelse nr. 14 «Notification of major shareholding»",
+        "url": "https://investors.nkt.com/company-announcements/2026/notification-of-major-shareholding/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-07T06:20:31Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NKT.CO"

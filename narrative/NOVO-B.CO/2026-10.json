@@ -1,7 +1,7 @@
 {
-  "contentHash": "01c8f4259a14580f",
+  "contentHash": "ffb1ca3f2c0e5cc2",
   "payload": {
-    "count": 8,
+    "count": 9,
     "items": [
       {
         "claim": "Nanexa og Novo meddelte at de har indgaaet en global eksklusiv licens- og samarbejdsaftale om langtidsvirkende injektionsmidler til fedme og type 2-diabetes med en samlet vaerdi paa op til EUR 1,165 mia.",
@@ -74,12 +74,21 @@
         "source": "Novo Nordisk A/S, citeret af ad-hoc-news.de (mediedækning)",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fda-extends-denecimig-review-what-it-means-for-novo-nordisk-stock/70233269",
         "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk oplyste, at selskabet i perioden 5.-9. oktober 2026 købte 1.245.000 B-aktier, at programtotalen dermed er 23.090.000 B-aktier, at der siden 4. februar 2026 og frem til 9. oktober er tilbagekøbt 37.849.179 B-aktier, og at selskabet besidder 51.889.876 egne B-aktier svarende til ca. 1,2 pct. af aktiekapitalen ud af i alt 4.465.000.000 aktier.",
+        "key": "5d84627fa3fa2d4d",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse «Novo Nordisk A/S - share repurchase programme»",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378767/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-07T06:20:31Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

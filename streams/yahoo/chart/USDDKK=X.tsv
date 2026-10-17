@@ -1,2 +1,6 @@
 observedAt	lib	status	bytes	sha256	new	url
 2026-09-27T15:27:16.493Z	archive-check	200	28136	074bb13664d6135cd9c88eb0b558036359642bbdb147c1eb707854e0498f4e76	ja	https://query1.finance.yahoo.com/v8/finance/chart/USDDKK%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-17T08:51:33.282Z		200	14880	20421ad6f6f0999f3a0b0a03111c173e382da9ef0de2efcc7c46d593afaa79de	ja	https://query2.finance.yahoo.com/v8/finance/chart/USDDKK=X?useYfid=true&interval=1mo&includePrePost=true&events=split&lang=en-US&period1=1445040000&period2=1792227093
+2026-10-17T09:08:20.297Z		200	14880	20421ad6f6f0999f3a0b0a03111c173e382da9ef0de2efcc7c46d593afaa79de	nej	https://query2.finance.yahoo.com/v8/finance/chart/USDDKK=X?useYfid=true&interval=1mo&includePrePost=true&events=split&lang=en-US&period1=1445040000&period2=1792228100
+2026-10-17T09:28:19.920Z		200	14880	a9077bb4a4c86d7e901fb37aff3a566f1878579b46f50ef18a5c12a2db7b1a9d	ja	https://query2.finance.yahoo.com/v8/finance/chart/USDDKK=X?useYfid=true&interval=1mo&includePrePost=true&events=split&lang=en-US&period1=1445040000&period2=1792229299
+2026-10-17T09:29:43.516Z		200	14880	72c6ab18bf338162c3fac7f2100a7585660d78c5c134fb29ef0604202bbab5b3	ja	https://query2.finance.yahoo.com/v8/finance/chart/USDDKK=X?useYfid=true&interval=1mo&includePrePost=true&events=split&lang=en-US&period1=1445040000&period2=1792229383

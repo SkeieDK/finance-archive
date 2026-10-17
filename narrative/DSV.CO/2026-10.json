@@ -1,7 +1,7 @@
 {
-  "contentHash": "82dfb3f33aa0d970",
+  "contentHash": "358b1aa6d3a513e4",
   "payload": {
-    "count": 1,
+    "count": 2,
     "items": [
       {
         "claim": "Kapitalforvalteren Maj Invest tvivler paa, at DSV naar sit maal for synergier fra koebet af tyske DB Schenker til tiden, men fastholder ifoelge omtalen troen paa selskabet paa laengere sigt.",
@@ -11,12 +11,21 @@
         "source": "Maj Invest, citeret af Finans.dk i ProInvestors daglige presseoversigt",
         "url": "https://proinvestor.com/nyheder/onsdagens-nyheder-fra-danske-medier-med-bo-dsv-og-lego-1790744165930",
         "verifiedAs": null
+      },
+      {
+        "claim": "DSV published its financial calendar for 2027, stating it expects to release the Annual Report 2026 on 2 February 2027, to hold the Annual General Meeting on 18 March 2027 with agenda proposals due by 3 February 2027, and to publish interim reports on 21 April, 21 July and 27 October 2027.",
+        "key": "5ca41ebe642c56b0",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-12T06:24:32Z",
+        "source": "DSV A/S, company announcement no. 1173, signed \"Yours sincerely, DSV A/S\" with IR contacts Stig Frederiksen and Alexander Plenborg",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374626/0/en/dsv-1173-financial-calendar-2027.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-04T06:20:22Z",
+  "recordedAt": "2026-10-12T06:24:32Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DSV.CO"

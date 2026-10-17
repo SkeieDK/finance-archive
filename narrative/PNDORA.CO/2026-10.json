@@ -1,7 +1,7 @@
 {
-  "contentHash": "ac5519fde2f0a644",
+  "contentHash": "6bd7a3902698b256",
   "payload": {
-    "count": 2,
+    "count": 3,
     "items": [
       {
         "claim": "Pandora meddelte aabningen af sit nye smykkeanlaeg i Vietnam, som selskabet i meddelelsen betegner som verdens stoerste finsmykke-produktionsanlaeg.",
@@ -20,12 +20,21 @@
         "source": "Berta de Pablos-Barbier, CEO, Pandora",
         "url": "https://www.pandoragroup.com/media/press-releases/Pandora-opens-worlds-largest-fine-jewellery-crafting-facility",
         "verifiedAs": null
+      },
+      {
+        "claim": "Pandora said every piece of fine jewellery manufactured at its new Vietnam site will use 100% recycled gold and silver.",
+        "key": "4d64d23b03515d5c",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-12T06:24:32Z",
+        "source": "Pandora, as reported by SolarQuarter (Mohan Gupta); no individual spokesperson named",
+        "url": "https://solarquarter.com/2026/10/05/pandora-opens-usd-150-million-sustainable-jewellery-facility-in-vietnam",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-04T06:20:22Z",
+  "recordedAt": "2026-10-12T06:24:32Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "PNDORA.CO"

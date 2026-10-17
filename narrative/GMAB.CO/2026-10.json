@@ -1,7 +1,7 @@
 {
-  "contentHash": "4dc18337f6ed11b5",
+  "contentHash": "8f66f656272eba02",
   "payload": {
-    "count": 4,
+    "count": 7,
     "items": [
       {
         "claim": "Genmab filed a Form 6-K setting out its Articles of Association as of 24 September 2026, which per the filing state a share capital of DKK 62,405,855 and a board authorisation running through 12 March 2029 to issue new shares, warrants and convertible debt up to specified nominal limits, with or without pre-emption rights.",
@@ -38,12 +38,39 @@
         "source": "Genmab A/S, storaktionaermeddelelse efter kapitalmarkedslovens paragraf 30, baseret paa indberetning fra Darwin Global Management Limited",
         "url": "https://ir.genmab.com/news-releases/news-release-details/major-shareholder-announcement-60",
         "verifiedAs": null
+      },
+      {
+        "claim": "Resultaterne fra fase 3-studiet EPCORE DLBCL-2 med epcoritamab plus R-CHOP har potentiale til at omforme behandlingslandskabet i foerstelinje.",
+        "key": "5e09855e517825fa",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "Jan van de Winkel, Ph.D., adm. direktoer i Genmab, i den faelles meddelelse fra AbbVie og Genmab",
+        "url": "https://news.abbvie.com/2026-10-05-AbbVie-and-Genmab-Announce-Epcoritamab-in-Combination-with-R-CHOP-Demonstrates-Significant-Improvement-in-Progression-Free-Survival-versus-R-CHOP-in-Patients-with-Newly-Diagnosed-Diffuse-Large-B-Cell-Lymphoma",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Reduktionen paa 51 pct. i risikoen for progression eller doed er klinisk meningsfuld og hoejst relevant for daglig praksis.",
+        "key": "fcbabdbd1193331c",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "Gilles Salles, MD, PhD, chef for lymfomafdelingen paa Memorial Sloan Kettering Cancer Center, citeret i meddelelsen",
+        "url": "https://news.abbvie.com/2026-10-05-AbbVie-and-Genmab-Announce-Epcoritamab-in-Combination-with-R-CHOP-Demonstrates-Significant-Improvement-in-Progression-Free-Survival-versus-R-CHOP-in-Patients-with-Newly-Diagnosed-Diffuse-Large-B-Cell-Lymphoma",
+        "verifiedAs": null
+      },
+      {
+        "claim": "De positive topline-resultater antyder, at epcoritamab kombineret med R-CHOP kan blive en mulig ny standardbehandling.",
+        "key": "a6d3d78f6c8627b6",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "Daejin Abidoye, MD, Vice President, Therapeutic Area Head, Oncology, Solid Tumor and Hematology, AbbVie",
+        "url": "https://news.abbvie.com/2026-10-05-AbbVie-and-Genmab-Announce-Epcoritamab-in-Combination-with-R-CHOP-Demonstrates-Significant-Improvement-in-Progression-Free-Survival-versus-R-CHOP-in-Patients-with-Newly-Diagnosed-Diffuse-Large-B-Cell-Lymphoma",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-05T06:20:53Z",
+  "recordedAt": "2026-10-13T06:21:29Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GMAB.CO"

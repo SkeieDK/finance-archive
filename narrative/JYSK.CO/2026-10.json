@@ -1,0 +1,23 @@
+{
+  "contentHash": "c20ae3c8b07bc0a5",
+  "payload": {
+    "count": 1,
+    "items": [
+      {
+        "claim": "Jyske Bank oplyser at banken i perioden 28. september til 2. oktober 2026 kobte 54.137 egne aktier under tilbagekobsprogrammet pa op til 3 mia. kr., der blev igangsat med selskabsmeddelelse nr. 11/2026 af 5. februar 2026 og lober til 29. januar 2027, og at banken efter afvikling ejer 2.127.014 egne aktier svarende til 3,65% af aktiekapitalen.",
+        "key": "2669fa057a417f3a",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "Jyske Bank, ugentlig tilbagekobsmeddelelse for uge 40 2026; kontakt Birger Krogh Nielsen, CFO",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374185/0/da/aktietilbagek%C3%B8b-transaktioner-i-uge-40-2026.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-11T06:20:57Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "JYSK.CO"
+}

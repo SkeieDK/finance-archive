@@ -1,7 +1,7 @@
 {
-  "contentHash": "9ddfc7ece6c358f1",
+  "contentHash": "c3889573d30e0bd3",
   "payload": {
-    "count": 12,
+    "count": 14,
     "items": [
       {
         "claim": "Government of the Russian Federation / Decree of the President - Political expropriation and state administration order placed on all four Russian production facilities.",
@@ -110,12 +110,30 @@
         "source": "ROCKWOOL A/S company announcement, as relayed by ad-hoc-news corporate news desk (no company spokesperson named)",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/rockwool-completes-a-share-conversion-and-rockwool-stock-costs-eur-25-43/70220740",
         "verifiedAs": null
+      },
+      {
+        "claim": "ROCKWOOL oplyste, at Wetherby Wall Systems Limited fra 1. oktober 2026 handler under navnet ROCKWOOL Wall Systems, og at navneskiftet samler koncernens britiske og tyske wall systems-forretninger under én identitet, mens medarbejdere, produkter, kontrakter og leveringsaftaler er uændrede.",
+        "key": "a20a585b20317449",
+        "publishedAt": "2026-10-07",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "ROCKWOOL Wall Systems, pressemeddelelse",
+        "url": "https://specificationonline.co.uk/articles/2026-10-07/wetherby-building-systems-ltd/wetherby-wall-systems-limited-will-trade-as-rockwool-wall-systems",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Simeon Gabriel, Managing Director for ROCKWOOL Wall Systems i Storbritannien, kaldte det „a significant step“, at ROCKWOOL-navnet og -logoet bliver en del af forretningens visuelle identitet.",
+        "key": "7c5ad0af976d685f",
+        "publishedAt": "2026-10-09",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Simeon Gabriel, Managing Director, ROCKWOOL Wall Systems UK",
+        "url": "https://bdcmagazine.com/2026/10/wetherby-wall-systems-limited-will-trade-as-rockwool-wall-systems",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-06T06:21:36Z",
+  "recordedAt": "2026-10-14T06:22:39Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ROCK-B.CO"

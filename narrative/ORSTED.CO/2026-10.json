@@ -1,7 +1,7 @@
 {
-  "contentHash": "03dcab12a3163553",
+  "contentHash": "7a123285ded300af",
   "payload": {
-    "count": 6,
+    "count": 11,
     "items": [
       {
         "claim": "Anders Hylleberg sagde: 'We've had great discussions with our suppliers about how we can help drive more predictability for our industry to make the right decisions and investments to bring down the cost of offshore wind by 30 % over the next 10 years.'",
@@ -56,12 +56,57 @@
         "source": "Ørsted A/S, refereret af ad-hoc-news.de (mediedækning)",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/orsted-opens-913-mw-wind-farm-and-orsted-stock-falls-4-04-percent/70232445",
         "verifiedAs": null
+      },
+      {
+        "claim": "Ørsted oplyste, at selskabet udnytter en længe eksisterende tilbagekøbsret til at erhverve de resterende 49,9 pct. af den 172 MW store havvindmøllepark Gunfleet Sands 1 & 2 ud for Essex-kysten fra sine investeringspartnere for omkring GBP 15 mio., og at handlen forventes gennemført i november med forbehold for sædvanlige betingelser.",
+        "key": "c29a5d61a537ad9b",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "windfair.net, der refererer Ørsteds oplysninger om transaktionen",
+        "url": "https://w3.windfair.net/wind-energy/news/49673-orsted-offshore-wind-gunfleet-sands-buyback-uk",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Det amerikanske justitsministerium har bedt en føderal domstol om at sende godkendelsen af Revolution Winds construction and operations plan tilbage til Indenrigsministeriet til fornyet behandling, og Indenrigsministeriet har anført, at godkendelsen bør genovervejes, så dens overholdelse af Outer Continental Shelf Lands Act kan vurderes igen; domstolen har endnu ikke truffet afgørelse.",
+        "key": "8b160219e57f0be6",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Windtech International, der gengiver justitsministeriets og indenrigsministeriets anbringender (ingen navngivne citater; ingen Ørsted-kommentar i artiklen)",
+        "url": "https://www.windtech-international.com/projects-and-contracts/us-department-of-justice-seeks-review-of-revolution-wind-permit",
+        "verifiedAs": null
+      },
+      {
+        "claim": "reNEWS skrev, at justitsministeriet sidst i ugen indgav et processkrift med argumentet om, at tilladelsen til Ørsteds 704 MW Revolution Wind ud for Rhode Island blev givet på et fejlagtigt grundlag, med henvisning til hensyn til fiskeri, videnskabelig forskning og landskabsbillede, og at alle 65 møller er installeret; mediet oplyste, at Ørsted var blevet kontaktet for en kommentar.",
+        "key": "357c31d63cdd7468",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "reNEWS (renews.biz)",
+        "url": "https://www.renews.biz/offshore-wind/trump-revives-effort-to-halt-revolution-wind/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Barclays fastholdt ifølge Finwire sin neutrale anbefaling på Ørsted og pegede på regulatorisk risiko, fordi det amerikanske justitsministerium har bedt om en ny gennemgang af tilladelsen til Revolution Wind-projektet, der er mere end 95 pct. færdigt; Barclays sagde desuden, at banken forventer, at Ørsted klarer sig svagere end den europæiske kraftsektor, at der kan komme yderligere nedskrivninger som følge af højere renter, og at indtjeningen pr. aktie bliver omtrent flad i 2027-2030 mod en forventet sektorvækst på cirka 8 pct. om året.",
+        "key": "8be05506b6df0625",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Finwire, oversat og gengivet af MarketScreener (ingen navngiven analytiker; synspunkterne tilskrives Barclays som hus)",
+        "url": "https://www.marketscreener.com/news/barclays-sees-share-price-pressure-at-orsted-after-new-u-s-announcement-ce785dd2dc8af126",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Investing.com skrev, at Goldman Sachs har nedjusteret Ørsted fra Buy til Neutral med henvisning til et forværret rentemiljø og en forventning om, at selskabets kommende tredjekvartalsregnskab vil halte efter sektoren, og at Goldman advarede om, at svagere Q3-tal kan føre til nedjusteringer af konsensusforventningerne; artiklen anførte, at statsobligationsrenter i Europa og USA er steget omkring 50-65 basispoint siden slutningen af august og cirka 100 basispoint i år, hvilket øger finansieringsomkostningerne for Ørsteds havvindprojekter.",
+        "key": "6120aa1ccb3520f2",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Investing.com (AI-assisteret, redigeret af Roushni Nair); synspunkterne tilskrives Goldman Sachs som hus, ingen navngiven analytiker",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-sliding-today-93CH-4948269",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-07T06:20:31Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ORSTED.CO"

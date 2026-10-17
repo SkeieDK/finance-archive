@@ -1,0 +1,32 @@
+{
+  "contentHash": "835b115bb6d2c246",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "Danske Bank oplyser at banken i uge 40 (28. september til 2. oktober 2026) kobte 651.966 egne aktier under tilbagekobsprogrammet pa op til 4,5 mia. kr. og hojst 45.000.000 aktier, der blev annonceret 5. februar 2026 og lober til senest 29. januar 2027, og at der hermed er kobt ca. 1,072% af aktiekapitalen under programmet.",
+        "key": "c7410522d257b21a",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "Danske Bank A/S, selskabsmeddelelse nr. 49/2026; kontakt Claus Ingar Jensen, Head of Group Investor Relations",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374206/0/en/danske-bank-share-buy-back-programme-transactions-in-week-40.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank skriver i en indberetning om ledende medarbejderes transaktioner at \"In connection with the share buy-back program in Danske Bank A/S, APMH Invest A/S continuously sells shares pro rata\".",
+        "key": "b486254fa3e95f34",
+        "publishedAt": "2026-10-07",
+        "recordedAt": "2026-10-11T06:20:57Z",
+        "source": "Danske Bank A/S, indberetning nr. 78/2026; kontakt Stefan Kailay Wind, Nordic Head of Media Relations",
+        "url": "https://www.globenewswire.com/news-release/2026/10/07/3376535/0/en/danske-bank-a-s-transactions-by-persons-discharging-managerial-responsibilities.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-11T06:20:57Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "DANSKE.CO"
+}

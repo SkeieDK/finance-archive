@@ -1,7 +1,7 @@
 {
-  "contentHash": "bb419144e7ed3e34",
+  "contentHash": "f36fcb4b93b64c46",
   "payload": {
-    "count": 3,
+    "count": 4,
     "items": [
       {
         "claim": "Netcompany Group oplyste i sin ugentlige meddelelse om aktietilbagekoeb, at programmet blev indledt i februar 2026 og har til formaal \"to adjust Netcompany's capital structure and meeting its obligations relating to share-based incentive programmes\", og at det senest afsluttes 29. januar 2027.",
@@ -29,12 +29,21 @@
         "source": "Netcompany Group A/S, ugentlig meddelelse om transaktioner i forbindelse med aktietilbagekøbsprogram",
         "url": "https://www.globenewswire.com/news-release/2026/10/05/3374237/0/en/transactions-in-connection-with-share-buyback-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany Group oplyste i sin ugentlige transaktionsrapport, at selskabet i perioden 5.-9. oktober 2026 købte 54.289 egne aktier for ca. DKK 17,9 mio., at der i alt er købt 1.546.712 aktier for ca. DKK 510,2 mio. under programmet, og at selskabet herefter besidder 1.895.001 egne aktier svarende til 4,1 pct. af aktiekapitalen; programmet blev igangsat 3. februar 2026 med en grænse på DKK 750 mio. og 3.250.000 aktier, skal afsluttes senest 29. januar 2027, og har til formål at tilpasse kapitalstrukturen og opfylde forpligtelser under aktiebaserede incitamentsprogrammer.",
+        "key": "1e7899f6bf2bcd0e",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Netcompany Group A/S, selskabsmeddelelse nr. 63/2026 «Transactions in connection with share buyback programme»",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378686/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-07T06:20:31Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NETC.CO"

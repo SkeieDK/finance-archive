@@ -1,7 +1,7 @@
 {
-  "contentHash": "191dc73431b6f7a0",
+  "contentHash": "0ec67be3bff6d70e",
   "payload": {
-    "count": 5,
+    "count": 8,
     "items": [
       {
         "claim": "Maersk meddelte at have gennemfoert den foerste kommercielle ship-to-ship-bunkring med ethanol af et deep-sea containerskib i USA, og Ditlev Blicher, Regional President for North America, sagde: \"Achieving lower-emission logistics requires turning new technologies into practical, scalable solutions.\"",
@@ -47,12 +47,39 @@
         "source": "Maersk customer advisories, as reported by Container News",
         "url": "https://container-news.com/maersk-updates-pss-across-three-major-trades/",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Møller - Mærsk oplyste om transaktioner under sit aktietilbagekøbsprogram i uge 41 og gentog, at programmets anden fase løber frem til 29. januar 2027 inden for den ramme, der blev meldt ud 5. februar 2026.",
+        "key": "40451576fbe176a3",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "A.P. Møller - Mærsk A/S, selskabsmeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378989/0/en/transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mærsk skrev i sin europæiske markedsopdatering, at Kina vender tilbage til fuld produktion efter Golden Week, at selskabet forventer en tilpasningsperiode, og at kunder bør gennemgå lagre, bekræfte prognoser og sikre kapacitet til kritisk gods tidligt.",
+        "key": "2ca29bee27ee8ac8",
+        "publishedAt": "2026-10-07",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Maersk, Europe Market Update October 2026",
+        "url": "https://www.maersk.com/news/articles/2026/10/07/europe-market-update-october",
+        "verifiedAs": null
+      },
+      {
+        "claim": "I Asia Pacific-opdateringen oplyste Mærsk, at yderligere fire Gemini-services flyttes til Suez-routing, hvilket selskabet forventer vil forbedre transittiderne mellem Asien og Europa.",
+        "key": "edf29d4efdfbf8bf",
+        "publishedAt": "2026-10-07",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Iris Yan Jing Fu, Customer Communications Manager, Asia Pacific, Maersk",
+        "url": "https://www.maersk.com/news/articles/2026/10/07/maersk-asia-pacific-market-update-october",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-06T06:21:36Z",
+  "recordedAt": "2026-10-14T06:22:39Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-B.CO"

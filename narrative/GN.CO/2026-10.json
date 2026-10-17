@@ -1,7 +1,7 @@
 {
-  "contentHash": "f3b5fc35eb30a4ab",
+  "contentHash": "7a3df892f48f13c8",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "Jyske Bank was reported to have changed its recommendation on GN Store Nord from Hold to Buy.",
@@ -29,12 +29,30 @@
         "source": "GN Store Nord management via the 20 August Q2 call, and Jyske Bank, as restated by ad-hoc-news.de; no individual named. The underlying statements predate the window.",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gn-store-nord-stock-gets-a-higher-2026-margin-outlook/70198044",
         "verifiedAs": null
+      },
+      {
+        "claim": "Amplifon offentliggjorde vaerdiansaettelsesrapporten og fairness opinion om udstedelseskursen for den aktieudstedelse, der er knyttet til koebet af GN Hearing-forretningen.",
+        "key": "178b35db3313ba51",
+        "publishedAt": "2026-10-08",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "Amplifon S.p.A., selskabets egen pressemeddelelsesoversigt (Other corporate press releases, 8. oktober 2026 kl. 20.00)",
+        "url": "https://corporate.amplifon.com/en/investors/press-releases",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Dokumenterne vedroerer den foreslaaede udstedelse af 56.000.000 nye ordinaere aktier, der skal daekke aktiedelen af vederlaget for koebet af GN Hearing fra GN Store Nord, og generalforsamlingen om transaktionen er fastsat til 29. oktober 2026.",
+        "key": "c88f9689eab09100",
+        "publishedAt": "2026-10-11",
+        "recordedAt": "2026-10-13T06:21:29Z",
+        "source": "ad-hoc-news.de, referat af Amplifons offentliggoerelse",
+        "url": "https://ad-hoc-news.de/boerse/news/corporate-news/amplifon-publishes-gn-hearing-documents-as-amplifon-stock-trades-at-eur-12-84/70293363",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-01T06:20:53Z",
+  "recordedAt": "2026-10-13T06:21:29Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GN.CO"

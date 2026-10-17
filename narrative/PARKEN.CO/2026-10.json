@@ -1,7 +1,7 @@
 {
-  "contentHash": "371ce7f89cefaddd",
+  "contentHash": "f9144787c7de2bed",
   "payload": {
-    "count": 19,
+    "count": 22,
     "items": [
       {
         "claim": "PARKEN Sport & Entertainment udsendte en storaktionaermeddelelse om at Karl Peter Korsgaard Soerensen under henvisning til kapitalmarkedslovens § 38 har sendt vedhaeftede meddelelse til selskabet.",
@@ -173,12 +173,39 @@
         "source": "Tipsbladet, der citerer ordlyden i storaktionærmeddelelsen",
         "url": "https://www.tipsbladet.dk/nyhed/superliga/storaktioner-overdrager-sine-fck-andele",
         "verifiedAs": null
+      },
+      {
+        "claim": "PARKEN Sport & Entertainment meddelte, at bestyrelsen vil undersøge de strategiske muligheder for koncernens fodboldaktiviteter, herunder et helt eller delvist frasalg af F.C. København P/S, F.C. København Kvindefodbold A/S og ejerandelen i FC Rosengård 1917 Elitfotboll AB samt hospitality-aktiviteterne i PARKEN Services A/S, at processen også kan omfatte PARKEN Ejendomme A/S med stadion og kontortårne, at et salg heraf ikke er en forudsætning for et salg af F.C. København, at Tifosy Capital & Advisory er eksklusiv finansiel rådgiver, og at der ikke er sikkerhed for, at et frasalg gennemføres.",
+        "key": "961b752d8af9409e",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "PARKEN Sport & Entertainment A/S, selskabsmeddelelse 15/2026 (ingen citeret udtalelse i meddelelsen)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/13/3379702/0/da/parken-sport-entertainment-a-s-vil-unders%C3%B8ge-de-strategiske-muligheder-for-koncernens-fodboldaktiviteter-herunder-f-c-k%C3%B8benhavn.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "F.C. København offentliggjorde selskabsmeddelelsen på klubbens eget site underskrevet af bestyrelsesformand Henrik Møgelmose, og meddelelsen anfører, at driften — herunder F.C. Københavns sportslige aktiviteter — fortsætter som normalt, og at selskabet vil henvende sig til udvalgte potentielle investorer.",
+        "key": "901c737d8c709d8b",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "F.C. København (fck.dk), gengivelse af PARKEN Sport & Entertainment A/S' selskabsmeddelelse, underskrevet af bestyrelsesformand Henrik Møgelmose",
+        "url": "https://www.fck.dk/en/news/parken-sport-entertainment-explore-strategic-alternatives-groups-football-activities-including",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Sydinvest gengav, at selskabet oplyste, at bestyrelsen «har vurderet, at tidspunktet er det rette for at undersøge» de strategiske muligheder, og at der ikke er sikkerhed for, at et salg finder sted.",
+        "key": "2f69b9602b725961",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Sydinvest (Marketwire-gengivelse); ingen navngiven person citeret, udtalelsen tilskrives selskabet",
+        "url": "https://www.sydinvest.dk/nyheder/parken-overvejer-salg-af-f-c-koebenhavn-aktien-brager-i-vejret",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-08T06:21:38Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "PARKEN.CO"

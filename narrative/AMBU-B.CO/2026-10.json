@@ -1,7 +1,7 @@
 {
-  "contentHash": "7004a09c5e6d9c84",
+  "contentHash": "f62256b3ca962a99",
   "payload": {
-    "count": 7,
+    "count": 9,
     "items": [
       {
         "claim": "Ambu meddelte at aScope Gastro og aScope Gastro Large har opnaaet FDA 510(k)-clearance og CE-maerkning til fleksibel sigmoidoskopi, og at selskabet dermed som det foerste tilbyder single-use GI-endoskoper til baade oevre og nedre GI-procedurer med kommerciel lancering planlagt til tidligt 2027.",
@@ -65,12 +65,30 @@
         "source": "ad-hoc-news.de (mediedækning, refererer Ambus meddelelse af 28. september 2026)",
         "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ambu-stock-gets-a-new-board-observer-with-olympus-experience/70228220",
         "verifiedAs": null
+      },
+      {
+        "claim": "Ambu oplyste, at to bronkoskoper i aScope 5 Broncho-porteføljen har opnået FDA 510(k)-clearance og CE-mærkning til pædiatriske luftvejsprocedurer, og at selskabet forventer at lancere dem i USA og Europa i begyndelsen af 2027.",
+        "key": "8d720ffa47c11537",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Ambu A/S, selskabsmeddelelse",
+        "url": "https://via.ritzau.dk/pressemeddelelse/15221560/ambu-extends-respiratory-offering-into-pediatric-airway-procedures?publisherId=13561943&lang=en",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Adm. direktør Britt Meelby Jensen kaldte godkendelsen „an important step in extending the reach and value of our leading single-use Respiratory offering“.",
+        "key": "489ae514dce29693",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-14T06:22:39Z",
+        "source": "Britt Meelby Jensen, CEO, Ambu",
+        "url": "https://via.ritzau.dk/pressemeddelelse/15221560/ambu-extends-respiratory-offering-into-pediatric-airway-procedures?publisherId=13561943&lang=en",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-07T06:20:31Z",
+  "recordedAt": "2026-10-14T06:22:39Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "AMBU-B.CO"

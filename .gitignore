@@ -1,2 +1,6 @@
 # regnet fra observationerne (Finans strategy/view.js) — kan altid regnes igen
 /view/
+
+# Europæiske ESEF-dokumenter i fuld længde (2,9 GB) — kun det motoren læser versioneres (facts.xhtml.gz);
+# det fulde dokument hentes fra filings.xbrl.org via documentUrl/packageUrl i filings.tsv (2026-10-11).
+obs/eu/*/*/doc.xhtml.gz

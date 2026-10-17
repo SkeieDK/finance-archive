@@ -1,7 +1,7 @@
 {
-  "contentHash": "0aa2c5d06992fc57",
+  "contentHash": "d80ded2cf47404fc",
   "payload": {
-    "count": 13,
+    "count": 16,
     "items": [
       {
         "claim": "Zealand Pharma announced that Phase 2 ZUPREME-1 results for petrelintide had been published in The Lancet Diabetes & Endocrinology and that additional data would be presented at EASD 2026 on 30 September, reporting weight reduction of up to 10.7% versus 1.7% for placebo, gastrointestinal tolerability comparable to placebo with no vomiting at the maximum effective dose, and reductions in waist circumference, hsCRP, triglycerides and pulse rate.",
@@ -119,12 +119,39 @@
         "source": "Utpal Singh, EVP og Chief Scientific Officer, Zealand Pharma, i selskabets meddelelse",
         "url": "https://www.globenewswire.com/news-release/2026/10/01/3373018/0/en/zealand-pharma-announces-opening-of-new-research-hub-in-cambridge-massachusetts.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma meddelte, at aktietilbagekøbsprogrammet, der blev igangsat 7. maj 2026, er afsluttet, idet lead manager Danske Bank lukkede det før fristen 31. oktober 2026, da bemyndigelsen på DKK 1,3 mia. var udnyttet; i alt blev der tilbagekøbt 4.408.500 aktier, og selskabet besidder herefter 5.279.342 egne aktier svarende til ca. 7,37 pct. af aktiekapitalen ud af 71.610.005 aktier, og Danske Bank traf sine handelsbeslutninger uafhængigt af selskabet.",
+        "key": "46e32e3bc55dc07c",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Zealand Pharma A/S, selskabsmeddelelse «Completion of share buy-back program and related transactions (week 40 and 41, 2026)»",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374884/0/en/zealand-pharma-completion-of-share-buy-back-program-and-related-transactions-week-40-and-41-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma meddelte, at selskabet har indgået en samarbejds- og licensaftale med Generate Biomedicines om i fællesskab at designe multispecifikke proteinterapier til fedme og andre metaboliske sygdomme, at Generate modtager USD 30 mio. up front for de to første programmer, op til USD 35 mio. i tidlige prækliniske milepæle og samlede milepæle på knap USD 1,2 mia. plus trinvise royalties af fremtidigt globalt nettosalg, at aftalen indeholder en option på et tredje program, og at Generate leder forskningen til og med udvælgelse af leadkandidat, hvorefter Zealand Pharma står for klinisk udvikling, myndighedsansøgninger og global kommercialisering.",
+        "key": "295fc906a04ae76e",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Zealand Pharma A/S, selskabsmeddelelse udsendt via GlobeNewswire og gengivet af The Manila Times",
+        "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/zealand-pharma-and-generate-biomedicines-enter-collaboration-and-license-agreement-to-develop-protein-therapeutics-engineered-with-ai-for-metabolic-diseases/2445098",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Utpal Singh, Chief Scientific Officer i Zealand Pharma, sagde i meddelelsen: «We are thrilled to collaborate with Generate, a leader in AI and structure-enabled drug generation», og Generates adm. direktør Mike Nally sagde, at holdene først vil definere, hvordan et stærkt lægemiddel ser ud for hvert af de første programmer, og derefter bruge The Generate Platform til at designe kandidater, der rammer den profil.",
+        "key": "a0c14c70a0e7c235",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-15T06:23:05Z",
+        "source": "Utpal Singh, Chief Scientific Officer, Zealand Pharma, og Mike Nally, Chief Executive Officer, Generate Biomedicines, citeret i selskabsmeddelelsen",
+        "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/zealand-pharma-and-generate-biomedicines-enter-collaboration-and-license-agreement-to-develop-protein-therapeutics-engineered-with-ai-for-metabolic-diseases/2445098",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-05T06:20:53Z",
+  "recordedAt": "2026-10-15T06:23:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ZEAL.CO"

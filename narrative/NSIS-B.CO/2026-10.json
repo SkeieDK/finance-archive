@@ -1,0 +1,23 @@
+{
+  "contentHash": "a0c733b2f4215799",
+  "payload": {
+    "count": 1,
+    "items": [
+      {
+        "claim": "Novonesis told the market it had carried out further transactions under its ongoing share buyback programme, in the weekly announcement filed under the designation 2026_20_Share_buyback.",
+        "key": "8d2ca8db1f073444",
+        "publishedAt": "2026-10-05",
+        "recordedAt": "2026-10-12T06:24:32Z",
+        "source": "Novonesis (Novozymes A/S) company announcement, no individual signatory named",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374691/0/en/transactions-under-novonesis-share-buyback-program.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-12T06:24:32Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NSIS-B.CO"
+}
