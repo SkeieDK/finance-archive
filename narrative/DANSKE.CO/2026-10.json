@@ -1,7 +1,7 @@
 {
-  "contentHash": "835b115bb6d2c246",
+  "contentHash": "8c78e71719ed6daa",
   "payload": {
-    "count": 2,
+    "count": 5,
     "items": [
       {
         "claim": "Danske Bank oplyser at banken i uge 40 (28. september til 2. oktober 2026) kobte 651.966 egne aktier under tilbagekobsprogrammet pa op til 4,5 mia. kr. og hojst 45.000.000 aktier, der blev annonceret 5. februar 2026 og lober til senest 29. januar 2027, og at der hermed er kobt ca. 1,072% af aktiekapitalen under programmet.",
@@ -20,12 +20,39 @@
         "source": "Danske Bank A/S, indberetning nr. 78/2026; kontakt Stefan Kailay Wind, Nordic Head of Media Relations",
         "url": "https://www.globenewswire.com/news-release/2026/10/07/3376535/0/en/danske-bank-a-s-transactions-by-persons-discharging-managerial-responsibilities.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank meddelte, at den i uge 41 fortsatte sit aktietilbagekøbsprogram, og at det akkumulerede antal egne aktier under programmet svarer til 1,173 pct. af aktiekapitalen.",
+        "key": "bdc89e8844868566",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Danske Bank A/S, selskabsmeddelelse om aktietilbagekøb uge 41",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378604/0/en/danske-bank-share-buy-back-programme-transactions-in-week-41.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank udsendte en pressemeddelelse, der som svar på nylige meddelelser fra konkurrenter bekræfter bankens kapitalramme og IRB-modelimplementering, som banken siger sker i dialog med og under tilsyn af Finanstilsynet.",
+        "key": "8eee78e3be1fe77c",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Danske Bank A/S, pressemeddelelse",
+        "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr15102026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank oplyste i samme pressemeddelelse, at banken betegner sin kapitalposition som robust med betydelige buffere over de regulatoriske krav, at en SREP-gennemgang af afsluttede legacy-sager har reduceret CET1-kravet som tidligere udmeldt, og at banken fastholder både sin 2028-CET1-målsætning og sit igangværende aktietilbagekøbsprogram.",
+        "key": "f0e8ea632163c5fa",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Danske Bank A/S, pressemeddelelse",
+        "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr15102026",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-11T06:20:57Z",
+  "recordedAt": "2026-10-18T06:09:44Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DANSKE.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "b24b0be1cab4df5b",
+  "contentHash": "53fa9087468bf8c6",
   "payload": {
-    "count": 4,
+    "count": 7,
     "items": [
       {
         "claim": "Demants praestation i tredje kvartal fremhaever styrken i vores innovative produkter og vores kommercielle eksekvering.",
@@ -38,12 +38,39 @@
         "source": "Investing.com, referat af selskabets meddelelse",
         "url": "https://www.investing.com/news/stock-market-news/demant-stock-surges-on-raised-2026-outlook-buyback-plan-93CH-4941269",
         "verifiedAs": null
+      },
+      {
+        "claim": "Demant sagde at selskabet opjusterer sine finansielle forventninger til 2026 og genoptager aktietilbagekøb med øjeblikkelig virkning, og henviste til hvad selskabet kaldte en meget stærk udvikling i Q3 drevet af lanceringen af Oticon Reveal, særligt i USA.",
+        "key": "0f5261ef86b1bfea",
+        "publishedAt": "2026-10-09",
+        "recordedAt": "2026-10-20T06:13:51Z",
+        "source": "Demant A/S, selskabsmeddelelse",
+        "url": "https://view.news.eu.nasdaq.com/view?id=1469394",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Adm. direktør Søren Nielsen sagde at udviklingen 'allows us to lift our financial outlook for this year', og at skridtet afspejler 'the confidence in our business and our commitment to creating shareholder value'.",
+        "key": "fcfc007e9007cee3",
+        "publishedAt": "2026-10-09",
+        "recordedAt": "2026-10-20T06:13:51Z",
+        "source": "Søren Nielsen, President & CEO, Demant A/S",
+        "url": "https://view.news.eu.nasdaq.com/view?id=1469394",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Demant sagde at den fulde Q3 Interim Management Statement offentliggøres 3. november 2026, og at opjusteringen og genoptagelsen af tilbagekøb udgør intern viden efter EU's markedsmisbrugsforordning.",
+        "key": "c5ea2cce5865f640",
+        "publishedAt": "2026-10-09",
+        "recordedAt": "2026-10-20T06:13:51Z",
+        "source": "Demant A/S, selskabsmeddelelse",
+        "url": "https://view.news.eu.nasdaq.com/view?id=1469394",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-13T06:21:29Z",
+  "recordedAt": "2026-10-20T06:13:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DEMANT.CO"

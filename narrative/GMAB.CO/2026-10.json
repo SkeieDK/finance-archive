@@ -1,7 +1,7 @@
 {
-  "contentHash": "8f66f656272eba02",
+  "contentHash": "188ebdb7cc29a1e6",
   "payload": {
-    "count": 7,
+    "count": 9,
     "items": [
       {
         "claim": "Genmab filed a Form 6-K setting out its Articles of Association as of 24 September 2026, which per the filing state a share capital of DKK 62,405,855 and a board authorisation running through 12 March 2029 to issue new shares, warrants and convertible debt up to specified nominal limits, with or without pre-emption rights.",
@@ -65,12 +65,30 @@
         "source": "Daejin Abidoye, MD, Vice President, Therapeutic Area Head, Oncology, Solid Tumor and Hematology, AbbVie",
         "url": "https://news.abbvie.com/2026-10-05-AbbVie-and-Genmab-Announce-Epcoritamab-in-Combination-with-R-CHOP-Demonstrates-Significant-Improvement-in-Progression-Free-Survival-versus-R-CHOP-in-Patients-with-Newly-Diagnosed-Diffuse-Large-B-Cell-Lymphoma",
         "verifiedAs": null
+      },
+      {
+        "claim": "Genmab oplyste de globale nettosalgstal for DARZALEX (daratumumab) for tredje kvartal 2026, som de er rapporteret af Johnson & Johnson, opdelt på USA og resten af verden.",
+        "key": "712454a196f7b6a8",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-20T06:13:51Z",
+        "source": "Genmab A/S, selskabsmeddelelse (ingen citeret ledelsesudtalelse; kontaktpersoner Marisol Peron og Andrew Carlsen)",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/genmab-announces-net-sales-darzalexr-daratumumab-third-quarter-7",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Genmab sagde at selskabet modtager royalties på det globale nettosalg af DARZALEX, både den intravenøse og den subkutane udgave, i henhold til sin eksklusive globale licens til Johnson & Johnson.",
+        "key": "4682ddb1a8912497",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-20T06:13:51Z",
+        "source": "Genmab A/S, selskabsmeddelelse",
+        "url": "https://ir.genmab.com/news-releases/news-release-details/genmab-announces-net-sales-darzalexr-daratumumab-third-quarter-7",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-13T06:21:29Z",
+  "recordedAt": "2026-10-20T06:13:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GMAB.CO"

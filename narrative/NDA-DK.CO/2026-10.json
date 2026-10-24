@@ -1,7 +1,7 @@
 {
-  "contentHash": "e3e474f3c776aaa4",
+  "contentHash": "7f12b879f68fc9a6",
   "payload": {
-    "count": 1,
+    "count": 6,
     "items": [
       {
         "claim": "Nordea said its third-quarter 2026 report will be published at approximately 07:30 EET (06:30 CET) on Thursday 15 October 2026, with a webcast at 11:00 EET and a Q&A session.",
@@ -11,12 +11,57 @@
         "source": "Nordea Bank press release; President and Group CEO Frank Vang-Jensen named as presenting, alongside the Chief Financial Officer and Head of Investor Relations",
         "url": "https://www.nordea.com/en/press/2026-10-01/nordea-to-present-its-third-quarter-results-2026-on-15-october",
         "verifiedAs": null
+      },
+      {
+        "claim": "Koncernchef Frank Vang-Jensen sagde om kvartalet at \"Nordea performed well again this quarter\", og at \"our 2030 strategy is on track, with clear progress made during the quarter\".",
+        "key": "336bf8bd1495337c",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-21T06:14:28Z",
+        "source": "Frank Vang-Jensen, Group CEO, Nordea Bank Abp",
+        "url": "https://www.nordea.com/en/press/2026-10-15/third-quarter-results-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Frank Vang-Jensen fastholdt forventningen for 2026 med ordene \"we continue to expect a return on equity of greater than 15%\", og formulerede ambitionen om at blive \"the undisputed best-performing financial services group in the Nordics\".",
+        "key": "e20126904a8849e8",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-21T06:14:28Z",
+        "source": "Frank Vang-Jensen, Group CEO, Nordea Bank Abp",
+        "url": "https://www.nordea.com/en/press/2026-10-15/third-quarter-results-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Nordea beskrev kvartalet som solidt trods sæsonmæssigt lavere aktivitet, og pegede på stigende gebyrindtægter, lavere resultat af dagsværdiposter som følge af rentevolatilitet sidst i kvartalet, stærk udlåns- og indlånsvækst til erhverv og rekordhøje aktiver under forvaltning.",
+        "key": "08b71471a53f4642",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-21T06:14:28Z",
+        "source": "Nordea Bank Abp, børsmeddelelse om resultatet for 3. kvartal 2026",
+        "url": "https://www.nordea.com/en/press/2026-10-15/third-quarter-results-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet oplyste at det løbende vil vurdere aktietilbagekøb som middel til at udlodde overskydende kapital inden for udbyttepolitikken på 60-70 pct. af resultatet, og at kvartalets kernekapitalopgørelse indeholder et fradrag for forventet udbytte, som afventer ECB-godkendelse.",
+        "key": "2ad99dde3de5c5d3",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-21T06:14:28Z",
+        "source": "Nordea Bank Abp, børsmeddelelse om resultatet for 3. kvartal 2026",
+        "url": "https://www.nordea.com/en/press/2026-10-15/third-quarter-results-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Frank Vang-Jensen sagde at han forventer fortsat økonomisk vækst i hjemmemarkederne, men pegede på risiko fra de seneste kraftige stigninger i forward-renterne.",
+        "key": "7a0ef2988585c317",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-21T06:14:28Z",
+        "source": "Frank Vang-Jensen, Group CEO, Nordea Bank Abp",
+        "url": "https://www.nordea.com/en/press/2026-10-15/third-quarter-results-2026",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-06T06:21:36Z",
+  "recordedAt": "2026-10-21T06:14:28Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NDA-DK.CO"

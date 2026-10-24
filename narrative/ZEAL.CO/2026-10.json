@@ -1,7 +1,7 @@
 {
-  "contentHash": "d80ded2cf47404fc",
+  "contentHash": "791141cb1d3f0b9d",
   "payload": {
-    "count": 16,
+    "count": 17,
     "items": [
       {
         "claim": "Zealand Pharma announced that Phase 2 ZUPREME-1 results for petrelintide had been published in The Lancet Diabetes & Endocrinology and that additional data would be presented at EASD 2026 on 30 September, reporting weight reduction of up to 10.7% versus 1.7% for placebo, gastrointestinal tolerability comparable to placebo with no vomiting at the maximum effective dose, and reductions in waist circumference, hsCRP, triglycerides and pulse rate.",
@@ -146,12 +146,21 @@
         "source": "Utpal Singh, Chief Scientific Officer, Zealand Pharma, og Mike Nally, Chief Executive Officer, Generate Biomedicines, citeret i selskabsmeddelelsen",
         "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/zealand-pharma-and-generate-biomedicines-enter-collaboration-and-license-agreement-to-develop-protein-therapeutics-engineered-with-ai-for-metabolic-diseases/2445098",
         "verifiedAs": null
+      },
+      {
+        "claim": "Zealand Pharma meddelte positive topline-resultater fra multiple ascending dose-delen af fase 1-forsoeget med Kv1.3-ionkanalblokkeren ZP9830, oplyste at et fase 1b-forsoeg i plaque psoriasis er startet og at et fase 2-forsoeg i en anden autoimmun sygdom planlaegges til foerste halvaar 2027, og Chief Medical Officer David Kendall sagde at 'These results represent an encouraging milestone for ZP9830'.",
+        "key": "5c2e1c7f4098b6f3",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "David Kendall, MD, Chief Medical Officer, Zealand Pharma, i selskabets press release No. 21/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3382975/0/en/zealand-pharma-announces-positive-topline-results-from-the-multiple-ascending-dose-part-of-phase-1-trial-with-kv1-3-ion-channel-blocker-zp9830.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-15T06:23:05Z",
+  "recordedAt": "2026-10-22T06:11:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ZEAL.CO"

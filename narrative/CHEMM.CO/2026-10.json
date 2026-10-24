@@ -1,7 +1,7 @@
 {
-  "contentHash": "9d514ef3ee808098",
+  "contentHash": "fedda15217534d24",
   "payload": {
-    "count": 8,
+    "count": 10,
     "items": [
       {
         "claim": "ChemoMetec meddelte at selskabet har afsluttet det aktietilbagekoebsprogram, der blev annonceret i selskabsmeddelelse nr. 309 den 15. maj 2026, og oplyste at der blev tilbagekoebt 239.950 aktier for i alt DKK 99.998.735, svarende til 1,38 pct. af aktiekapitalen.",
@@ -74,12 +74,30 @@
         "source": "Oscar M. Stefansen, Økonomisk Ugebrev (flashnews), med Nasdaq som angivet kilde",
         "url": "https://ugebrev.dk/flashnews/chemometec-opjusterer-forventninger-til-omsaetning-og-ebitda/",
         "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec meddelte, at CEO Martin Helbo Behrens og CFO Phillip Massie Price praesenterer kvartalsregnskabet for 1. kvartal 2026/27 paa en telefonkonference den 6. november 2026, og at regnskabet offentliggoeres den 5. november 2026.",
+        "key": "821fa70b1dbb99a7",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse nr. 321",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383319/0/da/chemometec-a-s-afholder-telefonkonference-den-6-november-2026-kl-15-00-til-pr%C3%A6sentation-af-kvartalsregnskabet-for-1-kvartal-2026-27.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec videregav en storaktionaermeddelelse fra BlackRock, Inc., som oplyste at dens stemmerettigheder i ChemoMetec pr. 15. oktober 2026 faldt til 14,97 pct. og dermed under 15 pct.-graensen, mens den samlede position angives uaendret paa 15,08 pct.",
+        "key": "0d707eb720213043",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse nr. 322, med henvisning til underretning fra BlackRock, Inc.",
+        "url": "https://www.globenewswire.com/news-release/2026/10/21/3385840/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-15T06:23:05Z",
+  "recordedAt": "2026-10-22T06:11:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CHEMM.CO"

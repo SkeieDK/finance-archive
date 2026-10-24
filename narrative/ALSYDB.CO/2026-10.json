@@ -1,7 +1,7 @@
 {
-  "contentHash": "1d214433c10f79e8",
+  "contentHash": "9765b29d37602c99",
   "payload": {
-    "count": 2,
+    "count": 4,
     "items": [
       {
         "claim": "AL Sydbank oplyser at banken i uge 40 kobte 34.000 egne aktier for 24.441.420 kr. under tilbagekobsprogrammet pa 1.100 mio. kr., der blev annonceret 25. februar 2026 og lober til senest 31. januar 2027 med det formal at nedsaette aktiekapitalen.",
@@ -20,12 +20,30 @@
         "source": "AL Sydbank A/S, selskabsmeddelelse nr. 56/2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/07/3376200/0/da/ledende-medarbejdere-og-n%C3%A6rtst%C3%A5endes-transaktioner-med-aktier-i-al-sydbank.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank meddelte i selskabsmeddelelse nr. 57/2026, at banken i uge 41 fortsatte sit aktietilbagekøbsprogram, og at den efter ugens transaktioner ejer i alt 1.318.948 egne aktier svarende til ca. 1,53 pct. af aktiekapitalen.",
+        "key": "0836757fd576d94a",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 57/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378745/0/da/aktietilbagek%C3%B8b-i-al-sydbank-a-s-transaktioner-i-uge-41.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank oplyste i samme meddelelse, at tilbagekøbsprogrammet blev annonceret i februar 2026, løber indtil 31. januar 2027, og at formålet er at nedsætte bankens aktiekapital.",
+        "key": "1ab201243322f8b4",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 57/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378745/0/da/aktietilbagek%C3%B8b-i-al-sydbank-a-s-transaktioner-i-uge-41.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-11T06:20:57Z",
+  "recordedAt": "2026-10-18T06:09:44Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ALSYDB.CO"

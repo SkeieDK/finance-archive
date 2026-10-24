@@ -1,7 +1,7 @@
 {
-  "contentHash": "6bd7a3902698b256",
+  "contentHash": "3aa375d548463ec3",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "Pandora meddelte aabningen af sit nye smykkeanlaeg i Vietnam, som selskabet i meddelelsen betegner som verdens stoerste finsmykke-produktionsanlaeg.",
@@ -29,12 +29,30 @@
         "source": "Pandora, as reported by SolarQuarter (Mohan Gupta); no individual spokesperson named",
         "url": "https://solarquarter.com/2026/10/05/pandora-opens-usd-150-million-sustainable-jewellery-facility-in-vietnam",
         "verifiedAs": null
+      },
+      {
+        "claim": "Pandoras administrerende direktør Berta de Pablos-Barbier siger om den nye fabrik i Vietnam: \"This gives us flexibility to craft all our collections, our assortments in all our materials and crafting techniques\", og at selskabet vil fortsætte med at vokse på en bæredygtig måde.",
+        "key": "1141628254fecb87",
+        "publishedAt": "2026-10-17",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Berta de Pablos-Barbier, CEO, Pandora — citeret af Euronews",
+        "url": "https://www.euronews.com/2026/10/17/pandora-opens-the-worlds-biggest-jewellery-factory-in-vietnam-but-is-success-guaranteed-in",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Euronews skriver i samme artikel, at Pandora har forklaret nedlæggelser af stillinger med omstrukturering og medarbejderpræstation (gengivet, ikke direkte citeret).",
+        "key": "bfd587464cdad3ca",
+        "publishedAt": "2026-10-17",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Euronews, refererende Pandora",
+        "url": "https://www.euronews.com/2026/10/17/pandora-opens-the-worlds-biggest-jewellery-factory-in-vietnam-but-is-success-guaranteed-in",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-12T06:24:32Z",
+  "recordedAt": "2026-10-19T06:12:52Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "PNDORA.CO"

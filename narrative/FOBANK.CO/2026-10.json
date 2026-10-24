@@ -1,0 +1,59 @@
+{
+  "contentHash": "d0517251dacaaa6a",
+  "payload": {
+    "count": 5,
+    "items": [
+      {
+        "claim": "Føroya Banki meddelte, at banken har aftalt at udstede senior non-preferred obligationer for 250 mio. kr. med 6 års løbetid og mulighed for indfrielse efter 4 år med Finanstilsynets godkendelse, og at afvikling sker 20. oktober 2026.",
+        "key": "11f05b846906b115",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Føroya Banki, selskabsmeddelelse",
+        "url": "https://mfn.se/nir/a/foroya-banki/foroya-banki-issues-senior-non-preferred-bonds-amounting-to-dkk-250m-3850544b",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Føroya Banki sagde om udstedelsen, at den indgår i bankens kapitalplan og understøtter det løbende arbejde med at optimere kapitalstruktur og MREL-sammensætning, og at Nykredit var rådgiver og lead manager.",
+        "key": "36e0ed512fab96dd",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Føroya Banki, selskabsmeddelelse",
+        "url": "https://mfn.se/nir/a/foroya-banki/foroya-banki-issues-senior-non-preferred-bonds-amounting-to-dkk-250m-3850544b",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Føroya Banki meddelte i meddelelse nr. 9/2026, klassificeret som intern viden, at banken opjusterer sin forventning til årets nettoresultat fra 190-235 mio. kr. til 225-255 mio. kr.",
+        "key": "4d94f9c2de7272eb",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Føroya Banki, meddelelse nr. 9/2026",
+        "url": "https://mfn.se/nir/a/foroya-banki/foroya-banki-upgrades-its-net-profit-guidance-for-2026-d24a2467",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Føroya Banki begrundede opjusteringen med lave nedskrivninger, som banken tilskriver stærk kreditkvalitet i udlånsporteføljen, og oplyste at netterente- samt gebyr- og provisionsindtægter er kommet bedre ind end ventet, mens forsikringsresultatet er kommet dårligere ind.",
+        "key": "a1e5f8877d930339",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Føroya Banki, meddelelse nr. 9/2026",
+        "url": "https://mfn.se/nir/a/foroya-banki/foroya-banki-upgrades-its-net-profit-guidance-for-2026-d24a2467",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Føroya Banki beskrev udsigterne for resten af året som positive, men usikre, og pegede på renter, afkast på investeringsporteføljen, nedskrivninger, forsikringsresultatet og geopolitiske forhold som kilder til usikkerhed; regnskabet for 3. kvartal er varslet til 4. november 2026.",
+        "key": "1a073de07474f021",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Føroya Banki, meddelelse nr. 9/2026",
+        "url": "https://mfn.se/nir/a/foroya-banki/foroya-banki-upgrades-its-net-profit-guidance-for-2026-d24a2467",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-10"
+  },
+  "periodEnd": "2026-10",
+  "recordedAt": "2026-10-18T06:09:44Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "FOBANK.CO"
+}

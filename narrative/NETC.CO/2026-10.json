@@ -1,7 +1,7 @@
 {
-  "contentHash": "f36fcb4b93b64c46",
+  "contentHash": "87edb557c43fe682",
   "payload": {
-    "count": 4,
+    "count": 6,
     "items": [
       {
         "claim": "Netcompany Group oplyste i sin ugentlige meddelelse om aktietilbagekoeb, at programmet blev indledt i februar 2026 og har til formaal \"to adjust Netcompany's capital structure and meeting its obligations relating to share-based incentive programmes\", og at det senest afsluttes 29. januar 2027.",
@@ -38,12 +38,30 @@
         "source": "Netcompany Group A/S, selskabsmeddelelse nr. 63/2026 «Transactions in connection with share buyback programme»",
         "url": "https://www.globenewswire.com/news-release/2026/10/12/3378686/0/en/transactions-in-connection-with-share-buyback-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany oplyste, at The Goldman Sachs Group, Inc. har underrettet selskabet om, at det pr. 12. oktober 2026 direkte og indirekte raadede over 1.972.868 stemmerettigheder svarende til 4,29 pct. af stemmerettighederne, mod 5,70 pct. ved forrige meddelelse.",
+        "key": "2480051afca7fc06",
+        "publishedAt": "2026-10-16",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Netcompany Group A/S, company announcement No. 64/2026, med henvisning til underretning fra The Goldman Sachs Group, Inc.",
+        "url": "https://www.globenewswire.com/news-release/2026/10/16/3382693/0/en/major-shareholder-announcement.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany oplyste i sin ugentlige opgoerelse over aktietilbagekoebsprogrammet, at der i perioden 12.-16. oktober 2026 blev koebt 52.000 aktier, og at formaalet med programmet er at 'adjusting Netcompany's capital structure' samt at opfylde forpligtelser fra aktiebaserede incitamentsprogrammer.",
+        "key": "bdd93d450a4ca109",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Netcompany Group A/S, company announcement No. 65/2026",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/transactions-connection-share-buyback-programme-104300987.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-15T06:23:05Z",
+  "recordedAt": "2026-10-22T06:11:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NETC.CO"

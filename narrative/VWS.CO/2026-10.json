@@ -1,7 +1,7 @@
 {
-  "contentHash": "eb9d07dbb90be599",
+  "contentHash": "ca50f928c342b6b6",
   "payload": {
-    "count": 19,
+    "count": 21,
     "items": [
       {
         "claim": "Vestas announced the launch of its V182-7.2 MW onshore turbine, saying it can increase capacity factors by as much as 2 percent versus its predecessor and improve electricity capture prices by as much as 3 percent at low- to medium-wind sites.",
@@ -173,12 +173,30 @@
         "source": "Windtech International, der gengiver ordlyden i Nereteks og Vestas' memorandum of understanding",
         "url": "https://windtech-international.com/product-news/neretek-and-vestas-explore-deeper-water-offshore-wind-solutions",
         "verifiedAs": null
+      },
+      {
+        "claim": "Vestas oplyste i sin ugentlige opgoerelse for 8.-14. oktober 2026, at selskabet under programmet fra 13. august 2026 'will buy back shares for an amount up to DKK 3,000m (approx. EUR 400m)' og at tilbagekoebet loeber til senest 16. december 2026.",
+        "key": "b9b36b340401b2f8",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Vestas Wind Systems A/S, company announcement No. 55/2026",
+        "url": "https://www.inderes.fi/en/releases/transactions-in-connection-with-share-buy-back-programme-08-14-october-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Vestas offentliggjorde en ordre paa 48 V172-7,2 MW-moeller i Australien paa i alt omkring 346 MW med en 30-aarig AOM 5000-serviceaftale, og oplyste at kunde, projekt, placering og leveringsplan ikke offentliggoeres.",
+        "key": "739d9b9cfd5ce710",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Vestas Wind Systems, ordremeddelelse gengivet i SolarQuarter",
+        "url": "https://solarquarter.com/2026/10/14/vestas-secures-346-mw-wind-turbine-order-in-australia-with-30-year-service-agreement/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-15T06:23:05Z",
+  "recordedAt": "2026-10-22T06:11:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "VWS.CO"

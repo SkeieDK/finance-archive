@@ -1,0 +1,98 @@
+{
+  "contentHash": "c77ce41f3fb9aa95",
+  "payload": {
+    "claim": "Upgrade case: 2027 guidance (due February 2027) shows adjusted sales and operating profit growing at CER despite the list-price reset; adjusted gross margin stabilises at or above about 80%; US weight-loss share data show Novo holding or regaining ground against Lilly; and FCF conversion is reconciled and moving toward net income. Downgrade case: the 4 November 2026 nine-month report or the 2027 guidance cuts the outlook below the current 0% to -6% range; adjusted gross margin keeps falling below 78%; further large pipeline impairments; semaglutide exclusivity is challenged in the US; the GLP-1 product-liability MDL reaches a material size; or the integrity gate escalates beyond Flag.",
+    "conviction": "Medium",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.62,
+      "fiscalYear": 2027,
+      "metric": "gross_margin_pct",
+      "op": "<",
+      "reasoning": "The adjusted gross margin is already 78.2% (vs 82.7%) before the roughly 50%/35% US list-price cuts take effect in January 2027, and Lilly's share gains plus generics limit any offset, so the first full year after the reset should land below Novo's own-history p10 of about 80.2%. That is where I part from a price which still assumes owner earnings keep growing at 2.7%/yr on near-historical margins.",
+      "statedYearsAhead": 2,
+      "value": 79.5
+    },
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "references": {
+      "baseRate": {
+        "approximated": null,
+        "fromMedian3": {
+          "own": {
+            "n": 11,
+            "p": 0
+          },
+          "peers": {
+            "n": 100,
+            "p": 0.1
+          },
+          "start": 84.6
+        },
+        "horizonYears": 2,
+        "own": {
+          "n": 11,
+          "p": 0.09
+        },
+        "peers": {
+          "n": 100,
+          "p": 0.43
+        }
+      },
+      "holdsToday": false,
+      "market": {
+        "capped": null,
+        "discountRatePct": 7.3,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          2.7,
+          9.2
+        ],
+        "impliedGrowthPct": 2.7,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "value": 80.98,
+            "year": 2025
+          },
+          {
+            "value": 84.67,
+            "year": 2024
+          },
+          {
+            "value": 84.6,
+            "year": 2023
+          }
+        ],
+        "ttm": [
+          {
+            "periodEnd": "2026-06-30",
+            "value": 80.65
+          },
+          {
+            "periodEnd": "2026-03-31",
+            "value": 81.85
+          }
+        ]
+      },
+      "statusQuo": {
+        "period": "FY2025",
+        "value": 80.98
+      }
+    },
+    "resolveBy": "2028-06-30",
+    "ticker": "NOVO-B.CO",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2028-06-30",
+  "recordedAt": "2026-10-17T20:28:37.871Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "NOVO-B.CO"
+}

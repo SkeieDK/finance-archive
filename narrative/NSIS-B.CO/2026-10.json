@@ -1,7 +1,7 @@
 {
-  "contentHash": "a0c733b2f4215799",
+  "contentHash": "5b85631c838cb29e",
   "payload": {
-    "count": 1,
+    "count": 4,
     "items": [
       {
         "claim": "Novonesis told the market it had carried out further transactions under its ongoing share buyback programme, in the weekly announcement filed under the designation 2026_20_Share_buyback.",
@@ -11,12 +11,39 @@
         "source": "Novonesis (Novozymes A/S) company announcement, no individual signatory named",
         "url": "https://www.globenewswire.com/news-release/2026/10/05/3374691/0/en/transactions-under-novonesis-share-buyback-program.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Novonesis offentliggjorde den 12. oktober en meddelelse om transaktioner under selskabets aktietilbagekøbsprogram, nummereret 2026_21 i serien, med selve opgørelsen henlagt til en vedhæftet PDF.",
+        "key": "1ed31af89d4aee1e",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Novonesis (Novozymes A/S), selskabsmeddelelse via GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378728/0/en/transactions-under-novonesis-share-buyback-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novonesis meddelte den 15. oktober, at selskabet som officiel sponsor af Manufacturing Day 2026 har haft mere end 70 gymnasieelever på besøg på sine anlæg i Franklinton (NC), Blair (NE) og Salem (VA) mellem 30. september og 8. oktober.",
+        "key": "d9786a9d2b50083a",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Novonesis, pressemeddelelse via GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/10/15/3381667/0/en/novonesis-opens-doors-to-students-to-inspire-the-next-generation-of-u-s-biomanufacturing-talent.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Darren Alfano, Head of People and Organization for Novonesis North America, siger i meddelelsen: \"You can't pursue a career you don't know exists\", og at Manufacturing Day \"gives students a chance to experience the innovative, world-class biomanufacturing happening right in their communities\".",
+        "key": "ef1b736c4cf0a9b2",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Darren Alfano, Head of People and Organization, Novonesis North America",
+        "url": "https://www.globenewswire.com/news-release/2026/10/15/3381667/0/en/novonesis-opens-doors-to-students-to-inspire-the-next-generation-of-u-s-biomanufacturing-talent.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-12T06:24:32Z",
+  "recordedAt": "2026-10-19T06:12:52Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NSIS-B.CO"

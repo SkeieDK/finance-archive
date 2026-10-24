@@ -26,3 +26,12 @@ observedAt	lib	status	bytes	sha256	new	url
 2026-10-17T10:12:24.048Z		200	29076	e95a0d18f8e6e2a80726f0bd86145f2b73e563f153d3c5eb7eb1f802ef32d07a	nej	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
 2026-10-17T10:14:19.379Z		200	29076	64a5bf84f7384f3f66dad46861b6ee9b5ea342ad9a33edfbbaaef40e8b773b26	nej	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
 2026-10-17T10:16:35.371Z		200	29076	37cbf44ab799e3fee62c1f4596b9694d06ef436abbad7a44404de8115da0c740	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T08:51:57.359Z		200	29080	111ea3f491e69ca84c38a27a98bdd077e9d734b6449eeeea04afed488c233c41	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T08:52:13.660Z		200	29080	e9bfec74ba7d926da8ec56cccf2d74f4de908477c4b6770a2e5055bee0cf250a	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T09:00:34.481Z		200	29080	64f7c19e7d6b857d3a2ec2b6d44393e966fac9ec61cd946852e7fe24950f3d4e	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T09:01:18.030Z		200	29080	5cc933d29ad3bf11936310a756e92ad23672105cff083772f378ee7f1afcbe15	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T09:06:01.072Z		200	29080	dbdf2a2e81579bd06ca3da2c0f8324489ada014f9ab7c1157465d94da27a1c73	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T09:07:56.463Z		200	29080	73885661fa381a706aab601da87db222fedf92f92cc69180b8541933e29f92b2	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T09:07:58.246Z		200	29080	73885661fa381a706aab601da87db222fedf92f92cc69180b8541933e29f92b2	nej	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T09:09:27.399Z		200	29080	5cc933d29ad3bf11936310a756e92ad23672105cff083772f378ee7f1afcbe15	nej	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-24T09:11:05.655Z		200	29080	9aff5a2347cc32c125eac71159775e19cbd7eda4efb39faf0fb3b91ee951aade	ja	https://query1.finance.yahoo.com/v8/finance/chart/EURUSD%3DX?interval=1d&range=1y&events=div%7Csplit

@@ -1,7 +1,7 @@
 {
-  "contentHash": "e1e9d3ecf12bd7bf",
+  "contentHash": "0557725a4f45160e",
   "payload": {
-    "count": 2,
+    "count": 4,
     "items": [
       {
         "claim": "ISS oplyser at bestyrelsen har indfort et engangsprogram med betingede aktier kaldet \"Financial Improvement Programme\" for koncerndirektionen og op til 40 nogleledere i alt, omfattende op til 391.000 aktier og hojst en arlig grundlon pr. deltager, med optjening 1. marts 2029 pa grundlag af den finansielle praestation 2026-2028; bestyrelsen beskriver det som \"a once-only grant intended to support the successful execution hereof\" med henvisning til selskabets mal om hurtigere vaekst af hojere kvalitet og bredere marginer, der blev fremlagt i september 2026.",
@@ -20,12 +20,30 @@
         "source": "ISS A/S, selskabsmeddelelse nr. 61/2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/05/3374231/0/en/transactions-in-connection-with-share-buyback-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "ISS meddelte i selskabsmeddelelse nr. 63/2026, at selskabet har fortsat sit aktietilbagekøbsprogram, og at det efter transaktionerne ejer 6.690.248 egne aktier svarende til 4,18 pct. af den samlede aktiekapital.",
+        "key": "aff96800d2f7de12",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "ISS A/S, selskabsmeddelelse nr. 63/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378602/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ISS gentog i samme meddelelse begrundelsen for programmet: «Through the programme, ISS wishes to redistribute excess cash to shareholders», og oplyste at programmet løber fra 19. februar 2026 til 22. februar 2027.",
+        "key": "5d9244e95c949448",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "ISS A/S, selskabsmeddelelse nr. 63/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378602/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-11T06:20:57Z",
+  "recordedAt": "2026-10-18T06:09:44Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ISS.CO"

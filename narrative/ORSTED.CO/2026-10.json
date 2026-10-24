@@ -1,7 +1,7 @@
 {
-  "contentHash": "7a123285ded300af",
+  "contentHash": "6f9ce0c3a8fd52c4",
   "payload": {
-    "count": 11,
+    "count": 13,
     "items": [
       {
         "claim": "Anders Hylleberg sagde: 'We've had great discussions with our suppliers about how we can help drive more predictability for our industry to make the right decisions and investments to bring down the cost of offshore wind by 30 % over the next 10 years.'",
@@ -101,12 +101,30 @@
         "source": "Investing.com (AI-assisteret, redigeret af Roushni Nair); synspunkterne tilskrives Goldman Sachs som hus, ingen navngiven analytiker",
         "url": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-sliding-today-93CH-4948269",
         "verifiedAs": null
+      },
+      {
+        "claim": "Oersted meddelte, at selskabet udnytter sin tilbagekoebsret og overtager det fulde ejerskab af havvindmoelleparken Gunfleet Sands 1 og 2 i Storbritannien, og Richard Bodal Hansen, UK Country Manager, sagde at fuldt ejerskab giver selskabet 'greater flexibility to shape the site's future'.",
+        "key": "5ea9c1e9b10963b2",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Richard Bodal Hansen, UK Country Manager, Oersted (selskabets egen udsendelse via EQS, gengivet paa MarketScreener)",
+        "url": "https://www.marketscreener.com/news/orsted-to-take-full-ownership-of-gunfleet-sands-1-2-offshore-wind-farm-in-the-uk-ce785ddcde8cf52c",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Oersted oplyste, at byggeriet af batterilageret Iceni ved Norwich er faerdigt og at det er selskabets foerste storskala-BESS i Storbritannien, og Beatrice d'Eufemia, projektleder for Iceni BESS, kaldte det et 'milestone moment for Oersted'.",
+        "key": "b26e2c74a8cdd901",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Beatrice d'Eufemia, projektleder for Iceni BESS, Oersted, citeret i ESS News",
+        "url": "https://www.ess-news.com/2026/10/21/orsted-completes-construction-of-600-mwh-uk-battery-storage-project-near-windfarm/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-15T06:23:05Z",
+  "recordedAt": "2026-10-22T06:11:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ORSTED.CO"

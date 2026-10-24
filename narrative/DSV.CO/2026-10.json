@@ -1,7 +1,7 @@
 {
-  "contentHash": "358b1aa6d3a513e4",
+  "contentHash": "1e267687eaacbc0c",
   "payload": {
-    "count": 2,
+    "count": 4,
     "items": [
       {
         "claim": "Kapitalforvalteren Maj Invest tvivler paa, at DSV naar sit maal for synergier fra koebet af tyske DB Schenker til tiden, men fastholder ifoelge omtalen troen paa selskabet paa laengere sigt.",
@@ -20,12 +20,30 @@
         "source": "DSV A/S, company announcement no. 1173, signed \"Yours sincerely, DSV A/S\" with IR contacts Stig Frederiksen and Alexander Plenborg",
         "url": "https://www.globenewswire.com/news-release/2026/10/05/3374626/0/en/dsv-1173-financial-calendar-2027.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "MarketBeat/Defense World skriver forud for regnskabet, at DSV ventes at aflægge kvartalsrapport før markedets åbning onsdag den 21. oktober, og at analytikerkonsensus lyder på en indtjening på 1,30 dollar per aktie og en omsætning på 11,61 mia. dollar for kvartalet.",
+        "key": "fa2188946dfb21b2",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Defense World (MarketBeat-materiale), uden navngivet forfatter",
+        "url": "https://defenseworld.net/2026/10/14/dsv-dsdvy-expected-to-announce-quarterly-earnings-on-wednesday.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Samme gennemgang opsummerer analytikerdækningen som tre Buy-anbefalinger og én Hold, med en samlet MarketBeat-konsensus på \"Moderate Buy\", og noterer at Zacks Research den 28. september opgraderede DSV fra \"strong sell\" til \"hold\".",
+        "key": "408ee7d0dcd71eb8",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Defense World (MarketBeat-materiale), uden navngivet forfatter",
+        "url": "https://defenseworld.net/2026/10/14/dsv-dsdvy-expected-to-announce-quarterly-earnings-on-wednesday.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-12T06:24:32Z",
+  "recordedAt": "2026-10-19T06:12:52Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DSV.CO"

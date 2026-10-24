@@ -1,7 +1,7 @@
 {
-  "contentHash": "121e3240319a4054",
+  "contentHash": "96ac41231f8e2b90",
   "payload": {
-    "count": 5,
+    "count": 7,
     "items": [
       {
         "claim": "Group CEO Johan Kirstein Brammer said \"Tryg delivered the highest ever reported insurance service result supported by strong results in Sweden and Norway\".",
@@ -47,12 +47,30 @@
         "source": "Tryg A/S company announcement",
         "url": "https://www.globenewswire.com/news-release/2026/10/12/3378566/0/en/tryg-shares-are-traded-ex-dividend.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Tryg meddelte den 12. oktober 2026: \"Today, 12 October 2026, Tryg shares are traded ex-dividend of DKK 2.15.\"",
+        "key": "345f0fce5f2b37b5",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Tryg A/S, selskabsmeddelelse",
+        "url": "https://mfn.se/one/a/tryg/tryg-shares-are-traded-ex-dividend-60ee14e3",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tryg indberettede den 12. oktober 2026 overførsler af Tryg-aktier til fire medlemmer af koncernledelsen: CEO Johan Kirstein Brammer, COO Lars Bonde, CFO Allan Kragh Thaysen og CCO Alexandra Bastkær Winther, alle med handelsdato samme dag.",
+        "key": "04793e320b3dd3ff",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Tryg A/S, indberetning af ledende medarbejderes transaktioner",
+        "url": "https://mfn.se/one/a/tryg/reporting-of-trading-in-tryg-shares-by-senior-management-dabb1bb4",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-12T06:24:32Z",
+  "recordedAt": "2026-10-19T06:12:52Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "TRYG.CO"

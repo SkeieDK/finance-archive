@@ -1,7 +1,7 @@
 {
-  "contentHash": "647c203463356e2c",
+  "contentHash": "76b291fb5243727f",
   "payload": {
-    "count": 2,
+    "count": 3,
     "items": [
       {
         "claim": "Coloplast offentliggjorde en storaktionaermeddelelse om, at Niels Peter Louis-Hansens selskab NPLH Holding ApS har gaveoverdraget samtlige sine aktier i Coloplast Holding ApS til Coloplast Fonden, saaledes at fonden via datterselskabet CF Holding af 2026 ApS nu er anfoert som indehaver af stemmeflertallet, mens Niels Peter Louis-Hansens egen direkte og indirekte andel er reduceret.",
@@ -20,12 +20,21 @@
         "source": "Coloplast A/S, selskabsmeddelelse 'Trading in Coloplast shares by board members, executives or associated persons'",
         "url": "https://www.globenewswire.com/news-release/2026/10/01/3373329/0/en/coloplast-a-s-trading-in-coloplast-shares-by-board-members-executives-or-associated-persons.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "I en markedsopsamling blev det gengivet at Coloplasts finanskalender angiver offentliggørelse af årsregnskabet til 3. november 2026 og generalforsamling til 1. december 2026, og at dette er den næste faste anledning til at vurdere selskabets helårspræstation.",
+        "key": "ab982cf158986fb8",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-20T06:13:51Z",
+        "source": "ad-hoc-news.de, markedsopsamling om Coloplast (refererer selskabets finanskalender)",
+        "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/coloplast-stock-heads-for-november-3-2026-annual-results/70332557",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-05T06:20:53Z",
+  "recordedAt": "2026-10-20T06:13:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "COLO-B.CO"

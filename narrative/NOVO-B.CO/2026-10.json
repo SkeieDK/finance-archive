@@ -1,7 +1,7 @@
 {
-  "contentHash": "ffb1ca3f2c0e5cc2",
+  "contentHash": "ecc99880651ea956",
   "payload": {
-    "count": 9,
+    "count": 34,
     "items": [
       {
         "claim": "Nanexa og Novo meddelte at de har indgaaet en global eksklusiv licens- og samarbejdsaftale om langtidsvirkende injektionsmidler til fedme og type 2-diabetes med en samlet vaerdi paa op til EUR 1,165 mia.",
@@ -83,12 +83,237 @@
         "source": "Novo Nordisk A/S, selskabsmeddelelse «Novo Nordisk A/S - share repurchase programme»",
         "url": "https://www.globenewswire.com/news-release/2026/10/12/3378767/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Q2 2026: Q2/H1 2026 report published 4 August 2026. Q2 sales DKK 78,488m (+3% CER reported, +7% CER adjusted). Q2 reported operating profit DKK 27,061m (-16% CER), cut by DKK 6.3bn of non-cash pipeline impairments including DKK 4.0bn for monlunabant; adjusted Q2 operating profit DKK 33,389m (+11% CER). H1 adjusted sales DKK 148,551m (+2% CER) and H1 adjusted operating profit DKK 66,247m (+2% CER). Adjusted gross margin fell to 78.2% from 82.7% a year earlier. Wegovy pill sales DKK 3,218m in Q2; Wegovy injectable +1% CER, Ozempic +5% CER. Diluted EPS DKK 4.75 for Q2 and DKK 15.66 for H1; interim dividend DKK 3.75. Per Investing.com, adjusted EPS of USD 0.9527 beat the USD 0.7815 consensus and revenue of about USD 12.1bn beat the USD 10.94bn forecast, but Wegovy pill sales missed (DKK 3.2bn vs DKK 3.6bn expected per BioPharma Dive; another source cites a DKK 3.27bn StreetAccount consensus). BioPharma Dive reports the shares fell 6% on the day.",
+        "key": "dbba7b968b8d1aaa",
+        "publishedAt": null,
+        "recordedAt": "2026-10-17T20:06:59.497Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "H1 2026: Since the FY2025 annual figures, the business has moved from 10% CER sales growth to flat-to-declining guided adjusted sales and operating profit for 2026, with a lower adjusted gross margin (78.2% vs 82.7%), DKK 6.3bn of Q2 pipeline impairments, and reported Q1 figures inflated by a one-off USD 4.2bn (DKK 26.8bn) 340B rebate reversal.",
+        "key": "d6e50f481c9d5b3f",
+        "publishedAt": "2026-08-04",
+        "recordedAt": "2026-10-17T20:06:59.498Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Q2 2026: Q2/H1 2026 report published 4 August 2026. Q2 sales DKK 78,488m (+3% CER reported, +7% CER adjusted). Q2 reported operating profit DKK 27,061m (-16% CER), cut by DKK 6.3bn of non-cash pipeline impairments including DKK 4.0bn for monlunabant; adjusted Q2 operating profit DKK 33,389m (+11% CER). H1 adjusted sales DKK 148,551m (+2% CER), H1 adjusted operating profit DKK 66,247m (+2% CER). Adjusted gross margin fell to 78.2% from 82.7%. Wegovy pill sales DKK 3,218m in Q2. Diluted EPS DKK 4.75 (Q2) and DKK 15.66 (H1); interim dividend DKK 3.75. Per Investing.com, adjusted EPS of USD 0.9527 beat the USD 0.7815 consensus and revenue of about USD 12.1bn beat the USD 10.94bn forecast, but Wegovy pill sales missed (DKK 3.2bn vs DKK 3.6bn expected per BioPharma Dive; StreetAccount consensus cited elsewhere at DKK 3.27bn). Shares fell 6% on the day per BioPharma Dive.",
+        "key": "443bc4c52f417146",
+        "publishedAt": null,
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "H1 2026: Since the FY2025 annual figures, Q1 and H1 2026 show adjusted sales and profit roughly flat to down at CER, lower realised US prices, a lower adjusted gross margin (78.2% vs 82.7%), DKK 6.3bn of Q2 pipeline impairments and reported Q1 figures inflated by a one-off USD 4.2bn (DKK 26.8bn) 340B reversal, so the annual figures overstate the current underlying margin and growth picture.",
+        "key": "9799879ab360e212",
+        "publishedAt": "2026-08-04",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US putative class actions (court not named) allege negligence after the June 2026 IT security incident in which personal and protected health data was copied externally",
+        "key": "821c0ad37092ce2d",
+        "publishedAt": "2026-06",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Moon v. Novo Nordisk A/S (D.N.J.) securities class action over CagriSema REDEFINE-1 disclosures; judge narrowed suit in July 2026 but kept tolerability and trial-protocol claims",
+        "key": "1a4cc2c7d01498af",
+        "publishedAt": "2025-01-24",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "law360.ca",
+        "url": "https://www.law360.ca/healthcare-authority/articles/2506916",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Securities class action (D.N.J.) alleging investors were misled about the compounded GLP-1 market outlook; amended complaint 3 April 2026",
+        "key": "9c085e01efe5ec71",
+        "publishedAt": "2025-08-01",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000018/caq12026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "FDA CDER warning letter MARCS-CMS 717576 to Novo Nordisk Inc. for postmarketing adverse drug experience reporting violations (late 15-day reports incl. a semaglutide death case, improper invalidations)",
+        "key": "78d9e90fab567ec4",
+        "publishedAt": "2026-03-05",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "fda.gov",
+        "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/novo-nordisk-inc-717576-03052026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "FDA OPDP untitled letters finding Wegovy pill and Ozempic TV ads false or misleading and minimising risk information",
+        "key": "4eab783c64ab275d",
+        "publishedAt": "2026-02-05",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "raps.org",
+        "url": "https://www.raps.org/news-and-articles/news-articles/2026/3/fda-cites-novo-nordisk-again-for-misleading-glp1-a",
+        "verifiedAs": null
+      },
+      {
+        "claim": "FDA cGMP warning letter for the Bloomington, Indiana site (formerly Catalent) citing significant violations and adulterated products",
+        "key": "2216e1e38b6a11a5",
+        "publishedAt": "2025-11-20",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "pharmamanufacturing.com",
+        "url": "https://www.pharmamanufacturing.com/compliance/article/55339218/fda-slaps-novo-nordisk-with-warning-letter-over-former-catalent-site-in-indiana",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Hangzhou Jiuyuan Genetic Biopharmaceutical v. Novo Nordisk (Zhejiang Provincial High People's Court) alleging monopolistic conduct blocking a biosimilar semaglutide in China",
+        "key": "7b8d75a2fb9829df",
+        "publishedAt": "2026-01-06",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000006/caq42025.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Strive Specialities v. Novo Nordisk and Eli Lilly (W.D. Tex.) alleging unlawful agreements barring telehealth firms from working with compounding pharmacies",
+        "key": "3f9f4581a098a771",
+        "publishedAt": "2026-01-14",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000018/caq12026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Direct-purchaser and end-payer class actions (E.D.N.Y.) alleging Victoza patent settlements were anticompetitive reverse payments delaying generics",
+        "key": "d0fb8088ec01ab5b",
+        "publishedAt": "2026-01",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000018/caq12026.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US ex rel. Siegel / State of Washington v. Novo Nordisk Inc. (W.D. Wash.) NovoSeven False Claims Act qui tam; jury verdict for Novo Nordisk on all claims, appeal pending at Ninth Circuit",
+        "key": "266a9366cde0c6c8",
+        "publishedAt": "2025-11-07",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sidley.com",
+        "url": "https://www.sidley.com/en/newslanding/newsannouncements/2025/11/sidley-secures-landmark-fca-defense-victory-for-novo-nordisk",
+        "verifiedAs": null
+      },
+      {
+        "claim": "MDL No. 3094 In re GLP-1 RAs Products Liability Litigation (E.D. Pa.) over GI injuries, with Rule 702 hearing held 14-18 September 2026",
+        "key": "8df1acb6fe1c21d6",
+        "publishedAt": "2026-09-14",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "paed.uscourts.gov",
+        "url": "https://www.paed.uscourts.gov/node/2669",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Minnesota Attorney General insulin pricing suit settled: USD 35/month out-of-pocket insulin cap for five years, no payment or admission reported",
+        "key": "73f9fc0373bcb22a",
+        "publishedAt": "2025-01-27",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "cbsnews.com",
+        "url": "https://www.cbsnews.com/minnesota/news/minnesota-ag-keith-ellison-insulin-manufacturers-lawsuit-diabetes-alec-smith/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "MDL No. 3080 In re Insulin Pricing Litigation (D.N.J.) naming Novo Nordisk Inc. with other insulin makers and PBMs",
+        "key": "94ceff17f9bc249b",
+        "publishedAt": "2023-08",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "njd.uscourts.gov",
+        "url": "https://www.njd.uscourts.gov/sites/njd/files/MDL3080_InitialCMO.pdf",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DOJ civil investigative demand in a False Claims Act investigation of financial relationships with HCPs and Ozempic/Rybelsus prescriptions; current status not established",
+        "key": "9f6874c421830ea9",
+        "publishedAt": "2021-12",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/353278/000162828024002635/R15.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ABPI suspended Novo Nordisk's UK membership for two years after PMCPA found serious Code breaches incl. Clause 2 (disguised Saxenda promotion, inducement to prescribe); restored March 2025",
+        "key": "d9b0d9720f96ae91",
+        "publishedAt": "2023-03",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "pharmaceutical-journal.com",
+        "url": "https://pharmaceutical-journal.com/article/news/novo-nordisk-suspended-from-abpi-membership-for-two-years",
+        "verifiedAs": null
+      },
+      {
+        "claim": "In re Novo Nordisk Securities Litigation (D.N.J.) over claimed insulation from US PBM pricing pressure settled for USD 100m, insurance-covered, no admission",
+        "key": "f4c0fb2e4db63486",
+        "publishedAt": "2021-09-24",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "novonordisk.com",
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=78734",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US DOJ Victoza REMS settlement: USD 58.65m (False Claims Act and FDCA disgorgement) over sales reps minimising thyroid-cancer risk messaging; wrongdoing denied",
+        "key": "e3eaa3f53dd74342",
+        "publishedAt": "2017-09-05",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "justice.gov",
+        "url": "https://www.justice.gov/opa/pr/novo-nordisk-agrees-pay-58-million-failure-comply-fda-mandated-risk-program",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US DOJ NovoSeven off-label promotion False Claims Act settlement of USD 25m; wrongdoing denied",
+        "key": "553ffca2e1ef5a85",
+        "publishedAt": "2011-06-10",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "justice.gov",
+        "url": "https://www.justice.gov/opa/pr/2011/June/11-civ-764.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US DOJ and SEC Iraq Oil-for-Food resolution: deferred prosecution agreement with USD 9m criminal fine (wire fraud conspiracy, FCPA books-and-records) plus SEC civil penalty and disgorgement, about USD 18m total",
+        "key": "e185861cea503e87",
+        "publishedAt": "2009-05-11",
+        "recordedAt": "2026-10-17T20:20:03.352Z",
+        "source": "justice.gov",
+        "url": "https://www.justice.gov/opa/pr/2009/May/09-crm-461.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk oplyste i sin ugentlige opgoerelse, at selskabet i perioden 12.-16. oktober 2026 koebte 1.225.000 B-aktier under programmet fra 6. maj 2026, og at det 'expects to repurchase B shares for an amount up to DKK 15 billion' i tolvmaanedersperioden fra 4. februar 2026.",
+        "key": "515808ac5114a6a9",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Novo Nordisk A/S, company announcement No 62 / 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383351/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk fremlagde paa The Menopause Society's aarsmoede en post hoc-analyse af kvinder i REDEFINE 1 med CagriSema og angav samtidig selv, at saadanne analyser er hypotesegenererende og kraever yderligere undersoegelse; Michelle Skinner Moore, vice president for medical affairs, sagde at 'Many women with obesity or overweight experience weight gain as they move through menopause'.",
+        "key": "3fce75ca898742c0",
+        "publishedAt": "2026-10-20",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Michelle Skinner Moore, vice president, medical affairs, Novo Nordisk, citeret af Reuters",
+        "url": "https://live.euronext.com/en/financial-news/novos-cagrisema-helped-women-lose-25-weight-average-analysis-shows",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-15T06:23:05Z",
+  "recordedAt": "2026-10-22T06:11:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

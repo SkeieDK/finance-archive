@@ -1,7 +1,7 @@
 {
-  "contentHash": "7a3df892f48f13c8",
+  "contentHash": "ca092f026cfa11fe",
   "payload": {
-    "count": 5,
+    "count": 6,
     "items": [
       {
         "claim": "Jyske Bank was reported to have changed its recommendation on GN Store Nord from Hold to Buy.",
@@ -47,12 +47,21 @@
         "source": "ad-hoc-news.de, referat af Amplifons offentliggoerelse",
         "url": "https://ad-hoc-news.de/boerse/news/corporate-news/amplifon-publishes-gn-hearing-documents-as-amplifon-stock-trades-at-eur-12-84/70293363",
         "verifiedAs": null
+      },
+      {
+        "claim": "I en markedsopsamling blev det gengivet at GN fastholder sine marginforventninger til hele 2026, og at ledelsen knytter marginfremgangen til produktlanceringer, fremgang i bruttomargin og forventede toldrefusioner.",
+        "key": "b941e2cd5189ff5a",
+        "publishedAt": "2026-10-15",
+        "recordedAt": "2026-10-20T06:13:51Z",
+        "source": "ad-hoc-news.de, markedsopsamling om GN Store Nord (refererer selskabets egen rapportering)",
+        "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/gn-store-nord-reports-third-quarter-update-while-gn-store-nord-stock-costs-eur-14-05/70328863",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-13T06:21:29Z",
+  "recordedAt": "2026-10-20T06:13:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GN.CO"

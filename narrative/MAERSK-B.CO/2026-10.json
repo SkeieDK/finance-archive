@@ -1,7 +1,7 @@
 {
-  "contentHash": "0ec67be3bff6d70e",
+  "contentHash": "cc61b9ac6c3732f0",
   "payload": {
-    "count": 8,
+    "count": 10,
     "items": [
       {
         "claim": "Maersk meddelte at have gennemfoert den foerste kommercielle ship-to-ship-bunkring med ethanol af et deep-sea containerskib i USA, og Ditlev Blicher, Regional President for North America, sagde: \"Achieving lower-emission logistics requires turning new technologies into practical, scalable solutions.\"",
@@ -74,12 +74,30 @@
         "source": "Iris Yan Jing Fu, Customer Communications Manager, Asia Pacific, Maersk",
         "url": "https://www.maersk.com/news/articles/2026/10/07/maersk-asia-pacific-market-update-october",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Møller - Mærsk oplyste om transaktioner i uge 42 under det aktietilbagekøbsprogram, der blev annonceret 5. februar 2026 med en ramme på op til 6,3 mia. DKK over op til 12 måneder, og hvis anden fase løber fra 13. august 2026 til 29. januar 2027 med en ramme på 3,15 mia. DKK; selskabet angav en beholdning af egne aktier svarende til 2,11 pct. af aktiekapitalen.",
+        "key": "0d5cdf9f78409551",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-21T06:14:28Z",
+        "source": "A.P. Møller - Mærsk A/S, meddelelse om transaktioner i henhold til aktietilbagekøbsprogram",
+        "url": "https://globenewswire.com/news-release/2026/10/19/3383349/0/da/transaktioner-i-henhold-til-aktietilbagek%C3%B8bsprogram.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Emma Mazhari, Head of Energy Markets i Mærsk, begrundede rederiets multi-fuel-strategi med at \"no single fuel pathway can decarbonise global shipping on its own\" og sagde at \"the energy transition requires us to explore and scale solutions that can deliver real-world impact\", i forbindelse med en ethanol-bunkring i Singapore.",
+        "key": "0ffded5912fb8a51",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-21T06:14:28Z",
+        "source": "Emma Mazhari, Head of Energy Markets, A.P. Moller - Maersk, citeret i India Shipping News",
+        "url": "https://indiashippingnews.com/shipping-line/maersk-completes-the-worlds-largest-ethanol-bunkering-in-singapore",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-14T06:22:39Z",
+  "recordedAt": "2026-10-21T06:14:28Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-B.CO"

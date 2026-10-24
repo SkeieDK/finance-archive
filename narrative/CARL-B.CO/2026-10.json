@@ -1,7 +1,7 @@
 {
-  "contentHash": "22b9978f4b01784e",
+  "contentHash": "2428c3e9d561d083",
   "payload": {
-    "count": 11,
+    "count": 12,
     "items": [
       {
         "claim": "Carlsberg Britvic announced a 10-year partnership with The Rivers Trust to restore rivers, wetlands and floodplains near its Rugby site, stating an aim to replenish 100% of the water consumed there by 2032.",
@@ -101,12 +101,21 @@
         "source": "Ash Corbett-Collins, Chairman of CAMRA",
         "url": "https://www.thedrinksbusiness.com/2026/10/carlsberg-to-close-marstons-brewery/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Fiboinvest skriver i sit ugebrev for uge 42, at ugens rotation ud af teknologi trak investorerne mod defensive aktier, og placerer Carlsberg i den defensive gruppe blandt ugens vindere i C25.",
+        "key": "f61767d61ca26a6a",
+        "publishedAt": "2026-10-18",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Fiboinvest, nyhedsbrev uge 42 2026",
+        "url": "https://www.fiboinvest.dk/nyhedsbrev-uge-42-2026/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-12T06:24:32Z",
+  "recordedAt": "2026-10-19T06:12:52Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CARL-B.CO"

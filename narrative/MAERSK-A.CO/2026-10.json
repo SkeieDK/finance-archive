@@ -1,7 +1,7 @@
 {
-  "contentHash": "3393482a659821e6",
+  "contentHash": "e1d5cd9ff9fb9722",
   "payload": {
-    "count": 3,
+    "count": 9,
     "items": [
       {
         "claim": "A.P. Moller - Maersk oplyser at selskabet i perioden 28. september til 2. oktober 2026 gennemforte transaktioner under tilbagekobsprogrammet pa op til 6,3 mia. kr., der blev annonceret 5. februar 2026 og hvis anden fase pa op til 3,15 mia. kr. lober fra 13. august 2026 til 29. januar 2027, at selskabet herefter ejer 47.948 A-aktier og 251.378 B-aktier som egne aktier svarende til ca. 2,04% af aktiekapitalen, og at Fonden (A.P. Moller og Hustru Chastine Mc-Kinney Mollers Familiefond) deltager pro rata efter saeraftale.",
@@ -29,12 +29,66 @@
         "source": "Maersk-kundeadvisering, gengivet af Marine Insight (ingen navngivet talsperson)",
         "url": "https://marineinsight.com/maersk-raises-uk-ireland-inland-fuel-surcharges-amid-middle-east-conflict",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Møller - Mærsk meddelte, at selskabet i perioden 5.-9. oktober 2026 købte egne A- og B-aktier under sit tilbagekøbsprogram, og at det efter handlerne ejer i alt 49.048 A-aktier og 255.577 B-aktier svarende til ca. 2,07 pct. af aktiekapitalen.",
+        "key": "9dfdcd67e926806b",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "A.P. Møller - Mærsk A/S, selskabsmeddelelse om aktietilbagekøb",
+        "url": "https://globenewswire.com/news-release/2026/10/12/3378989/0/da/transaktioner-i-henhold-til-aktietilbagek%C3%B8bsprogram.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mærsk oplyste i samme meddelelse, at A.P. Møller og Hustru Chastine Mc-Kinney Møllers Fond solgte 545 B-aktier til programmet på pro rata-basis.",
+        "key": "51c409ad86eafd45",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "A.P. Møller - Mærsk A/S, selskabsmeddelelse om aktietilbagekøb",
+        "url": "https://globenewswire.com/news-release/2026/10/12/3378989/0/da/transaktioner-i-henhold-til-aktietilbagek%C3%B8bsprogram.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mærsk skrev i sin markedsopdatering for Indien, Mellemøsten og Afrika: «Middle East disruption continues to influence routing and transport capacity as customers prepare for quarter four demand».",
+        "key": "9b2a42c679b7d7ca",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "A.P. Møller - Mærsk, IMEA Market Update oktober 2026",
+        "url": "https://www.maersk.com/news/articles/2026/10/13/india-middle-east-and-africa-market-update-october",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mærsk oplyste i samme opdatering, at rederiet forlænger sin WAF7-service til Sydafrikas druesæson med forventet stærk reefer-efterspørgsel i fjerde kvartal, og at selskabet på grund af forstyrrelser i Golfen går forsigtigt frem med at tilføje kølelagerkapacitet i Saudi-Arabiens østlige region.",
+        "key": "25b13083d17217e8",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "A.P. Møller - Mærsk, IMEA Market Update oktober 2026",
+        "url": "https://www.maersk.com/news/articles/2026/10/13/india-middle-east-and-africa-market-update-october",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mærsk skrev i sin markedsopdatering for Latinamerika, at havnedriften på Sydamerikas østkyst overordnet var stabil — «Overall, regional operations remained under control» — mens enkelte gateways som Santos og Itapoá oplevede midlertidigt pres på kaj og terminal.",
+        "key": "b3bd82d033524ffa",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "A.P. Møller - Mærsk, Latin America Market Update oktober 2026",
+        "url": "https://www.maersk.com/news/articles/2026/10/14/latin-america-market-update-october",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mærsk pegede i samme opdatering på vejret som den væsentligste regionale driftsrisiko — «The Weather conditions is the main regional operational risk» — og nævnte faldende vandstand ved Manaus med mulige dybgangsbegrænsninger samt igangværende arbejdsmarkedsdrøftelser i Montevideo.",
+        "key": "25b3dac26245cb32",
+        "publishedAt": "2026-10-14",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "A.P. Møller - Mærsk, Latin America Market Update oktober 2026",
+        "url": "https://www.maersk.com/news/articles/2026/10/14/latin-america-market-update-october",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-11T06:20:57Z",
+  "recordedAt": "2026-10-18T06:09:44Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-A.CO"

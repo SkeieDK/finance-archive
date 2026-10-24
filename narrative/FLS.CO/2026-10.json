@@ -1,7 +1,7 @@
 {
-  "contentHash": "f43f8e3841bbfcd3",
+  "contentHash": "9d0ef1ad2a9a704d",
   "payload": {
-    "count": 2,
+    "count": 5,
     "items": [
       {
         "claim": "FLS oplyser at selskabet har indgaet en ordre pa ca. 360 mio. kr. pa knusnings- og formalingsteknologi til et kobberudvidelsesprojekt i Nordchile, at ordren er bogfort i 3. kvartal 2026, og at den ikke aendrer selskabets forventninger til helaret 2026; Qasim Abrahams, Products Business Line President i FLS, siger: \"This significant order reflects the trust placed in our proven crushing and grinding technologies.\"",
@@ -20,12 +20,39 @@
         "source": "FLSmidth & Co. A/S; citat fra Qasim Abrahams, Products Business Line President, FLS",
         "url": "https://www.globenewswire.com/news-release/2026/10/09/3377828/0/en/fls-wins-dkk-175-million-order-to-supply-its-market-leading-grinding-technologies-for-a-copper-expansion-project-in-chile.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "FLS meddelte, at selskabet har vundet en ordre på omkring 225 mio. kr. på mølleteknologi til et guldprojekt i Nordamerika med installation og idriftsættelse ventet i 2028, at ordren er bogført i 3. kvartal 2026, og at den ikke ændrer guidance for 2026.",
+        "key": "44cd182e013b4d9b",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "FLSmidth & Co. A/S (FLS), selskabsmeddelelse",
+        "url": "https://globenewswire.com/news-release/2026/10/12/3378587/0/en/fls-wins-dkk-225-million-order-to-supply-its-market-leading-mill-technologies-to-a-gold-project-in-north-america.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Qasim Abrahams, Products Business Line President i FLS, sagde om den nordamerikanske ordre: «This order reinforces our position as a leading supplier of grinding technology to the global mining industry».",
+        "key": "de71ebbcb0eec0e8",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Qasim Abrahams, Products Business Line President, FLS",
+        "url": "https://globenewswire.com/news-release/2026/10/12/3378587/0/en/fls-wins-dkk-225-million-order-to-supply-its-market-leading-mill-technologies-to-a-gold-project-in-north-america.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "FLSmidth meddelte i selskabsmeddelelse nr. 48-2026, at selskabet efter ugens transaktioner under tilbagekøbsprogrammet, der blev påbegyndt 18. maj 2026, ejer i alt 4.668.644 egne aktier svarende til 8,10 pct. af aktiekapitalen.",
+        "key": "fbbc5b907cb9ac17",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "FLSmidth & Co. A/S, selskabsmeddelelse nr. 48-2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378594/0/en/flsmidth-transactions-under-share-buy-back-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-11T06:20:57Z",
+  "recordedAt": "2026-10-18T06:09:44Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "FLS.CO"

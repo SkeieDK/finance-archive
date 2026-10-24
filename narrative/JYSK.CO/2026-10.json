@@ -1,7 +1,7 @@
 {
-  "contentHash": "c20ae3c8b07bc0a5",
+  "contentHash": "48adc672018a0d19",
   "payload": {
-    "count": 1,
+    "count": 4,
     "items": [
       {
         "claim": "Jyske Bank oplyser at banken i perioden 28. september til 2. oktober 2026 kobte 54.137 egne aktier under tilbagekobsprogrammet pa op til 3 mia. kr., der blev igangsat med selskabsmeddelelse nr. 11/2026 af 5. februar 2026 og lober til 29. januar 2027, og at banken efter afvikling ejer 2.127.014 egne aktier svarende til 3,65% af aktiekapitalen.",
@@ -11,12 +11,39 @@
         "source": "Jyske Bank, ugentlig tilbagekobsmeddelelse for uge 40 2026; kontakt Birger Krogh Nielsen, CFO",
         "url": "https://www.globenewswire.com/news-release/2026/10/05/3374185/0/da/aktietilbagek%C3%B8b-transaktioner-i-uge-40-2026.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank meddelte, at banken opjusterer forventningen til årets resultat efter skat til 4,7-5,2 mia. kr. svarende til et resultat pr. aktie på 78-87 kr., mod tidligere 4,3-5,1 mia. kr. og 71-85 kr. pr. aktie.",
+        "key": "2f694bf590b4b5ff",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Jyske Bank A/S, selskabsmeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378718/0/da/forventet-resultat-pr-aktie-i-2026-opjusteret-til-78-87-kr.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank begrundede opjusteringen med bredt funderet vækst drevet af stærk kundeaktivitet og fortsat solid kreditkvalitet, og oplyste at delårsrapporten for 1.-3. kvartal 2026 offentliggøres 28. oktober 2026.",
+        "key": "0eb1d0af70bfb3b7",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Jyske Bank A/S, selskabsmeddelelse (kontaktpersoner: adm. direktør Lars Mørch og økonomidirektør Birger Krøgh Nielsen; meddelelsen indeholder ingen citater)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378718/0/da/forventet-resultat-pr-aktie-i-2026-opjusteret-til-78-87-kr.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank meddelte, at banken efter uge 41's transaktioner under aktietilbagekøbsprogrammet vil eje i alt 2.180.726 egne aktier svarende til 3,75 pct. af aktiekapitalen, og at programmet løber frem til senest 29. januar 2027.",
+        "key": "5e459b40ad802e33",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-18T06:09:44Z",
+        "source": "Jyske Bank A/S, selskabsmeddelelse om aktietilbagekøb uge 41 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378573/0/en/share-repurchase-programme-transactions-of-week-41-2026.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-11T06:20:57Z",
+  "recordedAt": "2026-10-18T06:09:44Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "JYSK.CO"

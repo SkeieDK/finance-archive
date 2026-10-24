@@ -1,7 +1,7 @@
 {
-  "contentHash": "9e7bf0a80d045818",
+  "contentHash": "261d47797f2f7e5c",
   "payload": {
-    "count": 5,
+    "count": 7,
     "items": [
       {
         "claim": "NKT meddelte paa Investor Day 2026 i Karlskrona at selskabet fastholder sin strategiske retning under 'Charging Forward'-strategien, at de mellemfristede finansielle ambitioner er uaendrede, og at kommerciel drift af den udvidede offshore-kabelfabrik i Karlskrona ventes i 2. kvartal 2027, en smule foer plan.",
@@ -47,12 +47,30 @@
         "source": "NKT A/S, selskabsmeddelelse nr. 14 «Notification of major shareholding»",
         "url": "https://investors.nkt.com/company-announcements/2026/notification-of-major-shareholding/",
         "verifiedAs": null
+      },
+      {
+        "claim": "NKT meddelte, at det britiske datterselskab Ventcroft Ltd i Runcorn fremover opererer under NKT-navnet, og Carlos Fernandez, Executive Vice President og Head of Distribution, kaldte det 'a natural next step' at samle stedet under NKT-brandet.",
+        "key": "ad33eedc787e4761",
+        "publishedAt": "2026-10-13",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Carlos Fernandez, Executive Vice President og Head of Distribution, NKT (selskabets egen udsendelse via Cision)",
+        "url": "https://news.cision.com/nkt/r/ventcroft-becomes-nkt,c4407961",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Ved indvielsen af den udvidede kabelfabrik i Esposende i Portugal den 20. oktober sagde Carlos Fernandez, Executive Vice President og Head of Distribution i NKT, at fremskridtet gennem investeringen 'marks an important milestone for NKT and for our colleagues in Esposende', og at den nye kapacitet styrker selskabets evne til at understoette kunder der udvider og moderniserer deres elnet.",
+        "key": "a7743ef2b6b99cc3",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-22T06:11:51Z",
+        "source": "Carlos Fernandez, Executive Vice President og Head of Distribution, NKT, citeret i Offshore Energy",
+        "url": "https://www.offshore-energy.biz/2026/10/21/portugal-nkt-opens-expanded-power-cable-factory-adds-150-employees",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-15T06:23:05Z",
+  "recordedAt": "2026-10-22T06:11:51Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NKT.CO"

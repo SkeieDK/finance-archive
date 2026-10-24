@@ -1,7 +1,7 @@
 {
-  "contentHash": "dfde55dc1f7d22be",
+  "contentHash": "52d8c3fbe670def2",
   "payload": {
-    "count": 2,
+    "count": 5,
     "items": [
       {
         "claim": "Royal Unibrew oplyste i sin ugentlige meddelelse om aktietilbagekoebsprogrammet, at programmet ventes gennemfoert i perioden fra 18. august 2026 til 8. december 2026 inden for en ramme paa op til 300 mio. kr., og redegjorde for koeb foretaget i ugen 21.-25. september.",
@@ -20,12 +20,39 @@
         "source": "Royal Unibrew A/S, company announcement no. 52/2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/05/3374522/0/en/share-buy-back-program.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Royal Unibrew oplyste den 12. oktober i selskabsmeddelelse nr. 53/2026, at det aktietilbagekøbsprogram, der blev annonceret 17. august 2026 (meddelelse nr. 44/2026), løber fra 18. august til 8. december 2026, og at den samlede transaktionsværdi \"will not exceed DKK 300m\".",
+        "key": "b7f14496d675dfe4",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Royal Unibrew A/S, selskabsmeddelelse nr. 53/2026 via GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378880/0/en/share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "I samme meddelelse oplyste Royal Unibrew, at selskabet efter de rapporterede handler ejer egne aktier svarende til 4,3 pct. af aktiekapitalen, og at programmet gennemføres under EU's markedsmisbrugsforordning og Safe Harbour-forordningen.",
+        "key": "8631bb2a2379ff9a",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Royal Unibrew A/S, selskabsmeddelelse nr. 53/2026 via GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/10/12/3378880/0/en/share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Fiboinvest skriver i sit ugebrev for uge 42, at ugens rotation ud af teknologi trak investorerne mod defensive aktier, og placerer bryggeriet Royal Unibrew i den defensive gruppe blandt ugens vindere i C25.",
+        "key": "6cdc05e1352447c1",
+        "publishedAt": "2026-10-18",
+        "recordedAt": "2026-10-19T06:12:52Z",
+        "source": "Fiboinvest, nyhedsbrev uge 42 2026",
+        "url": "https://www.fiboinvest.dk/nyhedsbrev-uge-42-2026/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-12T06:24:32Z",
+  "recordedAt": "2026-10-19T06:12:52Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "RBREW.CO"
