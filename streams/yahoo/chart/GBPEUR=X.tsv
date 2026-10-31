@@ -19,3 +19,8 @@ observedAt	lib	status	bytes	sha256	new	url
 2026-10-24T08:41:51.974Z		200	29116	07eeed78d6974a1990749233cad83cac2d5900b4439beb60c54b9717e9959b23	ja	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit
 2026-10-24T09:11:53.704Z		200	29116	5786bcfe122b65124a3dae16888e9ddec359c09002c0170d9bf04e86f516b145	ja	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit
 2026-10-24T09:13:16.996Z		200	29116	8f82f17e3f15ca0a15b79597937a6e9452102bf0e803adb09b0b52c24e9063aa	ja	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-31T10:33:23.350Z		200	28992	52f934cb53094e28365e4d7de8fd2ab8b190f809bcfb263426068adbe080ec33	ja	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-31T10:33:25.397Z		200	28992	52f934cb53094e28365e4d7de8fd2ab8b190f809bcfb263426068adbe080ec33	nej	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-31T10:51:18.110Z		200	28992	40697dc54aae1555dd742785dfcb8bcc838a15017c52c8c59beea57865a68edb	ja	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-31T11:21:34.301Z		200	28992	b7d5b649072f89fc9062e79cb503419981651f162f0989858625cf0a3d9c369c	ja	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit
+2026-10-31T11:22:57.060Z		200	28992	36c92616418c7296d65b0bd7ab1a69a64a331ad8f4121dfe4f6106cae929f5fc	ja	https://query1.finance.yahoo.com/v8/finance/chart/GBPEUR%3DX?interval=1d&range=1y&events=div%7Csplit

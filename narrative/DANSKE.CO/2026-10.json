@@ -1,7 +1,7 @@
 {
-  "contentHash": "8c78e71719ed6daa",
+  "contentHash": "893b1ca790524a2c",
   "payload": {
-    "count": 5,
+    "count": 8,
     "items": [
       {
         "claim": "Danske Bank oplyser at banken i uge 40 (28. september til 2. oktober 2026) kobte 651.966 egne aktier under tilbagekobsprogrammet pa op til 4,5 mia. kr. og hojst 45.000.000 aktier, der blev annonceret 5. februar 2026 og lober til senest 29. januar 2027, og at der hermed er kobt ca. 1,072% af aktiekapitalen under programmet.",
@@ -47,12 +47,39 @@
         "source": "Danske Bank A/S, pressemeddelelse",
         "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr15102026",
         "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank oplyste om transaktioner i uge 42 under sit tilbagekoebsprogram paa op til DKK 4,5 mia. og hoejst 45.000.000 aktier, der loeber fra 9. februar 2026 til senest 29. januar 2027 under MAR's safe harbour-regler.",
+        "key": "5a882570093b8058",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "Danske Bank A/S, company announcement no. 51/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383026/0/en/danske-bank-share-buy-back-programme-transactions-in-week-42.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank indberettede at APMH Invest A/S loebende saelger Danske Bank-aktier pro rata i forbindelse med bankens tilbagekoebsprogram.",
+        "key": "f4641ee219669974",
+        "publishedAt": "2026-10-22",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "Danske Bank A/S, indberetning nr. 86/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/22/3386116/0/da/danske-bank-a-s-ledende-medarbejderes-transaktioner.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Fitch Ratings fastholdt Danske Bank paa 'AA' med stabilt outlook og begrundede det med bankens foerende position i Danmark, lav risikoappetit, relationsbaseret forretningsmodel, staerk kapital, diversificeret funding og solid aktivkvalitet gennem cyklen.",
+        "key": "9715d66a47c15e07",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "Fitch Ratings, rating action commentary (gengivet af MarketScreener)",
+        "url": "https://www.marketscreener.com/news/danske-bank-a-s-fitch-danske-bank-rating-report-21-oct-2026-ce785cd9db8af620",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-18T06:09:44Z",
+  "recordedAt": "2026-10-25T07:10:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DANSKE.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "48adc672018a0d19",
+  "contentHash": "fba25b9f44c0e578",
   "payload": {
-    "count": 4,
+    "count": 6,
     "items": [
       {
         "claim": "Jyske Bank oplyser at banken i perioden 28. september til 2. oktober 2026 kobte 54.137 egne aktier under tilbagekobsprogrammet pa op til 3 mia. kr., der blev igangsat med selskabsmeddelelse nr. 11/2026 af 5. februar 2026 og lober til 29. januar 2027, og at banken efter afvikling ejer 2.127.014 egne aktier svarende til 3,65% af aktiekapitalen.",
@@ -38,12 +38,30 @@
         "source": "Jyske Bank A/S, selskabsmeddelelse om aktietilbagekøb uge 41 2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/12/3378573/0/en/share-repurchase-programme-transactions-of-week-41-2026.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank meddelte at Konkurrence- og Forbrugerstyrelsen har godkendt bankens koeb af FP Kapital A/S, der driver virksomhed under navnet Formuepleje, og at handlen forventes gennemfoert med virkning fra 2. november 2026; meddelelsen foelger op paa selskabsmeddelelsen af 2. september 2026.",
+        "key": "85bbb7e3045c96a7",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "Jyske Bank A/S, corporate announcement 20261019; CFO Birger Kroegh Nielsen anfoert som kontakt",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383497/0/en/approval-of-jyske-bank-s-acquisition-of-formuepleje.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank oplyste om transaktioner i uge 42 under tilbagekoebsprogrammet paa op til DKK 3 mia., der loeber fra 5. februar 2026 til senest 29. januar 2027, og at banken efter afvikling vil eje 2.235.959 egne aktier svarende til 3,84 pct. af aktiekapitalen.",
+        "key": "fccd34d4a04f78c9",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "Jyske Bank A/S (programmet igangsat med selskabsmeddelelse nr. 11/2026 af 5. februar 2026)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383008/0/en/share-repurchase-programme-transactions-of-week-42-2026.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-18T06:09:44Z",
+  "recordedAt": "2026-10-25T07:10:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "JYSK.CO"

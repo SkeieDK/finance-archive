@@ -1,7 +1,7 @@
 {
-  "contentHash": "1e267687eaacbc0c",
+  "contentHash": "a7cda6c3638b35b4",
   "payload": {
-    "count": 4,
+    "count": 8,
     "items": [
       {
         "claim": "Kapitalforvalteren Maj Invest tvivler paa, at DSV naar sit maal for synergier fra koebet af tyske DB Schenker til tiden, men fastholder ifoelge omtalen troen paa selskabet paa laengere sigt.",
@@ -38,12 +38,48 @@
         "source": "Defense World (MarketBeat-materiale), uden navngivet forfatter",
         "url": "https://defenseworld.net/2026/10/14/dsv-dsdvy-expected-to-announce-quarterly-earnings-on-wednesday.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "DSV 'delivered earnings growth in a volatile market, driven by strong results in Air & Sea and Contract Logistics'.",
+        "key": "6f10c1858e0639f2",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Jens H. Lund, koncernchef (Group CEO), DSV, i selskabsmeddelelse nr. 1175 (Q3-rapport)",
+        "url": "https://investor.dsv.com/news-releases/news-release-details/dsv-1175-interim-financial-report-q3-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "'We remain focused on completing the Schenker integration, realising synergies and advancing our 2030 ambitions.'",
+        "key": "1c759dab1feb79f8",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Jens H. Lund, koncernchef, DSV",
+        "url": "https://investor.dsv.com/news-releases/news-release-details/dsv-1175-interim-financial-report-q3-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DSV oplyser at have indsnaevret helaarsforventningen til EBIT foer saerlige poster og at have igangsat et separat aktietilbagekoebsprogram, der udmeldes i egen meddelelse; udmeldingerne tilskrives selskabet og ikke en navngiven person.",
+        "key": "bd94939341444b43",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1175",
+        "url": "https://investor.dsv.com/news-releases/news-release-details/dsv-1175-interim-financial-report-q3-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bestyrelsen begrunder det nye tilbagekoebsprogram med, at Schenker-integrationen forventes afsluttet ved udgangen af 2026 og at nedgearingen er paa sporet, og angiver formaalet som tilpasning af kapitalstrukturen samt daekning af aktiebaserede incitamentsprogrammer; programmet loeber fra 21. oktober 2026 til senest 1. februar 2027 med Danske Bank som lead manager.",
+        "key": "207517db2038b49a",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1174 om nyt aktietilbagekoebsprogram efter safe harbour-metoden",
+        "url": "https://investor.dsv.com/news-releases/news-release-details/dsv-1174-launch-new-share-buyback-programme-according-safe",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-19T06:12:52Z",
+  "recordedAt": "2026-10-26T07:16:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DSV.CO"

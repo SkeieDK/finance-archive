@@ -1,7 +1,7 @@
 {
-  "contentHash": "ca50f928c342b6b6",
+  "contentHash": "fccdbe2501f3bd59",
   "payload": {
-    "count": 21,
+    "count": 23,
     "items": [
       {
         "claim": "Vestas announced the launch of its V182-7.2 MW onshore turbine, saying it can increase capacity factors by as much as 2 percent versus its predecessor and improve electricity capture prices by as much as 3 percent at low- to medium-wind sites.",
@@ -191,12 +191,30 @@
         "source": "Vestas Wind Systems, ordremeddelelse gengivet i SolarQuarter",
         "url": "https://solarquarter.com/2026/10/14/vestas-secures-346-mw-wind-turbine-order-in-australia-with-30-year-service-agreement/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Vestas meddelte transaktioner under sit tilbagekoebsprogram i perioden 15.-21. oktober 2026 og oplyste, at programmet, der blev annonceret 12. august 2026, omfatter aktier for op til DKK 3.000 mio. (ca. EUR 400 mio.) og loeber fra 13. august 2026 til senest 16. december 2026 under markedsmisbrugsforordningen og dens safe harbour-regler.",
+        "key": "389cbdb284f1b483",
+        "publishedAt": "2026-10-22",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Vestas Wind Systems A/S, selskabsmeddelelse nr. 56/2026 (ingen udtalelse fra talsperson)",
+        "url": "https://www.inderes.fi/en/releases/transactions-in-connection-with-share-buy-back-programme-15-21-october-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Vestas meddelte, at selskabet forventer at offentliggoere delaarsrapporten for tredje kvartal 2026 den 11. november 2026, og at adm. direktoer og finansdirektoer praesenterer resultatet samme dag via audiocast paa engelsk kl. 10.00 CET med mulighed for spoergsmaal fra analytikere og investorer til sidst.",
+        "key": "3d2d89e43cc3d4f3",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Vestas Wind Systems A/S, selskabsmeddelelse om Q3 2026 conference call (IR-kontakter Daniel Patterson og Frederik Holm Jacobsen; ingen udtalelse fra talsperson)",
+        "url": "https://www.inderes.fi/en/releases/vestas-q3-2026-conference-call",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-22T06:11:51Z",
+  "recordedAt": "2026-10-29T07:13:55Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "VWS.CO"

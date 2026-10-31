@@ -1,7 +1,7 @@
 {
-  "contentHash": "76b291fb5243727f",
+  "contentHash": "7a9efdb2be884e84",
   "payload": {
-    "count": 3,
+    "count": 5,
     "items": [
       {
         "claim": "Coloplast offentliggjorde en storaktionaermeddelelse om, at Niels Peter Louis-Hansens selskab NPLH Holding ApS har gaveoverdraget samtlige sine aktier i Coloplast Holding ApS til Coloplast Fonden, saaledes at fonden via datterselskabet CF Holding af 2026 ApS nu er anfoert som indehaver af stemmeflertallet, mens Niels Peter Louis-Hansens egen direkte og indirekte andel er reduceret.",
@@ -29,12 +29,30 @@
         "source": "ad-hoc-news.de, markedsopsamling om Coloplast (refererer selskabets finanskalender)",
         "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/coloplast-stock-heads-for-november-3-2026-annual-results/70332557",
         "verifiedAs": null
+      },
+      {
+        "claim": "Coloplast indbyder investorer og analytikere til telefonkonference 3. november 2026 kl. 11.00 CET i forbindelse med offentliggoerelsen af aarsregnskabet for 2025/26 samme morgen omkring kl. 07.30 CET.",
+        "key": "270c7267ca32738f",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "Coloplast A/S, selskabsmeddelelse; praesentationen holdes af President & CEO Gavin Wood og EVP, CFO Anders Lonning-Skovgaard",
+        "url": "https://globenewswire.com/news-release/2026/10/21/3385339/0/en/coloplast-a-s-fy-2025-26-earnings-release-invitation-for-conference-call-on-3-november-2026-at-11-00am-cet.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Coloplast oplyser at selskabet vil praesentere resultatet og besvare spoergsmaal, at praesentationen laegges paa hjemmesiden cirka en time foer kaldet, og at der kraeves forudgaaende tilmelding for at stille spoergsmaal.",
+        "key": "1924c8d29470b940",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "Coloplast A/S, selskabsmeddelelse (IR-kontakter: Aleksandra Dimovska, Kristine Husted Munk, Nicklas Overgaard)",
+        "url": "https://globenewswire.com/news-release/2026/10/21/3385339/0/en/coloplast-a-s-fy-2025-26-earnings-release-invitation-for-conference-call-on-3-november-2026-at-11-00am-cet.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-20T06:13:51Z",
+  "recordedAt": "2026-10-27T07:10:37Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "COLO-B.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "6f9ce0c3a8fd52c4",
+  "contentHash": "6c82d1e6cd4c79be",
   "payload": {
-    "count": 13,
+    "count": 14,
     "items": [
       {
         "claim": "Anders Hylleberg sagde: 'We've had great discussions with our suppliers about how we can help drive more predictability for our industry to make the right decisions and investments to bring down the cost of offshore wind by 30 % over the next 10 years.'",
@@ -119,12 +119,21 @@
         "source": "Beatrice d'Eufemia, projektleder for Iceni BESS, Oersted, citeret i ESS News",
         "url": "https://www.ess-news.com/2026/10/21/orsted-completes-construction-of-600-mwh-uk-battery-storage-project-near-windfarm/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Oersted meddelte, at selskabet offentliggoer sit regnskab for tredje kvartal 2026 torsdag den 5. november 2026 omkring kl. 08.00 CET, og at der foelger en earnings call for investorer og analytikere samme dag kl. 14.00 CET, som streames live paa selskabets hjemmeside, med praesentationsmateriale lagt op forinden.",
+        "key": "e757927fda39b058",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Oersted A/S, selskabsmeddelelse om rapporteringsdato (ingen udtalelse fra talsperson; medie- og IR-kontakter anfoert)",
+        "url": "https://www.inderes.fi/en/releases/orsted-to-present-q3-2026-results-on-5-november",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-22T06:11:51Z",
+  "recordedAt": "2026-10-29T07:13:55Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ORSTED.CO"

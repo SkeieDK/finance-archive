@@ -1,7 +1,7 @@
 {
-  "contentHash": "9d0ef1ad2a9a704d",
+  "contentHash": "5a03310b4d724cff",
   "payload": {
-    "count": 5,
+    "count": 7,
     "items": [
       {
         "claim": "FLS oplyser at selskabet har indgaet en ordre pa ca. 360 mio. kr. pa knusnings- og formalingsteknologi til et kobberudvidelsesprojekt i Nordchile, at ordren er bogfort i 3. kvartal 2026, og at den ikke aendrer selskabets forventninger til helaret 2026; Qasim Abrahams, Products Business Line President i FLS, siger: \"This significant order reflects the trust placed in our proven crushing and grinding technologies.\"",
@@ -47,12 +47,30 @@
         "source": "FLSmidth & Co. A/S, selskabsmeddelelse nr. 48-2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/12/3378594/0/en/flsmidth-transactions-under-share-buy-back-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "FLSmidth udnaevnte Gonzalo Del Carpio til Chief Operational Excellence Officer og medlem af Executive Leadership Team fra 1. november 2026, og selskabet begrundede posten med at planlagt organisk vaekst og strategiske opkoeb gjorde eksekvering og operationel konsistens vigtigere; CEO Toni Laaksonen sagde: 'I am delighted to welcome Gonzalo to the Executive Leadership Team.'",
+        "key": "7f393229a72d0f73",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "FLSmidth & Co. A/S; CEO Toni Laaksonen citeret",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383025/0/en/flsmidth-appoints-gonzalo-del-carpio-as-new-chief-operational-excellence-officer-to-strengthen-the-foundations-for-future-growth.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "FLSmidth oplyste om transaktioner i perioden 12.-16. oktober under sit tilbagekoebsprogram paa op til DKK 1,0 mia. og hoejst 2.300.000 aktier, svarende til ca. 4,0 pct. af aktiekapitalen, som blev igangsat 18. maj 2026.",
+        "key": "189661d962c83ef2",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "FLSmidth & Co. A/S, company announcement no. 49-2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383019/0/en/transactions-under-share-buy-back-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-18T06:09:44Z",
+  "recordedAt": "2026-10-25T07:10:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "FLS.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "0557725a4f45160e",
+  "contentHash": "85cc4d237d08d87e",
   "payload": {
-    "count": 4,
+    "count": 5,
     "items": [
       {
         "claim": "ISS oplyser at bestyrelsen har indfort et engangsprogram med betingede aktier kaldet \"Financial Improvement Programme\" for koncerndirektionen og op til 40 nogleledere i alt, omfattende op til 391.000 aktier og hojst en arlig grundlon pr. deltager, med optjening 1. marts 2029 pa grundlag af den finansielle praestation 2026-2028; bestyrelsen beskriver det som \"a once-only grant intended to support the successful execution hereof\" med henvisning til selskabets mal om hurtigere vaekst af hojere kvalitet og bredere marginer, der blev fremlagt i september 2026.",
@@ -38,12 +38,21 @@
         "source": "ISS A/S, selskabsmeddelelse nr. 63/2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/12/3378602/0/en/transactions-in-connection-with-share-buyback-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "ISS oplyste om transaktioner i perioden 12.-16. oktober under det tilbagekoebsprogram, selskabet meldte ud 19. februar 2026 for at 'redistribute excess cash to shareholders', med en maksimal samlet modydelse paa DKK 3,1 mia. over 12 maaneder til senest 22. februar 2027, hvor foerste tranche er afsluttet og anden tranche paa op til DKK 1,85 mia. blev startet 11. august 2026.",
+        "key": "406bd9c8e54e06fc",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "ISS A/S, company announcement no. 64/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383033/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-18T06:09:44Z",
+  "recordedAt": "2026-10-25T07:10:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ISS.CO"

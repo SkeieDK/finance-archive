@@ -1,7 +1,7 @@
 {
-  "contentHash": "ecc99880651ea956",
+  "contentHash": "eec4925505d3f0f7",
   "payload": {
-    "count": 34,
+    "count": 37,
     "items": [
       {
         "claim": "Nanexa og Novo meddelte at de har indgaaet en global eksklusiv licens- og samarbejdsaftale om langtidsvirkende injektionsmidler til fedme og type 2-diabetes med en samlet vaerdi paa op til EUR 1,165 mia.",
@@ -308,12 +308,39 @@
         "source": "Michelle Skinner Moore, vice president, medical affairs, Novo Nordisk, citeret af Reuters",
         "url": "https://live.euronext.com/en/financial-news/novos-cagrisema-helped-women-lose-25-weight-average-analysis-shows",
         "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk meddelte sine ugentlige tilbagekoeb af B-aktier i perioden 12.-16. oktober 2026 og oplyste, at programmet, der blev indledt 6. maj 2026, kan loebe op til DKK 11.200.000.010,45 frem til 1. februar 2027 som del af et program paa op til DKK 15 mia. over 12 maaneder fra 4. februar 2026, samt at selskabet pr. 16. oktober 2026 besad 53.114.876 egne B-aktier svarende til ca. 1,2 % af aktiekapitalen.",
+        "key": "28dcae86eda8f406",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse om tilbagekoebsprogram indgivet til SEC som Form 6-K (ingen udtalelse fra talsperson)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000117184326006685/f6k_101926.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk meddelte ugen efter sine tilbagekoeb af B-aktier i perioden 19.-23. oktober 2026 og oplyste, at selskabet siden 4. februar 2026 har tilbagekoebt 40.274.179 B-aktier til en gennemsnitskurs paa DKK 277,78 under programmet paa op til DKK 15 mia., og at beholdningen af egne B-aktier pr. 23. oktober 2026 var 54.314.876 svarende til ca. 1,2 % af aktiekapitalen.",
+        "key": "c5574cc3e2a479f5",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Novo Nordisk A/S, selskabsmeddelelse om tilbagekoebsprogram (ingen udtalelse fra talsperson)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/26/3388373/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Novo Nordisk meddelte, at selskabet vil praesentere 12 nye abstracts med real world- og kliniske data for semaglutid samt data for den eksperimentelle efruxifermin paa The Liver Meeting 2026 (AASLD) i Denver 5.-9. november, og tog samtidig forbehold for, at real world-fund kan vise sammenhaenge men ikke endeligt fastslaa aarsagssammenhaeng; Martin Holst Lange, chief scientific officer og executive vice president for Research & Development, udtalte, at \"MASH often goes unrecognized and undiagnosed, allowing liver damage to progress over time\", at \"Earlier diagnosis and treatment are needed\", og at arbejdet \"deepen our understanding of MASH within our portfolio\".",
+        "key": "22461456e8f6a13e",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Martin Holst Lange, chief scientific officer og executive vice president, Research & Development, Novo Nordisk, i selskabets pressemeddelelse",
+        "url": "https://www.prnewswire.com/news-releases/novo-to-present-new-liver-data-across-wegovy-2-4-mg-and-investigational-efruxifermin-at-the-liver-meeting-aasld-2026--302922177.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-22T06:11:51Z",
+  "recordedAt": "2026-10-29T07:13:55Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NOVO-B.CO"

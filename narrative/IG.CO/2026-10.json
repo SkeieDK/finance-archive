@@ -1,7 +1,7 @@
 {
-  "contentHash": "7760b3d5ff71e2b3",
+  "contentHash": "69d1762d5015f79e",
   "payload": {
-    "count": 1,
+    "count": 4,
     "items": [
       {
         "claim": "InstallatoerGruppen meddelte, at selskabet offentliggoer sin interim trading statement for perioden til og med 30. september omkring kl. 08.00 CEST den 28. oktober 2026, og at rapporten samme dag kl. 10.00 CEST praesenteres paa engelsk via webcast og telefonkonference med efterfoelgende Q&A.",
@@ -11,12 +11,39 @@
         "source": "InstallatoerGruppen A/S, selskabsmeddelelse; praesentanter angivet som Group CEO Niels Eldrup Meidahl og Group CFO Mathias Ringsted Gruener, kontakt Maximillian Hjorth Beste",
         "url": "https://www.globenewswire.com/news-release/2026/09/28/3369709/0/en/invitation-to-presentation-of-interim-trading-statement-for-the-period-ending-30-september-2026.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Koncernchef Niels Eldrup Meidahl sagde om tredje kvartal: 'We see a generally high level of activity across our business, and organic growth picked up to 15% in the quarter'.",
+        "key": "2e70c6f1ae3e5885",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "Niels Eldrup Meidahl, Group CEO, InstallatoerGruppen",
+        "url": "https://www.globenewswire.com/news-release/2026/10/28/3389880/0/en/regulatory-announcement-no-23-organic-growth-picked-up-in-q3-reaching-6-for-the-first-nine-months-at-an-adjusted-ebita-margin-of-9-outlook-reiterated.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "InstallatoerGruppen meddelte i sin periodemeddelelse, at den justerede EBITA-margin faldt i kvartalet, hvilket ledelsen tilskrev en stoerre andel af projektarbejde med lavere margin og hoejere centrale omkostninger, og at selskabet fastholder sine forventninger til 2026.",
+        "key": "6bcf902262f58e7e",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "InstallatoerGruppen, selskabsmeddelelse nr. 23",
+        "url": "https://www.globenewswire.com/news-release/2026/10/28/3389880/0/en/regulatory-announcement-no-23-organic-growth-picked-up-in-q3-reaching-6-for-the-first-nine-months-at-an-adjusted-ebita-margin-of-9-outlook-reiterated.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "InstallatoerGruppen meddelte, at bestyrelsen igangsætter et aktietilbagekoebsprogram paa op til DKK 25 mio. fra 2. november 2026 til senest 31. marts 2027 med ABG Sundal Collier Denmark som lead manager, og begrundede det med at egne aktier skal bruges som vederlag i opkoeb, hvor sælgere typisk reinvesterer 20 pct. af koebesummen: 'To limit the dilution of existing shareholders.'",
+        "key": "9bd16b1a7e6418f5",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "InstallatoerGruppen, selskabsmeddelelse nr. 22 (ingen navngivet talsperson)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/28/3389871/0/en/regulatory-announcement-no-22-installat%C3%B8rgruppen-initiates-a-share-buy-back-programme-of-up-to-dkk-25-million.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-02T06:24:56Z",
+  "recordedAt": "2026-10-28T07:10:25Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "IG.CO"

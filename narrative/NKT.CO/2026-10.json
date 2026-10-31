@@ -1,7 +1,7 @@
 {
-  "contentHash": "261d47797f2f7e5c",
+  "contentHash": "91c9658db547cd7a",
   "payload": {
-    "count": 7,
+    "count": 8,
     "items": [
       {
         "claim": "NKT meddelte paa Investor Day 2026 i Karlskrona at selskabet fastholder sin strategiske retning under 'Charging Forward'-strategien, at de mellemfristede finansielle ambitioner er uaendrede, og at kommerciel drift af den udvidede offshore-kabelfabrik i Karlskrona ventes i 2. kvartal 2027, en smule foer plan.",
@@ -65,12 +65,21 @@
         "source": "Carlos Fernandez, Executive Vice President og Head of Distribution, NKT, citeret i Offshore Energy",
         "url": "https://www.offshore-energy.biz/2026/10/21/portugal-nkt-opens-expanded-power-cable-factory-adds-150-employees",
         "verifiedAs": null
+      },
+      {
+        "claim": "NKT meddelte, at BlackRock, Inc. i tre underretninger dateret 19., 20. og 21. oktober 2026 har oplyst, at koncernens samlede position i NKT er steget fra 8,46 % til 8,54 % af aktiekapital og stemmerettigheder - heraf 8,23 % via aktier og 0,31 % via finansielle instrumenter - og at datterselskabet BlackRock Investment Management (UK) Limited tre gange har krydset 5 %-graensen og nu oplyses med en samlet position paa 5,09 %, der indgaar i BlackRock, Inc.'s samlede opgoerelse.",
+        "key": "80c8010000228cd9",
+        "publishedAt": "2026-10-23",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "NKT A/S, selskabsmeddelelse nr. 15 (storaktionaermeddelelse paa grundlag af underretninger fra BlackRock, Inc. og BlackRock Investment Management (UK) Limited; ingen udtalelse fra talsperson)",
+        "url": "https://investors.nkt.com/company-announcements/2026/notification-of-major-shareholding-2026-10-23T1004/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-22T06:11:51Z",
+  "recordedAt": "2026-10-29T07:13:55Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NKT.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "fedda15217534d24",
+  "contentHash": "0eecfdabf0567d64",
   "payload": {
-    "count": 10,
+    "count": 12,
     "items": [
       {
         "claim": "ChemoMetec meddelte at selskabet har afsluttet det aktietilbagekoebsprogram, der blev annonceret i selskabsmeddelelse nr. 309 den 15. maj 2026, og oplyste at der blev tilbagekoebt 239.950 aktier for i alt DKK 99.998.735, svarende til 1,38 pct. af aktiekapitalen.",
@@ -92,12 +92,30 @@
         "source": "ChemoMetec A/S, selskabsmeddelelse nr. 322, med henvisning til underretning fra BlackRock, Inc.",
         "url": "https://www.globenewswire.com/news-release/2026/10/21/3385840/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec meddelte, at BlackRock, Inc. har oplyst, at selskabets stemmerettigheder knyttet til ChemoMetec-aktier pr. 15. oktober 2026 faldt til 14,97 % og dermed under 15 %-graensen, mens stemmerettigheder via finansielle instrumenter steg til 0,11 %, saa den samlede position blev oplyst som uaendret 15,08 %.",
+        "key": "d72ff8ab30f83dc3",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "ChemoMetec A/S, storaktionaermeddelelse nr. 322, paa grundlag af underretning fra BlackRock, Inc. (ingen udtalelse fra talsperson)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/21/3385840/0/en/major-shareholder-announcement-blackrock-inc.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec meddelte en uge senere, at BlackRock, Inc. har oplyst, at stemmerettighederne knyttet til aktier pr. 26. oktober 2026 steg til 15,08 % og dermed oversteg 15 %-graensen efter kapitalmarkedslovens § 38, stk. 1, mens stemmerettigheder via finansielle instrumenter faldt til 0,00 % og den samlede position blev oplyst som uaendret 15,08 %.",
+        "key": "fd0fdf0e2aedf491",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "ChemoMetec A/S, storaktionaermeddelelse nr. 323, paa grundlag af underretning fra BlackRock, Inc. (ingen udtalelse fra talsperson)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/28/3390646/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-22T06:11:51Z",
+  "recordedAt": "2026-10-29T07:13:55Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CHEMM.CO"

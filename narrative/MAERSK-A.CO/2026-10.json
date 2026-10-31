@@ -1,7 +1,7 @@
 {
-  "contentHash": "e1d5cd9ff9fb9722",
+  "contentHash": "843d6bd3b4a419c1",
   "payload": {
-    "count": 9,
+    "count": 12,
     "items": [
       {
         "claim": "A.P. Moller - Maersk oplyser at selskabet i perioden 28. september til 2. oktober 2026 gennemforte transaktioner under tilbagekobsprogrammet pa op til 6,3 mia. kr., der blev annonceret 5. februar 2026 og hvis anden fase pa op til 3,15 mia. kr. lober fra 13. august 2026 til 29. januar 2027, at selskabet herefter ejer 47.948 A-aktier og 251.378 B-aktier som egne aktier svarende til ca. 2,04% af aktiekapitalen, og at Fonden (A.P. Moller og Hustru Chastine Mc-Kinney Mollers Familiefond) deltager pro rata efter saeraftale.",
@@ -83,12 +83,39 @@
         "source": "A.P. Møller - Mærsk, Latin America Market Update oktober 2026",
         "url": "https://www.maersk.com/news/articles/2026/10/14/latin-america-market-update-october",
         "verifiedAs": null
+      },
+      {
+        "claim": "Maersk meddelte sin foerste planlagte drydocking i Indien hos L&T i Kattupalli, hvor Dinesh Kumar Balraj, Head of Fleet Operations East i A.P. Moller - Maersk, sagde: 'The drydocking of Maersk Chattogram in India is a meaningful step towards turning our collaboration with L&T into action', mens Arun Ramchandani, Head - Precision Engineering & Systems i L&T, talte om at kombinere Maersks globale maritime expertise med L&T's skibsbygningskapacitet.",
+        "key": "4b06326ddf5d15bd",
+        "publishedAt": "2026-10-20",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "A.P. Moller - Maersk; Dinesh Kumar Balraj (Maersk) og Arun Ramchandani (L&T) citeret",
+        "url": "https://maersk.com/news/articles/2026/10/20/maersk-lt-first-planned-drydocking-india-kattupalli",
+        "verifiedAs": null
+      },
+      {
+        "claim": "UBS nedgraderede A.P. Moller - Maersk til 'sell' fra 'neutral' og begrundede det med at banken forventer at container-fragtrater falder gradvist og at industrien bevaeger sig mod negativ profitabilitet i 2028, med forventet industriel overkapacitet paa ca. 6-8 pct. i 2027-29 og driftstab i Ocean-divisionen i 2028 og 2029; UBS pegede desuden paa mulig europaeisk protektionisme som en risiko for efterspoergselsvaeksten.",
+        "key": "fca9389ed41ad960",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "UBS, analyse (gengivet af Investing.com; ingen navngivne analytikere i kilden)",
+        "url": "https://www.investing.com/news/stock-market-news/ubs-turns-bearish-on-maersk-as-ship-glut-threatens-freight-rates-profits-4962683",
+        "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Moller - Maersk oplyste om transaktioner i perioden 12.-16. oktober under tilbagekoebsprogrammet paa op til DKK 6,3 mia. meldt ud 5. februar 2026, hvis anden fase med en samlet markedsvaerdi paa op til DKK 3,15 mia. loeber fra 13. august 2026 til 29. januar 2027.",
+        "key": "1e53c4e4dceb3e61",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "A.P. Moeller - Maersk A/S, selskabsmeddelelse om tilbagekoeb (uge 42 2026)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383349/0/en/transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-18T06:09:44Z",
+  "recordedAt": "2026-10-25T07:10:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-A.CO"

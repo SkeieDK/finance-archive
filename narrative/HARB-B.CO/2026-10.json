@@ -1,7 +1,7 @@
 {
-  "contentHash": "c978dacf824cdb0d",
+  "contentHash": "1cc05652465f9c8f",
   "payload": {
-    "count": 1,
+    "count": 4,
     "items": [
       {
         "claim": "Harboes Bryggeri meddelte, at bestyrelsen har igangsat en proces om kapitalnedsaettelse ved annullering af en del af egne aktier, og bestyrelsesformand Martin Lavesen sagde, at selskabet ser beholdningen af egne aktier som finansielle reserver, der kan bringes i spil naar strategiske muligheder opstaar, og at selskabet fortsat vil have solide kapitalreserver til at realisere sin strategi.",
@@ -11,12 +11,39 @@
         "source": "Martin Lavesen, bestyrelsesformand, Harboes Bryggeri A/S; meddelelsen underskrevet af CFO Simon Andersson",
         "url": "https://www.globenewswire.com/news-release/2026/09/29/3370975/0/da/igangs%C3%A6ttelse-af-proces-om-kapitalneds%C3%A6ttelse-ved-annullering-af-en-del-af-egne-aktier.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Harboes Bryggeri meddelte, at Camilla Blicher Simonsen er tiltraadt som ny CCO pr. 1. oktober 2026 med ansvar for kategori og marketing, salg i Danmark og Tyskland samt sales and operations planning, og at hidtidige CCO Martin Schade overgaar til rollen som Strategic Project Manager.",
+        "key": "c5a68e80ff7b0670",
+        "publishedAt": "2026-10-23",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "Harboes Bryggeri, selskabets egen pressemeddelelse",
+        "url": "https://harboe.com/presse-harboes-bryggeri-har-faaet-ny-cco/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Adm. direktoer Soeren Malling sagde om udnævnelsen: 'Derfor var vi heller ikke i tvivl om, at det var Camilla, vi gerne ville tilbyde rollen som vores nye CCO' — med henvisning til hendes halve aar som Director of Danish Sales.",
+        "key": "9ebad066aaea62db",
+        "publishedAt": "2026-10-23",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "Soeren Malling, adm. direktoer, Harboes Bryggeri",
+        "url": "https://harboe.com/presse-harboes-bryggeri-har-faaet-ny-cco/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Camilla Blicher Simonsen sagde om rollen: 'Jeg synes, det er en rigtig spændende rolle, jeg nu træder ind i.', og knyttede den til selskabets igangværende strategiopdatering.",
+        "key": "4b358a7d1de8728c",
+        "publishedAt": "2026-10-23",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "Camilla Blicher Simonsen, CCO, Harboes Bryggeri",
+        "url": "https://harboe.com/presse-harboes-bryggeri-har-faaet-ny-cco/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-02T06:24:56Z",
+  "recordedAt": "2026-10-28T07:10:25Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "HARB-B.CO"

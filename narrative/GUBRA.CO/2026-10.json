@@ -1,7 +1,7 @@
 {
-  "contentHash": "d109d6343329f3cb",
+  "contentHash": "205b1676a713a5f3",
   "payload": {
-    "count": 4,
+    "count": 7,
     "items": [
       {
         "claim": "Gubra announced that its partner AbbVie had presented detailed Phase 1 data for ABBV-295, a long-acting amylin analog, at EASD 2026, the release stating a half-life of 10.7 to 12.3 days, weight reductions of 7.8-9.8% over 12-13 weeks (9.7% on every-other-week dosing, 7.9% monthly), no serious adverse events and 92% of gastrointestinal side effects mild, in 60 participants.",
@@ -38,12 +38,39 @@
         "source": "Markus Rohrwild, adm. direktoer i Gubra A/S, i selskabets meddelelse",
         "url": "https://www.gubra.dk/mfn_news/gubras-partner-abbvie-presents-detailed-phase-1-data-for-abbv-295-a-long-acting-amylin-analog-demonstrating-favorable-tolerability-and-pharmacokinetic-profile-at-easd-2026/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Gubra minder om selskabets foerste investor-R&D-event den 27. oktober 2026 kl. 13.00 GMT hos Goldman Sachs International i London, med mulighed for fysisk og virtuel deltagelse.",
+        "key": "f07feed739d0a55b",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "Gubra A/S, selskabsmeddelelse (REMINDER)",
+        "url": "https://www.tradingview.com/news/modular_finance:520e6232ee608:0-reminder-gubra-investor-r-d-event-on-october-27-2026/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Gubra oplyser at eventen vil daekke selskabets strategi frem mod 2030, beskrive innovationsmodellen paa tvaers af enhederne Biotech, CRO og Ventures og give en opdatering paa R&D-pipelinen med saerligt fokus paa GUB-UCN2.",
+        "key": "c3a870a0da7e64ce",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "Gubra A/S, selskabsmeddelelse (REMINDER)",
+        "url": "https://www.tradingview.com/news/modular_finance:520e6232ee608:0-reminder-gubra-investor-r-d-event-on-october-27-2026/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Gubra navngiver som praesentatoerer adm. direktoer Markus Rohrwild, finansdirektoer Kristian Borbos, Chief Science Officer Louise S. Dalboege, Chief Medical and Development Officer Thomas Langenickel, Zoe Johnson (Gubra Ventures & Business Development), Trine Nygaard Hamann (Gubra CRO) samt professor Juleen R. Zierath fra Karolinska Institutet.",
+        "key": "f302543f75d264d2",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "Gubra A/S, selskabsmeddelelse (REMINDER)",
+        "url": "https://www.tradingview.com/news/modular_finance:520e6232ee608:0-reminder-gubra-investor-r-d-event-on-october-27-2026/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-05T06:20:53Z",
+  "recordedAt": "2026-10-27T07:10:37Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "GUBRA.CO"

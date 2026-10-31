@@ -1,7 +1,7 @@
 {
-  "contentHash": "96ac41231f8e2b90",
+  "contentHash": "bbe72426d64670e9",
   "payload": {
-    "count": 7,
+    "count": 9,
     "items": [
       {
         "claim": "Group CEO Johan Kirstein Brammer said \"Tryg delivered the highest ever reported insurance service result supported by strong results in Sweden and Norway\".",
@@ -65,12 +65,30 @@
         "source": "Tryg A/S, indberetning af ledende medarbejderes transaktioner",
         "url": "https://mfn.se/one/a/tryg/reporting-of-trading-in-tryg-shares-by-senior-management-dabb1bb4",
         "verifiedAs": null
+      },
+      {
+        "claim": "Tryg Forsikring oplyser at have mandateret Danske Bank og Nordea som joint lead managers og at ville 'explore subsequent issuance of one or more Tier 2 Capital Notes' i NOK og/eller SEK, samtidig med at selskabet overvejer at tilbagekoebe hele eller dele af sine udstaaende SEK 1,3 mia. floating rate Tier 2-noter (ISIN DK0030488101) efter eget skoen.",
+        "key": "2ef4d8d141a70f12",
+        "publishedAt": "2026-10-20",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Tryg Forsikring A/S, selskabsmeddelelse via GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/10/20/3384043/0/en/tryg-forsikring-a-s-mandates-tier-2-capital-notes-transaction.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Tryg Forsikring oplyser at udstedelsen blev 'priced and subscribed today with significant demand', at bogen paa sit hoejeste var mere end to gange overtegnet, og at noterne primaert blev placeret hos asset managers og fonde i de skandinaviske lande; selskabet oplyser samtidig at ville tilbagekoebe SEK 153 mio. af de udstaaende Tier 2-noter til kurs 100,042 betinget af afviklingen af den nye udstedelse.",
+        "key": "548805ae12cde23e",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Tryg Forsikring A/S, selskabsmeddelelse via GlobeNewswire; kontaktpersoner angivet som Gianandrea Roberti, Head of Financial Reporting, og Robin H. Loefgren, Head of Investor Relations - ingen citeret talsperson",
+        "url": "https://www.globenewswire.com/news-release/2026/10/21/3385738/0/en/tryg-forsikring-a-s-prices-tier-2-capital-notes.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-19T06:12:52Z",
+  "recordedAt": "2026-10-26T07:16:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "TRYG.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "2428c3e9d561d083",
+  "contentHash": "61184b2c0a9eb58f",
   "payload": {
-    "count": 12,
+    "count": 15,
     "items": [
       {
         "claim": "Carlsberg Britvic announced a 10-year partnership with The Rivers Trust to restore rivers, wetlands and floodplains near its Rugby site, stating an aim to replenish 100% of the water consumed there by 2032.",
@@ -110,12 +110,39 @@
         "source": "Fiboinvest, nyhedsbrev uge 42 2026",
         "url": "https://www.fiboinvest.dk/nyhedsbrev-uge-42-2026/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Vietnam er et af Carlsbergs vigtigste vaekstmarkeder, og koncernens tillid til markedet bygger paa mere end tre aartiers investeringer der.",
+        "key": "2b3f040381a5d7a6",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Jacob Aarup-Andersen, koncernchef (Group CEO), Carlsberg Group, i selskabets egen meddelelse",
+        "url": "https://www.carlsberggroup.com/newsroom/carlsberg-reinforces-long-term-commitment-to-vietnam-during-vietnam-s-state-visit-to-denmark/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Udvidelsen af Phu Bai-bryggeriet i Hue kaldes 'a clear demonstration of our commitment', og Carlsberg ser yderligere muligheder for at bygge videre paa det fundament.",
+        "key": "b76387401aaffa03",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Jacob Aarup-Andersen, koncernchef, Carlsberg Group",
+        "url": "https://www.carlsberggroup.com/newsroom/carlsberg-reinforces-long-term-commitment-to-vietnam-during-vietnam-s-state-visit-to-denmark/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Carlsberg oplyser at have overrakt hensigtserklaeringer (Letters of Intent) til formaendene for folkekomiteerne i Hue og Da Nang for perioden 2026-2031 og at ville udvide forretning og drift i Da Nang.",
+        "key": "437c8c6ed3a1337d",
+        "publishedAt": "2026-10-21",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Carlsberg Group, selskabets egen meddelelse i forbindelse med Vietnams statsbesoeg i Danmark 19.-21. oktober 2026",
+        "url": "https://www.carlsberggroup.com/newsroom/carlsberg-reinforces-long-term-commitment-to-vietnam-during-vietnam-s-state-visit-to-denmark/",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-19T06:12:52Z",
+  "recordedAt": "2026-10-26T07:16:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CARL-B.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "9765b29d37602c99",
+  "contentHash": "142a72da3ad31b0a",
   "payload": {
-    "count": 4,
+    "count": 5,
     "items": [
       {
         "claim": "AL Sydbank oplyser at banken i uge 40 kobte 34.000 egne aktier for 24.441.420 kr. under tilbagekobsprogrammet pa 1.100 mio. kr., der blev annonceret 25. februar 2026 og lober til senest 31. januar 2027 med det formal at nedsaette aktiekapitalen.",
@@ -38,12 +38,21 @@
         "source": "AL Sydbank A/S, selskabsmeddelelse nr. 57/2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/12/3378745/0/da/aktietilbagek%C3%B8b-i-al-sydbank-a-s-transaktioner-i-uge-41.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank oplyste at banken i uge 42 (12.-16. oktober) koebte 30.000 egne aktier under tilbagekoebsprogrammet paa DKK 1.100 mio., som blev meldt ud 25. februar 2026, loeber til senest 31. januar 2027 og har til formaal at nedsaette aktiekapitalen.",
+        "key": "5c8cc3525e42a66b",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-25T07:10:05Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 58/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383034/0/da/aktietilbagek%C3%B8b-i-al-sydbank-a-s-transaktioner-i-uge-42.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-18T06:09:44Z",
+  "recordedAt": "2026-10-25T07:10:05Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ALSYDB.CO"

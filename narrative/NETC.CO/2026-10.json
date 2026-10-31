@@ -1,7 +1,7 @@
 {
-  "contentHash": "87edb557c43fe682",
+  "contentHash": "41fe811c4b0a958e",
   "payload": {
-    "count": 6,
+    "count": 10,
     "items": [
       {
         "claim": "Netcompany Group oplyste i sin ugentlige meddelelse om aktietilbagekoeb, at programmet blev indledt i februar 2026 og har til formaal \"to adjust Netcompany's capital structure and meeting its obligations relating to share-based incentive programmes\", og at det senest afsluttes 29. januar 2027.",
@@ -56,12 +56,48 @@
         "source": "Netcompany Group A/S, company announcement No. 65/2026",
         "url": "https://finance.yahoo.com/markets/stocks/articles/transactions-connection-share-buyback-programme-104300987.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany meddelte som intern viden, at selskabet haever den nedre ende af sin omsaetningsforventning for hele 2026 - koncernens vaekstforventning gaar fra 16-20,5 % til 18-20,5 % og eksklusive Netcompany Banking Services fra 6,5-10,5 % til 8,5-10,5 % - og at forventningen afspejler selskabets nuvaerende ordrebeholdning og vaegtede pipeline, mens forventningen til justeret EBITDA-margin er uaendret.",
+        "key": "0fa4220a6a714d08",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Netcompany Group A/S, selskabsmeddelelse nr. 67/2026 (ingen citeret udtalelse; kontaktpersoner Thomas Johansen, CFO, og Frederikke Linde, Head of IR)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/29/3390928/0/en/netcompany-raise-the-lower-end-of-revenue-guidance-for-full-year-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Adm. direktoer Andre Rogaczewski udtalte i kvartalsmeddelelsen: \"Our growth momentum from the first half of the year continued into Q3, where we grew revenue by more than 8%\", at selskabet derfor \"raise the floor for our revenue guidance\", at \"We maintain our expectations for adjusted EBITDA margin of around 16% to 19% for the Group\", og at \"AI adoption is still accelerating, with more and more focus on the actual delivery of solutions\".",
+        "key": "50ccae1dd691c645",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Andre Rogaczewski, adm. direktoer, Netcompany Group A/S, i selskabsmeddelelse nr. 68/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/29/3390930/0/en/netcompany-q3-2026-company-announcement.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany meddelte, at Chief Commercial Officer Alexandros Manos udtraeder af direktionen pr. 31. december 2026 for at forfoelge bestyrelses- og raadgivningsarbejde og fortsaetter som senior advisor fra 1. januar 2027 med fokus paa det graeske og det EU-marked, hvorefter direktionen bestaar af Andre Rogaczewski (CEO), Claus Joergensen (COO) og Thomas Johansen (CFO); bestyrelsesformand Bo Rygaard udtalte: \"Alexandros has driven Netcompany SEE & EUI to double revenue over the last five years\", og Manos udtalte: \"I have enjoyed my time with the Group since the acquisition of Intrasoft International S.A. more than five years ago\".",
+        "key": "fdae0a7107eb1939",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Bo Rygaard, bestyrelsesformand, og Alexandros Manos, Chief Commercial Officer, Netcompany Group A/S, i selskabsmeddelelse nr. 69/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/29/3390940/0/en/change-to-the-executive-management-of-netcompany-group-a-s.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Netcompany meddelte transaktioner under sit tilbagekoebsprogram i perioden 19.-23. oktober 2026 og oplyste, at programmet, der blev annonceret 3. februar 2026, loeber indtil senest 29. januar 2027 inden for en ramme paa op til DKK 750 mio. og hoejst 3.250.000 aktier, med det formaal at tilpasse kapitalstrukturen og opfylde forpligtelser under aktiebaserede incitamentsprogrammer.",
+        "key": "70812799d7899ca9",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-10-29T07:13:55Z",
+        "source": "Netcompany Group A/S, selskabsmeddelelse nr. 66/2026 (ingen udtalelse fra talsperson)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/26/3388208/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-22T06:11:51Z",
+  "recordedAt": "2026-10-29T07:13:55Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NETC.CO"

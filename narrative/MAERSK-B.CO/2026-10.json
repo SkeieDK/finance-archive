@@ -1,7 +1,7 @@
 {
-  "contentHash": "cc61b9ac6c3732f0",
+  "contentHash": "7a5ce905e20ad4b6",
   "payload": {
-    "count": 10,
+    "count": 12,
     "items": [
       {
         "claim": "Maersk meddelte at have gennemfoert den foerste kommercielle ship-to-ship-bunkring med ethanol af et deep-sea containerskib i USA, og Ditlev Blicher, Regional President for North America, sagde: \"Achieving lower-emission logistics requires turning new technologies into practical, scalable solutions.\"",
@@ -92,12 +92,30 @@
         "source": "Emma Mazhari, Head of Energy Markets, A.P. Moller - Maersk, citeret i India Shipping News",
         "url": "https://indiashippingnews.com/shipping-line/maersk-completes-the-worlds-largest-ethanol-bunkering-in-singapore",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Moeller-Maersk meddelte, at selskabet i perioden 19.-23. oktober 2026 koebte 1.100 A-aktier og 3.855 B-aktier i markedet plus 545 B-aktier fra A.P. Moeller og Hustru Chastine Mc-Kinney Moellers Familiefond, der deltager pro rata, under anden fase af tilbagekoebsprogrammet paa op til DKK 3,15 mia., som loeber fra 13. august 2026 til 29. januar 2027 inden for en samlet ramme paa DKK 6,3 mia. over 12 maaneder.",
+        "key": "76ecba673ec4af31",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "A.P. Moeller - Maersk A/S, selskabsmeddelelse (kontaktpersoner Martin Dunwoodie, Head of Investor Relations, og Jesper Lov, Head of Media Relations; ingen udtalelse fra talsperson)",
+        "url": "https://globenewswire.com/news-release/2026/10/26/3387880/0/en/transactions-in-connection-with-share-buy-back-program.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk oplyser i sin investorkalender, at delaarsrapporten for tredje kvartal 2026 offentliggoeres 5. november 2026 ca. kl. 8.00 CEST med telekonference for investorer og analytikere kl. 11.00 CEST.",
+        "key": "8380662f149d56a1",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-10-28T07:10:25Z",
+        "source": "A.P. Moeller - Maersk, Investor Relations (begivenhedsside)",
+        "url": "https://investor.maersk.com/events/event-details/interim-report-3rd-quarter-2026",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-21T06:14:28Z",
+  "recordedAt": "2026-10-28T07:10:25Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-B.CO"

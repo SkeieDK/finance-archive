@@ -1,7 +1,7 @@
 {
-  "contentHash": "f7aaacf4b4e1cfab",
+  "contentHash": "45a75108d9e09e48",
   "payload": {
-    "count": 4,
+    "count": 7,
     "items": [
       {
         "claim": "cBrain announced a strategic partnership with the Danish trade union Djoef to develop integrated digital platforms for unions, describing it as extending its F2 platform into the CRM market with delivery in phases.",
@@ -38,12 +38,39 @@
         "source": "cBrain A/S' selskabsmeddelelse, underskrevet af adm. direktoer Per Tejs Knudsen (CFO og IR-ansvarlig Lars Moeller Christiansen anfoert som kontakt)",
         "url": "https://www.cbrain.com/post/cbrain-announces-strategic-partnership-with-djoef-and-upgrades-earnings",
         "verifiedAs": null
+      },
+      {
+        "claim": "cBrain oplyser at selskabet har etableret cBrain Inc., et helejet amerikansk datterselskab, for at understoette fortsat markedsekspansion.",
+        "key": "3d1a6e9494060aab",
+        "publishedAt": "2026-10-22",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "cBrain A/S, selskabsmeddelelse nr. 05/2026 (ingen navngivet talsperson citeret; CEO Per Tejs Knudsen staar som afsender)",
+        "url": "https://www.globenewswire.com/news-release/2026/10/22/3386387/0/en/cbrain-establishes-u-s-subsidiary-to-support-continued-market-expansion.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "cBrain siger at SAM.gov-registreringen goer det muligt for cBrain Inc. at deltage direkte i amerikanske foederale indkoebsprocesser.",
+        "key": "d896908817abfd14",
+        "publishedAt": "2026-10-22",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "cBrain A/S, selskabsmeddelelse nr. 05/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/22/3386387/0/en/cbrain-establishes-u-s-subsidiary-to-support-continued-market-expansion.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "cBrain oplyser at meddelelsen ikke aendrer selskabets tidligere kommunikerede finansielle forventninger for 2026.",
+        "key": "bf798f62e8909bc6",
+        "publishedAt": "2026-10-22",
+        "recordedAt": "2026-10-27T07:10:37Z",
+        "source": "cBrain A/S, selskabsmeddelelse nr. 05/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/22/3386387/0/en/cbrain-establishes-u-s-subsidiary-to-support-continued-market-expansion.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-05T06:20:53Z",
+  "recordedAt": "2026-10-27T07:10:37Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "CBRAIN.CO"

@@ -1,7 +1,7 @@
 {
-  "contentHash": "52d8c3fbe670def2",
+  "contentHash": "774af52bfb5f66d9",
   "payload": {
-    "count": 5,
+    "count": 6,
     "items": [
       {
         "claim": "Royal Unibrew oplyste i sin ugentlige meddelelse om aktietilbagekoebsprogrammet, at programmet ventes gennemfoert i perioden fra 18. august 2026 til 8. december 2026 inden for en ramme paa op til 300 mio. kr., og redegjorde for koeb foretaget i ugen 21.-25. september.",
@@ -47,12 +47,21 @@
         "source": "Fiboinvest, nyhedsbrev uge 42 2026",
         "url": "https://www.fiboinvest.dk/nyhedsbrev-uge-42-2026/",
         "verifiedAs": null
+      },
+      {
+        "claim": "Royal Unibrew oplyser i selskabsmeddelelse nr. 54/2026 om ugens transaktioner under det tilbagekoebsprogram, selskabet udmeldte 17. august 2026 (meddelelse nr. 44/2026), og gentager at den samlede transaktionsvaerdi i perioden 18. august til 18. december 2026 'will not exceed DKK 300m'.",
+        "key": "e5be800fd7674929",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Royal Unibrew A/S, selskabsmeddelelse nr. 54/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383077/0/en/share-buy-back-program.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-19T06:12:52Z",
+  "recordedAt": "2026-10-26T07:16:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "RBREW.CO"

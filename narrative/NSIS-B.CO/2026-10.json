@@ -1,7 +1,7 @@
 {
-  "contentHash": "5b85631c838cb29e",
+  "contentHash": "beb797f5b2a400c8",
   "payload": {
-    "count": 4,
+    "count": 5,
     "items": [
       {
         "claim": "Novonesis told the market it had carried out further transactions under its ongoing share buyback programme, in the weekly announcement filed under the designation 2026_20_Share_buyback.",
@@ -38,12 +38,21 @@
         "source": "Darren Alfano, Head of People and Organization, Novonesis North America",
         "url": "https://www.globenewswire.com/news-release/2026/10/15/3381667/0/en/novonesis-opens-doors-to-students-to-inspire-the-next-generation-of-u-s-biomanufacturing-talent.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Novonesis udsendte sin loebende meddelelse om transaktioner under selskabets aktietilbagekoebsprogram (vedhaeftning navngivet 2026_22_Share_buyback); selve opgoerelsen ligger i den vedhaeftede PDF og blev ikke gengivet paa meddelelsessiden.",
+        "key": "78d1b2f5853132f3",
+        "publishedAt": "2026-10-19",
+        "recordedAt": "2026-10-26T07:16:34Z",
+        "source": "Novonesis A/S, selskabsmeddelelse via GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/10/19/3383100/0/en/transactions-under-novonesis-share-buyback-program.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-10"
   },
   "periodEnd": "2026-10",
-  "recordedAt": "2026-10-19T06:12:52Z",
+  "recordedAt": "2026-10-26T07:16:34Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NSIS-B.CO"
