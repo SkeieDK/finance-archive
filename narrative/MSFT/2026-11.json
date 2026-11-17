@@ -1,0 +1,158 @@
+{
+  "contentHash": "4d1e4be634b3e00b",
+  "payload": {
+    "count": 16,
+    "items": [
+      {
+        "claim": "Q1 FY2027 (quarter ended 30 September 2026): Reported 28 October 2026: revenue $92.3 billion (+19%); operating income $45.9 billion (+21%); GAAP net income $36.6 billion (+32%); GAAP diluted EPS $4.92, non-GAAP EPS $4.89 (+18%, excluding a $207 million net gain from the OpenAI investment). Microsoft Cloud revenue $63.9 billion (+30%), Azure +48%, commercial RPO +73% to $677 billion. Agents and Infra $76.8 billion (+25%); Devices and Consumer $15.5 billion (-3%), with Windows OEM and Devices -22%. Cash additions to property and equipment $39.4 billion vs $19.4 billion a year earlier. $10.2 billion returned to shareholders. Non-GAAP EPS of $4.89 beat a $4.72 consensus and revenue of $92.28 billion beat a $90.62 billion estimate (MarketBeat); 24/7 Wall St calls it the sixth consecutive beat and notes commercial bookings fell 12%.",
+        "key": "2f172fa361e3c319",
+        "publishedAt": null,
+        "recordedAt": "2026-11-17T01:36:56.315Z",
+        "source": "microsoft.com",
+        "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Q1 FY2027 (quarter ended 30 September 2026): The Q1 FY2027 10-Q shows revenue growth of 19%, capex roughly doubling year on year to $39.4 billion in the quarter, and a new two-segment structure (Agents and Infra; Devices and Consumer) that makes segment figures not directly comparable with the FY2026 annual report.",
+        "key": "96b70eb2b5a7af6a",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-11-17T01:36:56.315Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Norway Datatilsynet fined Microsoft subsidiary Xandr NOK 92 million (about USD 9.6 million) for sharing Grindr users' sensitive data without valid consent in 2018-2020 (pre-acquisition conduct); appeal status unknown",
+        "key": "35f5b3fc9618212b",
+        "publishedAt": "2026-10-12",
+        "recordedAt": "2026-11-17T01:36:56.315Z",
+        "source": "bleepingcomputer.com",
+        "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Delaware Court of Chancery gave final approval to a USD 250 million settlement (Microsoft funding 40%) of the Activision Blizzard stockholder class action over the merger price, without admission",
+        "key": "5181c08660831760",
+        "publishedAt": "2026-10-23",
+        "recordedAt": "2026-11-17T01:36:56.315Z",
+        "source": "snalawyers.com",
+        "url": "https://www.snalawyers.com/insights/delaware-chancery-approves-250m-microsoft-activision-shareholder-settl",
+        "verifiedAs": null
+      },
+      {
+        "claim": "UK CMA published a proposed decision to designate Microsoft with strategic market status in business software; Microsoft disputes it; no infringement finding or fine",
+        "key": "81b7d12a6582b5ea",
+        "publishedAt": "2026-10-16",
+        "recordedAt": "2026-11-17T01:36:56.315Z",
+        "source": "techtimes.com",
+        "url": "https://www.techtimes.com/articles/329187/20261019/uk-regulator-finds-microsoft-lock-across-5-enterprise-markets-proposes-new-powers.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US FTC escalated its antitrust investigation into whether Microsoft illegally monopolizes parts of enterprise computing via cloud, licensing and AI; no complaint or charge found",
+        "key": "80d1f4d217bdc514",
+        "publishedAt": "2026-02",
+        "recordedAt": "2026-11-17T01:36:56.315Z",
+        "source": "news.bloomberglaw.com",
+        "url": "https://news.bloomberglaw.com/antitrust/ftc-ratchets-up-microsoft-probe-queries-rivals-on-cloud-ai",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Australian ACCC sued Microsoft in the Federal Court alleging it misled about 2.7 million Microsoft 365 Personal and Family subscribers over Copilot price rises without disclosing the Classic plan",
+        "key": "279ff27a2a2b9b25",
+        "publishedAt": "2025-10",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "accc.gov.au",
+        "url": "https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions",
+        "verifiedAs": null
+      },
+      {
+        "claim": "European Commission opened a DMA market investigation into whether Azure should be designated a gatekeeper cloud service; no final designation retrieved",
+        "key": "8e8f4fbbc5b5d95a",
+        "publishedAt": "2025-11-18",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "digital-markets-act.ec.europa.eu",
+        "url": "https://digital-markets-act.ec.europa.eu/commission-launches-market-investigations-cloud-computing-services-under-digital-markets-act-2025-11-18_en",
+        "verifiedAs": null
+      },
+      {
+        "claim": "European Commission closed the Teams tying case by accepting legally binding commitments; no fine and no formal infringement finding",
+        "key": "92e0048db90ddda0",
+        "publishedAt": "2025-09-12",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "lawsociety.ie",
+        "url": "https://www.lawsociety.ie/gazette/top-stories/2025/september/microsofts-teams-pledges-satisfy-eu-commission/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US FTC dropped its challenge to the Activision Blizzard acquisition after losing its preliminary-injunction appeal at the Ninth Circuit",
+        "key": "943c35a1e458f234",
+        "publishedAt": "2025-05-22",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "pcgamer.com",
+        "url": "https://www.pcgamer.com/hardware/ftc-drops-2-year-case-against-microsofts-usd68-7-billion-acquisition-of-activision-blizzard",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Irish Data Protection Commission fined LinkedIn Ireland EUR 310 million with a reprimand and compliance order over processing of member data for behavioural analysis and targeted ads; under appeal",
+        "key": "8f5bad78ab8ff5af",
+        "publishedAt": "2024-10-22",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "dataprotection.ie",
+        "url": "https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-linkedin-ireland-eu310-million",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US IRS issued Notices of Proposed Adjustment seeking USD 28.9 billion in additional tax plus penalties and interest for 2004-2013 (transfer pricing); Microsoft contests, no assessment finalized",
+        "key": "5e8bbd55bda7d525",
+        "publishedAt": "2023-09-26",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526436133/msft-20260930.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US FTC and DOJ: Microsoft agreed to a USD 20 million civil penalty and injunctive terms over Xbox Live COPPA violations",
+        "key": "4494c67f77d55c2c",
+        "publishedAt": "2023-06-05",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "wilmerhale.com",
+        "url": "https://www.wilmerhale.com/en/insights/blogs/WilmerHale-Privacy-and-Cybersecurity-Law/20230620-ftc-announces-enforcement-action-against-microsoft-over-coppa-violations",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US Treasury OFAC and Commerce BIS imposed a combined USD 3.3 million in civil penalties for sanctions and export-control violations (2012-2019), voluntarily self-disclosed",
+        "key": "969be1b0a2e5e9e5",
+        "publishedAt": "2023-04-06",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "home.treasury.gov",
+        "url": "https://home.treasury.gov/news/press-releases/jy1394",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US DOJ and SEC: Microsoft paid USD 25.3 million to resolve FCPA books-and-records and internal-controls violations tied to improper payments at foreign subsidiaries; Microsoft Hungary entered a non-prosecution agreement",
+        "key": "9757960b3a80c45e",
+        "publishedAt": "2019-07-22",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "faegredrinker.com",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2019/10/3-fcpa-compliance-lessons-from-microsofts-settlement",
+        "verifiedAs": null
+      },
+      {
+        "claim": "European Commission fined Microsoft EUR 561 million for failing to show the browser-choice screen to Windows 7 SP1 users, breaching binding commitments",
+        "key": "c90be20ef80efbb7",
+        "publishedAt": "2013-03-06",
+        "recordedAt": "2026-11-17T01:36:56.316Z",
+        "source": "ec.europa.eu",
+        "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_13_196/IP_13_196_EN.pdf",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-17T01:36:56.316Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "MSFT"
+}
