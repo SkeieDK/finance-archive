@@ -1,0 +1,70 @@
+{
+  "contentHash": "bf374b6fea21850b",
+  "payload": {
+    "baseline": {
+      "buybacks": {
+        "ownMedianPe": 69.4,
+        "weightedPe": 77.9
+      },
+      "currency": "USD",
+      "fiscalYear": 2026,
+      "incremental_roic": {
+        "from": 2021,
+        "roiic_pct": 139.2,
+        "to": 2026
+      },
+      "insider_ownership_pct": 4.2,
+      "price": 156.14,
+      "priceCurrency": "USD",
+      "roic_pct": 92.3,
+      "roic_spread_pp": 80.6
+    },
+    "dimensions": {
+      "alignment": "Adequate",
+      "board": "Weak",
+      "candor_and_consistency": "Adequate",
+      "capital_allocation": "Adequate",
+      "composition_and_diversity": "Adequate",
+      "founders_and_owners": "Weak",
+      "people": "Adequate",
+      "succession": "Weak"
+    },
+    "fact_check": {
+      "findings": 5,
+      "revised": true
+    },
+    "key_concerns": [
+      "The founder-CEO, reported to have concentrated decision-making, resigned abruptly with no reason given, no successor named and an investigation outstanding.",
+      "The interim CEO also remains CFO, so two central roles sit with one person during a crisis and during a quarter with results due.",
+      "A board with a long-tenured founding-era core (four of ten directors from 1993 or 1997) that had no chair, no COO and no stated succession plan; ISS rates board risk 10 of 10.",
+      "Very large recent commitments (Groq $13bn, Hugging Face about $11.9bn, residual value guaranties up to $105bn) made under the departed CEO and still untested.",
+      "Buybacks weighted toward above-median valuations (P/E 77.9 vs median 69.4) with little net share-count reduction, plus extensive insider selling and no insider buying.",
+      "Unresolved questions: whether Huang could return, how his unvested PSUs are treated, and what he does with a roughly 3.6% stake while holding no role."
+    ],
+    "key_strengths": [
+      "A record of returns on capital that few companies match (ROIC 92.3% in FY2026; incremental returns of 139-188% in the latest windows), built by an operating team that is still largely in place.",
+      "Long-tenured, experienced finance, operations and legal leadership (CFO since 2013, operations head since 2009, general counsel since 2017 and EVP since February 2018).",
+      "Shareholder-friendly pay features: CEO equity entirely performance-based, no severance or change-in-control agreements, hedging/pledging ban, ownership guidelines exceeded, clawback since 2009.",
+      "A widely held, single-class structure with no controlling owner.",
+      "A record of naming operating setbacks directly (2022 pre-announcement, H20 charge)."
+    ],
+    "overall": "Weak",
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "sources": {
+      "cited": 26,
+      "fetched": 25
+    },
+    "summary": "NVIDIA's remaining operating team is experienced and its record on returns on capital is outstanding. But the founder-CEO who led the company for 33 years, and reportedly concentrated its decision-making, resigned on 11 November 2026 with no reason given and no successor named. The CFO is now doubling as interim CEO. The board is formally independent but has a long-tenured founding-era core, including the new chair, had no chair or succession plan before the crisis, and is rated at maximum board risk by ISS. Pay design is largely sound, though insiders have been heavy sellers and buybacks skewed toward above-median valuations. Very large, untested commitments made under the departed CEO now pass to an interim leadership, which is why this is weak for now rather than a judgement on the past operating record.",
+    "ticker": "NVDA",
+    "underestimated": "The returns in the numbers were produced under a founder who, by press and analyst accounts, held much of the decision-making himself, and four of the ten directors who oversaw him (Coxe, Jones and Stevens from 1993, Seawell from 1997) have sat alongside him since the founding era, one of whom is now the chair. That board's lack of succession preparation is why a personal scandal became a leadership vacuum. Those historical ROIC figures do not show whether the institution can allocate capital and set product direction without him, and the first test falls on very large, recently committed bets.",
+    "what_would_change_my_view": "Toward better: published investigation findings that resolve the matter; appointment of a permanent CEO with credible product and technical leadership, plus a separate CFO; board refreshment that reduces founding-era tenure; and evidence over the next few quarters that execution on the roadmap and on the Groq, Hugging Face and OpenAI commitments holds up. Toward worse: findings that implicate security or controls, a disorderly fight over Huang's return or his stake, departures of other senior executives, or misses against the company's own outlook while the CEO role stays interim."
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-11-17T08:59:05.613Z",
+  "source": "management-assessment",
+  "sourceVersion": null,
+  "ticker": "NVDA"
+}

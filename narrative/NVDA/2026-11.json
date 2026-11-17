@@ -1,0 +1,140 @@
+{
+  "contentHash": "d834aae6649e06f6",
+  "payload": {
+    "count": 14,
+    "items": [
+      {
+        "claim": "Q2 FY2027 (three months to 26 July 2026): Reported 26 August 2026. Revenue $96.2bn, up 18% q/q and 106% y/y; Data Center $89.0bn (+117% y/y), Edge Computing $7.2bn (+27% y/y). GAAP and non-GAAP gross margin both 75.0%. GAAP operating income $63.7bn (+124% y/y). GAAP diluted EPS $2.46, non-GAAP $2.22 (non-GAAP no longer excludes stock-based compensation since Q1 FY2027). GAAP net income $59.7bn included $7.8bn of gains on equity securities. Free cash flow fell to $21.3bn from $48.6bn in Q1 as accounts receivable rose $22.3bn to $63.1bn. About $26.0bn returned via buybacks and dividends, with about $99.0bn left on the repurchase authorization. Revenue beat NVIDIA's own Q2 guidance of $91.0bn +/-2%; the briefing could not confirm the sell-side revenue consensus for Q2 itself, so the beat is measured against company guidance. Shares closed at $209.66 before the report and opened about 6% higher the next day.",
+        "key": "81ff45d21118276c",
+        "publishedAt": null,
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "nvidianews.nvidia.com",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Q2 FY2027 (quarter ended 26 July 2026): Two quarters since the FY2026 10-K (year ended 25 January 2026) show revenue roughly doubling y/y, receivables rising to $63.1bn from $38.5bn, long-term debt rising to $32.4bn from $7.5bn and $108.5bn of new guarantees, none of which the annual figures reflect; Q3 FY2027 results are due today, 17 November 2026.",
+        "key": "4b26e8e82e38feb8",
+        "publishedAt": "2026-08-26",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Megaspeed / Huang affair: board independent investigation and FBI probe (target unspecified); CEO Jensen Huang resigned 11 Nov 2026; no charge, regulatory action or finding against NVIDIA",
+        "key": "b9e3f7567e67bdf8",
+        "publishedAt": "2026-11-11",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Congressional inquiry (Wyden/Neal) to Commerce Department on NVIDIA H200 export approvals to China; directed at Commerce, not NVIDIA",
+        "key": "7e58278e31d066da",
+        "publishedAt": "2026-11-12",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "wyden.senate.gov",
+        "url": "https://www.wyden.senate.gov/imo/media/doc/11122026wydenneallettertolutnickonnvidia.pdf",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Kistenmacher v. NVIDIA, N.D. Cal. securities class action (5:26-cv-13448) alleging concealment of Huang's Megaspeed relationship and misleading statements on Megaspeed dealings",
+        "key": "e1aac18cf4981a7f",
+        "publishedAt": "2026-11-09",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "ppc.land",
+        "url": "https://ppc.land/investor-sues-nvidia-over-huangs-ties-to-suspected-spy-after-4-27-drop/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US DOJ Antitrust Division inquiring into ~$12.93bn Hugging Face acquisition amid years-long conduct investigation (acquisitions, investments, sales practices); no complaint filed",
+        "key": "8f508989d07413bd",
+        "publishedAt": "2026-10",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "deccanchronicle.com",
+        "url": "https://www.deccanchronicle.com/amp/technology/us-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-report-1999918",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US DOJ reportedly investigating whether ~$20bn non-exclusive Groq licensing deal was structured to avoid merger review",
+        "key": "9ac372960d2ac113",
+        "publishedAt": "2026-09-10",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "pcgamer.com",
+        "url": "https://pcgamer.com/hardware/nvidia-is-reportedly-being-investigated-by-the-doj-over-its-biggest-ever-deal-a-usd20-billion-non-exclusive-agreement-with-groq",
+        "verifiedAs": null
+      },
+      {
+        "claim": "French Competition Authority antitrust investigation (CUDA lock-in, investments in AI cloud providers; began with 2023 raid); rapporteur says nearing end, no statement of objections or decision found",
+        "key": "d3b76ace7b1f470f",
+        "publishedAt": "2026-07-09",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "thenextweb.com",
+        "url": "https://thenextweb.com/news/france-nvidia-antitrust-probe-nearing-end",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Nazemian et al. v. NVIDIA, N.D. Cal. copyright class action over AI training data; court dismissed vicarious infringement but let direct and contributory claims proceed",
+        "key": "613e89df09d5d4e0",
+        "publishedAt": "2026-05-06",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "chatgptiseatingtheworld.com",
+        "url": "https://chatgptiseatingtheworld.com/2026/05/06/judge-tigar-dismisses-vicarious-liability-claim-but-allows-all-others-by-nazemian-v-nvidia/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "In re NVIDIA Corporation Securities Litigation (N.D. Cal. 4:18-cv-07669) over 2017-2018 crypto-mining demand statements; class certified 25 Mar 2026, no settlement or verdict, no liability accrued",
+        "key": "0b691db23ca6b075",
+        "publishedAt": "2026-03-25",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Valeo v. NVIDIA, N.D. Cal. trade-secret suit over allegedly stolen driving-assistance code; settled on undisclosed terms, NVIDIA denied the claims",
+        "key": "9cbcb75d98047a20",
+        "publishedAt": "2025-12-17",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "law360.com",
+        "url": "https://law360.com/articles/2423427",
+        "verifiedAs": null
+      },
+      {
+        "claim": "China SAMR preliminary finding that NVIDIA did not fully comply with Mellanox merger conditions (Anti-Monopoly Law); further investigation, no final decision or fine",
+        "key": "6a27a4329c8c6b98",
+        "publishedAt": "2025-09-15",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "fortune.com",
+        "url": "https://fortune.com/2025/09/15/china-nvidia-mellanox-antitrust-trade-trump-tariffs-talks-beijing-washington",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US SEC cease-and-desist order and $5.5m penalty for failing to disclose crypto-mining as a driver of gaming revenue in two FY2018 10-Qs (no admission or denial)",
+        "key": "a62bd72fb7fa6a6d",
+        "publishedAt": "2022-05-06",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/news/press-release/2022-79",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US FTC sued to block the $40bn Arm acquisition; NVIDIA and SoftBank abandoned the deal, no misconduct finding or penalty",
+        "key": "19d30b6f49db1b60",
+        "publishedAt": "2022-02-14",
+        "recordedAt": "2026-11-17T01:38:45.851Z",
+        "source": "ftc.gov",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2022/02/statement-regarding-termination-nvidia-corps-attempted-acquisition-arm-ltd",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-17T01:38:45.851Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NVDA"
+}
