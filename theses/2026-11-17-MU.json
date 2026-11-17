@@ -1,0 +1,76 @@
+{
+  "contentHash": "73a83c0d500855b7",
+  "payload": {
+    "claim": "1) Q1 FY2027 actuals against the $61.5B +/- $1.5B revenue and ~86% gross-margin guide. Management called Q1 the gross-margin low point for FY2027, so any later quarter below it means the down-cycle is arriving earlier than the contracts imply, which would push the verdict toward AVOID. 2) Proof that the 26 long-term agreements, the $32B of prepayments and the ~$150B of RPO hold when spot DRAM/HBM prices weaken: no renegotiation, cancellations or prepayment drawdowns. If they hold, a normalized base at or above 19.07/share becomes defensible and the margin of safety would turn materially less negative. 3) Signs that conventional DRAM price increases have turned negative, CXMT server-DRAM share gains, or capex rising beyond the ~$25B H1 FY27 guide while margins compress. 4) An integrity gate escalation: a merits finding in the 2026 DRAM output-conspiracy class action, or a SAMR decision against Micron. 5) Operational shocks: a Section 232 tariff outcome, or Fab 11E still halted.",
+    "conviction": "Low",
+    "prediction": {
+      "anchorFiscalYear": 2026,
+      "basis": "annual",
+      "confidence": 0.55,
+      "fiscalYear": 2029,
+      "metric": "gross_margin_pct",
+      "op": "<",
+      "reasoning": "FY2026's 80.72% gross margin and the ~86% Q1 FY27 guide are peak-cycle numbers. Pricing collapsed in FY2019-FY2020 and FY2023, capex is surging, CXMT is scaling, and management claims tight supply only through 2028. So I expect margins to have come down materially three years out. A reverse DCF that requires 35.7% a year of growth for a decade effectively assumes that this does not happen.",
+      "statedYearsAhead": 3,
+      "value": 70
+    },
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "references": {
+      "baseRate": null,
+      "holdsToday": false,
+      "market": {
+        "capped": null,
+        "discountRatePct": 14.4,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          35.7,
+          35.9
+        ],
+        "impliedGrowthPct": 35.7,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "value": 80.72,
+            "year": 2026
+          },
+          {
+            "value": 39.79,
+            "year": 2025
+          },
+          {
+            "value": 22.35,
+            "year": 2024
+          }
+        ],
+        "ttm": [
+          {
+            "periodEnd": "2026-08-31",
+            "value": 80.72
+          },
+          {
+            "periodEnd": "2026-05-31",
+            "value": 72.57
+          }
+        ]
+      },
+      "statusQuo": {
+        "period": "FY2026",
+        "value": 80.72
+      }
+    },
+    "resolveBy": "2030-06-30",
+    "ticker": "MU",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2030-06-30",
+  "recordedAt": "2026-11-17T01:27:42.841Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "MU"
+}
