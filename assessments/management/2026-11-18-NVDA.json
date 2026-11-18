@@ -1,0 +1,70 @@
+{
+  "contentHash": "e08d0336597d2eeb",
+  "payload": {
+    "baseline": {
+      "buybacks": {
+        "ownMedianPe": 69.4,
+        "weightedPe": 77.8
+      },
+      "currency": "USD",
+      "fiscalYear": 2026,
+      "incremental_roic": {
+        "from": 2021,
+        "roiic_pct": 139.2,
+        "to": 2026
+      },
+      "insider_ownership_pct": 4,
+      "price": 155.46,
+      "priceCurrency": "USD",
+      "roic_pct": 92.3,
+      "roic_spread_pp": 80.5
+    },
+    "dimensions": {
+      "alignment": "Adequate",
+      "board": "Weak",
+      "candor_and_consistency": "Adequate",
+      "capital_allocation": "Adequate",
+      "composition_and_diversity": "Adequate",
+      "founders_and_owners": "Weak",
+      "people": "Adequate",
+      "succession": "Weak"
+    },
+    "fact_check": {
+      "findings": 4,
+      "revised": true
+    },
+    "key_concerns": [
+      "No permanent CEO, no named successor and no timetable. The interim CEO is also the CFO, and no acting CFO has been announced.",
+      "Several inquiries remain open: the board investigation (no findings published), a reported but unconfirmed SEC civil probe into disclosures, a proposed securities class action, and congressional interviews of Huang and sitting General Counsel Teter on 1-2 Dec 2026.",
+      "Board entrenchment signals: a 1993-vintage core, a new Chair from that group, no chair or succession plan before the crisis, a shareholder-approved simple-majority change not yet implemented, and an ISS board risk score of 10.",
+      "Large, recent commitments with unproven outcomes were made under the departed CEO: the $13.0bn Groq license, the roughly $11.9bn Hugging Face deal, and residual value guaranties capped at $105bn.",
+      "Insiders have sold one-way with no open-market purchases. Pay rewards revenue and operating income rather than returns on capital.",
+      "A founder-holder with 3.58% who publicly wants to return, against a board that says it will not reinstate him."
+    ],
+    "key_strengths": [
+      "An experienced, long-tenured operating team kept delivering through the transition: Q3 FY2027 revenue of $115.8bn against guidance of $108.0bn plus or minus 2% set under Huang.",
+      "Exceptional returns on capital over the recent cycle (ROIC 92.3% in 2026, incremental return 139.2% over FY2021-2026, per code).",
+      "Shareholder-friendly pay mechanics: no severance or change-in-control agreements, hedging and pledging prohibited, ownership guidelines exceeded, clawback in place, CEO pay 96% performance-dependent.",
+      "A clean ownership structure: one share class and no controlling holder.",
+      "Since the crisis broke the board has moved quickly: an outside investigator, a search firm, and a new national-security oversight committee."
+    ],
+    "overall": "Weak",
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "sources": {
+      "cited": 39,
+      "fetched": 38
+    },
+    "summary": "NVIDIA's operating team is experienced and still delivering, with Q3 revenue well above guidance, and the business's returns on capital have been exceptional. The governance picture has broken down, though. The founder-CEO, who concentrated decision-making for 33 years, resigned over conduct the board says breached its code. No successor is named, and the interim CEO also remains CFO. The long-tenured board had no chair and no disclosed succession plan before the crisis, and its 8 Nov expression of confidence in Huang was overtaken within days. Since then it has acted quickly: outside investigators, a search firm and a new national-security committee. Several inquiries remain open: the board's investigation, a reported SEC probe, a proposed class action and congressional interviews that include the sitting General Counsel. Until a permanent CEO is in place and those inquiries are resolved, the people dimension is the weak link.",
+    "ticker": "NVDA",
+    "underestimated": "The checks and balances are thin at exactly the moment they matter most. The interim CEO also signs off as CFO, with no acting CFO announced. The General Counsel, who would normally steer the company through the investigations, is himself due before Congress on his role in a potential national-security breach. The independent Chair has sat on the board since the founding year. ROIC, buyback figures and a large guidance beat look pristine, and they say nothing about this.",
+    "what_would_change_my_view": "Towards Average or Strong: published findings from the independent investigation that clear the remaining officers and the company's disclosures; congressional interviews on 1-2 Dec that add no new exposure for the General Counsel or the company; appointment of a permanent CEO with a documented operating record, and a separate CFO or acting CFO; board renewal beyond the 1993-1997 cohort and implementation of the shareholder-approved simple-majority standard; disclosure of how Huang's unvested PSUs and Kress' interim pay are treated. Further towards Weak: investigation or SEC findings that implicate sitting officers or the board's earlier statements, a drawn-out search, departures from the operating team, or new losses on the Groq, Hugging Face or OpenAI-related commitments."
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-11-18T07:19:39.441Z",
+  "source": "management-assessment",
+  "sourceVersion": null,
+  "ticker": "NVDA"
+}

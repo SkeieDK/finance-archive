@@ -1,7 +1,7 @@
 {
-  "contentHash": "d834aae6649e06f6",
+  "contentHash": "5f40e464486de60c",
   "payload": {
-    "count": 14,
+    "count": 24,
     "items": [
       {
         "claim": "Q2 FY2027 (three months to 26 July 2026): Reported 26 August 2026. Revenue $96.2bn, up 18% q/q and 106% y/y; Data Center $89.0bn (+117% y/y), Edge Computing $7.2bn (+27% y/y). GAAP and non-GAAP gross margin both 75.0%. GAAP operating income $63.7bn (+124% y/y). GAAP diluted EPS $2.46, non-GAAP $2.22 (non-GAAP no longer excludes stock-based compensation since Q1 FY2027). GAAP net income $59.7bn included $7.8bn of gains on equity securities. Free cash flow fell to $21.3bn from $48.6bn in Q1 as accounts receivable rose $22.3bn to $63.1bn. About $26.0bn returned via buybacks and dividends, with about $99.0bn left on the repurchase authorization. Revenue beat NVIDIA's own Q2 guidance of $91.0bn +/-2%; the briefing could not confirm the sell-side revenue consensus for Q2 itself, so the beat is measured against company guidance. Shares closed at $209.66 before the report and opened about 6% higher the next day.",
@@ -128,12 +128,102 @@
         "source": "ftc.gov",
         "url": "https://www.ftc.gov/news-events/news/press-releases/2022/02/statement-regarding-termination-nvidia-corps-attempted-acquisition-arm-ltd",
         "verifiedAs": null
+      },
+      {
+        "claim": "Q3 FY2027 (quarter ended 25 Oct 2026): Published 17 Nov 2026 (unaudited, 8-K): revenue $115.8bn (+20% q/q, +103% y/y); Data Center $107.6bn (+110% y/y), of which Hyperscale $60.1bn and AI Clouds, Industrial & Enterprise $47.5bn; Edge Computing $8.2bn. GAAP gross margin 74.8% (Q2: 75.0%), GAAP operating income $77.5bn, GAAP net income $65.3bn, diluted EPS $2.70 GAAP / $2.68 non-GAAP (non-GAAP no longer excludes stock-based compensation from Q1 FY27). Nine-month GAAP other income of $25.6bn is mostly equity-securities gains, so net income runs above operating earnings; Q3 also included a $1.8bn impairment on non-marketable equity securities. Operating cash flow $48.3bn, free cash flow $43.8bn; $28.1bn returned via buybacks and dividends, with $227.3bn of buyback authorization remaining. Balance-sheet strain: receivables $81.0bn (vs $38.5bn in Jan 2026), DSO up to 64 days from 60 on 'extended payment terms' for certain large customers, inventory $39.7bn, supply commitments $390bn, maximum guarantee exposure $118.0bn, long-term debt $32.4bn (vs $7.5bn in Jan).",
+        "key": "69671aa6352269a7",
+        "publishedAt": null,
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Q3 FY2027 (quarter ended 25 Oct 2026); also 10-Qs for Q1 and Q2 FY2027: Three quarters after the FY2026 10-K (year ended 25 Jan 2026) show revenue roughly doubling y/y but also receivables more than doubling to $81.0bn, long-term debt rising from $7.5bn to $32.4bn, and guarantee exposure of up to $118.0bn, so the annual figures understate both scale and balance-sheet commitments; the Q3 figures are unaudited 8-K numbers, with the 10-Q still to be filed.",
+        "key": "3d6b7dea29e14b9b",
+        "publishedAt": "2026-11-17",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "SEC reportedly opened a civil probe (per WSJ, via TechCrunch) into whether NVIDIA's disclosures misled investors; unconfirmed by the SEC or the company",
+        "key": "58971ca280336ebb",
+        "publishedAt": "2026-11-17",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "techcrunch.com",
+        "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Proposed securities class action filed in N.D. Cal. (San Jose) against NVIDIA and Jensen Huang alleging concealment of Huang's relationship with former Megaspeed executive Alice Huang and the related national-security risk",
+        "key": "23b307a1452c7fb8",
+        "publishedAt": "2026-11",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "koreajoongangdaily.com",
+        "url": "https://www.koreajoongangdaily.com/business/nvidia-shareholders-sue-jensen-huang-after-affair-with-suspected-chinese-spy/12965129",
+        "verifiedAs": null
+      },
+      {
+        "claim": "U.S. Commerce and Justice Departments confirmed a criminal investigation into Megaspeed, NVIDIA's Singapore customer; NVIDIA not named as target",
+        "key": "b8d2b7efc08675a6",
+        "publishedAt": "2026-11-16",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "aljazeera.com",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Singapore Police Force and Singapore Customs investigation into Megaspeed and its controllers over possible false declarations in server purchases (opened Feb 2025, disclosed by Singapore MHA); NVIDIA not named",
+        "key": "eb9be18ecba481d9",
+        "publishedAt": "2026-11-12",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "mha.gov.sg",
+        "url": "https://www.mha.gov.sg/media-room/newsroom/singapore-investigations-into-alice-huang-huang-le-and-megaspeed-international-pte-ltd/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "N.D. Cal. certified a shareholder class in the crypto-mining securities suit (E. Ohman J:or Fonder AB v. NVIDIA, filed 2018) against NVIDIA and Huang; proceeding to discovery",
+        "key": "6fb3a1675510ed8e",
+        "publishedAt": "2026-03-25",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "ktmc.com",
+        "url": "https://www.ktmc.com/news/ktmc-secures-class-certification-victory-for-nvidia-investors-in-crypto-mining-fraud-suit/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "China SAMR preliminary investigation found NVIDIA violated the Anti-Monopoly Law by not fully complying with conditions of the 2020 Mellanox approval; further investigation announced",
+        "key": "61c959320c51008b",
+        "publishedAt": "2025-09-15",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "fortune.com",
+        "url": "https://fortune.com/2025/09/15/china-nvidia-mellanox-antitrust-trade-trump-tariffs-talks-beijing-washington",
+        "verifiedAs": null
+      },
+      {
+        "claim": "SEC settled charges that NVIDIA's FY2018 10-Qs failed to disclose crypto-mining-driven gaming growth; cease-and-desist order and $5.5m penalty, without admitting or denying",
+        "key": "6af05f5233b210e5",
+        "publishedAt": "2022-05-06",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "sec.gov",
+        "url": "https://sec.gov/news/press-release/2022-79",
+        "verifiedAs": null
+      },
+      {
+        "claim": "FTC sued to block NVIDIA's $40bn Arm acquisition; deal terminated 8 Feb 2022 with no finding of wrongdoing or penalty",
+        "key": "25933a5465ea7646",
+        "publishedAt": "2021-12-02",
+        "recordedAt": "2026-11-18T07:09:58.216Z",
+        "source": "npr.org",
+        "url": "https://www.npr.org/2021/12/02/1061012795/ftc-sues-to-block-nvidia-arm-merger",
+        "verifiedAs": null
       }
     ],
     "month": "2026-11"
   },
   "periodEnd": "2026-11",
-  "recordedAt": "2026-11-17T01:38:45.851Z",
+  "recordedAt": "2026-11-18T07:09:58.316Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "NVDA"
