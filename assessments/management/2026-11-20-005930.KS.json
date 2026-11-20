@@ -1,0 +1,64 @@
+{
+  "contentHash": "41b37f4c637a9375",
+  "payload": {
+    "baseline": {
+      "buybacks": {
+        "ownMedianPe": null,
+        "weightedPe": null
+      },
+      "currency": "KRW",
+      "fiscalYear": 2025,
+      "incremental_roic": null,
+      "insider_ownership_pct": 9.7,
+      "price": 183100,
+      "priceCurrency": "KRW",
+      "roic_pct": 10.4,
+      "roic_spread_pp": 0.6
+    },
+    "dimensions": {
+      "alignment": "Adequate",
+      "board": "Adequate",
+      "candor_and_consistency": "Adequate",
+      "capital_allocation": "Adequate",
+      "composition_and_diversity": "Adequate",
+      "founders_and_owners": "Adequate",
+      "people": "Strong",
+      "succession": "Adequate"
+    },
+    "fact_check": {
+      "findings": 0,
+      "revised": false
+    },
+    "key_concerns": [
+      "Control well beyond direct stake: Lee holds about 1.6-1.75% directly, the group controls 19.7% via the C&T and Samsung Life chain, and the executive chairman is not a registered director.",
+      "Lee's chairman record includes a bribery conviction (pardoned in 2022), and no succession plan for his role is published.",
+      "Code shows ROIC below the cost of capital in 2023-2024, annual dilution of 3.6%, a negative total shareholder yield and a payout above earnings. The latest KRW 15tn buyback is held for stock compensation, not cancelled.",
+      "Bonus and LTI performance metrics are undisclosed, and the DX Division under the co-CEO posted a Q3 2026 operating loss.",
+      "Family inheritance-tax needs and the pending 'Samsung Life Act' could shape the supply of shares and the control chain, independently of how the business performs."
+    ],
+    "key_strengths": [
+      "Deep in-house technical leadership: the DS head is a career memory engineer with a KAIST Ph.D. who previously ran Samsung SDI, and DS earned KRW 106.5tn operating profit in Q3 2026.",
+      "Formally independent board with an independent chair, a majority of independent directors, and a 2026 AGM that removed the exclusion of cumulative voting.",
+      "Management publicly took responsibility for the 2024 chip setback, and the FY2024-2026 return policy has been met on the company's own figures.",
+      "Variable, increasingly share-based executive pay plus an employee PSU tied to the share price, together with a controlling chairman who takes no salary."
+    ],
+    "overall": "Average",
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "sources": {
+      "cited": 29,
+      "fetched": 29
+    },
+    "summary": "Samsung's operating management is technically deep and has recovered the chip business since Jun Young-hyun's unusually candid 2024 apology, but the device side is losing money and code puts returns on capital below the cost of capital in 2023-2024. The board is formally independent with an independent chair, yet real authority sits with an executive chairman who is outside the board, holds under 2% directly and controls through a family and affiliate chain of about 19.7%. His record includes a pardoned bribery conviction. Alignment is reasonable: pay is variable and increasingly paid in shares, and Lee takes no salary. However, code shows net dilution and a payout above earnings, and the latest KRW 15tn buyback funds stock compensation rather than cancellation. On balance, this is an average management, board and owner picture: competent operators inside a control structure that minority shareholders have to accept rather than influence.",
+    "ticker": "005930.KS",
+    "underestimated": "The governance numbers look clean (an ISS overall score of 1 and a 62.5% independent board), but they miss that the person at the top, Executive Chairman Lee Jae-yong, is not a registered director. He controls the company through a family and affiliate chain of about 19.7%, while his direct stake is under 2%. That chain is exposed to family inheritance-tax needs and to the pending 'Samsung Life Act'.",
+    "what_would_change_my_view": "Toward Strong: ROIC holding clearly above the cost of capital through a downturn, not just at the memory peak; the share count falling net of stock compensation; disclosed bonus and LTI metrics; a published succession framework, or the executive chairman joining the board and becoming accountable to it; and a DX turnaround under Roh. Toward Weak: the January 2027 return decision falling short of the KRW 90-110tn stated in August 2026; continued net dilution; family share sales or control-tower moves that put the family's interests ahead of minority holders; or a disruptive late-2026 reshuffle."
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-11-20T15:33:59.846Z",
+  "source": "management-assessment",
+  "sourceVersion": null,
+  "ticker": "005930.KS"
+}
