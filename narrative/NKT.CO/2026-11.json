@@ -1,0 +1,77 @@
+{
+  "contentHash": "72542e018506d519",
+  "payload": {
+    "count": 7,
+    "items": [
+      {
+        "claim": "Q3 2026: Interim Report Q1-Q3 2026, published 19 Nov 2026: Q3 revenue EUR 966m (Q3 2025: 936m); revenue at standard metal prices EUR 673m (726m), organic growth -7%; operational EBITDA EUR 111m (119m), margin 16.6% (16.4%). Q1-Q3 standard-metal revenue EUR 1,940m (2,079m), organic -7%; operational EBITDA EUR 312m (305m), margin 16.1% (14.7%). Segment Q3 EBITDA: Transmission EUR 70m (71m), Grid Solutions & Accessories EUR 21m (26m), Distribution EUR 24m (22m). Q3 free cash flow EUR -127m; net cash EUR 471m at end-Q3 vs EUR 591m at end-Q2. Transmission backlog EUR 12.4bn vs 13.0bn at end-Q2, excluding five TenneT framework projects estimated at >EUR 2.5bn. NKT attributes the decline to a high Q3 2025 comparison base (CHPE execution and repair jobs) and project timing. Against NKT's published pre-report consensus (13 analysts, 28 Oct 2026): revenue 673 vs 721, EBITDA 111 vs 116, FCF -127 vs 15 (misses); Grid Solutions & Accessories 21 vs 19 (beat). The briefing notes this comparison is its own arithmetic on company pages; no independent coverage of the market reaction was found, though a StockAnalysis page showed the share at DKK 774.50 on 20 Nov 2026, down 5.55% on the day.",
+        "key": "497cf2d391ec2148",
+        "publishedAt": null,
+        "recordedAt": "2026-11-21T02:40:24.910Z",
+        "source": "investors.nkt.com",
+        "url": "https://investors.nkt.com/financial-reports/nkt-as-interim-report-q1-q3-2026-continued-solid-financial-and-operational-execution/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Q1-Q3 2026: Compared with the FY2025 annual figures, net cash has roughly halved from EUR 963m to EUR 471m after free cash flow of EUR -92m, -249m and -127m across Q1-Q3 2026, and organic growth has turned negative (-7% year to date), even though operational EBITDA and its margin are higher.",
+        "key": "75ee077da8bb7065",
+        "publishedAt": "2026-11-19",
+        "recordedAt": "2026-11-21T02:40:24.910Z",
+        "source": "investors.nkt.com",
+        "url": "https://investors.nkt.com/files/Public/23044/4426667/nkt-interim-report-q1-q3-2026.pdf",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Czech competition authority (ÚOHS) first-instance decision fining four cable makers CZK 1.942bn for metal-surcharge coordination; NKT s.r.o. fined CZK 910,071,000 for conduct from at least 2010 to Feb 2022 (Statement of Objections received Mar 2026); NKT is appealing",
+        "key": "e2b168f54393a26a",
+        "publishedAt": "2026-10-01",
+        "recordedAt": "2026-11-21T02:40:24.910Z",
+        "source": "uohs.gov.cz",
+        "url": "https://uohs.gov.cz/en/information-centre/press-releases/competition/4676-the-office-imposed-record-fine-of-nearly-czk-2-billion-for-cartel-agreement-among-cable-manufacturers.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Slovak Antimonopoly Office first-instance decision in a cable cartel case (record total fines of about EUR 97m across participants) involving NKT s.r.o.; NKT's share is undisclosed and NKT has appealed to the Office's Council",
+        "key": "0f637533ca93e30a",
+        "publishedAt": "2026-02",
+        "recordedAt": "2026-11-21T02:40:24.910Z",
+        "source": "view.news.eu.nasdaq.com",
+        "url": "https://view.news.eu.nasdaq.com/view?id=beb1030cf7c2fdd504e7d5894008311e8&lang=en",
+        "verifiedAs": null
+      },
+      {
+        "claim": "UK Competition Appeal Tribunal, Spottiswoode v Nexans, NKT, Prysmian: certified collective follow-on damages claim (up to GBP 790m against all defendants); a Apr 2026 ruling limits NKT's joint liability to 22 Nov 2002 to 17 Feb 2006 and to EU/EEA sales; no judgment on liability or quantum yet",
+        "key": "a6a45388c17e7bed",
+        "publishedAt": "2026-04-10",
+        "recordedAt": "2026-11-21T02:40:24.910Z",
+        "source": "catribunal.org.uk",
+        "url": "https://www.catribunal.org.uk/sites/cat/files/2026-04/14407722%20Clare%20Mary%20Joan%20Spottiswoode%20CBE%20v%20Nexans%20France%20S.A.S.%20&%20Others%20-%20Ruling%20(Experts)%20%2010%20Apr%202026%20%20.pdf",
+        "verifiedAs": null
+      },
+      {
+        "claim": "European Commission power cables cartel decision (AT.39610) fined NKT EUR 3.9m; the Court of Justice in 2020 partially annulled the decision and cut the fine to EUR 3.687m, with the infringement upheld in part",
+        "key": "55a885fbb1b6880d",
+        "publishedAt": "2014-04-02",
+        "recordedAt": "2026-11-21T02:40:24.910Z",
+        "source": "investors.nkt.com",
+        "url": "https://investors.nkt.com/company-announcements/2014/european-commission-fines-cable-producers-in-cartel-case/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "National Grid settled its UK follow-on damages claim against NKT arising from the 2014 EU power cables cartel decision, for an undisclosed sum",
+        "key": "8f59b20cd130f622",
+        "publishedAt": "2020-09-17",
+        "recordedAt": "2026-11-21T02:40:24.910Z",
+        "source": "globalcompetitionreview.com",
+        "url": "https://globalcompetitionreview.com/article/nkt-settles-national-grid-power-cables-claim",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-21T02:40:24.911Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "NKT.CO"
+}

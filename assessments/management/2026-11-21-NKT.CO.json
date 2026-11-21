@@ -1,0 +1,64 @@
+{
+  "contentHash": "a629b72e7c601482",
+  "payload": {
+    "baseline": {
+      "buybacks": {
+        "ownMedianPe": null,
+        "weightedPe": null
+      },
+      "currency": "EUR",
+      "fiscalYear": 2025,
+      "incremental_roic": null,
+      "insider_ownership_pct": 0.1,
+      "price": 774.5,
+      "priceCurrency": "DKK",
+      "roic_pct": null,
+      "roic_spread_pp": null
+    },
+    "dimensions": {
+      "alignment": "Weak",
+      "board": "Adequate",
+      "candor_and_consistency": "Strong",
+      "capital_allocation": "Strong",
+      "composition_and_diversity": "Adequate",
+      "founders_and_owners": "Adequate",
+      "people": "Strong",
+      "succession": "Adequate"
+    },
+    "fact_check": {
+      "findings": 2,
+      "revised": true
+    },
+    "key_concerns": [
+      "Weak alignment: insiders own about 0.1%, three AGM-elected directors hold no shares, the CEO sold most of his 2026 PSU vesting, and the chair sold in May 2026",
+      "Shareholders rejected the 2025 remuneration report, and the chair publicly disagreed with the reasons given; no pay metric rewards return on capital",
+      "The chair has been on the board since 2006, through two abrupt CEO exits that were explained little, and no board evaluation since December 2021 is described",
+      "Competition cases in Slovakia, the Czech Republic and Germany with no fine amounts disclosed; NKT expects final decisions 'latest during 2027', with appeals that 'may extend over several years'",
+      "Code figures show a 4.5% annual increase in the share count (-4.5% total shareholder yield); the briefing documents the 2023 rights issue but does not break down the source"
+    ],
+    "key_strengths": [
+      "An operational record that beats promises: the 2025 EBITDA ambition was exceeded with a record EUR 390m, RoCE was 24%, and guidance was raised in both 2025 and 2026",
+      "A CEO whose expertise (HV cables, HVDC, Karlskrona) matches the company's main investment, with that expansion reported slightly ahead of plan",
+      "Capital decisions whose stated reasons have so far been borne out: the Photonics exit at a higher reported price, SolidAl integrated with no write-down found, and small buybacks rather than buybacks at the top",
+      "No controlling owner, one share class, and an internally prepared bench, shown by the same-day CEO replacement in 2023 and an orderly CFO handover in 2026"
+    ],
+    "overall": "Average",
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "sources": {
+      "cited": 42,
+      "fetched": 41
+    },
+    "summary": "NKT's executive team has a strong, documented operating record. The 2025 ambition was exceeded with a record EUR 390m EBITDA and 24% RoCE, guidance has been raised rather than cut, and the EUR 1bn HVDC build-out is reported slightly ahead of plan under a CEO who came from that business. Capital allocation has so far matched its stated reasons, though the largest asset is not yet operating and the 2023 rights issue diluted holders who did not take part. Governance and alignment are weaker. The chair has served since 2006 through two abrupt CEO exits, insiders own about 0.1%, executives have sold most of their vested shares, and shareholders rejected the 2025 remuneration report. With no controlling owner, discipline depends on the board and the AGM. This makes the team stronger in execution than in owner-alignment, hence Average overall.",
+    "ticker": "NKT.CO",
+    "underestimated": "The current CEO came from running the Karlskrona HVDC business, the site that the EUR 1bn programme announced 15 days after his appointment is expanding. NKT's most important capital decision is therefore being run by the person who knows that asset best, and the record so far (expansion slightly ahead of plan, RoCE already above the 2028 ambition) suggests this matters more than the numbers alone show.",
+    "what_would_change_my_view": "Upward: the Karlskrona expansion entering commercial operation in Q2 2027 as promised with RoCE held above the ambition; a remuneration report that adds a return-on-capital metric and passes the AGM; directors and executives building personal holdings rather than selling vested shares; and a documented recent board evaluation with a plan for the chair's succession. Downward: a delay or cost overrun at Karlskrona or on the vessel; material cartel fines or findings that point to weak compliance oversight; another unexplained senior exit; or confirmation that the chair's May 2026 sale was large relative to his holding with no stated reason."
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-11-21T02:50:59.669Z",
+  "source": "management-assessment",
+  "sourceVersion": null,
+  "ticker": "NKT.CO"
+}
