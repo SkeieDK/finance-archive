@@ -1,0 +1,32 @@
+{
+  "contentHash": "ced53a35bab01f49",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "FLSmidth oplyste i selskabsmeddelelse nr. 50-2026 om transaktioner i perioden 19.-23. oktober 2026 under aktietilbagekøbsprogrammet på op til 1,0 mia. kr. og højst 2.300.000 aktier, som selskabet opgør til ca. 4,0 pct. af aktiekapitalen, og som blev igangsat 18. maj 2026.",
+        "key": "302fd388a5e42004",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "FLSmidth & Co. A/S, selskabsmeddelelse nr. 50-2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/26/3387842/0/en/flsmidth-transactions-under-share-buy-back-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "FLSmidth angav i samme meddelelse, at selskabet efter transaktionerne ejer 4.794.644 egne aktier svarende til 8,32 pct. af den samlede aktiekapital, og at programmet gennemføres under artikel 5 i markedsmisbrugsforordningen og Safe Harbour-forordningen.",
+        "key": "b8f32a42daa64ed7",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "FLSmidth & Co. A/S, selskabsmeddelelse nr. 50-2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/26/3387842/0/en/flsmidth-transactions-under-share-buy-back-programme.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-01T07:10:10Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "FLS.CO"
+}

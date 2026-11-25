@@ -1,0 +1,50 @@
+{
+  "contentHash": "4c3613bd658444b3",
+  "payload": {
+    "count": 4,
+    "items": [
+      {
+        "claim": "Danske Bank meddelte, at koncernen offentliggjorde regnskabet for de første ni måneder af 2026 med et oplyst nettoresultat på 18,3 mia. kr. og en egenkapitalforrentning på 14,3 pct.",
+        "key": "7694f901b0f4eb4e",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "Danske Bank A/S, selskabsmeddelelse 29. oktober 2026",
+        "url": "https://danskebank.com/news-and-insights/news-archive/company-announcements/2026/ca29102026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank skrev i ledelsesberetningen: 'We have narrowed the financial outlook for the full year 2026 as we now expect a net profit in the range of DKK 24-25 billion'.",
+        "key": "77b26e8976a5d613",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "Danske Bank Group, Interim report - first nine months 2026 (ledelsesberetning)",
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/1b1f31f7-ef4f-4abd-bf3b-470653565b20",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Banks finansdirektør Cecile Hillary udtalte: 'Our strong financial performance allows us to invest for future growth and create more value for our customers'.",
+        "key": "24eed55fb9fa0775",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "Cecile Hillary, CFO, Danske Bank (pressemeddelelse)",
+        "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr29102026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank oplyste i pressemeddelelsen, at nedskrivninger på udlån var lave og at kreditkvaliteten forblev stærk, og at banken fastholder betydelige post-model-justeringer af hensyn til makroøkonomisk og geopolitisk usikkerhed.",
+        "key": "d78785877438574f",
+        "publishedAt": "2026-10-29",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "Danske Bank A/S, pressemeddelelse 29. oktober 2026",
+        "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr29102026",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-01T07:10:10Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "DANSKE.CO"
+}

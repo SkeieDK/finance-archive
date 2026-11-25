@@ -170,3 +170,7 @@ firstSeen	indlaesningsId	dokumentType	mime	url	sha256	bytes	gemt
 2026-09-27T11:48:51.977Z	fa399e4910102bce1bed	AARSRAPPORT	image/tiff	http://regnskaber.virk.dk/87054002/Y3ZyLmRrOi8vcGRmcy8yMDA0NTA3ODtBL1MyMzYxOTM7MTk5OTA3MDE7MTk5OTEyMzE7UjtS.tif			nej
 2026-09-27T11:48:51.977Z	d0d49910ce369884a184	AARSRAPPORT	image/tiff	http://regnskaber.virk.dk/87054002/Y3ZyLmRrOi8vcGRmcy8yMDA0NTA3ODtBL1MyMzYxOTM7MTk5ODA3MDE7MTk5OTA2MzA7UjtS.tif			nej
 2026-09-27T11:48:51.977Z	521d90ab20e3d153c73f	AARSRAPPORT	image/tiff	http://regnskaber.virk.dk/87054002/Y3ZyLmRrOi8vcGRmcy8yMDA0NTA3ODtBL1MyMzYxOTM7MTk5NzA0MDE7MTk5ODA2MzA7UjtS.tif			nej
+2026-11-25T18:56:53.926Z	AaINqYr6bXKf1TVIMdgh	DELAARSRAPPORT	application/xhtml+xml	http://regnskaber.virk.dk/87054002/amNsb3VkczovLzAzLzBmL2FiLzk3Lzg5LzU2MTAtNGJkMy1hYjE2LWY4ZjU4Njk5YzUyYQ.xhtml			nej
+2026-11-25T18:56:53.926Z	AaINqYr6bXKf1TVIMdgh	DELAARSRAPPORT	application/xml	http://regnskaber.virk.dk/87054002/amNsb3VkczovLzAzLzcxL2ExLzE1L2YxLzJlOTctNGI5NS05MGMxLTYyZjM4MzYzYzZhNg.xml	022acd5a39e68d65fadbaa65ca6433bcbecc5ad757c2d745cf13a9bbaa794ad5	20256	ja
+2026-11-25T18:56:53.926Z	AaINqYr6bXKf1TVIMdgh	DELAARSRAPPORT_ESEF	application/xml	http://regnskaber.virk.dk/87054002/amNsb3VkczovLzAzLzVhLzM4LzIwLzQzLzcxNTktNGUwMS1iYmVmLTA2YjhlOGZhMmM1Yw.xml	2cd22bc190af4c326ef5026a4a7acd24ecfc04bf001da073837a551ffedd2a93	94193	ja
+2026-11-25T18:56:53.926Z	AaINqYr6bXKf1TVIMdgh	ESEF_EXTENSION	application/zip	http://regnskaber.virk.dk/87054002/amNsb3VkczovLzAzLzVkL2ZmLzdjL2VlLzRkMmItNDk0NS04ZDFlLTJmYjhiMjRkYjZmZQ.zip			nej

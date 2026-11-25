@@ -1,0 +1,32 @@
+{
+  "contentHash": "c87f4d83f2b0344d",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "ISS oplyste i selskabsmeddelelse nr. 65/2026 om transaktioner under aktietilbagekøbsprogrammet med en maksimal samlet modydelse på 3,1 mia. kr., hvis anden tranche på op til 1,85 mia. kr. blev indledt 11. august 2026 og senest afsluttes 22. februar 2027.",
+        "key": "52a5fe512bfb6604",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "ISS A/S, selskabsmeddelelse nr. 65/2026",
+        "url": "https://globenewswire.com/news-release/2026/10/26/3387913/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ISS angav i samme meddelelse, at formålet med programmet er at udlodde overskydende likviditet til aktionærerne, nedsætte aktiekapitalen og opfylde forpligtelser under aktiebaserede incitamentsprogrammer, og at selskabet efter transaktionerne ejer 7.081.350 egne aktier svarende til 4,43 pct. af aktiekapitalen.",
+        "key": "aabc4461e57b5b02",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "ISS A/S, selskabsmeddelelse nr. 65/2026",
+        "url": "https://globenewswire.com/news-release/2026/10/26/3387913/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-01T07:10:10Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "ISS.CO"
+}

@@ -1,0 +1,4 @@
+observedAt	lib	status	bytes	sha256	new	url
+2026-11-25T20:07:37.101Z		200	27157	928369a569e19baf803fffd4501925582ecca0f81e5a7c81d7a86276f510498a	ja	https://query1.finance.yahoo.com/v8/finance/chart/OKTA?interval=1d&range=1y&events=div%7Csplit
+2026-11-25T20:07:40.093Z		200	13057	32b9d1a1ba96582d51b1928148d66cb4902f9a54d4ef157ad027db34c75abc93	ja	https://query2.finance.yahoo.com/v8/finance/chart/OKTA?useYfid=true&interval=1wk&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-US&period1=1727308800&period2=1795564800
+2026-11-25T20:07:40.202Z		200	13530	8a4a86647996b8593f1bcec44a11273e599f98e30253052d3901073790a616ef	ja	https://query2.finance.yahoo.com/v8/finance/chart/OKTA?useYfid=true&interval=1mo&includePrePost=true&events=split&lang=en-US&period1=1448409600&period2=1795637260

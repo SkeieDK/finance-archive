@@ -1,0 +1,32 @@
+{
+  "contentHash": "72b1ef362229747a",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "AL Sydbank oplyste i selskabsmeddelelse nr. 59/2026 om transaktioner i uge 43 under bankens aktietilbagekøbsprogram på i alt 1.100 mio. kr., som blev igangsat 2. marts 2026 og senest afsluttes 31. januar 2027, og som ifølge banken har til formål at nedsætte aktiekapitalen.",
+        "key": "9341f9866fafe50b",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 59/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/26/3387856/0/en/al-sydbank-a-s-share-buyback-programme-transactions-in-week-43.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank angav i samme meddelelse, at banken efter ugens transaktioner ejer 1.383.854 egne aktier svarende til 1,61 pct. af aktiekapitalen, og at programmet gennemføres efter Safe Harbour-reglerne i markedsmisbrugsforordningen.",
+        "key": "c9954b634d4e46d4",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 59/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/10/26/3387856/0/en/al-sydbank-a-s-share-buyback-programme-transactions-in-week-43.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-01T07:10:10Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "ALSYDB.CO"
+}

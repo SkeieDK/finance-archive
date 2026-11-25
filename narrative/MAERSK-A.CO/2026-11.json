@@ -1,0 +1,32 @@
+{
+  "contentHash": "68bbdb419f85ae1c",
+  "payload": {
+    "count": 2,
+    "items": [
+      {
+        "claim": "A.P. Møller - Maersk oplyste om transaktioner i uge 43 2026 under aktietilbagekøbsprogrammet på op til 6,3 mia. kr. (ca. 1 mia. USD), der blev annonceret 5. februar 2026 og gennemføres over 12 måneder, med en anden fase fra 13. august 2026 til 29. januar 2027 begrænset til en samlet markedsværdi på 3,15 mia. kr.",
+        "key": "855a05e089e5a2c2",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "A.P. Møller - Maersk A/S, selskabsmeddelelse om handel med egne aktier",
+        "url": "https://investor.maersk.com/news-releases/news-release-details/transactions-connection-share-buy-back-program-336",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk angav i samme meddelelse, at selskabet ejer i alt 51.248 A-aktier og 262.236 B-aktier som egne aktier svarende til 2,13 pct. af aktiekapitalen, og at programmet gennemføres under markedsmisbrugsforordningen og Safe Harbour-forordningen.",
+        "key": "24f126f4611f0672",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-01T07:10:10Z",
+        "source": "A.P. Møller - Maersk A/S, selskabsmeddelelse om handel med egne aktier",
+        "url": "https://investor.maersk.com/news-releases/news-release-details/transactions-connection-share-buy-back-program-336",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-01T07:10:10Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "MAERSK-A.CO"
+}

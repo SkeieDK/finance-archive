@@ -984,3 +984,7 @@ recordedAt	ticker	event	source	detail
 2026-10-10T08:00:04.373Z	VYLR	added	index: sp500	
 2026-10-10T08:00:04.373Z	XESC.L	added	watchlist	
 2026-10-31T10:06:51.542Z	TPRO.MI	added	index: ftsemib	
+2026-10-31T18:50:13.330Z	GOGL.OL	corrected	manual	Golden Ocean merged into CMB.TECH; last trading day on Oslo Bors and Nasdaq 2025-08-19 (0.95 CMBT per share); Yahoo answers nothing for GOGL.OL (verified 2026-10-31). User decision 2026-10-31
+2026-10-31T18:50:13.423Z	RECSI.OL	corrected	manual	REC Silicon: Hanwha's takeover completed, delisted; removed from the watchlist by user decision 2026-08-29 (ROADMAP B23) but re-added on 2026-10-04 when the log was seeded from universe/2026-W34.json. User decision 2026-10-31
+2026-10-31T18:50:13.624Z	LCUS.PA	corrected	manual	Yahoo answers nothing for LCUS.PA (verified 2026-10-31), so it is not even recognised as an ETF; LCUS is Lyxor Core US Equity on Milan, not the Amundi Core S&P 500 Swap the watchlist names. User decision 2026-10-31
+2026-11-25T18:31:02.113Z	OKTA	added	index: sp500	
