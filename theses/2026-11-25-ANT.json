@@ -1,0 +1,59 @@
+{
+  "contentHash": "1e643c55a1d8a6b9",
+  "payload": {
+    "claim": "Any of these would change the assessment: (1) the first public quarterly report (Q4/FY2026; no date found yet) shows a positive GAAP operating margin and the adjusted operating margin recovers toward or above the Q2 level of 19%, without further pricing concessions; (2) the annual accounts show positive free cash flow, so owner earnings and a fair value become computable, and the margin of safety turns out to be material; (3) disclosure shows the roughly $900.9 billion of compute commitments are cancellable, usage-linked or matched by contracted revenue, which would lower the Taleb fragility rating; (4) the Section 4713 designation is resolved, or the music-publisher and opt-out author suits are resolved without a structural rise in training-data costs. In the other direction, an integrity-gate escalation, or evidence that training inputs depend on the contested conduct, would reinforce AVOID.",
+    "conviction": "Low",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.6,
+      "fiscalYear": 2026,
+      "metric": "ebit_margin_pct",
+      "op": "<",
+      "reasoning": "Q3 2026 showed that compute purchases and the $2.0 billion of non-cash donation-matching charges can push GAAP operating income negative even as adjusted income rises, the company itself expects margins to fluctuate when incremental compute is delivered, and price cuts and discounts point to weak pricing power, so I expect the full-year FY2026 EBIT margin to stay below zero despite revenue growth. That departs from the uniformly bullish initiations (Melius, Needham and others), which treat Anthropic as an already-dominant franchise whose profitability scales with revenue. No reverse DCF figure was supplied to compare against.",
+      "statedYearsAhead": 1,
+      "value": 0
+    },
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "references": {
+      "baseRate": null,
+      "holdsToday": true,
+      "market": null,
+      "seen": {
+        "annual": [
+          {
+            "source": "Yahoo",
+            "value": -143.08,
+            "year": 2025
+          },
+          {
+            "source": "Yahoo",
+            "value": -772.02,
+            "year": 2024
+          },
+          {
+            "source": "Yahoo",
+            "value": -1343.9,
+            "year": 2023
+          }
+        ],
+        "ttm": []
+      },
+      "statusQuo": {
+        "period": "FY2025",
+        "value": -143.08
+      }
+    },
+    "resolveBy": "2027-06-30",
+    "ticker": "ANT",
+    "verdict": "AVOID"
+  },
+  "periodEnd": "2027-06-30",
+  "recordedAt": "2026-11-25T09:46:26.110Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "ANT"
+}
