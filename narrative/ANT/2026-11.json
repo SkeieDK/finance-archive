@@ -1,0 +1,149 @@
+{
+  "contentHash": "4fb19bd1f323cf9b",
+  "payload": {
+    "count": 15,
+    "items": [
+      {
+        "claim": "Q3 2026: No quarterly report as a public company yet; the newest figures are in the final prospectus (Form 424B4, filed 19 November 2026). Q3 2026 revenue was $16,956m (Q2 2026: $11,555m; Q3 2025: $1,382m), about +47% quarter-on-quarter and roughly 12x year-on-year; nine-month 2026 revenue about $33.2 billion, reported by Fox Business as up 1,206% year-on-year. GAAP operating result swung from +$974m in Q2 2026 to -$567m in Q3 2026, attributed mainly to $5.0 billion of short-term compute purchases and $2.0 billion of non-cash donation-matching charges. Adjusted operating income was $2.5 billion in Q3 vs $2.2 billion in Q2, with adjusted operating margin falling from 19% to 15%; nine-month adjusted operating income $4.1 billion vs an adjusted loss of $3.1 billion a year earlier. Net loss was $23,291m in Q3 2026 (about $104 billion for nine months), driven overwhelmingly by fair-value changes on convertible notes, derivatives and SAFEs rather than operations. Fox Business cites $6.6 billion of positive nine-month operating cash flow. TTM revenue was $35.3 billion to 30 September 2026.",
+        "key": "d4f298315c744a22",
+        "publishedAt": null,
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Q3 2026 / 9M 2026 (ended 30 September 2026): FY2025 annual figures badly understate the current scale: quarterly revenue went from $2,040m in Q4 2025 to $16,956m in Q3 2026, and the GAAP operating result was a $567m loss in Q3 2026 after a $974m profit in Q2, so annual figures alone miss both the revenue jump and the margin swings from compute purchases.",
+        "key": "3bbee15fc3cecdf5",
+        "publishedAt": "2026-11-19",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "sec.gov",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "South Korea privacy regulator opens a formal investigation into a security incident that may have exposed personal information tied to more than 100 corporate Claude accounts",
+        "key": "87ca45b765e0bf7d",
+        "publishedAt": "2026-11-10",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "mlex.com",
+        "url": "https://www.mlex.com/mlex/data-privacy-security/articles/2548285",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Illinois BIPA class action (Ortiz Colon) alleges undisclosed retention of facial-geometry data from identity verification; transferred from California state court to federal court",
+        "key": "1459a33667ef4c16",
+        "publishedAt": "2026-11-18",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "yahoo.com",
+        "url": "https://www.yahoo.com/news/us/articles/claude-user-claims-anthropic-violated-214521341.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "US FTC confirms an investigation of Anthropic, OpenAI and other AI companies under Section 5 (unfair or deceptive practices); no complaint, order or finding",
+        "key": "aad2272ee7cf807c",
+        "publishedAt": "2026-09-30",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "openclassactions.com",
+        "url": "https://openclassactions.com/news/ftc-openai-anthropic-ai-investigation-2026.php",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Pentagon (Department of War) supply-chain-risk designation: N.D. Cal. (Judge Lin) ruled it illegal retaliation on 27 August 2026, but a 2-1 D.C. Circuit panel upheld the separate designation on 25 September 2026; Ninth Circuit case ongoing",
+        "key": "dc3b0fcc6e6ccd9b",
+        "publishedAt": "2026-09-25",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "clickorlando.com",
+        "url": "https://www.clickorlando.com/business/2026/09/25/federal-court-says-us-government-can-label-anthropic-a-supply-chain-risk/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Reddit v. Anthropic (San Francisco Superior Court): Judge Kahn largely denied Anthropic's motion to dismiss the contract and unfair-competition scraping claims",
+        "key": "da49192ea5b23567",
+        "publishedAt": "2026-09-21",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "news.bgov.com",
+        "url": "https://news.bgov.com/us-law-week/anthropic-loses-bid-to-dismiss-reddit-ai-scraping-privacy-suit",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Sony Music Publishing and Warner Chappell sue Anthropic in US federal court in California alleging pirated lyrics and sheet music were used to train Claude",
+        "key": "1ffa0fc6e222ff0c",
+        "publishedAt": "2026-08-28",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "aljazeera.com",
+        "url": "https://www.aljazeera.com/economy/2026/8/31/sony-warner-music-sue-anthropic-saying-it-pirated-songs-to-train-its-ai",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bartz v. Anthropic (N.D. Cal.) authors' copyright class action: $1.5 billion settlement over storing pirated books receives final approval; appeals of the approval pending",
+        "key": "fe51c9ca4b7d5b13",
+        "publishedAt": "2026-07-20",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "claimsjournal.com",
+        "url": "https://www.claimsjournal.com/news/national/2026/07/21/338959.htm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Pascual v. Anthropic (N.D. Cal., No. 4:26-cv-07699) consumer class action alleges backend changes made Pro and Max subscribers exhaust usage limits faster (UCL, CLRA, False Advertising Law)",
+        "key": "064c79c1e3f860ee",
+        "publishedAt": "2026-07-04",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "classaction.org",
+        "url": "https://www.classaction.org/news/claude-lawsuit-claims-anthropic-wrongfully-reduced-subscribers-practical-access-under-claude-pro-max-plans",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Kahn v. Anthropic (N.D. Cal., No. 3:26-cv-05763) consumer class action alleges Max 5x and Max 20x plans deliver materially less usage than advertised",
+        "key": "8f983791466dfee8",
+        "publishedAt": "2026-06-14",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "openclassactions.com",
+        "url": "https://openclassactions.com/lawsuits/anthropic-claude-max-subscription-class-action-lawsuit.php",
+        "verifiedAs": null
+      },
+      {
+        "claim": "New opt-out authors' suit in California federal court after Bartz alleges direct and contributory copyright infringement and removal of copyright management information",
+        "key": "0dff82c31e4cd89b",
+        "publishedAt": "2026-06-01",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "mealeys.com",
+        "url": "https://www.mealeys.com/mealeys/articles/2484253",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Concord, Universal Music and ABKCO sue Anthropic, Dario Amodei and Benjamin Mann (N.D. Cal.) alleging BitTorrent downloads of books containing their compositions from LibGen and Pirate Library Mirror",
+        "key": "4803a8836e5c1fcf",
+        "publishedAt": "2026-01-28",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "ipwatchdog.com",
+        "url": "https://ipwatchdog.com/2026/01/29/music-publishers-file-new-piracy-suit-against-anthropic-alleging-mass-torrenting-copyrighted-works/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Concord Music Group v. Anthropic (N.D. Cal., original lyrics case): Judge Lee denied Anthropic's motion to dismiss the amended secondary-liability and DMCA claims",
+        "key": "9694405c2658b15b",
+        "publishedAt": "2025-10-06",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "musicbusinessworldwide.com",
+        "url": "https://www.musicbusinessworldwide.com/anthropic-must-face-music-publishers-copyright-claims-after-judge-denies-dismissal-motion",
+        "verifiedAs": null
+      },
+      {
+        "claim": "UK CMA merger inquiry into the Amazon/Anthropic partnership closed: the partnership does not qualify for investigation under the Enterprise Act 2002",
+        "key": "f77bd77ed4043955",
+        "publishedAt": "2024-09-27",
+        "recordedAt": "2026-11-25T09:33:41.726Z",
+        "source": "gov.uk",
+        "url": "https://www.gov.uk/cma-cases/amazon-slash-anthropic-partnership-merger-inquiry",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-25T09:33:41.726Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "ANT"
+}

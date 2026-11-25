@@ -1,0 +1,61 @@
+{
+  "contentHash": "fb55c2c625cfb3f6",
+  "payload": {
+    "baseline": {
+      "buybacks": null,
+      "currency": "KRW",
+      "fiscalYear": 2025,
+      "incremental_roic": null,
+      "insider_ownership_pct": 20.2,
+      "price": 1098000,
+      "priceCurrency": "KRW",
+      "roic_pct": 35.1,
+      "roic_spread_pp": 24.7
+    },
+    "dimensions": {
+      "alignment": "Adequate",
+      "board": "Adequate",
+      "candor_and_consistency": "Adequate",
+      "capital_allocation": "Adequate",
+      "composition_and_diversity": "Adequate",
+      "founders_and_owners": "Adequate",
+      "people": "Strong",
+      "succession": "Adequate"
+    },
+    "fact_check": {
+      "findings": 0,
+      "revised": false
+    },
+    "key_concerns": [
+      "Control by SK Group through a holding chain with a much smaller look-through economic stake; strategy and leadership are set in group reshuffles and by group vice chairpersons, and a 1,100 trillion won plan was announced by the non-board chairman before board approval",
+      "Material related-party dealings with SK affiliates (W4,708 billion of asset purchases from SK ecoplant in 2025)",
+      "The return on the Intel NAND/Solidigm acquisition is not shown, the IPO meant to fund its US fab was withdrawn, and the CEO's explanation was generic",
+      "Pay that leans on operating-profit bonuses in a cyclical industry, no KPI weights disclosed, no PSU grants in 2025-2026, and a former vice chairman paid more than double the CEO as an advisor",
+      "Small management shareholdings, and none held by the group's non-executive directors"
+    ],
+    "key_strengths": [
+      "A technically deep, long-tenured operating team led by a CEO who has spent his career in the company's fabs and technology functions, with internal successors in R&D and development",
+      "A record of discipline through the cycle: a candid 50% investment cut in the 2022-2023 downturn, followed by the ROIC recovery the code shows (35.1% in 2025)",
+      "The Kioxia stake has turned into a large gain, and capital returns have been stepped up sharply in 2026 with buybacks and share cancellation",
+      "Formally independent board leadership: independent chair, all-independent audit committee with a designated financial expert, and semiconductor expertise among outside directors"
+    ],
+    "overall": "Average",
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "sources": {
+      "cited": 21,
+      "fetched": 21
+    },
+    "summary": "SK hynix is run by a capable, long-tenured engineering team under CEO Kwak Noh-jung, whose record covers a candid retrenchment in the 2022-2023 downturn and a recovery to a 35.1% ROIC in 2025, alongside a highly successful Kioxia investment and sharply increased 2026 shareholder returns. Weighing against that, the company is controlled by SK Group through a holding chain: strategy, leadership changes and even a 1,100 trillion won investment plan have come from the group rather than the board, and related-party dealings with SK affiliates are material. The board is formally independent with relevant expertise but has been criticised for limited business experience. Pay leans on cyclical operating-profit bonuses, with no recent PSU grants, and management's own stakes are small. Overall the people are strong and the governance average.",
+    "ticker": "000660.KS",
+    "underestimated": "The strongest decisions here, a countercyclical cut and long-horizon HBM and capacity bets, come from the same SK Group control that is the main governance risk. The group's long time horizon and willingness to invest through the cycle helped build the current earnings. Yet the board can be bypassed (an investment plan announced before board approval, group vice chairpersons setting strategy), and minority holders depend on the group continuing to choose well. The return figures show the results, not who made the decisions or how.",
+    "what_would_change_my_view": "Upward: evidence that the SK hynix board itself deliberates on and approves major capital commitments before they are announced, disclosed KPI weights and resumed PSU grants, a funding plan for Solidigm that earns its cost, and full delivery of the announced fiscal-2026 returns. Downward: further group-driven strategy or personnel decisions that bypass the board, growth in related-party purchases from SK affiliates, or capital raised or allocated in ways shaped by SK square's 20% floor rather than by SK hynix shareholders' interest."
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-11-17T09:27:50.185Z",
+  "source": "management-assessment",
+  "sourceVersion": null,
+  "ticker": "000660.KS"
+}

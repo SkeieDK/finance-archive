@@ -1,0 +1,68 @@
+{
+  "contentHash": "3296726666c59833",
+  "payload": {
+    "baseline": {
+      "buybacks": {
+        "ownMedianPe": 9.8,
+        "weightedPe": 13.9
+      },
+      "currency": "USD",
+      "fiscalYear": 2026,
+      "incremental_roic": {
+        "from": 2021,
+        "roiic_pct": 400.1,
+        "to": 2026
+      },
+      "insider_ownership_pct": 0.5,
+      "price": 719.02,
+      "priceCurrency": "USD",
+      "roic_pct": 101.6,
+      "roic_spread_pp": 87.3
+    },
+    "dimensions": {
+      "alignment": "Adequate",
+      "board": "Adequate",
+      "candor_and_consistency": "Adequate",
+      "capital_allocation": "Adequate",
+      "composition_and_diversity": "Adequate",
+      "founders_and_owners": "Adequate",
+      "people": "Strong",
+      "succession": "Adequate"
+    },
+    "fact_check": {
+      "findings": 3,
+      "revised": true
+    },
+    "key_concerns": [
+      "Combined Chair/CEO since January 2025, with no named successor for a 68-year-old CEO, while the board turns over quickly (Compensation and Audit chairs gone, Haynesworth leaving)",
+      "Persistent insider selling at elevated prices by the CEO, CFO, both Presidents, other officers and the Lead Independent Director; one director purchase in 24 months; insiders own about 0.5%",
+      "Discretionary bonus elements (strategic categories up to 163%, a 1.10 multiplier on top of a missed profit goal) and undisclosed operational PRSU targets",
+      "Buybacks executed at above-median multiples (weighted P/E 13.9 vs median 9.8) alongside net dilution; heavy new fab commitments whose returns depend on the next downturn",
+      "The HBM share target was loosened and never confirmed; no reason was given for Sadana's move to an advisory role"
+    ],
+    "key_strengths": [
+      "A deeply experienced memory-industry team with long tenure: a CEO who built and sold SanDisk, and a technology chief at Micron since 1995",
+      "Quarterly revenue guidance landed inside or above range every quarter from fiscal Q4 2023 to Q4 2026, and setbacks (the 2023 downturn, the China CAC ban, the missed fiscal 2025 profit goal) were stated plainly",
+      "Strong shareholder rights and dispersed ownership: one share class, annual majority votes, proxy access, written consent; ISS shareholder rights score 1",
+      "Semiconductor and AI depth on the board (former TSMC Executive Chairman, former Intel CEO, ex-NVIDIA/Broadcom executive), and a PRSU design tied to relative TSR and HBM/SSD share"
+    ],
+    "overall": "Average",
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "sources": {
+      "cited": 43,
+      "fetched": 40
+    },
+    "summary": "Micron is run by a seasoned memory-industry team that has handled a deep downturn and an AI-driven boom with reliable guidance and frank language about setbacks. Governance is mixed. Since January 2025 the CEO is also Chairman, no successor is named for a 68-year-old CEO, the board is turning over quickly, and the incentive plan leaves room for discretion and undisclosed operational targets. Alignment is thin in practice: insiders own about 0.5%, and almost every officer and the Lead Independent Director have sold at high prices, with one director purchase in 24 months. Capital allocation has positioned the company for AI demand and exited weak businesses openly, but returns track the cycle, buybacks have been poorly timed, and the large fab commitments and new take-or-pay contracts are still untested in a downturn.",
+    "ticker": "MU",
+    "underestimated": "Most of the top team shares a SanDisk/Western Digital lineage (Mehrotra, Bhatia, Cordano, Ray, Sadana): a group that has already run a memory business through cycles and a sale together. That cohesion is visible in the 2023 austerity and in the pivot to multi-year take-or-pay contracts with price bands, which deliberately try to blunt the cycle that drives the ROIC swings. It also means the succession bench and the strategic perspective come largely from one network, which the ROIC series cannot show.",
+    "what_would_change_my_view": "Upward: a fiscal 2026 proxy showing PRSU payouts earned on disclosed HBM and SSD share outcomes; primary-source confirmation that the HBM share target was met; a named succession plan or a return to an independent Chair; insiders keeping or adding to holdings; and the take-or-pay agreements holding when memory prices turn. Downward: buybacks scaled up at peak-cycle multiples, fab timelines slipping or capital overruns in a downturn, more unexplained senior departures, or a rise in against-votes on pay or on the Chair/CEO."
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-11-17T01:20:06.318Z",
+  "source": "management-assessment",
+  "sourceVersion": null,
+  "ticker": "MU"
+}

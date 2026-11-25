@@ -1,0 +1,65 @@
+{
+  "contentHash": "782c5524c9ffb5fa",
+  "payload": {
+    "baseline": {
+      "buybacks": {
+        "ownMedianPe": null,
+        "weightedPe": null
+      },
+      "currency": "USD",
+      "fiscalYear": 2025,
+      "incremental_roic": null,
+      "insider_ownership_pct": 22.1,
+      "price": 81.905,
+      "priceCurrency": "USD",
+      "roic_pct": null,
+      "roic_spread_pp": null
+    },
+    "dimensions": {
+      "alignment": "Adequate",
+      "board": "Adequate",
+      "candor_and_consistency": "Adequate",
+      "capital_allocation": "Adequate",
+      "composition_and_diversity": "Adequate",
+      "founders_and_owners": "Adequate",
+      "people": "Strong",
+      "succession": "Adequate"
+    },
+    "fact_check": {
+      "findings": 3,
+      "revised": true
+    },
+    "key_concerns": [
+      "Public shareholders have little say: Class A voting is capped at 49.9%, the Founder LLC holds a fixed 50.1%, and the Trust, which has no economic interest, elects the board majority.",
+      "The pay design rewards scale and the IPO, not performance: 90th-percentile targeting, no disclosed financial or safety metrics, steep salary increases, and large perquisites and paid-on-behalf costs.",
+      "Insiders sold in both pre-IPO tenders and in the IPO itself, and there is no record of insider buying to offset that.",
+      "The strategic holders Amazon and Google own large economic stakes and are also counterparties, a potential conflict.",
+      "Governance is still forming: one board seat (a Class T seat) and one audit committee seat are vacant, several directors are new, a director resigned without an explained reason, and related-party links exist (the CNAS donation, the spouse's employment).",
+      "Key-person risk around the CEO, with no documented executive succession plan."
+    ],
+    "key_strengths": [
+      "The founding team is intact and engaged: all seven co-founders have been in place since 2021, each still holds a meaningful Class A stake, and they are locked up for up to 365 days.",
+      "There is a documented record of acting on stated principles at real commercial cost: the Department of War dispute, and disabling restricted models for all customers.",
+      "The board has heavyweight financial expertise (a former Microsoft and GM CFO chairs audit), and the CFO has IPO and capital-raising experience.",
+      "A clawback policy and a ban on hedging and pledging."
+    ],
+    "overall": "Average",
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "sources": {
+      "cited": 17,
+      "fetched": 16
+    },
+    "summary": "Anthropic is run by an intact, highly engaged founding team with deep research credentials and a CFO experienced in IPOs. When it was tested in the Department of War dispute, the team acted on its stated principles at real cost. Governance is built to insulate management and the mission from public shareholders: a fixed 50.1% founder vote, a Trust that elects the board majority, a non-independent nominating committee, and large strategic holders who are also counterparties. Pay is set at the 90th percentile and its only disclosed performance condition was the IPO, while insiders sold in each liquidity window, so alignment rests mainly on the founders' remaining stakes rather than on the pay design. The record on targets and capital allocation is too short to test. The overall judgement is a capable team operating inside a structure that limits what minority holders can influence.",
+    "ticker": "ANT",
+    "underestimated": "The figures show losses narrowing as revenue grows, but they do not show that control is designed to put mission over pecuniary return, and that management has already acted on it. In the Department of War dispute it gave up federal business and accepted a supply-chain-risk designation rather than drop its usage limits. Outside holders cannot override that kind of choice. That cuts both ways: it is a long horizon with unusually credible principles, and also a standing risk that value is traded away on non-financial grounds.",
+    "what_would_change_my_view": "Upward: performance- and safety-linked pay metrics disclosed in the first proxy; individual insider sale amounts showing modest selling relative to holdings, or later open-market buying; the board and audit vacancies filled with independent directors; a documented CEO succession plan; and the 2026 acquisitions producing results without impairment. Downward: further founder departures that erode the Class F structure; more related-party payments to the Trust or Trustees' organizations; new compensation increases or perquisites without performance conditions; or a governance or policy decision that clearly sacrifices shareholder value without a stated, testable rationale."
+  },
+  "periodEnd": null,
+  "recordedAt": "2026-11-25T09:42:36.099Z",
+  "source": "management-assessment",
+  "sourceVersion": null,
+  "ticker": "ANT"
+}

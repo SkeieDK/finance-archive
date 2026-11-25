@@ -1,0 +1,79 @@
+{
+  "contentHash": "674fbd966428b78a",
+  "payload": {
+    "claim": "Revisit on the Q4 2026 / FY2026 results and 2027 capex plan. Thesis-negative: operating margin falling materially below the Q2-Q3 2026 level, or DRAM/HBM contract prices turning down despite the LTAs; further HBM share loss to Samsung in the next share data, or HBM4 failing to overtake HBM3E in Q4 2026 as guided; non-renewal of the US licence for the Wuxi fab; an ITC initial determination for an import ban in 337-TA-1492; or the Garciaguirre case or the Cheongju criminal referral escalating the integrity gate. Thesis-positive: LTA coverage extending beyond 2028 with price terms, not only volume; the code's fair value rising so that the margin of safety turns materially positive at both measured betas; and a sourced explanation of the 22.92 trillion won valuation loss and of the price fall since 28 October.",
+    "conviction": "Low",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.65,
+      "fiscalYear": 2027,
+      "metric": "ebit_margin_pct",
+      "op": ">",
+      "reasoning": "Q3 2026 ran at an 80% operating margin, LTAs cover more than 50% of 2027-2028 capacity, volumes are described as sold out through 2029, and brokers expect DRAM ASPs to keep rising into Q1 2027, so I expect the next full fiscal year after FY2026 to stay well above FY2025's 48.59% even with heavier 2027 depreciation and Samsung's HBM gains. Where I depart from the price: the bear reading (iM Securities) is that the price already discounts a sharp earnings decline, and I do not see that turn arriving within this horizon; the 2028 call itself is beyond what the evidence supports.",
+      "statedYearsAhead": 2,
+      "value": 60
+    },
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "references": {
+      "baseRate": null,
+      "holdsToday": false,
+      "market": {
+        "capped": null,
+        "discountRatePct": 10.6,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          34.4,
+          34.9
+        ],
+        "impliedGrowthPct": 34.4,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "source": "Yahoo",
+            "value": 48.59,
+            "year": 2025
+          },
+          {
+            "source": "Yahoo",
+            "value": 35.45,
+            "year": 2024
+          },
+          {
+            "source": "Yahoo",
+            "value": -23.59,
+            "year": 2023
+          }
+        ],
+        "ttm": [
+          {
+            "periodEnd": "2026-06-30",
+            "value": 68.04
+          },
+          {
+            "periodEnd": "2026-03-31",
+            "value": 58.58
+          }
+        ]
+      },
+      "statusQuo": {
+        "period": "FY2025",
+        "value": 48.59
+      }
+    },
+    "resolveBy": "2028-06-30",
+    "ticker": "000660.KS",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2028-06-30",
+  "recordedAt": "2026-11-17T09:34:07.193Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "000660.KS"
+}

@@ -1,0 +1,79 @@
+{
+  "contentHash": "fc4ad1b6f9ba455e",
+  "payload": {
+    "claim": "Revisit on any of these: (1) the late-January 2027 board decision on the remaining KRW 55-75 trillion of 2026 returns. A large repurchase that is actually cancelled, enough to end the 3.6% annual net dilution, would improve the minority holder's claim; a program again held for stock compensation would confirm the governance concern. (2) Evidence on the memory cycle: if 2027 multi-year HBM/server DRAM contracts get disclosed terms and DS holds operating profit near Q3 2026 levels while announced industry capacity additions for late 2027-2028 slip, the peak-cycle objection weakens. Further NAND/DRAM spot declines, HBM margin cuts or share loss to SK Hynix/Micron/Chinese suppliers would strengthen it. (3) Cash conversion: FY2026 FCF/net income clearly above the 0.75 of FY2025 would answer the 0.3 four-year ratio. (4) Integrity gate escalation from Flag, or adverse final rulings on the roughly USD 1.06B of US patent verdicts and the ~USD 601M Indian customs demand. (5) A code-computed margin of safety that turns positive across the measured discount-rate range once the annual figures include FY2026.",
+    "conviction": "Low",
+    "prediction": {
+      "anchorFiscalYear": 2025,
+      "basis": "annual",
+      "confidence": 0.55,
+      "fiscalYear": 2028,
+      "metric": "ebit_margin_pct",
+      "op": "<",
+      "reasoning": "The bear case dates a supply cliff to 2028, with new capacity from late 2027, HBM margin compression and NAND spot already softening, and the business has a Weak cost-advantage moat and about 5.9x downside operating leverage. So I expect the full-year EBIT margin to fall well back from the Q3 2026 run-rate (KRW 107.4T operating profit on KRW 195.3T revenue) toward the 13.07% of FY2025. The price, which implies 32% annual growth for ten years, treats those peak earnings as durable. Cycle timing is uncertain, so confidence is low.",
+      "statedYearsAhead": 3,
+      "value": 34
+    },
+    "producedBy": {
+      "mode": "session",
+      "model": "claude-opus-5-5"
+    },
+    "references": {
+      "baseRate": null,
+      "holdsToday": true,
+      "market": {
+        "capped": null,
+        "discountRatePct": 9.9,
+        "horizonYears": 10,
+        "impliedGrowthBandPct": [
+          29.9,
+          32
+        ],
+        "impliedGrowthPct": 32,
+        "metric": "owner_earnings_growth_pct",
+        "terminalGrowthPct": 2.5
+      },
+      "seen": {
+        "annual": [
+          {
+            "source": "Yahoo",
+            "value": 13.07,
+            "year": 2025
+          },
+          {
+            "source": "Yahoo",
+            "value": 10.88,
+            "year": 2024
+          },
+          {
+            "source": "Yahoo",
+            "value": 2.54,
+            "year": 2023
+          }
+        ],
+        "ttm": [
+          {
+            "periodEnd": "2026-09-30",
+            "value": 46.13
+          },
+          {
+            "periodEnd": "2026-06-30",
+            "value": 36.88
+          }
+        ]
+      },
+      "statusQuo": {
+        "period": "FY2025",
+        "value": 13.07
+      }
+    },
+    "resolveBy": "2029-06-30",
+    "ticker": "005930.KS",
+    "verdict": "WATCH"
+  },
+  "periodEnd": "2029-06-30",
+  "recordedAt": "2026-11-20T15:40:26.021Z",
+  "source": "thesis",
+  "sourceVersion": null,
+  "ticker": "005930.KS"
+}
