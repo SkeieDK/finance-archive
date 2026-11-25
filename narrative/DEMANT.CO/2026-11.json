@@ -1,0 +1,41 @@
+{
+  "contentHash": "d6cbfd4d0036ce77",
+  "payload": {
+    "count": 3,
+    "items": [
+      {
+        "claim": "Praesident og adm. direktoer Soeren Nielsen sagde, at Demant leverede et meget staerkt tredje kvartal med 21% omsaetningsvaekst for koncernen.",
+        "key": "b8884368c5651c67",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-08T07:08:14Z",
+        "source": "Soeren Nielsen, praesident og adm. direktoer, Demant A/S, Interim Management Statement for Q3 2026",
+        "url": "https://www.inderes.fi/en/releases/demant-as-interim-management-statement-for-q3-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Soeren Nielsen sagde, at de staerke resultater saetter selskabet paa sporet til at afslutte aaret paa et all-time high.",
+        "key": "3099a73ac85ba2d7",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-08T07:08:14Z",
+        "source": "Soeren Nielsen, praesident og adm. direktoer, Demant A/S, Interim Management Statement for Q3 2026",
+        "url": "https://www.inderes.fi/en/releases/demant-as-interim-management-statement-for-q3-2026",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Demant sagde, at koncernen rapporterede 21% vaekst og 11% organisk vaekst i tredje kvartal, og at forventningerne til 2026 fastholdes paa organisk vaekst paa 7-8% og EBIT foer saerlige poster paa 4.700-5.000 mio. kr., som blev opjusteret 9. oktober.",
+        "key": "d3e19b711c693c91",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-08T07:08:14Z",
+        "source": "Demant A/S, Interim Management Statement for Q3 2026",
+        "url": "https://www.inderes.fi/en/releases/demant-as-interim-management-statement-for-q3-2026",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-08T07:08:14Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "DEMANT.CO"
+}

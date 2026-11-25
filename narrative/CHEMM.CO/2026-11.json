@@ -1,0 +1,68 @@
+{
+  "contentHash": "8507fa0f0a54b5e0",
+  "payload": {
+    "count": 6,
+    "items": [
+      {
+        "claim": "ChemoMetec sagde, at selskabet opjusterer forventningerne for 2026/27 til en omsaetning paa DKK 570-605 mio. fra DKK 560-590 mio. og EBITDA paa DKK 335-360 mio. fra DKK 330-345 mio.",
+        "key": "b177b16d0db12613",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-05T07:12:25Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse (kontaktpersoner CEO Martin Helbo Behrens og CFO Phillip Massie Price; ingen citeret direkte)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/03/3393950/0/en/upgrade-of-revenue-and-operating-profit-guidance.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec begrundede opjusteringen med 'higher-than-expected demand for our instruments, with the NC-203 being a key driver', og sagde at selskabet har 'maintained its positive momentum' i aarets foerste maaneder.",
+        "key": "b03f33513cc20bbc",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-05T07:12:25Z",
+        "source": "ChemoMetec A/S, selskabsmeddelelse",
+        "url": "https://www.globenewswire.com/news-release/2026/11/03/3393950/0/en/upgrade-of-revenue-and-operating-profit-guidance.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec offentliggjorde meddelelse nr. 323 om, at BlackRock, Inc. har oplyst at dets stemmerettigheder i selskabet er steget over 15 pct.-graensen til 15,08 pct., med virkning fra 26. oktober 2026.",
+        "key": "d0144b5005e5cf3a",
+        "publishedAt": "2026-10-28",
+        "recordedAt": "2026-11-05T07:12:25Z",
+        "source": "ChemoMetec A/S, storaktionaermeddelelse (oplyst af BlackRock, Inc.)",
+        "url": "https://www.inderes.fi/en/releases/major-shareholder-announcement-blackrock-inc-10",
+        "verifiedAs": null
+      },
+      {
+        "claim": "I delårsrapporten for 1. kvartal 2026/27 under overskriften \"Betydelig fremgang i både omsætning og driftsresultat\" skrev ChemoMetec, at omsætningen steg 28% til DKK 160,0 mio. og EBITDA 46% til DKK 100,3 mio., og at \"salget af NC-203 har overrasket positivt og er cirka firdoblet i forhold til 4. kvartal 2025/26\".",
+        "key": "7da008fac3a14a5a",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-10T07:09:27Z",
+        "source": "ChemoMetec A/S, delårsrapport 1. kvartal 2026/27",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396836/0/da/betydelig-fremgang-i-b%C3%A5de-oms%C3%A6tning-og-driftsresultat.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec oplyste, at BlackRock, Inc. har meddelt, at dets stemmerettigheder i selskabets aktier er faldet til 14,95% og dermed under 15%-grænsen, mens stemmerettigheder via finansielle instrumenter steg til 0,13%, så den samlede position er uændret 15,08%.",
+        "key": "cc2c3b533147d542",
+        "publishedAt": "2026-11-06",
+        "recordedAt": "2026-11-10T07:09:27Z",
+        "source": "ChemoMetec A/S, storaktionærmeddelelse (indberetning fra BlackRock, Inc.)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/06/3397365/0/en/major-shareholder-announcement-blackrock-inc.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ChemoMetec oplyste, at BlackRock, Inc. har indberettet, at koncernens stemmerettigheder i selskabet den 6. november 2026 steg over 15 pct.-grænsen i kapitalmarkedslovens § 38.",
+        "key": "e1cb0222b43a6b2b",
+        "publishedAt": "2026-11-11",
+        "recordedAt": "2026-11-15T07:10:05Z",
+        "source": "ChemoMetec A/S, storaktionærmeddelelse (indberetning fra BlackRock, Inc.)",
+        "url": "https://globenewswire.com/news-release/2026/11/11/3401037/0/da/storaktion%C3%A6rmeddelelse-blackrock-inc.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-15T07:10:05Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "CHEMM.CO"
+}

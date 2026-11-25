@@ -1,0 +1,50 @@
+{
+  "contentHash": "8adb400c7db09dd7",
+  "payload": {
+    "count": 4,
+    "items": [
+      {
+        "claim": "Berta de Pablos-Barbier sagde: \"Pandora's growth engine is re-energising.\"",
+        "key": "eff8b14dcbae6610",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-07T07:09:41Z",
+        "source": "Berta de Pablos-Barbier, CEO, Pandora A/S",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395013/0/en/pandora-delivers-6-organic-growth-in-q3-guidance-narrowed-towards-upper-end.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Berta de Pablos-Barbier sagde desuden: \"We've narrowed our 2026 guidance towards the upper end of the range.\"",
+        "key": "ae7df0c5bbab7312",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-07T07:09:41Z",
+        "source": "Berta de Pablos-Barbier, CEO, Pandora A/S",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395013/0/en/pandora-delivers-6-organic-growth-in-q3-guidance-narrowed-towards-upper-end.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Pandora henførte oktober-væksten på sammenlignelig basis til lavere kampagneaktivitet og oplyste, at den underliggende tendens fortsat er sund.",
+        "key": "089a7c98ea3028a1",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-07T07:09:41Z",
+        "source": "Pandora A/S, selskabsmeddelelse om Q3 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395013/0/en/pandora-delivers-6-organic-growth-in-q3-guidance-narrowed-towards-upper-end.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Pandora oplyser, at selskabet er blevet underrettet om transaktioner i Pandora-aktien foretaget af en person med ledelsesansvar, og at CEO Berta De Pablos Alvarez har købt 1.390 aktier for i alt DKK 1.251.000 og herefter besidder 7.710 aktier.",
+        "key": "3ec7b5a1ee6b3e6a",
+        "publishedAt": "2026-11-11",
+        "recordedAt": "2026-11-12T07:10:28Z",
+        "source": "Pandora A/S, selskabsmeddelelse om ledelsens og nærtståendes handler (Company Announcement No. 1020)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/11/3400509/0/en/trading-in-pandora-a-s-shares-by-board-members-executives-and-associated-persons.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-12T07:10:28Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "PNDORA.CO"
+}

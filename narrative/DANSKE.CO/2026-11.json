@@ -1,7 +1,7 @@
 {
-  "contentHash": "4c3613bd658444b3",
+  "contentHash": "12acfb58f1874f61",
   "payload": {
-    "count": 4,
+    "count": 12,
     "items": [
       {
         "claim": "Danske Bank meddelte, at koncernen offentliggjorde regnskabet for de første ni måneder af 2026 med et oplyst nettoresultat på 18,3 mia. kr. og en egenkapitalforrentning på 14,3 pct.",
@@ -38,12 +38,84 @@
         "source": "Danske Bank A/S, pressemeddelelse 29. oktober 2026",
         "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr29102026",
         "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank oplyste i selskabsmeddelelse nr. 53/2026 om transaktioner i uge 44 under det aktietilbagekøbsprogram på 4,5 mia. kr. og maksimalt 45.000.000 aktier, som banken annoncerede 5. februar 2026, og som løber fra 9. februar 2026 til senest 29. januar 2027.",
+        "key": "2a965c5cf4d25e82",
+        "publishedAt": "2026-11-02",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Danske Bank A/S, selskabsmeddelelse nr. 53/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3392891/0/en/danske-bank-share-buy-back-programme-transactions-in-week-44.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank angav i samme meddelelse, at der under programmet er akkumuleret 10.881.090 aktier svarende til 1,334 pct. af aktiekapitalen, og at programmet gennemføres efter Safe Harbour-reglerne i markedsmisbrugsforordningens artikel 5.",
+        "key": "1a45841f5aa6be7d",
+        "publishedAt": "2026-11-02",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Danske Bank A/S, selskabsmeddelelse nr. 53/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3392891/0/en/danske-bank-share-buy-back-programme-transactions-in-week-44.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Inderes-analytikerne Rasmus Koejborg og William Joerck skrev, at Danske Banks forventning til aarets resultat efter Q3-rapporten var indsnaevret til 24-25 mia. kr.",
+        "key": "50370c44beaa7993",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "Rasmus Koejborg og William Joerck, Inderes (analytikerkommentar)",
+        "url": "https://www.inderes.fi/en/analyst-comments/todays-equity-news-november-4-2026-danske-bank-sampo-foroya-banki-and-torm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Samme kommentar tilskrev det staerke tredje kvartal vaekst i gebyrindtaegter og rekordhoeje kapitalforvaltningsaktiver og fremhaevede kapitalpositionen efter lempelsen af Soejle II-kravet samt det igangvaerende aktietilbagekoeb og Estland-sagen som temaer.",
+        "key": "6d8d58b500247c62",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "Rasmus Koejborg og William Joerck, Inderes (analytikerkommentar)",
+        "url": "https://www.inderes.fi/en/analyst-comments/todays-equity-news-november-4-2026-danske-bank-sampo-foroya-banki-and-torm",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank oplyste transaktioner for uge 45 under sit aktietilbagekoebsprogram, som banken beskriver som et program paa i alt 4,5 mia. kr. og maksimalt 45.000.000 aktier, loebende indtil senest 29. januar 2027.",
+        "key": "9b762175b7176e5f",
+        "publishedAt": "2026-11-09",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "Danske Bank A/S, selskabsmeddelelse om aktietilbagekoeb",
+        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398103/0/en/danske-bank-share-buy-back-programme-transactions-in-week-45.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank indberettede en transaktion fra APMH Invest A/S og oplyste, at APMH Invest loebende saelger aktier pro rata i forbindelse med bankens aktietilbagekoebsprogram.",
+        "key": "c998db2c842b716e",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "Danske Bank A/S, meddelelse om ledende medarbejderes transaktioner",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395029/0/en/danske-bank-a-s-transactions-by-persons-discharging-managerial-responsibilities.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank meddelte (nr. 93/2026) en indberetning efter markedsmisbrugsforordningen om ledende medarbejderes og nærtståendes transaktioner; bilaget er henført til Carsten Egeriis og betegnet 'overførsel af aktieløn'.",
+        "key": "1e394c315d9aad3a",
+        "publishedAt": "2026-11-11",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "Danske Bank A/S, selskabsmeddelelse nr. 93/2026 (kontakt: Stefan Kailay Wind, Nordic Head of Media Relations)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/11/3400907/0/da/danske-bank-a-s-ledende-medarbejderes-transaktioner.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Danske Bank oplyste i selskabsmeddelelse nr. 55/2026, at banken i uge 46 (9.-13. november 2026) har gennemfoert aktietilbagekoeb under sit program, og opgjorde de akkumulerede koeb i programmet.",
+        "key": "acfae0a45b2fa62d",
+        "publishedAt": "2026-11-16",
+        "recordedAt": "2026-11-21T07:08:46Z",
+        "source": "Danske Bank A/S (selskabsmeddelelse nr. 55/2026; kontakt Claus Ingar Jensen, Head of Group Investor Relations)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403220/0/en/danske-bank-share-buy-back-programme-transactions-in-week-46.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-11"
   },
   "periodEnd": "2026-11",
-  "recordedAt": "2026-11-01T07:10:10Z",
+  "recordedAt": "2026-11-21T07:08:46Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "DANSKE.CO"

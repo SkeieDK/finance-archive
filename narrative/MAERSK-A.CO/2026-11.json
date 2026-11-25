@@ -1,7 +1,7 @@
 {
-  "contentHash": "68bbdb419f85ae1c",
+  "contentHash": "32252d5929b78cb9",
   "payload": {
-    "count": 2,
+    "count": 16,
     "items": [
       {
         "claim": "A.P. Møller - Maersk oplyste om transaktioner i uge 43 2026 under aktietilbagekøbsprogrammet på op til 6,3 mia. kr. (ca. 1 mia. USD), der blev annonceret 5. februar 2026 og gennemføres over 12 måneder, med en anden fase fra 13. august 2026 til 29. januar 2027 begrænset til en samlet markedsværdi på 3,15 mia. kr.",
@@ -20,12 +20,138 @@
         "source": "A.P. Møller - Maersk A/S, selskabsmeddelelse om handel med egne aktier",
         "url": "https://investor.maersk.com/news-releases/news-release-details/transactions-connection-share-buy-back-program-336",
         "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Møller - Mærsk opjusterede sine forventninger til hele 2026 og angav nu et underliggende EBITDA på 14-14,5 mia. USD mod tidligere 10,5-12,5 mia. USD, et underliggende EBIT på 8-8,5 mia. USD mod tidligere 4,5-6,5 mia. USD og et frit cash flow over 3 mia. USD mod tidligere over 0.",
+        "key": "a8ad7af567cd010d",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "A.P. Møller - Mærsk A/S, meddelelse om opjustering af forventningerne til 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396056/0/en/upgrade-of-guidance-for-full-year-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Selskabet begrundede opjusteringen med det faktiske resultat i 3. kvartal 2026 og forbedret visibilitet for resten af året, og angav at forventningerne bygger på en volumenvækst i det globale containermarked på omkring 4 pct. for hele 2026.",
+        "key": "7087d14173db7a4f",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "A.P. Møller - Mærsk A/S, meddelelse om opjustering af forventningerne til 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396056/0/en/upgrade-of-guidance-for-full-year-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Adm. direktør Vincent Clerc udtalte i delårsrapporten for 3. kvartal 2026, at koncernen leverede et stærkt kvartal på tværs af forretningerne, og beskrev den globale handel som bemærkelsesværdigt robust på trods af geopolitisk usikkerhed.",
+        "key": "f390f6b388b929d6",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Vincent Clerc, adm. direktør, A.P. Møller - Mærsk A/S, delårsrapport for 3. kvartal 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396060/0/en/interim-report-q3-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Vincent Clerc sagde i samme rapport, at efterspørgslen kommer fra elektrificering, energi og investeringer i AI-infrastruktur og ikke kun fra forbrug, og at flåden sejler med fuld kapacitet, hvor efterspørgslen på visse ruter overstiger den tilgængelige plads.",
+        "key": "d037c99c715c38b9",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Vincent Clerc, adm. direktør, A.P. Møller - Mærsk A/S, delårsrapport for 3. kvartal 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396060/0/en/interim-report-q3-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "MarketScreener refererede, at Maersk oplyste et resultat til selskabets ejere paa 2,99 mia. dollar i tredje kvartal mod 1,05 mia. dollar aaret foer.",
+        "key": "62f78f92ffc769ca",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "MarketScreener, referat af Maersks Q3-rapport",
+        "url": "https://www.marketscreener.com/news/maersk-q3-attributable-profit-revenue-jump-ce785fdcdb80ff27",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk oplyste, at selskabet har konstateret en it-sikkerhedshændelse med uautoriseret adgang og dataudtræk fra et ældre lokalt system, der var overtaget gennem et tidligere opkøb, og at undersøgelsen fortsat pågår.",
+        "key": "0a68655add8df3bf",
+        "publishedAt": "2026-11-11",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "A.P. Moller - Maersk, egen meddelelse 'IT security incident'",
+        "url": "https://www.maersk.com/news/articles/2026/11/11/it-security-incident",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk sagde, at 'Our findings so far strongly suggest no sensitive data has been disclosed', og at hændelsen synes begrænset til ét lokalt system uden tegn på påvirkning af øvrige Maersk-systemer eller af kunde- og partnersystemer koblet op via API og EDI.",
+        "key": "4bf87080749427da",
+        "publishedAt": "2026-11-11",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "A.P. Moller - Maersk, egen meddelelse",
+        "url": "https://www.maersk.com/news/articles/2026/11/11/it-security-incident",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk oplyste, at selskabet ikke forventer driftsforstyrrelser, at kunder fortsat kan booke og håndtere forsendelser som normalt, og opfordrede kunder til at være varsomme over for uventede henvendelser om sagen og verificere dem via deres sædvanlige Maersk-kontakt.",
+        "key": "c5894468426adf15",
+        "publishedAt": "2026-11-11",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "A.P. Moller - Maersk, egen meddelelse",
+        "url": "https://www.maersk.com/news/articles/2026/11/11/it-security-incident",
+        "verifiedAs": null
+      },
+      {
+        "claim": "I mediedækningen af hændelsen blev det fremhævet, at Maersk ikke har knyttet sagen til ransomware-gruppen WhiteArmor eller bekræftet gruppens krav.",
+        "key": "ad20131a5d69e337",
+        "publishedAt": "2026-11-12",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "Cyber Press (referat af Maersks udmelding)",
+        "url": "https://cyberpress.org/shipping-giant-maersk-confirms-cyberattack/",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk meddelte åbningen af et nyt integreret logistikanlæg i Montevideo, Uruguay, som samler container-, gods- og logistikydelser på én lokation, og beskrev det som en fuldt privat investering.",
+        "key": "b3d796e4fb8d20a7",
+        "publishedAt": "2026-11-12",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "A.P. Moller - Maersk, egen nyhedsmeddelelse",
+        "url": "https://maersk.com/news/articles/2026/11/12/maersk-expands-integrated-logistics-capabilities-in-uruguay",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Antonio Dominguez, President for Latin America and the Caribbean i Maersk, sagde: 'Uruguay plays an important role in connecting regional supply chains with international markets.'",
+        "key": "dc33de60ad028794",
+        "publishedAt": "2026-11-12",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "Antonio Dominguez, President Latin America and Caribbean, A.P. Moller - Maersk",
+        "url": "https://maersk.com/news/articles/2026/11/12/maersk-expands-integrated-logistics-capabilities-in-uruguay",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Ricardo Rocha, President for East Coast of South America i Maersk, sagde, at selskabet dermed 'can simplify operations for our customers and provide greater flexibility and visibility'.",
+        "key": "d6585ea4f1a26665",
+        "publishedAt": "2026-11-12",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "Ricardo Rocha, President East Coast South America, A.P. Moller - Maersk",
+        "url": "https://maersk.com/news/articles/2026/11/12/maersk-expands-integrated-logistics-capabilities-in-uruguay",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Maersk orienterede kunder om en global forstyrrelse af Microsoft-systemer og -tjenester og understregede, at 'this is a Microsoft-related issue and is not specific to Maersk or our internal systems', samt advarede om mulige forsinkelser i notifikationer, mails og opdateringer.",
+        "key": "f0b4346fb792b334",
+        "publishedAt": "2026-11-13",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "A.P. Moller - Maersk, kundeadvisering 'Global Microsoft service disruption'",
+        "url": "https://www.maersk.com/news/articles/2026/11/13/global-microsoft-service-disruption",
+        "verifiedAs": null
+      },
+      {
+        "claim": "A.P. Moeller - Maersk oplyste i meddelelse nr. 339, at selskabet i perioden 9.-13. november 2026 har koebt egne A- og B-aktier under sit tilbagekoebsprogram, heraf en del af B-aktierne fra Fonden, og angav beholdningen af egne aktier som andel af aktiekapitalen.",
+        "key": "ded0f741b30262cf",
+        "publishedAt": "2026-11-16",
+        "recordedAt": "2026-11-21T07:08:46Z",
+        "source": "A.P. Moeller - Maersk A/S (meddelelse nr. 339; kontakter Martin Dunwoodie, Head of Investor Relations, og Jesper Lov, Head of Media Relations)",
+        "url": "https://investor.maersk.com/news-releases/news-release-details/transactions-connection-share-buy-back-program-339",
+        "verifiedAs": null
       }
     ],
     "month": "2026-11"
   },
   "periodEnd": "2026-11",
-  "recordedAt": "2026-11-01T07:10:10Z",
+  "recordedAt": "2026-11-21T07:08:46Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "MAERSK-A.CO"

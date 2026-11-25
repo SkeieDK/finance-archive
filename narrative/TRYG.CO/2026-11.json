@@ -1,0 +1,23 @@
+{
+  "contentHash": "46e427fe0a3c8e95",
+  "payload": {
+    "count": 1,
+    "items": [
+      {
+        "claim": "Tryg meddelte efter kapitalmarkedslovens § 30, at BlackRock, Inc. har underrettet selskabet om besiddelser svarende til mere end 5 pct. af Trygs samlede aktiekapital og stemmerettigheder, bestående af aktier, stemmerettigheder og andre finansielle instrumenter, med henvisning til den vedhæftede underretningsformular.",
+        "key": "758956efb33b6ab7",
+        "publishedAt": "2026-10-30",
+        "recordedAt": "2026-11-02T07:17:22Z",
+        "source": "Tryg A/S, storaktionærmeddelelse, med BlackRock, Inc. som underrettende aktionær",
+        "url": "https://www.globenewswire.com/news-release/2026/10/30/3392064/0/en/major-shareholder-announcement.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-02T07:17:22Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "TRYG.CO"
+}

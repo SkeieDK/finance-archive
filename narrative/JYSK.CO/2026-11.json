@@ -1,7 +1,7 @@
 {
-  "contentHash": "32628951496c0a74",
+  "contentHash": "1f18d51ff14b3027",
   "payload": {
-    "count": 5,
+    "count": 13,
     "items": [
       {
         "claim": "Jyske Banks ordførende direktør Lars Mørch udtalte om de første ni måneder: 'Med et resultat pr. aktie på 61 kr. er vi kommet stærkt gennem årets første ni måneder'.",
@@ -47,12 +47,84 @@
         "source": "Jyske Bank A/S, pressemeddelelse 28. oktober 2026",
         "url": "https://via.ritzau.dk/pressemeddelelse/15253223/jyske-bank-leverer-resultat-over-forventningerne?publisherId=13562397&lang=da",
         "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank oplyste om transaktioner i uge 44 2026 under det aktietilbagekøbsprogram på op til 3 mia. kr., som banken annoncerede i selskabsmeddelelse nr. 11/2026 af 5. februar 2026, og som løber fra 5. februar 2026 til senest 29. januar 2027.",
+        "key": "3b406337e1ef922d",
+        "publishedAt": "2026-11-02",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Jyske Bank A/S, meddelelse om aktietilbagekøb, uge 44 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3392832/0/en/share-repurchase-programme-transactions-of-week-44-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank angav i samme meddelelse, at der under programmet er købt 2.347.561 aktier til en gennemsnitskurs på 967,79 kr. for i alt 2.271.951.437 kr., svarende til 4,03 pct. af aktiekapitalen, og at programmet er indrettet efter Safe Harbour-reglerne i markedsmisbrugsforordningen.",
+        "key": "3ba339361f23c7d2",
+        "publishedAt": "2026-11-02",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Jyske Bank A/S, meddelelse om aktietilbagekøb, uge 44 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3392832/0/en/share-repurchase-programme-transactions-of-week-44-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank indberettede i indberetning nr. 11/2026 en transaktion for en ledende medarbejder med bilag dateret 3. november 2026; selve transaktionens art og omfang fremgår alene af det vedhæftede skema, som ikke kunne åbnes i denne kørsel.",
+        "key": "ef1e588e764028be",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Jyske Bank A/S, indberetning nr. 11/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395069/0/da/ledende-medarbejderes-og-disses-n%C3%A6rtst%C3%A5endes-transaktioner.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank oplyste transaktioner for uge 45 under sit aktietilbagekoebsprogram og beskrev rammen som en maksimal vaerdi paa 3 mia. kr. i perioden 5. februar 2026 til senest 29. januar 2027.",
+        "key": "9a5b65b05da79a4f",
+        "publishedAt": "2026-11-09",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "Jyske Bank A/S, selskabsmeddelelse om aktietilbagekoeb (CFO Birger Kroegh Nielsen anfoert som kontakt, uden udtalelse)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398059/0/da/aktietilbagek%C3%B8b-transaktioner-i-uge-45-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Samme meddelelse blev distribueret via Ritzau, hvor Jyske Bank oplyste, at banken efter afvikling vil eje de tilbagekoebte aktier svarende til 4,13 pct. af aktiekapitalen, eksklusive aktier holdt for kunder og i handelsbeholdningen.",
+        "key": "88fa1d9248d4c11b",
+        "publishedAt": "2026-11-09",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "Jyske Bank A/S via Ritzau",
+        "url": "https://via.ritzau.dk/pressemeddelelse/15276420/jyske-bank?publisherId=90446&lang=da",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank indberettede (Disclosure 13/2026) transaktioner foretaget af en ledende medarbejder og nærtstående efter markedsmisbrugsforordningen; den navngivne person er Per Schnack, og bilaget er dateret 10. november 2026.",
+        "key": "38b966a9103af2b2",
+        "publishedAt": "2026-11-13",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "Jyske Bank A/S, selskabsmeddelelse 13/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/13/3402395/0/en/transactions-by-persons-discharging-managerial-responsibilities-and-persons-closely-associated-with-them.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank oplyste om transaktioner i uge 46 (9.-13. november 2026) under aktietilbagekøbsprogrammet, der løber fra 5. februar 2026 til senest 29. januar 2027.",
+        "key": "12fb9a05ebba8e6a",
+        "publishedAt": "2026-11-16",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "Jyske Bank A/S, selskabsmeddelelse om aktietilbagekøb",
+        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403150/0/en/share-repurchase-programme-transactions-of-week-46-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Jyske Bank oplyste, at banken i uge 46 (9.-13. november 2026) har koebt egne aktier under sit tilbagekoebsprogram, der loeber fra 5. februar 2026 til 29. januar 2027, og opgjorde den akkumulerede andel af aktiekapitalen.",
+        "key": "1896841a72421d91",
+        "publishedAt": "2026-11-16",
+        "recordedAt": "2026-11-21T07:08:46Z",
+        "source": "Jyske Bank (ugentlig tilbagekoebsmeddelelse; kontakt Birger Kroegh Nielsen, CFO)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403150/0/da/aktietilbagek%C3%B8b-transaktioner-i-uge-46-2026.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-11"
   },
   "periodEnd": "2026-11",
-  "recordedAt": "2026-11-01T07:10:10Z",
+  "recordedAt": "2026-11-21T07:08:46Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "JYSK.CO"

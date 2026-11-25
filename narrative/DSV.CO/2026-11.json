@@ -1,0 +1,68 @@
+{
+  "contentHash": "b9be8ab3795bdda2",
+  "payload": {
+    "count": 6,
+    "items": [
+      {
+        "claim": "DSV meddelte i selskabsmeddelelse nr. 1178, at BlackRock, Inc. har underrettet selskabet om, at BlackRocks besiddelse pr. 22. oktober 2026 oversteg 5 pct.-grænsen, opgjort i aktier/stemmerettigheder og finansielle instrumenter, og at underretningen er sket efter kapitalmarkedslovens § 30.",
+        "key": "fd7fc7e4603ca606",
+        "publishedAt": "2026-10-26",
+        "recordedAt": "2026-11-02T07:17:22Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1178 (storaktionærmeddelelse), med BlackRock, Inc. som underrettende aktionær",
+        "url": "https://investor.dsv.com/news-releases/news-release-details/dsv-1178-major-shareholder-announcement",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DSV oplyste i selskabsmeddelelse nr. 1179, at selskabets aktietilbagekøbsprogram, som blev igangsat 21. oktober 2026 og løber til 1. februar 2027, omfatter køb for op til DKK 1.500 mio. og højst 2.600.000 aktier, og rapporterede de første handler under programmet samt selskabets beholdning af egne aktier efter disse.",
+        "key": "205fd05fa68e56f8",
+        "publishedAt": "2026-10-27",
+        "recordedAt": "2026-11-02T07:17:22Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1179 (share buyback in DSV A/S)",
+        "url": "https://investor.dsv.com/news-releases/news-release-details/dsv-1179-share-buyback-dsv",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DSV oplyste, at selskabet i perioden 21.-30. oktober 2026 købte 101.607 egne aktier under tilbagekøbsprogrammet, der blev påbegyndt 21. oktober 2026 og løber til 1. februar 2027.",
+        "key": "c248dc5faee89b26",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-07T07:09:41Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1180, med Investor Relations-kontakterne Stig Frederiksen og Alexander Plenborg",
+        "url": "https://www.globenewswire.com/news-release/2026/11/03/3393960/0/en/dsv-1180-share-buyback-in-dsv-a-s.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DSV oplyste i samme meddelelse, at selskabet efter transaktionerne besidder 1.767.557 egne aktier, og at programmet kan omfatte op til 1.500 mio. kr. og højst 2.600.000 aktier.",
+        "key": "2beef0ae1be8114d",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-07T07:09:41Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1180",
+        "url": "https://www.globenewswire.com/news-release/2026/11/03/3393960/0/en/dsv-1180-share-buyback-in-dsv-a-s.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DSV oplyser i selskabsmeddelelse nr. 1181, at selskabet under det tilbagekøbsprogram, der blev indledt 21. oktober 2026 og løber til 1. februar 2027 med en ramme på op til DKK 1.500 mio. og maksimalt 2.600.000 aktier, nu har tilbagekøbt 140.425 aktier til en gennemsnitskurs på DKK 1.385,94 for i alt DKK 194.621.017, og at selskabet herefter ejer 1.806.375 egne aktier svarende til 0,75 pct. af aktiekapitalen.",
+        "key": "4f16d72be16a45de",
+        "publishedAt": "2026-11-10",
+        "recordedAt": "2026-11-12T07:10:28Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1181; investor relations-kontakter angivet som Stig Frederiksen og Alexander Plenborg",
+        "url": "https://www.globenewswire.com/news-release/2026/11/10/3399204/0/en/dsv-1181-share-buyback-in-dsv-a-s.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "DSV oplyste i selskabsmeddelelse nr. 1182 om fortsatte transaktioner under det aktietilbagekoebsprogram, som selskabet efter eget udsagn igangsatte 21. oktober 2026 (meddelelse nr. 1174) og som loeber til 1. februar 2027.",
+        "key": "9ea9b6002eecf558",
+        "publishedAt": "2026-11-17",
+        "recordedAt": "2026-11-22T07:10:46Z",
+        "source": "DSV A/S, selskabsmeddelelse nr. 1182 (ingen ledelsescitater; Stig Frederiksen og Alexander Plenborg anfoert som IR-kontakter)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/17/3404323/0/en/dsv-1182-share-buyback-in-dsv-a-s.html",
+        "verifiedAs": null
+      }
+    ],
+    "month": "2026-11"
+  },
+  "periodEnd": "2026-11",
+  "recordedAt": "2026-11-22T07:10:46Z",
+  "source": "narrative",
+  "sourceVersion": null,
+  "ticker": "DSV.CO"
+}

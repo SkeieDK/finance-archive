@@ -1,7 +1,7 @@
 {
-  "contentHash": "72b1ef362229747a",
+  "contentHash": "f80f7595463359fe",
   "payload": {
-    "count": 2,
+    "count": 8,
     "items": [
       {
         "claim": "AL Sydbank oplyste i selskabsmeddelelse nr. 59/2026 om transaktioner i uge 43 under bankens aktietilbagekøbsprogram på i alt 1.100 mio. kr., som blev igangsat 2. marts 2026 og senest afsluttes 31. januar 2027, og som ifølge banken har til formål at nedsætte aktiekapitalen.",
@@ -20,12 +20,66 @@
         "source": "AL Sydbank A/S, selskabsmeddelelse nr. 59/2026",
         "url": "https://www.globenewswire.com/news-release/2026/10/26/3387856/0/en/al-sydbank-a-s-share-buyback-programme-transactions-in-week-43.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Adm. direktør Mark Luscombe udtalte i AL Sydbanks kvartalsmeddelelse, at banken efter ti måneder som én bank leverer sit hidtil bedste kvartalsresultat.",
+        "key": "3bddc5f6fa45cf15",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Mark Luscombe, adm. direktør, AL Sydbank A/S, selskabsmeddelelse nr. 62/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396057/0/da/al-sydbank-leverer-bedste-kvartal-og-opjusterer-forventningerne.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Mark Luscombe oplyste i samme meddelelse, at banken i årets første tre kvartaler har opnået omkostningssynergier på 347 mio. kr. efter fusionen.",
+        "key": "ad6c55f652ed9c5b",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Mark Luscombe, adm. direktør, AL Sydbank A/S, selskabsmeddelelse nr. 62/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396057/0/da/al-sydbank-leverer-bedste-kvartal-og-opjusterer-forventningerne.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Bestyrelsesformand Ellen Trane Nørby udtalte, at AL Sydbank for tredje kvartal i træk viser, at banken kan levere stærke økonomiske resultater.",
+        "key": "8382eb4d7795c391",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Ellen Trane Nørby, bestyrelsesformand, AL Sydbank A/S, selskabsmeddelelse nr. 62/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396057/0/da/al-sydbank-leverer-bedste-kvartal-og-opjusterer-forventningerne.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank opjusterede i meddelelsen sine forventninger og angav, at resultatet efter skat nu forventes i intervallet 3.800-4.200 mio. kr., samtidig med at banken beskrev udsigterne som fortsat usikre afhængigt af finansielle markeder, renter, integrationsomkostninger og makroøkonomi.",
+        "key": "7425951aca915674",
+        "publishedAt": "2026-11-05",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 62/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396057/0/da/al-sydbank-leverer-bedste-kvartal-og-opjusterer-forventningerne.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank oplyste i selskabsmeddelelse nr. 64/2026 om transaktioner i uge 45 under aktietilbagekøbsprogrammet, der blev annonceret 25. februar 2026, startede 2. marts 2026 og løber til senest 31. januar 2027; formålet er angivet som nedsættelse af bankens aktiekapital, og programmet gennemføres efter EU's Safe Harbour-regler.",
+        "key": "982fa64234725391",
+        "publishedAt": "2026-11-09",
+        "recordedAt": "2026-11-16T07:10:28Z",
+        "source": "AL Sydbank A/S, selskabsmeddelelse nr. 64/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398097/0/da/aktietilbagek%C3%B8b-i-al-sydbank-a-s-transaktioner-i-uge-45.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "AL Sydbank oplyste i selskabsmeddelelse nr. 65/2026, at banken i perioden 9.-13. november 2026 har gennemført aktietilbagekoeb under sit igangvaerende program, og angav sin beholdning af egne aktier efter transaktionerne.",
+        "key": "00b52ddb09d04205",
+        "publishedAt": "2026-11-16",
+        "recordedAt": "2026-11-21T07:08:46Z",
+        "source": "AL Sydbank A/S (selskabsmeddelelse nr. 65/2026)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403251/0/en/al-sydbank-a-s-share-buyback-programme-transactions-in-week-46.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-11"
   },
   "periodEnd": "2026-11",
-  "recordedAt": "2026-11-01T07:10:10Z",
+  "recordedAt": "2026-11-21T07:08:46Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ALSYDB.CO"

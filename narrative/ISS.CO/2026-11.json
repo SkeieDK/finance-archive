@@ -1,7 +1,7 @@
 {
-  "contentHash": "c87f4d83f2b0344d",
+  "contentHash": "e3c068bdfdfabd86",
   "payload": {
-    "count": 2,
+    "count": 9,
     "items": [
       {
         "claim": "ISS oplyste i selskabsmeddelelse nr. 65/2026 om transaktioner under aktietilbagekøbsprogrammet med en maksimal samlet modydelse på 3,1 mia. kr., hvis anden tranche på op til 1,85 mia. kr. blev indledt 11. august 2026 og senest afsluttes 22. februar 2027.",
@@ -20,12 +20,75 @@
         "source": "ISS A/S, selskabsmeddelelse nr. 65/2026",
         "url": "https://globenewswire.com/news-release/2026/10/26/3387913/0/en/transactions-in-connection-with-share-buyback-programme.html",
         "verifiedAs": null
+      },
+      {
+        "claim": "Koncernchef Kasper Fangel udtalte i ISS' trading update, at han er tilfreds med den fortsatte fremgang i 3. kvartal, og at koncernen lagde 2 mia. kr. til omsætningen sammenlignet med 3. kvartal sidste år.",
+        "key": "5fc6eaec39d46d9a",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Kasper Fangel, Group CEO, ISS A/S, selskabsmeddelelse nr. 67/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395009/0/en/trading-update-for-1-january-30-september-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Kasper Fangel sagde i samme meddelelse, at ISS har sikret fire betydelige kontrakter, herunder en større forlængelse, et nyt partnerskab og to udvidelser i USA.",
+        "key": "f4c58cad135b13ee",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "Kasper Fangel, Group CEO, ISS A/S, selskabsmeddelelse nr. 67/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395009/0/en/trading-update-for-1-january-30-september-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ISS oplyste i trading updaten en organisk vækst på 6,8 pct. i 3. kvartal 2026 mod 4,9 pct. i 3. kvartal 2025 og 7,7 pct. for de første ni måneder, og gentog forventningerne til 2026 som opdateret 19. maj 2026 om organisk vækst over 6 pct., en driftsmargin omkring 5,25 pct. og et frit cash flow over 3,1 mia. kr.",
+        "key": "d80a095083eb7bde",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "ISS A/S, selskabsmeddelelse nr. 67/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/04/3395009/0/en/trading-update-for-1-january-30-september-2026.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ISS meddelte, at selskabet har forlænget et internationalt partnerskab med en global produktionsvirksomhed om integrerede facility services i knap 30 lande, at aftalen løber tre år med option på yderligere to, starter i 1. kvartal 2027 og har en årlig værdi på omkring 1 pct. af koncernomsætningen, mens kunden ikke navngives.",
+        "key": "3faa9d3a386c0567",
+        "publishedAt": "2026-11-03",
+        "recordedAt": "2026-11-06T07:08:17Z",
+        "source": "ISS A/S, pressemeddelelse",
+        "url": "https://globenewswire.com/news-release/2026/11/03/3394215/0/en/iss-extends-international-partnership-with-global-manufacturer.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "Investing.com refererede fra praesentationen ved koncernchef Kasper Fangel og finansdirektoer Mads Holm, at ISS kaldte kvartalet a quarter of delivery towards our mid-term ambitions, at kundefastholdelsen var 95 pct., og at ledelsen sagde, det er for tidligt at give praecis prisguidance for 2027, fordi loenforhandlinger er i gang i flere markeder.",
+        "key": "29f9b4ad9082c7c7",
+        "publishedAt": "2026-11-04",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "Investing.com, referat af ISS' Q3 2026-praesentation (ledelsesudsagn tilskrevet Kasper Fangel og Mads Holm)",
+        "url": "https://www.investing.com/news/company-news/iss-q3-2026-slides-68-growth-all-major-contracts-extended-93CH-4998160",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ISS oplyste transaktioner under sit aktietilbagekoebsprogram og beskrev rammen som maksimalt 3,1 mia. kr., hvor anden tranche paa op til 1,85 mia. kr. loeber til senest 22. februar 2027.",
+        "key": "27ad09a7049a7ece",
+        "publishedAt": "2026-11-09",
+        "recordedAt": "2026-11-11T07:10:00Z",
+        "source": "ISS A/S, selskabsmeddelelse nr. 68/2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398099/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
+      },
+      {
+        "claim": "ISS oplyste i selskabsmeddelelse nr. 69/2026, at selskabet i perioden 9.-13. november 2026 har koebt egne aktier under sit tilbagekoebsprogram, der loeber fra 19. februar 2026 til 22. februar 2027, og opgjorde beholdningen af egne aktier.",
+        "key": "96389280c68fb3b7",
+        "publishedAt": "2026-11-16",
+        "recordedAt": "2026-11-21T07:08:46Z",
+        "source": "ISS A/S (selskabsmeddelelse nr. 69/2026; investorkontakter Michael Vitfell-Rasmussen og Anne Sophie Riis)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403211/0/en/transactions-in-connection-with-share-buyback-programme.html",
+        "verifiedAs": null
       }
     ],
     "month": "2026-11"
   },
   "periodEnd": "2026-11",
-  "recordedAt": "2026-11-01T07:10:10Z",
+  "recordedAt": "2026-11-21T07:08:46Z",
   "source": "narrative",
   "sourceVersion": null,
   "ticker": "ISS.CO"
